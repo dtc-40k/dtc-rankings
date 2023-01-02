@@ -1,4 +1,8 @@
-on: [push]
+name: Update Rankings
+
+on: 
+  workflow_call:
+  workflow_dispatch:
 
 jobs:
   dtc_ranking_generate:
