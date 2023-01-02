@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
+          token: ${{ secrets.PAT }}
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
@@ -26,4 +27,7 @@ jobs:
       - name: Commit new ranking
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Auto-updated rankings 
+          commit_message: Auto-updated rankings
+          push_options: --force
+          branch: rankings
+          file_pattern: 'rankings/*.*'
