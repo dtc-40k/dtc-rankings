@@ -3,7 +3,7 @@ on: [push]
 jobs:
   dtc_ranking_generate:
     runs-on: ubuntu-latest
-    name: A job to retrieve the latest rankings and save them as a static resource
+    name: Update rankings
     steps:
       # To use this repository's private action,
       # you must check out the repository
@@ -22,4 +22,4 @@ jobs:
       - name: Commit new ranking
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Apply php-cs-fixer changes
+          commit_message: Auto-updated rankings 
