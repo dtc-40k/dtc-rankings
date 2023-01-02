@@ -1,20 +1,25 @@
 on: [push]
 
 jobs:
-  hello_world_job:
+  dtc_ranking_generate:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: A job to retrieve the latest rankings and save them as a static resource
     steps:
       # To use this repository's private action,
       # you must check out the repository
       - name: Checkout
         uses: actions/checkout@v3
-      - run: yarn install --frozen-lockfile
-      - name: Hello world action step
-        uses: ./ # Uses an action in the root directory
-        id: hello
         with:
-          who-to-greet: 'Mona the Octocat'
-      # Use the output from the `hello` step
-      - name: Get the output time
-        run: echo "The time was ${{ steps.hello.outputs.time }}"
+          ref: ${{ github.head_ref }}
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+      - name: Setup Yarn
+        run: yarn install --frozen-lockfile
+      - name: DTC Ranking step
+        run: yarn generate-rankings
+      - name: Commit new ranking
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply php-cs-fixer changes
