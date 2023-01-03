@@ -37,11 +37,19 @@ const retrieveEvents = async () => {
       const oldPlayerIndex = players.findIndex((item) => item.userId === player.userId);
       if (oldPlayerIndex > -1) {
         const oldPlayer = players[oldPlayerIndex];
+        let armies = oldPlayer.armies;
         const score = Number(player.dtcScore) + Number(oldPlayer.dtcScore);
+        const armyIndex = armies.findIndex((a) => a.name === player.army);
+        if (armyIndex > -1) {
+          armies[armyIndex] = { name: player.army, count: armies[armyIndex].count + 1 };
+        } else {
+          armies.push({ name: player.army, count: 1 });
+        }
         players[oldPlayerIndex] = {
           ...oldPlayer,
           dtcScore: score.toFixed(2),
           numEvents: oldPlayer.numEvents + 1,
+          armies,
           numWins: player.numWins + oldPlayer.numWins,
           totalRank: Number(player.rank) + Number(oldPlayer.totalRank),
           averageRank: ((Number(player.rank) + Number(oldPlayer.totalRank)) / Number(oldPlayer.numEvents + 1)).toFixed(
@@ -49,11 +57,16 @@ const retrieveEvents = async () => {
           ),
         };
       } else {
+        let armies = [];
+
+        armies.push({ name: player.army, count: 1 });
+
         players.push({
           userId: player.userId,
           name: `${player.firstName} ${player.lastName}`,
           dtcScore: Number(player.dtcScore),
           numEvents: 1,
+          armies,
           numWins: Number(player.numWins),
           totalRank: Number(player.rank),
           averageRank: Number(player.rank),
@@ -65,6 +78,9 @@ const retrieveEvents = async () => {
   console.info(`Sorting overal list`);
   players.forEach((_player, index) => {
     players[index].rank = index + 1;
+    players[index].armies.sort( (a, b) => {
+      return b.count - a.count
+    })
   });
   return players;
 };
