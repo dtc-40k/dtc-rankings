@@ -38,6 +38,8 @@ const retrieveEvents = async () => {
       if (oldPlayerIndex > -1) {
         const oldPlayer = players[oldPlayerIndex];
         let armies = oldPlayer.armies;
+        let teams = oldPlayer.teams;
+
         const score = Number(player.dtcScore) + Number(oldPlayer.dtcScore);
         const armyIndex = armies.findIndex((a) => a.name === player.army);
         if (armyIndex > -1) {
@@ -45,11 +47,21 @@ const retrieveEvents = async () => {
         } else {
           armies.push({ name: player.army, count: 1 });
         }
+
+        if (player.team) {
+          const teamIndex = teams.findIndex((a) => a.name === player.team.name);
+          if (teamIndex > -1) {
+            teams[teamIndex] = { name: player.team.name, count: teams[teamIndex].count + 1 };
+          } else {
+            teams.push({ name: player.team.name, count: 1 });
+          }
+        }
         players[oldPlayerIndex] = {
           ...oldPlayer,
           dtcScore: score.toFixed(2),
           numEvents: oldPlayer.numEvents + 1,
           armies,
+          teams,
           numWins: player.numWins + oldPlayer.numWins,
           totalRank: Number(player.rank) + Number(oldPlayer.totalRank),
           averageRank: ((Number(player.rank) + Number(oldPlayer.totalRank)) / Number(oldPlayer.numEvents + 1)).toFixed(
@@ -58,7 +70,11 @@ const retrieveEvents = async () => {
         };
       } else {
         let armies = [];
+        let teams = [];
 
+        if (player.team) {
+          teams.push({ name: player.team.name, count: 1 });
+        }
         armies.push({ name: player.army, count: 1 });
 
         players.push({
@@ -67,6 +83,7 @@ const retrieveEvents = async () => {
           dtcScore: Number(player.dtcScore),
           numEvents: 1,
           armies,
+          teams,
           numWins: Number(player.numWins),
           totalRank: Number(player.rank),
           averageRank: Number(player.rank),
@@ -78,9 +95,12 @@ const retrieveEvents = async () => {
   console.info(`Sorting overal list`);
   players.forEach((_player, index) => {
     players[index].rank = index + 1;
-    players[index].armies.sort( (a, b) => {
-      return b.count - a.count
-    })
+    players[index].armies.sort((a, b) => {
+      return b.count - a.count;
+    });
+    players[index].teams.sort((a, b) => {
+      return b.count - a.count;
+    });
   });
   return players;
 };
