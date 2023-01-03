@@ -30,4 +30,4 @@ jobs:
           REPO: self
           BRANCH: rankings
           FOLDER: rankings
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
