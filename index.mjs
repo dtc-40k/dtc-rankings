@@ -24,13 +24,17 @@ const retrieveEvents = async () => {
   console.info('Retrieving data from firebase.');
   const docs = await getDocs(bcpEventsRef);
 
-  let foundDocs = [];
+  let events = [];
   docs.forEach((doc) => {
-    foundDocs.push(doc.data());
+    events.push(doc.data());
   });
-  console.info(`Found data for ${foundDocs.length} events`);
+  console.info(`Found data for ${events.length} events`);
+  return events;
+};
+
+const generatePlayerRanking = (events) => {
   let players = [];
-  foundDocs.forEach((event) => {
+  events.forEach((event) => {
     console.info(` Generate ranking for event: ${event.name}`);
     event.eventPlayers.forEach((player) => {
       console.info(` -  generate ranking for player: ${player.firstName} ${player.lastName}`);
@@ -43,17 +47,41 @@ const retrieveEvents = async () => {
         const score = Number(player.dtcScore) + Number(oldPlayer.dtcScore);
         const armyIndex = armies.findIndex((a) => a.name === player.army);
         if (armyIndex > -1) {
-          armies[armyIndex] = { name: player.army, count: armies[armyIndex].count + 1 };
+          const armyScore = Number(armies[armyIndex].score) + Number(player.dtcScore);
+          armies[armyIndex] = {
+            name: player.army,
+            count: armies[armyIndex].count + 1,
+            score: armyScore.toFixed(2),
+            totalRank: Number(player.rank) + Number(armies[armyIndex].totalRank),
+            averageRank: (
+              (Number(player.rank) + Number(armies[armyIndex].totalRank)) /
+              Number(armies[armyIndex].count + 1)
+            ).toFixed(1),
+            numWins: Number(player.numWins) + Number(armies[armyIndex].numWins),
+          };
         } else {
-          armies.push({ name: player.army, count: 1 });
+          armies.push({
+            name: player.army,
+            count: 1,
+            score: player.dtcScore,
+            totalRank: Number(player.rank),
+            averageRank: Number(player.rank),
+            numWins: Number(player.numWins),
+          });
         }
 
         if (player.team) {
           const teamIndex = teams.findIndex((a) => a.name === player.team.name);
           if (teamIndex > -1) {
-            teams[teamIndex] = { name: player.team.name, count: teams[teamIndex].count + 1 };
+            teams[teamIndex] = {
+              name: player.team.name,
+              count: teams[teamIndex].count + 1,
+            };
           } else {
-            teams.push({ name: player.team.name, count: 1 });
+            teams.push({
+              name: player.team.name,
+              count: 1,
+            });
           }
         }
         players[oldPlayerIndex] = {
@@ -75,7 +103,14 @@ const retrieveEvents = async () => {
         if (player.team) {
           teams.push({ name: player.team.name, count: 1 });
         }
-        armies.push({ name: player.army, count: 1 });
+        armies.push({
+          name: player.army,
+          count: 1,
+          score: player.dtcScore,
+          totalRank: Number(player.rank),
+          averageRank: Number(player.rank),
+          numWins: Number(player.numWins),
+        });
 
         players.push({
           userId: player.userId,
@@ -93,6 +128,7 @@ const retrieveEvents = async () => {
   });
   players.sort((a, b) => b.dtcScore - a.dtcScore);
   console.info(`Sorting overal list`);
+
   players.forEach((_player, index) => {
     players[index].rank = index + 1;
     players[index].armies.sort((a, b) => {
@@ -105,11 +141,66 @@ const retrieveEvents = async () => {
   return players;
 };
 
+const generateFactionRanking = (players) => {
+  const factionLists = [];
+
+  players.forEach((_player, index) => {
+    players[index].rank = index + 1;
+    players[index].armies.sort((a, b) => {
+      return b.count - a.count;
+    });
+    players[index].teams.sort((a, b) => {
+      return b.count - a.count;
+    });
+
+    _player.armies.forEach((army) => {
+      const factionIndex = factionLists.findIndex((a) => a.name === army.name);
+      const factionPlayer = {
+        ..._player,
+        armies: undefined,
+        teams: undefined,
+        dtcScore: army.score,
+        numEvents: army.count,
+        averageRank: army.averageRank,
+        numWins: army.numWins,
+      };
+      if (factionIndex > -1) {
+        factionLists[factionIndex] = {
+          name: army.name,
+          players: [...factionLists[factionIndex].players, factionPlayer],
+        };
+      } else {
+        factionLists.push({ name: army.name, players: [factionPlayer] });
+      }
+    });
+  });
+
+  console.info(`Sorting faction ranking list`);
+
+  factionLists.forEach((faction) => {
+    faction.players.sort((a, b) => {
+      return b.dtcScore - a.dtcScore;
+    });
+    faction.players.forEach((_player, index) => {
+      faction.players[index].rank = index + 1;
+    });
+  });
+
+  return factionLists;
+};
+
 retrieveEvents()
-  .then((data) => {
-    console.info(`Writing ranking file.`);
-    fs.writeFileSync(`./rankings/rankings.json`, JSON.stringify(data, null, 2));
-    fs.writeFileSync(`./rankings/rankings.csv`, parse(data));
+  .then((events) => {
+    const playerRanking = generatePlayerRanking(events);
+    console.info(`Writing player ranking file.`);
+    fs.writeFileSync(`./rankings/rankings.json`, JSON.stringify(playerRanking, null, 2));
+
+    console.info(`Writing faction ranking file.`);
+    const factionRanking = generateFactionRanking(playerRanking);
+    fs.writeFileSync(`./rankings/factions.json`, JSON.stringify(factionRanking, null, 2));
+  })
+  .catch((e) => {
+    console.error(e);
   })
   .finally(() => {
     process.exit(0);
