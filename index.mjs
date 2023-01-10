@@ -158,7 +158,6 @@ const generateFactionRanking = (players) => {
       const factionPlayer = {
         ..._player,
         armies: undefined,
-        teams: undefined,
         dtcScore: army.score,
         numEvents: army.count,
         averageRank: army.averageRank,
