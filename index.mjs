@@ -1,5 +1,4 @@
 import { initializeApp } from 'firebase/app';
-import { parse } from 'json2csv';
 
 import { collection, getDocs, getFirestore } from 'firebase/firestore';
 
@@ -32,64 +31,65 @@ const retrieveEvents = async () => {
   return events;
 };
 
+const updateArmies = (player, armies) => {
+  const armyIndex = armies.findIndex((a) => a.name === player.army);
+
+  if (armyIndex > -1) {
+    armies[armyIndex] = { name: player.army, count: armies[armyIndex].count + 1 };
+  } else {
+    armies.push({ name: player.army, count: 1 });
+  }
+  return armies;
+};
+const updateTeams = (player, teams) => {
+  if (player.team) {
+    const teamIndex = teams.findIndex((a) => a.name === player.team.name);
+    if (teamIndex > -1) {
+      teams[teamIndex] = { name: player.team.name, count: teams[teamIndex].count + 1 };
+    } else {
+      teams.push({ name: player.team.name, count: 1 });
+    }
+  }
+  return teams;
+};
+const updateEvents = (player, events, event) => {
+  events.push({
+    name: event.name,
+    eventId: event.id,
+    eventDtcScore: player.dtcScore,
+    userId: player.userId,
+    excludeScore: player.excludeScore,
+  });
+  return events;
+};
+
+const calculateScore = (player, score) => {
+  if (!player.excludeScore) {
+    score = Number(score) + Number(player.dtcScore);
+  }
+  return Number(score);
+};
+
 const generatePlayerRanking = (events) => {
-  let players = [];
+  let rankings = [];
   events.forEach((event) => {
     console.info(` Generate ranking for event: ${event.name}`);
     event.eventPlayers.forEach((player) => {
-      console.info(` -  generate ranking for player: ${player.firstName} ${player.lastName}`);
-      const oldPlayerIndex = players.findIndex((item) => item.userId === player.userId);
+      const oldPlayerIndex = rankings.findIndex((item) => item.userId === player.userId);
       if (oldPlayerIndex > -1) {
-        const oldPlayer = players[oldPlayerIndex];
-        let armies = oldPlayer.armies;
-        let teams = oldPlayer.teams;
+        const oldPlayer = rankings[oldPlayerIndex];
+        let armies = updateArmies(player, oldPlayer.armies);
+        let teams = updateTeams(player, oldPlayer.teams);
 
-        const score = Number(player.dtcScore) + Number(oldPlayer.dtcScore);
-        const armyIndex = armies.findIndex((a) => a.name === player.army);
-        if (armyIndex > -1) {
-          const armyScore = Number(armies[armyIndex].score) + Number(player.dtcScore);
-          armies[armyIndex] = {
-            name: player.army,
-            count: armies[armyIndex].count + 1,
-            score: armyScore.toFixed(2),
-            totalRank: Number(player.rank) + Number(armies[armyIndex].totalRank),
-            averageRank: (
-              (Number(player.rank) + Number(armies[armyIndex].totalRank)) /
-              Number(armies[armyIndex].count + 1)
-            ).toFixed(1),
-            numWins: Number(player.numWins) + Number(armies[armyIndex].numWins),
-          };
-        } else {
-          armies.push({
-            name: player.army,
-            count: 1,
-            score: player.dtcScore,
-            totalRank: Number(player.rank),
-            averageRank: Number(player.rank),
-            numWins: Number(player.numWins),
-          });
-        }
-
-        if (player.team) {
-          const teamIndex = teams.findIndex((a) => a.name === player.team.name);
-          if (teamIndex > -1) {
-            teams[teamIndex] = {
-              name: player.team.name,
-              count: teams[teamIndex].count + 1,
-            };
-          } else {
-            teams.push({
-              name: player.team.name,
-              count: 1,
-            });
-          }
-        }
-        players[oldPlayerIndex] = {
+        let events = updateEvents(player, oldPlayer.events, event);
+        let score = calculateScore(player, oldPlayer.dtcScore);
+        rankings[oldPlayerIndex] = {
           ...oldPlayer,
           dtcScore: score.toFixed(2),
           numEvents: oldPlayer.numEvents + 1,
           armies,
           teams,
+          events,
           numWins: player.numWins + oldPlayer.numWins,
           totalRank: Number(player.rank) + Number(oldPlayer.totalRank),
           averageRank: ((Number(player.rank) + Number(oldPlayer.totalRank)) / Number(oldPlayer.numEvents + 1)).toFixed(
@@ -99,26 +99,32 @@ const generatePlayerRanking = (events) => {
       } else {
         let armies = [];
         let teams = [];
+        let events = [];
+
+        let score = 0;
+        if (!player.excludeScore) {
+          score = score + Number(player.dtcScore);
+        }
 
         if (player.team) {
           teams.push({ name: player.team.name, count: 1 });
         }
-        armies.push({
-          name: player.army,
-          count: 1,
-          score: player.dtcScore,
-          totalRank: Number(player.rank),
-          averageRank: Number(player.rank),
-          numWins: Number(player.numWins),
+        armies.push({ name: player.army, count: 1 });
+        events.push({
+          name: event.name,
+          eventId: event.id,
+          eventDtcScore: player.dtcScore,
+          userId: player.userId,
+          excludeScore: player.excludeScore,
         });
-
-        players.push({
+        rankings.push({
           userId: player.userId,
           name: `${player.firstName} ${player.lastName}`,
-          dtcScore: Number(player.dtcScore),
+          dtcScore: score.toFixed(2),
           numEvents: 1,
           armies,
           teams,
+          events,
           numWins: Number(player.numWins),
           totalRank: Number(player.rank),
           averageRank: Number(player.rank),
@@ -126,19 +132,19 @@ const generatePlayerRanking = (events) => {
       }
     });
   });
-  players.sort((a, b) => b.dtcScore - a.dtcScore);
+  rankings.sort((a, b) => b.dtcScore - a.dtcScore);
   console.info(`Sorting overal list`);
 
-  players.forEach((_player, index) => {
-    players[index].rank = index + 1;
-    players[index].armies.sort((a, b) => {
+  rankings.forEach((_player, index) => {
+    rankings[index].rank = index + 1;
+    rankings[index].armies.sort((a, b) => {
       return b.count - a.count;
     });
-    players[index].teams.sort((a, b) => {
+    rankings[index].teams.sort((a, b) => {
       return b.count - a.count;
     });
   });
-  return players;
+  return rankings;
 };
 
 const generateFactionRanking = (players) => {
