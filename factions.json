@@ -1,7 +1,898 @@
 [
   {
     "season": "2023",
-    "factionRanking": []
+    "factionRanking": [
+      {
+        "name": "Tyranids",
+        "players": [
+          {
+            "userId": "4f3GdlSM3d",
+            "name": "Simon Gojkovic",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Grapple Factory Ethos",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "133.40",
+                "userId": "4f3GdlSM3d",
+                "army": "Tyranids",
+                "team": "Grapple Factory Ethos",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 1,
+            "rank": 1
+          },
+          {
+            "userId": "cLWiXebqAH",
+            "name": "Felix Brenninkmeijer",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "wardice",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "51.01",
+                "userId": "cLWiXebqAH",
+                "army": "Tyranids",
+                "team": "wardice",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 22,
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "name": "Adepta Sororitas",
+        "players": [
+          {
+            "userId": "Ci8drOUGlg",
+            "name": "Ruud Steenbakkers",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Team NL",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "129.48",
+                "userId": "Ci8drOUGlg",
+                "army": "Adepta Sororitas",
+                "team": "Team NL",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 2,
+            "rank": 1
+          },
+          {
+            "userId": "4GJMBvgfd2",
+            "name": "Maarten Hendrikx",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "78.47",
+                "userId": "4GJMBvgfd2",
+                "army": "Adepta Sororitas",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 15,
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "name": "Dark Angels",
+        "players": [
+          {
+            "userId": "4HQ91V49H9",
+            "name": "Wim Out",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "De Tafelridder",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "125.55",
+                "userId": "4HQ91V49H9",
+                "army": "Dark Angels",
+                "team": "De Tafelridder",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 3,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Necrons",
+        "players": [
+          {
+            "userId": "4FUCUA3GN5",
+            "name": "Rob Goossens",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "wardice",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "121.63",
+                "userId": "4FUCUA3GN5",
+                "army": "Necrons",
+                "team": "wardice",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 4,
+            "rank": 1
+          },
+          {
+            "userId": "gJcblCysic",
+            "name": "Marc De meuter",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "109.86",
+                "userId": "gJcblCysic",
+                "army": "Necrons",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 7,
+            "rank": 2
+          },
+          {
+            "userId": "Bq8yHInztX",
+            "name": "Arco Boender",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "31.39",
+                "userId": "Bq8yHInztX",
+                "army": "Necrons",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 27,
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Custodes",
+        "players": [
+          {
+            "userId": "HiGJBbpMGm",
+            "name": "Stylianos Marinakis",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Amsterdam Battle Brothers",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "117.71",
+                "userId": "HiGJBbpMGm",
+                "army": "Adeptus Custodes",
+                "team": "Amsterdam Battle Brothers",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 5,
+            "rank": 1
+          },
+          {
+            "userId": "taF4FcGA4u",
+            "name": "Aron Prinsen",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "94.16",
+                "userId": "taF4FcGA4u",
+                "army": "Adeptus Custodes",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 11,
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "name": "Orks",
+        "players": [
+          {
+            "userId": "aXodFjn9lU",
+            "name": "Christian Domburg",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Team NL",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "113.78",
+                "userId": "aXodFjn9lU",
+                "army": "Orks",
+                "team": "Team NL",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 6,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Thousand Sons",
+        "players": [
+          {
+            "userId": "MJ5R2P58YV",
+            "name": "Yannis Koutsioukis",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Demonic Pigeon",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "105.94",
+                "userId": "MJ5R2P58YV",
+                "army": "Thousand Sons",
+                "team": "Demonic Pigeon",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 8,
+            "rank": 1
+          },
+          {
+            "userId": "jR9wpXee8B",
+            "name": "Leon Römer",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Team Zout",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "19.62",
+                "userId": "jR9wpXee8B",
+                "army": "Thousand Sons",
+                "team": "Team Zout",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 30,
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "name": "Imperial Knights",
+        "players": [
+          {
+            "userId": "aCgNrvM5ko",
+            "name": "Thomas Verkooijen",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "102.01",
+                "userId": "aCgNrvM5ko",
+                "army": "Imperial Knights",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 9,
+            "rank": 1
+          },
+          {
+            "userId": "fNYTUpbraZ",
+            "name": "Ron Planken",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "TTK",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "3.92",
+                "userId": "fNYTUpbraZ",
+                "army": "Imperial Knights",
+                "team": "TTK",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 34,
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "name": "Grey Knights",
+        "players": [
+          {
+            "userId": "95WJH9Q3KL",
+            "name": "Ron Eliyahoo",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Team NL",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "98.09",
+                "userId": "95WJH9Q3KL",
+                "army": "Grey Knights",
+                "team": "Team NL",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 10,
+            "rank": 1
+          },
+          {
+            "userId": "nQGuaQUkot",
+            "name": "Lennart Lindeman",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "The Eastern Fringe",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "74.55",
+                "userId": "nQGuaQUkot",
+                "army": "Grey Knights",
+                "team": "The Eastern Fringe",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 16,
+            "rank": 2
+          },
+          {
+            "userId": "BYXUUNPEL4",
+            "name": "Daniel Thomassen",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "58.85",
+                "userId": "BYXUUNPEL4",
+                "army": "Grey Knights",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 20,
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "name": "Knights Renegades",
+        "players": [
+          {
+            "userId": "1MqrA0sGvi",
+            "name": "thomas beckers",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Team NL",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "90.24",
+                "userId": "1MqrA0sGvi",
+                "army": "Knights Renegades",
+                "team": "Team NL",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 12,
+            "rank": 1
+          },
+          {
+            "userId": "2zxVMGJrNI",
+            "name": "David Beckers",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Neverland",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "86.32",
+                "userId": "2zxVMGJrNI",
+                "army": "Knights Renegades",
+                "team": "Neverland",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 13,
+            "rank": 2
+          },
+          {
+            "userId": "GLD52F7LC5",
+            "name": "Aat Niehot",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "82.39",
+                "userId": "GLD52F7LC5",
+                "army": "Knights Renegades",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 14,
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "name": "Death Guard",
+        "players": [
+          {
+            "userId": "TJGCVNKKML",
+            "name": "Mike Jungeling",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "wardice",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "70.62",
+                "userId": "TJGCVNKKML",
+                "army": "Death Guard",
+                "team": "wardice",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 17,
+            "rank": 1
+          },
+          {
+            "userId": "tXQC2nmdpk",
+            "name": "Nicky Bartels",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "27.46",
+                "userId": "tXQC2nmdpk",
+                "army": "Death Guard",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 28,
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "name": "T'au Empire",
+        "players": [
+          {
+            "userId": "PNYVEED0EQ",
+            "name": "Dino Kho",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Team NL",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "66.70",
+                "userId": "PNYVEED0EQ",
+                "army": "T'au Empire",
+                "team": "Team NL",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 18,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Iron Hands",
+        "players": [
+          {
+            "userId": "cN77fl1hWy",
+            "name": "Lenny Craft-it",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "wardice",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "62.78",
+                "userId": "cN77fl1hWy",
+                "army": "Iron Hands",
+                "team": "wardice",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 19,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Cult Mechanicus",
+        "players": [
+          {
+            "userId": "oPYw7BAg15",
+            "name": "Guus van den Berg",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "54.93",
+                "userId": "oPYw7BAg15",
+                "army": "Cult Mechanicus",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 21,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Blood Angels",
+        "players": [
+          {
+            "userId": "ZEdDEdiPdp",
+            "name": "Lennard Veringmeier",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "The Fallen Angels",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "47.08",
+                "userId": "ZEdDEdiPdp",
+                "army": "Blood Angels",
+                "team": "The Fallen Angels",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 23,
+            "rank": 1
+          },
+          {
+            "userId": "VHP7tKdqOw",
+            "name": "Wendy van Veenendaal",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Lost legion wargaming",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "35.31",
+                "userId": "VHP7tKdqOw",
+                "army": "Blood Angels",
+                "team": "Lost legion wargaming",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 26,
+            "rank": 2
+          },
+          {
+            "userId": "qS4KmlF7Mj",
+            "name": "Kaj Planken",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "TTK",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "15.69",
+                "userId": "qS4KmlF7Mj",
+                "army": "Blood Angels",
+                "team": "TTK",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 31,
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "name": "Astra Militarum",
+        "players": [
+          {
+            "userId": "KWMB8T6RQK",
+            "name": "Mark Spierenburg",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "SLS & Arnhemse club",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "43.16",
+                "userId": "KWMB8T6RQK",
+                "army": "Astra Militarum",
+                "team": "SLS & Arnhemse club",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 24,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Ultramarines",
+        "players": [
+          {
+            "userId": "SC1D5tdqdv",
+            "name": "Ingmar van Boven",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "The Relic",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "39.24",
+                "userId": "SC1D5tdqdv",
+                "army": "Ultramarines",
+                "team": "The Relic",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 25,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Genestealer Cult",
+        "players": [
+          {
+            "userId": "2wi4mercIL",
+            "name": "Bertjan Wanders",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Hammertime Oss",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "23.54",
+                "userId": "2wi4mercIL",
+                "army": "Genestealer Cult",
+                "team": "Hammertime Oss",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 29,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Ulthwe",
+        "players": [
+          {
+            "userId": "HLJWUQLU50",
+            "name": "Niels Hamersma",
+            "numEvents": 1,
+            "teams": [
+              {
+                "name": "Hammertime",
+                "count": 1
+              }
+            ],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "11.77",
+                "userId": "HLJWUQLU50",
+                "army": "Ulthwe",
+                "team": "Hammertime",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 32,
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "name": "Drukhari",
+        "players": [
+          {
+            "userId": "72NCAEEUG3",
+            "name": "Ap de Ree",
+            "numEvents": 1,
+            "teams": [],
+            "events": [
+              {
+                "name": "Feast Of Blades Singles GT August",
+                "eventId": "4OukZIMLkY",
+                "numberOfRounds": 6,
+                "eventDtcScore": "7.85",
+                "userId": "72NCAEEUG3",
+                "army": "Drukhari",
+                "usedForRankings": true
+              }
+            ],
+            "totalRank": 33,
+            "rank": 1
+          }
+        ]
+      }
+    ]
   },
   {
     "season": "2022",
