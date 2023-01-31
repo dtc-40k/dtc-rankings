@@ -35,9 +35,13 @@ const updateArmies = (player, armies) => {
   const armyIndex = armies.findIndex((a) => a.name === player.army);
 
   if (armyIndex > -1) {
-    armies[armyIndex] = { name: player.army, count: armies[armyIndex].count + 1 };
+    armies[armyIndex] = {
+      name: player.army,
+      count: armies[armyIndex].count + 1,
+      score: Number(armies[armyIndex].score) + Number(player.dtcScore),
+    };
   } else {
-    armies.push({ name: player.army, count: 1 });
+    armies.push({ name: player.army, count: 1, score: Number(player.dtcScore) });
   }
   return armies;
 };
@@ -106,7 +110,7 @@ const generatePlayerRanking = (events) => {
           if (player.team) {
             teams.push({ name: player.team.name, count: 1 });
           }
-          armies.push({ name: player.army, count: 1 });
+          armies.push({ name: player.army, count: 1, score: Number(player.dtcScore) });
           events.push({
             name: event.name,
             eventId: event.id,
@@ -195,19 +199,14 @@ const generateFactionRanking = (seasonalRanking) => {
     const players = season.rankings;
     console.info(` Generating faction ranking list`);
     players.forEach((_player, index) => {
-      players[index].rank = index + 1;
-      players[index].armies.sort((a, b) => {
-        return b.count - a.count;
-      });
-      players[index].teams.sort((a, b) => {
-        return b.count - a.count;
-      });
-
       _player.armies.forEach((army) => {
         const factionIndex = factionLists.findIndex((a) => a.name === army.name);
         const factionPlayer = {
           ..._player,
           armies: undefined,
+          events: undefined,
+          teams: undefined,
+          totalRank: undefined,
           dtcScore: army.score,
           numEvents: army.count,
           averageRank: army.averageRank,
