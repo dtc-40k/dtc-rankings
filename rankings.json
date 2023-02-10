@@ -1,7 +1,690 @@
 [
   {
     "season": "2023",
-    "rankings": []
+    "rankings": [
+      {
+        "userId": "HkPgU4cCdV",
+        "name": "Daniel V/d Berg",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Evil Sunz",
+            "count": 1,
+            "score": 112
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "112.00",
+            "userId": "HkPgU4cCdV",
+            "army": "Evil Sunz",
+            "team": "wardice",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 1,
+        "averageRank": 1,
+        "dtcScore": "112.00",
+        "rank": 1
+      },
+      {
+        "userId": "4HQ91V49H9",
+        "name": "Wim Out",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 1,
+            "score": 106.4
+          }
+        ],
+        "teams": [
+          {
+            "name": "De Tafelridder",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "106.40",
+            "userId": "4HQ91V49H9",
+            "army": "Dark Angels",
+            "team": "De Tafelridder",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 2,
+        "averageRank": 2,
+        "dtcScore": "106.40",
+        "rank": 2
+      },
+      {
+        "userId": "jTKYUfh35b",
+        "name": "Martijn van der Most",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 1,
+            "score": 100.8
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "100.80",
+            "userId": "jTKYUfh35b",
+            "army": "Tyranids",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 3,
+        "averageRank": 3,
+        "dtcScore": "100.80",
+        "rank": 3
+      },
+      {
+        "userId": "m1Cf1dFdAY",
+        "name": "Arjan Fintelman",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Adepta Sororitas",
+            "count": 1,
+            "score": 95.2
+          }
+        ],
+        "teams": [
+          {
+            "name": "Hired gunz uden",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "95.20",
+            "userId": "m1Cf1dFdAY",
+            "army": "Adepta Sororitas",
+            "team": "Hired gunz uden",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 4,
+        "averageRank": 4,
+        "dtcScore": "95.20",
+        "rank": 4
+      },
+      {
+        "userId": "BYXUUNPEL4",
+        "name": "Daniel Thomassen",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Grey Knights",
+            "count": 1,
+            "score": 89.6
+          }
+        ],
+        "teams": [
+          {
+            "name": "Stukverdriet",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "89.60",
+            "userId": "BYXUUNPEL4",
+            "army": "Grey Knights",
+            "team": "Stukverdriet",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 5,
+        "averageRank": 5,
+        "dtcScore": "89.60",
+        "rank": 5
+      },
+      {
+        "userId": "fBbz9SqAAE",
+        "name": "Daan Van Herk",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 1,
+            "score": 84
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "84.00",
+            "userId": "fBbz9SqAAE",
+            "army": "Dark Angels",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 6,
+        "averageRank": 6,
+        "dtcScore": "84.00",
+        "rank": 6
+      },
+      {
+        "userId": "MJ5R2P58YV",
+        "name": "Yannis Koutsioukis",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Hive Fleet Kronos",
+            "count": 1,
+            "score": 78.4
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "78.40",
+            "userId": "MJ5R2P58YV",
+            "army": "Hive Fleet Kronos",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 7,
+        "averageRank": 7,
+        "dtcScore": "78.40",
+        "rank": 7
+      },
+      {
+        "userId": "RWTFCJ16JR",
+        "name": "Sjors Meijer",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 1,
+            "score": 72.8
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "72.80",
+            "userId": "RWTFCJ16JR",
+            "army": "Blood Angels",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 8,
+        "averageRank": 8,
+        "dtcScore": "72.80",
+        "rank": 8
+      },
+      {
+        "userId": "sxb9mXkYHY",
+        "name": "Don Janssen",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Nihilakh",
+            "count": 1,
+            "score": 67.2
+          }
+        ],
+        "teams": [
+          {
+            "name": "Suzatakh Dynasty",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "67.20",
+            "userId": "sxb9mXkYHY",
+            "army": "Nihilakh",
+            "team": "Suzatakh Dynasty",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2.5,
+        "totalRank": 9,
+        "averageRank": 9,
+        "dtcScore": "67.20",
+        "rank": 9
+      },
+      {
+        "userId": "MTT5A81BT9",
+        "name": "Wouter Van Der Meiden",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 61.6
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "61.60",
+            "userId": "MTT5A81BT9",
+            "army": "Astra Militarum",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2.5,
+        "totalRank": 10,
+        "averageRank": 10,
+        "dtcScore": "61.60",
+        "rank": 10
+      },
+      {
+        "userId": "FFnduPdfzJ",
+        "name": "Marc Nuñez",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 56
+          }
+        ],
+        "teams": [
+          {
+            "name": "bcn wargames",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "56.00",
+            "userId": "FFnduPdfzJ",
+            "army": "Astra Militarum",
+            "team": "bcn wargames",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 11,
+        "averageRank": 11,
+        "dtcScore": "56.00",
+        "rank": 11
+      },
+      {
+        "userId": "NvkOKjD8kO",
+        "name": "Bas Riemens",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "White Scars",
+            "count": 1,
+            "score": 50.4
+          }
+        ],
+        "teams": [
+          {
+            "name": "Stukverdriet",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "50.40",
+            "userId": "NvkOKjD8kO",
+            "army": "White Scars",
+            "team": "Stukverdriet",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 12,
+        "averageRank": 12,
+        "dtcScore": "50.40",
+        "rank": 12
+      },
+      {
+        "userId": "2zxVMGJrNI",
+        "name": "David Beckers",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Leagues of Votann",
+            "count": 1,
+            "score": 44.8
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "44.80",
+            "userId": "2zxVMGJrNI",
+            "army": "Leagues of Votann",
+            "team": "wardice",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 13,
+        "averageRank": 13,
+        "dtcScore": "44.80",
+        "rank": 13
+      },
+      {
+        "userId": "eOFVEEMOEb",
+        "name": "mitchell klein",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Grey Knights",
+            "count": 1,
+            "score": 39.2
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "39.20",
+            "userId": "eOFVEEMOEb",
+            "army": "Grey Knights",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 14,
+        "averageRank": 14,
+        "dtcScore": "39.20",
+        "rank": 14
+      },
+      {
+        "userId": "WN0D19HQMJ",
+        "name": "Michał Tessar",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Leagues of Votann",
+            "count": 1,
+            "score": 33.6
+          }
+        ],
+        "teams": [
+          {
+            "name": "Hired gunz uden",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "33.60",
+            "userId": "WN0D19HQMJ",
+            "army": "Leagues of Votann",
+            "team": "Hired gunz uden",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 15,
+        "averageRank": 15,
+        "dtcScore": "33.60",
+        "rank": 15
+      },
+      {
+        "userId": "fNYTUpbraZ",
+        "name": "Ron Planken",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Imperial Knights",
+            "count": 1,
+            "score": 28
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "28.00",
+            "userId": "fNYTUpbraZ",
+            "army": "Imperial Knights",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 16,
+        "averageRank": 16,
+        "dtcScore": "28.00",
+        "rank": 16
+      },
+      {
+        "userId": "72NCAEEUG3",
+        "name": "Ap de Ree",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 22.4
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "22.40",
+            "userId": "72NCAEEUG3",
+            "army": "Astra Militarum",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 17,
+        "averageRank": 17,
+        "dtcScore": "22.40",
+        "rank": 17
+      },
+      {
+        "userId": "OVJxyn0EU4",
+        "name": "Sjap Horwitz",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 16.8
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdam Battle Brothers",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "16.80",
+            "userId": "OVJxyn0EU4",
+            "army": "Astra Militarum",
+            "team": "Amsterdam Battle Brothers",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 18,
+        "averageRank": 18,
+        "dtcScore": "16.80",
+        "rank": 18
+      },
+      {
+        "userId": "M88H6XP8E1",
+        "name": "Ruben Stapel",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Hive Fleet Gorgon",
+            "count": 1,
+            "score": 11.2
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "11.20",
+            "userId": "M88H6XP8E1",
+            "army": "Hive Fleet Gorgon",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 19,
+        "averageRank": 19,
+        "dtcScore": "11.20",
+        "rank": 19
+      },
+      {
+        "userId": "6ien5i3UEb",
+        "name": "Kyle Marc",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Harlequins",
+            "count": 1,
+            "score": 5.6
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "5.60",
+            "userId": "6ien5i3UEb",
+            "army": "Harlequins",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 20,
+        "averageRank": 20,
+        "dtcScore": "5.60",
+        "rank": 20
+      }
+    ]
   },
   {
     "season": "2022",
