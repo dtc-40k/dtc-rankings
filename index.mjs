@@ -287,11 +287,12 @@ const generateFactionRanking = (seasonalRanking) => {
     console.info(` Generating faction ranking list`);
     players.forEach((_player, index) => {
       _player.armies.forEach((army) => {
-        const mappedFactionName = Object.keys(factions).find((f) => {
+        let mappedFactionName = Object.keys(factions).find((f) => {
           return factions[f].includes(army.name.toLowerCase());
         });
         if (!mappedFactionName) {
           console.error(' --- UNKNOWN FACTION ---', army.name.toLowerCase());
+          mappedFactionName = "Unknown";
         } 
         const factionIndex = factionLists.findIndex((a) => a.name === mappedFactionName);
         const factionPlayer = {
