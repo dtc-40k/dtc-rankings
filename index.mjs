@@ -17,6 +17,93 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
+const factions = {
+  'Adepta Sororitas': ['adepta sororitas', 'adeptus ministorum'],
+  'Space Wolves': ['space wolves'],
+  Deathwatch: ['deathwatch'],
+  'Adeptus Custodes': ['adeptus custodes'],
+  'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii'],
+  Aeldari: ['aeldari'],
+  'Astra Militarum': [
+    'astra militarum',
+    'cadian shock troops',
+    'catachan jungle fighters',
+    'death korps',
+    'elysian droptroops',
+    'militarum auxillia',
+    'militarum tempestus',
+    'officio prefectus',
+    'steel legion',
+    'tallarn',
+    'vostroyan',
+  ],
+  "Adeptus Astartes": [
+    "iron hands",
+    "white scars",
+    "ultramarines",
+    "adeptus astartes",
+    "salamanders",
+    "black templars",
+    "inquisition",
+  ],
+  Asuryani: ['alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
+  'Blood Angels': ['blood angels', 'fleshtearers'],
+  Chaos: ['chaos'],
+  'Chaos Daemons': ['tzeentch', 'khorne', 'nurgle ', 'slaanesh', 'chaos daemons'],
+  'Chaos Knights': ['chaos knights', 'questoris traitoris'],
+  'Chaos Space Marines': [
+    'alpha legion',
+    'black legion',
+    'chaos space marines',
+    'emperors children',
+    'fallen',
+    'iron warriors',
+    'night lords',
+    'red corsairs',
+  ],
+  'World Eaters': ['world eaters'],
+  'Death Guard': ['death guard'],
+  'Thousand Sons': ['thousand sons'],
+  'Dark Angels': ['dark angels', 'ravenwing', 'deathwing'],
+  Drukharii: [
+    'kabal of the blackheart',
+    'kabal of the flayed skull',
+    'kabal of the obsidian rose',
+    'kabal of the poison tongue',
+    'prophets of flesh',
+    'the dark creed',
+    'drukhari',
+  ],
+  'Genestealer Cults': ['genestealer cults', 'genestealer cult'],
+  'Grey Knights': ['grey knights'],
+  Harlequins: ['harlequins'],
+  'Imperial Knights': ['imperial knights', 'questor imperialis'],
+  Imperium: ['imperium'],
+  'Leagues of votann': [
+    'greater thurian league',
+    'kronus hegemony',
+    'leagues of votann',
+    'trans-hyperian alliance',
+    'urani-surtr regulates',
+    'ymyr conglomerate',
+  ],
+  Necrons: ['maynarkh', 'necrons', 'nihilakh', 'sautek'],
+  Orks: ['orks', 'bad moon', 'blood axe', 'deathskulls', 'evil sunz', 'freebooterz', 'goffs', 'snakebites'],
+  'Tau Empire': ["t'au sept", "t'au empire", 'farsightr enclaves', "vior'la sept"],
+  Tyranids: [
+    'hive fleet behemoth',
+    'hive fleet hive fleet ',
+    'hive fleet hydra',
+    'hive fleet jormungandr',
+    'hive fleet kraken',
+    'hive fleet kronos',
+    'hive fleet leviathan',
+    'hive fleet gorgon',
+    'tyranids',
+  ],
+  Ynarii: ['ynnari'],
+};
+
 const retrieveEvents = async () => {
   const bcpEventsRef = collection(db, 'BcpEvents');
 
@@ -200,7 +287,13 @@ const generateFactionRanking = (seasonalRanking) => {
     console.info(` Generating faction ranking list`);
     players.forEach((_player, index) => {
       _player.armies.forEach((army) => {
-        const factionIndex = factionLists.findIndex((a) => a.name === army.name);
+        const mappedFactionName = Object.keys(factions).find((f) => {
+          return factions[f].includes(army.name.toLowerCase());
+        });
+        if (!mappedFactionName) {
+          console.error(' --- UNKNOWN FACTION ---', army.name.toLowerCase());
+        } 
+        const factionIndex = factionLists.findIndex((a) => a.name === mappedFactionName);
         const factionPlayer = {
           ..._player,
           armies: undefined,
@@ -214,11 +307,11 @@ const generateFactionRanking = (seasonalRanking) => {
         };
         if (factionIndex > -1) {
           factionLists[factionIndex] = {
-            name: army.name,
+            name: mappedFactionName,
             players: [...factionLists[factionIndex].players, factionPlayer],
           };
         } else {
-          factionLists.push({ name: army.name, players: [factionPlayer] });
+          factionLists.push({ name: mappedFactionName, players: [factionPlayer] });
         }
       });
     });
