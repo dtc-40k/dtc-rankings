@@ -37,14 +37,14 @@ const factions = {
     'tallarn',
     'vostroyan',
   ],
-  "Adeptus Astartes": [
-    "iron hands",
-    "white scars",
-    "ultramarines",
-    "adeptus astartes",
-    "salamanders",
-    "black templars",
-    "inquisition",
+  'Adeptus Astartes': [
+    'iron hands',
+    'white scars',
+    'ultramarines',
+    'adeptus astartes',
+    'salamanders',
+    'black templars',
+    'inquisition',
   ],
   Asuryani: ['alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
   'Blood Angels': ['blood angels', 'fleshtearers'],
@@ -65,7 +65,7 @@ const factions = {
   'Death Guard': ['death guard'],
   'Thousand Sons': ['thousand sons'],
   'Dark Angels': ['dark angels', 'ravenwing', 'deathwing'],
-  Drukharii: [
+  Drukhari: [
     'kabal of the blackheart',
     'kabal of the flayed skull',
     'kabal of the obsidian rose',
@@ -74,12 +74,12 @@ const factions = {
     'the dark creed',
     'drukhari',
   ],
-  'Genestealer Cults': ['genestealer cults', 'genestealer cult'],
+  'Genestealer Cult': ['genestealer cult'],
   'Grey Knights': ['grey knights'],
   Harlequins: ['harlequins'],
   'Imperial Knights': ['imperial knights', 'questor imperialis'],
   Imperium: ['imperium'],
-  'Leagues of votann': [
+  'Leagues of Votann': [
     'greater thurian league',
     'kronus hegemony',
     'leagues of votann',
@@ -89,7 +89,7 @@ const factions = {
   ],
   Necrons: ['maynarkh', 'necrons', 'nihilakh', 'sautek'],
   Orks: ['orks', 'bad moon', 'blood axe', 'deathskulls', 'evil sunz', 'freebooterz', 'goffs', 'snakebites'],
-  'Tau Empire': ["t'au sept", "t'au empire", 'farsightr enclaves', "vior'la sept"],
+  "T'au Empire": ["t'au sept", "t'au empire", 'farsightr enclaves', "vior'la sept"],
   Tyranids: [
     'hive fleet behemoth',
     'hive fleet hive fleet ',
@@ -101,7 +101,7 @@ const factions = {
     'hive fleet gorgon',
     'tyranids',
   ],
-  Ynarii: ['ynnari'],
+  Ynnari: ['ynnari'],
 };
 
 const retrieveEvents = async () => {
@@ -119,16 +119,20 @@ const retrieveEvents = async () => {
 };
 
 const updateArmies = (player, armies) => {
-  const armyIndex = armies.findIndex((a) => a.name === player.army);
+  let mappedFactionName = Object.keys(factions).find((f) => {
+    return factions[f].includes(player.army.toLowerCase());
+  });
+
+  const armyIndex = armies.findIndex((a) => a.name === mappedFactionName);
 
   if (armyIndex > -1) {
     armies[armyIndex] = {
-      name: player.army,
+      name: mappedFactionName,
       count: armies[armyIndex].count + 1,
       score: Number(armies[armyIndex].score) + Number(player.dtcScore),
     };
   } else {
-    armies.push({ name: player.army, count: 1, score: Number(player.dtcScore) });
+    armies.push({ name: mappedFactionName, count: 1, score: Number(player.dtcScore) });
   }
   return armies;
 };
@@ -194,10 +198,14 @@ const generatePlayerRanking = (events) => {
           let teams = [];
           let events = [];
 
+          let mappedFactionName = Object.keys(factions).find((f) => {
+            return factions[f].includes(player.army.toLowerCase());
+          });
+
           if (player.team) {
             teams.push({ name: player.team.name, count: 1 });
           }
-          armies.push({ name: player.army, count: 1, score: Number(player.dtcScore) });
+          armies.push({ name: mappedFactionName, count: 1, score: Number(player.dtcScore) });
           events.push({
             name: event.name,
             eventId: event.id,
@@ -205,7 +213,7 @@ const generatePlayerRanking = (events) => {
             eventDtcScore: player.dtcScore,
             userId: player.userId,
             excludeScore: player.excludeScore,
-            army: player.army,
+            army: mappedFactionName,
             team: player?.team?.name,
           });
           rankings.push({
@@ -292,8 +300,8 @@ const generateFactionRanking = (seasonalRanking) => {
         });
         if (!mappedFactionName) {
           console.error(' --- UNKNOWN FACTION ---', army.name.toLowerCase());
-          mappedFactionName = "Unknown";
-        } 
+          mappedFactionName = 'Unknown';
+        }
         const factionIndex = factionLists.findIndex((a) => a.name === mappedFactionName);
         const factionPlayer = {
           ..._player,
