@@ -49,7 +49,7 @@ const factions = {
   Asuryani: ['alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
   'Blood Angels': ['blood angels', 'fleshtearers'],
   Chaos: ['chaos'],
-  'Chaos Daemons': ['tzeentch', 'khorne', 'nurgle ', 'slaanesh', 'chaos daemons'],
+  'Chaos Daemons': ['tzeentch', 'khorne', 'nurgle ', 'slaanesh', 'chaos daemons', 'tzeentch daemons'],
   'Chaos Knights': ['chaos knights', 'questoris traitoris'],
   'Chaos Space Marines': [
     'alpha legion',
@@ -122,6 +122,11 @@ const updateArmies = (player, armies) => {
   let mappedFactionName = Object.keys(factions).find((f) => {
     return factions[f].includes(player.army.toLowerCase());
   });
+
+  if (!mappedFactionName) {
+    console.error(' --- UNKNOWN FACTION ---', player?.army);
+    mappedFactionName = 'Unknown';
+  }
 
   const armyIndex = armies.findIndex((a) => a.name === mappedFactionName);
 
@@ -201,6 +206,11 @@ const generatePlayerRanking = (events) => {
           let mappedFactionName = Object.keys(factions).find((f) => {
             return factions[f].includes(player.army.toLowerCase());
           });
+
+          if (!mappedFactionName) {
+            console.error(' --- UNKNOWN FACTION ---', player.name?.toLowerCase());
+            mappedFactionName = 'Unknown';
+          }
 
           if (player.team) {
             teams.push({ name: player.team.name, count: 1 });
@@ -296,10 +306,10 @@ const generateFactionRanking = (seasonalRanking) => {
     players.forEach((_player, index) => {
       _player.armies.forEach((army) => {
         let mappedFactionName = Object.keys(factions).find((f) => {
-          return factions[f].includes(army.name.toLowerCase());
+          return factions[f].includes(army.name?.toLowerCase());
         });
         if (!mappedFactionName) {
-          console.error(' --- UNKNOWN FACTION ---', army.name.toLowerCase());
+          console.error(' --- UNKNOWN FACTION ---', army.name?.toLowerCase());
           mappedFactionName = 'Unknown';
         }
         const factionIndex = factionLists.findIndex((a) => a.name === mappedFactionName);
