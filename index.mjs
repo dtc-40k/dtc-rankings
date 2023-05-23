@@ -47,7 +47,7 @@ const factions = {
     'inquisition',
   ],
   Asuryani: ['alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
-  'Blood Angels': ['blood angels', 'fleshtearers'],
+  'Blood Angels': ['blood angels', 'fleshtearers', 'lamenters'],
   Chaos: ['chaos'],
   'Chaos Daemons': ['tzeentch', 'khorne', 'nurgle ', 'slaanesh', 'chaos daemons', 'tzeentch daemons'],
   'Chaos Knights': ['chaos knights', 'questoris traitoris'],
@@ -208,7 +208,7 @@ const generatePlayerRanking = (events) => {
           });
 
           if (!mappedFactionName) {
-            console.error(' --- UNKNOWN FACTION ---', player.name?.toLowerCase());
+            console.error(' --- UNKNOWN FACTION ---', player.army?.toLowerCase());
             mappedFactionName = 'Unknown';
           }
 
