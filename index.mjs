@@ -49,7 +49,17 @@ const factions = {
   Asuryani: ['alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
   'Blood Angels': ['blood angels', 'fleshtearers', 'lamenters'],
   Chaos: ['chaos'],
-  'Chaos Daemons': ['tzeentch', 'khorne', 'nurgle ', 'slaanesh', 'chaos daemons', 'tzeentch daemons'],
+  'Chaos Daemons': [
+    'tzeentch',
+    'khorne',
+    'nurgle',
+    'slaanesh',
+    'chaos daemons',
+    'tzeentch daemons',
+    'khorne daemons',
+    'nurgle daemons',
+    'slaanesh daemons',
+  ],
   'Chaos Knights': ['chaos knights', 'questoris traitoris'],
   'Chaos Space Marines': [
     'alpha legion',
@@ -134,10 +144,10 @@ const updateArmies = (player, armies) => {
     armies[armyIndex] = {
       name: mappedFactionName,
       count: armies[armyIndex].count + 1,
-      score: Number(armies[armyIndex].score) + Number(player.dtcScore),
+      score: Number((Number(armies[armyIndex].score) + Number(player.dtcScore)).toFixed(2)),
     };
   } else {
-    armies.push({ name: mappedFactionName, count: 1, score: Number(player.dtcScore) });
+    armies.push({ name: mappedFactionName, count: 1, score: Number(Number(player.dtcScore).toFixed(2)) });
   }
   return armies;
 };
@@ -245,38 +255,62 @@ const generatePlayerRanking = (events) => {
       let gtEvents = player.events.filter((event) => event.numberOfRounds >= 5 && !event.excludeScore);
       let rttEvents = player.events.filter((event) => event.numberOfRounds <= 4 && !event.excludeScore);
 
-      if (gtEvents.length > 3) {
-        gtEvents.sort((a, b) => {
-          return b.score - a.score;
-        });
-        gtEvents = gtEvents.slice(0, 2);
-      }
-
       let gtScore = 0;
       let rttScore = 0;
 
-      if (gtEvents && gtEvents.length > 1) {
-        gtScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
-      }
-      if (gtEvents && gtEvents.length === 1) {
-        gtScore = Number(gtEvents[0].eventDtcScore);
-      }
-      if (rttEvents && rttEvents.length > 1) {
-        rttScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
-      }
-      if (rttEvents && rttEvents.length === 1) {
-        rttScore = Number(rttEvents[0].eventDtcScore);
-      }
-      rankings[index].events.forEach((event, eventIndex) => {
-        const usedForRankings =
-          gtEvents.findIndex((gtEvent) => gtEvent.eventId === event.eventId) > -1 ||
-          rttEvents.findIndex((rttEvent) => rttEvent.eventId === event.eventId) > -1;
+      const numberOfEvents = gtEvents?.length + rttEvents?.length;
 
-        rankings[index].events[eventIndex] = {
-          ...event,
-          usedForRankings,
-        };
-      });
+      if (numberOfEvents > 7) {
+        console.log("  Player with more then 7 events found...");
+        let allEvents = [...gtEvents, ...rttEvents];
+
+        allEvents.sort((a, b) => {
+          return b.eventDtcScore - a.eventDtcScore;
+        });
+
+        allEvents = allEvents.slice(0, 7);
+
+        rankings[index].events.forEach((event, eventIndex) => {
+          const usedForRankings = allEvents.findIndex((allEvent) => allEvent.eventId === event.eventId) > -1;
+
+          rankings[index].events[eventIndex] = {
+            ...event,
+            usedForRankings,
+          };
+        });
+
+        rttScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+      } else {
+        if (gtEvents.length > 3) {
+          gtEvents.sort((a, b) => {
+            return b.eventDtcScore - a.eventDtcScore;
+          });
+          gtEvents = gtEvents.slice(0, 2);
+        }
+
+        if (gtEvents && gtEvents.length > 1) {
+          gtScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+        }
+        if (gtEvents && gtEvents.length === 1) {
+          gtScore = Number(gtEvents[0].eventDtcScore);
+        }
+        if (rttEvents && rttEvents.length > 1) {
+          rttScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+        }
+        if (rttEvents && rttEvents.length === 1) {
+          rttScore = Number(rttEvents[0].eventDtcScore);
+        }
+        rankings[index].events.forEach((event, eventIndex) => {
+          const usedForRankings =
+            gtEvents.findIndex((gtEvent) => gtEvent.eventId === event.eventId) > -1 ||
+            rttEvents.findIndex((rttEvent) => rttEvent.eventId === event.eventId) > -1;
+
+          rankings[index].events[eventIndex] = {
+            ...event,
+            usedForRankings,
+          };
+        });
+      }
       rankings[index].dtcScore = (Number(gtScore) + Number(rttScore)).toFixed(2);
     });
 
@@ -319,7 +353,7 @@ const generateFactionRanking = (seasonalRanking) => {
           events: undefined,
           teams: undefined,
           totalRank: undefined,
-          dtcScore: army.score,
+          dtcScore: Number(army.score.toFixed(2)),
           numEvents: army.count,
           averageRank: army.averageRank,
           numWins: army.numWins,
