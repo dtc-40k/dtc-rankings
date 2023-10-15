@@ -3,6 +3,131 @@
     "season": "2023",
     "rankings": [
       {
+        "userId": "95WJH9Q3KL",
+        "name": "Ron Eliyahoo",
+        "numEvents": 10,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 8,
+            "score": 653.09
+          },
+          {
+            "name": "Grey Knights",
+            "count": 2,
+            "score": 86.7
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdam Battle Brothers",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
+            "eventId": "0ackWtobNR",
+            "numberOfRounds": 6,
+            "eventDtcScore": "117.96",
+            "userId": "95WJH9Q3KL",
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "The Wardice Wargames",
+            "eventId": "1VL5Q9N931",
+            "numberOfRounds": 3,
+            "eventDtcScore": "71.90",
+            "userId": "95WJH9Q3KL",
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "TABLETOP KINGS",
+            "eventId": "1WW0DARNAF",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.20",
+            "userId": "95WJH9Q3KL",
+            "excludeScore": false,
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades September RTT",
+            "eventId": "GREc9UOagr",
+            "numberOfRounds": 3,
+            "eventDtcScore": "70.90",
+            "userId": "95WJH9Q3KL",
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "HFfdUPU6x5",
+            "numberOfRounds": 3,
+            "eventDtcScore": "55.79",
+            "userId": "95WJH9Q3KL",
+            "excludeScore": true,
+            "army": "Tyranids",
+            "team": "Amsterdam Battle Brothers",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades May RTT ",
+            "eventId": "RgQ4y7kdmt",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.73",
+            "userId": "95WJH9Q3KL",
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 1",
+            "eventId": "UshxMJ6bDE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "30.60",
+            "userId": "95WJH9Q3KL",
+            "excludeScore": true,
+            "army": "Grey Knights",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "85.41",
+            "userId": "95WJH9Q3KL",
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "56.10",
+            "userId": "95WJH9Q3KL",
+            "excludeScore": true,
+            "army": "Grey Knights",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades April GT",
+            "eventId": "zOLbwSg125",
+            "numberOfRounds": 6,
+            "eventDtcScore": "127.20",
+            "userId": "95WJH9Q3KL",
+            "army": "Tyranids",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 27.5,
+        "totalRank": 39,
+        "averageRank": "3.9",
+        "dtcScore": "597.30",
+        "rank": 1
+      },
+      {
         "userId": "cN77fl1hWy",
         "name": "Lenny Craft-it",
         "numEvents": 7,
@@ -98,132 +223,17 @@
         "totalRank": 32,
         "averageRank": "4.6",
         "dtcScore": "583.55",
-        "rank": 1
-      },
-      {
-        "userId": "95WJH9Q3KL",
-        "name": "Ron Eliyahoo",
-        "numEvents": 9,
-        "armies": [
-          {
-            "name": "Tyranids",
-            "count": 7,
-            "score": 567.68
-          },
-          {
-            "name": "Grey Knights",
-            "count": 2,
-            "score": 86.7
-          }
-        ],
-        "teams": [
-          {
-            "name": "Amsterdam Battle Brothers",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
-            "eventId": "0ackWtobNR",
-            "numberOfRounds": 6,
-            "eventDtcScore": "117.96",
-            "userId": "95WJH9Q3KL",
-            "army": "Tyranids",
-            "usedForRankings": true
-          },
-          {
-            "name": "The Wardice Wargames",
-            "eventId": "1VL5Q9N931",
-            "numberOfRounds": 3,
-            "eventDtcScore": "71.90",
-            "userId": "95WJH9Q3KL",
-            "army": "Tyranids",
-            "usedForRankings": true
-          },
-          {
-            "name": "TABLETOP KINGS",
-            "eventId": "1WW0DARNAF",
-            "numberOfRounds": 3,
-            "eventDtcScore": "57.20",
-            "userId": "95WJH9Q3KL",
-            "army": "Tyranids",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades September RTT",
-            "eventId": "GREc9UOagr",
-            "numberOfRounds": 3,
-            "eventDtcScore": "70.90",
-            "userId": "95WJH9Q3KL",
-            "army": "Tyranids",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "HFfdUPU6x5",
-            "numberOfRounds": 3,
-            "eventDtcScore": "55.79",
-            "userId": "95WJH9Q3KL",
-            "excludeScore": true,
-            "army": "Tyranids",
-            "team": "Amsterdam Battle Brothers",
-            "usedForRankings": false
-          },
-          {
-            "name": "Feast Of Blades May RTT ",
-            "eventId": "RgQ4y7kdmt",
-            "numberOfRounds": 3,
-            "eventDtcScore": "66.73",
-            "userId": "95WJH9Q3KL",
-            "army": "Tyranids",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 1",
-            "eventId": "UshxMJ6bDE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "30.60",
-            "userId": "95WJH9Q3KL",
-            "excludeScore": true,
-            "army": "Grey Knights",
-            "usedForRankings": false
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "56.10",
-            "userId": "95WJH9Q3KL",
-            "excludeScore": false,
-            "army": "Grey Knights",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades April GT",
-            "eventId": "zOLbwSg125",
-            "numberOfRounds": 6,
-            "eventDtcScore": "127.20",
-            "userId": "95WJH9Q3KL",
-            "army": "Tyranids",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 24.5,
-        "totalRank": 33,
-        "averageRank": "3.7",
-        "dtcScore": "567.99",
         "rank": 2
       },
       {
         "userId": "aXodFjn9lU",
         "name": "Christian Domburg",
-        "numEvents": 9,
+        "numEvents": 10,
         "armies": [
           {
             "name": "Astra Militarum",
-            "count": 5,
-            "score": 352.67
+            "count": 6,
+            "score": 459.43
           },
           {
             "name": "Leagues of Votann",
@@ -244,6 +254,10 @@
           {
             "name": "Lost Legion",
             "count": 2
+          },
+          {
+            "name": "Warzone Presikhaaf",
+            "count": 1
           }
         ],
         "events": [
@@ -263,9 +277,10 @@
             "numberOfRounds": 3,
             "eventDtcScore": "61.97",
             "userId": "aXodFjn9lU",
+            "excludeScore": true,
             "army": "Astra Militarum",
             "team": "Lost legion wargaming",
-            "usedForRankings": true
+            "usedForRankings": false
           },
           {
             "name": "The Wardice Wargames 3",
@@ -317,6 +332,16 @@
             "usedForRankings": true
           },
           {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "106.76",
+            "userId": "aXodFjn9lU",
+            "army": "Astra Militarum",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true
+          },
+          {
             "name": "Feast Of Blades February RTT 2",
             "eventId": "iZorJvRmlT",
             "numberOfRounds": 3,
@@ -337,21 +362,21 @@
             "usedForRankings": true
           }
         ],
-        "numWins": 21,
-        "totalRank": 51,
-        "averageRank": "5.7",
-        "dtcScore": "494.27",
+        "numWins": 24.5,
+        "totalRank": 53,
+        "averageRank": "5.3",
+        "dtcScore": "539.06",
         "rank": 3
       },
       {
         "userId": "taF4FcGA4u",
         "name": "Aron Prinsen",
-        "numEvents": 7,
+        "numEvents": 8,
         "armies": [
           {
             "name": "Asuryani",
-            "count": 3,
-            "score": 297.02
+            "count": 4,
+            "score": 393.11
           },
           {
             "name": "Aeldari",
@@ -421,13 +446,23 @@
             "usedForRankings": true
           },
           {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "96.09",
+            "userId": "taF4FcGA4u",
+            "army": "Asuryani",
+            "usedForRankings": true
+          },
+          {
             "name": "Feast Of Blades February RTT 2",
             "eventId": "iZorJvRmlT",
             "numberOfRounds": 3,
             "eventDtcScore": "51.00",
             "userId": "taF4FcGA4u",
+            "excludeScore": true,
             "army": "Harlequins",
-            "usedForRankings": true
+            "usedForRankings": false
           },
           {
             "name": "Feast Of Blades April GT",
@@ -440,11 +475,124 @@
             "usedForRankings": true
           }
         ],
-        "numWins": 18.5,
-        "totalRank": 35,
-        "averageRank": "5.0",
-        "dtcScore": "492.74",
+        "numWins": 21.5,
+        "totalRank": 39,
+        "averageRank": "4.9",
+        "dtcScore": "537.83",
         "rank": 4
+      },
+      {
+        "userId": "h2XgvPvfer",
+        "name": "Josef Levy",
+        "numEvents": 8,
+        "armies": [
+          {
+            "name": "World Eaters",
+            "count": 5,
+            "score": 343.62
+          },
+          {
+            "name": "T'au Empire",
+            "count": 2,
+            "score": 111.39
+          },
+          {
+            "name": "Adeptus Custodes",
+            "count": 1,
+            "score": 90.88
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdamned Wargaming",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
+            "eventId": "0ackWtobNR",
+            "numberOfRounds": 6,
+            "eventDtcScore": "83.55",
+            "userId": "h2XgvPvfer",
+            "army": "World Eaters",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 4 RottenHammer",
+            "eventId": "GD2L58D4VQ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.70",
+            "userId": "h2XgvPvfer",
+            "army": "World Eaters",
+            "usedForRankings": true
+          },
+          {
+            "name": "Alliance Open 40 Masters GT",
+            "eventId": "J19U194A3W",
+            "numberOfRounds": 5,
+            "eventDtcScore": "90.88",
+            "userId": "h2XgvPvfer",
+            "army": "Adeptus Custodes",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "The North Sea Slam ",
+            "eventId": "KrOTAvw7D3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.50",
+            "userId": "h2XgvPvfer",
+            "army": "World Eaters",
+            "usedForRankings": true
+          },
+          {
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "Px7AnXgrep",
+            "numberOfRounds": 3,
+            "eventDtcScore": "31.32",
+            "userId": "h2XgvPvfer",
+            "excludeScore": true,
+            "army": "T'au Empire",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": false
+          },
+          {
+            "name": "Carnage in Capelle 5 RottenHammer",
+            "eventId": "Q9PYUFVJKX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "63.67",
+            "userId": "h2XgvPvfer",
+            "army": "World Eaters",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades May RTT ",
+            "eventId": "RgQ4y7kdmt",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.20",
+            "userId": "h2XgvPvfer",
+            "army": "World Eaters",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "80.07",
+            "userId": "h2XgvPvfer",
+            "army": "T'au Empire",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 18.5,
+        "totalRank": 52,
+        "averageRank": "6.5",
+        "dtcScore": "514.57",
+        "rank": 5
       },
       {
         "userId": "yNvCWMm1gz",
@@ -561,7 +709,7 @@
         "totalRank": 32,
         "averageRank": "4.6",
         "dtcScore": "489.14",
-        "rank": 5
+        "rank": 6
       },
       {
         "userId": "sdjXWgUjur",
@@ -678,126 +826,23 @@
         "totalRank": 46,
         "averageRank": "6.6",
         "dtcScore": "474.44",
-        "rank": 6
-      },
-      {
-        "userId": "h2XgvPvfer",
-        "name": "Josef Levy",
-        "numEvents": 7,
-        "armies": [
-          {
-            "name": "World Eaters",
-            "count": 5,
-            "score": 343.62
-          },
-          {
-            "name": "Adeptus Custodes",
-            "count": 1,
-            "score": 90.88
-          },
-          {
-            "name": "T'au Empire",
-            "count": 1,
-            "score": 31.32
-          }
-        ],
-        "teams": [
-          {
-            "name": "Amsterdamned Wargaming",
-            "count": 5
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
-            "eventId": "0ackWtobNR",
-            "numberOfRounds": 6,
-            "eventDtcScore": "83.55",
-            "userId": "h2XgvPvfer",
-            "army": "World Eaters",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 4 RottenHammer",
-            "eventId": "GD2L58D4VQ",
-            "numberOfRounds": 3,
-            "eventDtcScore": "66.70",
-            "userId": "h2XgvPvfer",
-            "army": "World Eaters",
-            "usedForRankings": true
-          },
-          {
-            "name": "Alliance Open 40 Masters GT",
-            "eventId": "J19U194A3W",
-            "numberOfRounds": 5,
-            "eventDtcScore": "90.88",
-            "userId": "h2XgvPvfer",
-            "army": "Adeptus Custodes",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "The North Sea Slam ",
-            "eventId": "KrOTAvw7D3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "72.50",
-            "userId": "h2XgvPvfer",
-            "army": "World Eaters",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "Px7AnXgrep",
-            "numberOfRounds": 3,
-            "eventDtcScore": "31.32",
-            "userId": "h2XgvPvfer",
-            "army": "T'au Empire",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 5 RottenHammer",
-            "eventId": "Q9PYUFVJKX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "63.67",
-            "userId": "h2XgvPvfer",
-            "army": "World Eaters",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades May RTT ",
-            "eventId": "RgQ4y7kdmt",
-            "numberOfRounds": 3,
-            "eventDtcScore": "57.20",
-            "userId": "h2XgvPvfer",
-            "army": "World Eaters",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 16,
-        "totalRank": 45,
-        "averageRank": "6.4",
-        "dtcScore": "465.82",
         "rank": 7
       },
       {
         "userId": "fBbz9SqAAE",
         "name": "Daan Van Herk",
-        "numEvents": 8,
+        "numEvents": 9,
         "armies": [
           {
             "name": "Dark Angels",
-            "count": 8,
-            "score": 479.47
+            "count": 9,
+            "score": 532.85
           }
         ],
         "teams": [
           {
             "name": "RottenHammer",
-            "count": 6
+            "count": 7
           }
         ],
         "events": [
@@ -868,7 +913,18 @@
             "numberOfRounds": 3,
             "eventDtcScore": "38.13",
             "userId": "fBbz9SqAAE",
+            "excludeScore": true,
             "army": "Dark Angels",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "53.38",
+            "userId": "fBbz9SqAAE",
+            "army": "Dark Angels",
+            "team": "RottenHammer",
             "usedForRankings": true
           },
           {
@@ -881,135 +937,21 @@
             "usedForRankings": true
           }
         ],
-        "numWins": 17,
-        "totalRank": 68,
-        "averageRank": "8.5",
-        "dtcScore": "445.07",
-        "rank": 8
-      },
-      {
-        "userId": "BYXUUNPEL4",
-        "name": "Daniel Thomassen",
-        "numEvents": 8,
-        "armies": [
-          {
-            "name": "Grey Knights",
-            "count": 7,
-            "score": 338.24
-          },
-          {
-            "name": "Leagues of Votann",
-            "count": 1,
-            "score": 78.64
-          }
-        ],
-        "teams": [
-          {
-            "name": "🦄💨👨‍👨‍👦‍👦",
-            "count": 2
-          },
-          {
-            "name": "Amsterdam Battle Brothers",
-            "count": 1
-          },
-          {
-            "name": "Stukverdriet",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
-            "eventId": "0ackWtobNR",
-            "numberOfRounds": 6,
-            "eventDtcScore": "78.64",
-            "userId": "BYXUUNPEL4",
-            "army": "Leagues of Votann",
-            "team": "Amsterdam Battle Brothers",
-            "usedForRankings": true
-          },
-          {
-            "name": "IRONMAN Rotterdam Rumble ",
-            "eventId": "1c5aDIFn1I",
-            "numberOfRounds": 5,
-            "eventDtcScore": "89.60",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "team": "Stukverdriet",
-            "usedForRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 3",
-            "eventId": "2GF3QD8ND8",
-            "numberOfRounds": 3,
-            "eventDtcScore": "32.40",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "HFfdUPU6x5",
-            "numberOfRounds": 3,
-            "eventDtcScore": "29.54",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "team": "🦄💨👨‍👨‍👦‍👦",
-            "usedForRankings": true
-          },
-          {
-            "name": "The North Sea Slam ",
-            "eventId": "KrOTAvw7D3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "66.70",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "team": "🦄💨👨‍👨‍👦‍👦",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "Px7AnXgrep",
-            "numberOfRounds": 3,
-            "eventDtcScore": "35.80",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "15.30",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "usedForRankings": false
-          },
-          {
-            "name": "Feast Of Blades April GT",
-            "eventId": "zOLbwSg125",
-            "numberOfRounds": 6,
-            "eventDtcScore": "68.90",
-            "userId": "BYXUUNPEL4",
-            "army": "Grey Knights",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 15,
+        "numWins": 19,
         "totalRank": 80,
-        "averageRank": "10.0",
-        "dtcScore": "401.58",
-        "rank": 9
+        "averageRank": "8.9",
+        "dtcScore": "460.32",
+        "rank": 8
       },
       {
         "userId": "cgcimvdJ2E",
         "name": "Coen van der Lee",
-        "numEvents": 5,
+        "numEvents": 6,
         "armies": [
           {
             "name": "Adeptus Astartes",
-            "count": 3,
-            "score": 213.43
+            "count": 4,
+            "score": 224.11
           },
           {
             "name": "Ynnari",
@@ -1070,12 +1012,128 @@
             "userId": "cgcimvdJ2E",
             "army": "Ynnari",
             "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "10.68",
+            "userId": "cgcimvdJ2E",
+            "army": "Adeptus Astartes",
+            "usedForRankings": true
           }
         ],
         "numWins": 13.5,
-        "totalRank": 24,
-        "averageRank": "4.8",
-        "dtcScore": "382.57",
+        "totalRank": 44,
+        "averageRank": "7.3",
+        "dtcScore": "393.25",
+        "rank": 9
+      },
+      {
+        "userId": "4FUCUA3GN5",
+        "name": "Rob Goossens",
+        "numEvents": 7,
+        "armies": [
+          {
+            "name": "Necrons",
+            "count": 3,
+            "score": 234.34
+          },
+          {
+            "name": "T'au Empire",
+            "count": 2,
+            "score": 67.5
+          },
+          {
+            "name": "Tyranids",
+            "count": 1,
+            "score": 46.4
+          },
+          {
+            "name": "Drukhari",
+            "count": 1,
+            "score": 37.1
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "The Wardice Wargames",
+            "eventId": "1VL5Q9N931",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.12",
+            "userId": "4FUCUA3GN5",
+            "army": "Necrons",
+            "usedForRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 3",
+            "eventId": "2GF3QD8ND8",
+            "numberOfRounds": 3,
+            "eventDtcScore": "21.60",
+            "userId": "4FUCUA3GN5",
+            "army": "T'au Empire",
+            "usedForRankings": true
+          },
+          {
+            "name": "The North Sea Slam ",
+            "eventId": "KrOTAvw7D3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "46.40",
+            "userId": "4FUCUA3GN5",
+            "army": "Tyranids",
+            "team": "wardice",
+            "usedForRankings": true
+          },
+          {
+            "name": "The Wardice Wargames",
+            "eventId": "PjPrY9LVfk",
+            "numberOfRounds": 3,
+            "eventDtcScore": "64.80",
+            "userId": "4FUCUA3GN5",
+            "army": "Necrons",
+            "team": "wardice",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "101.42",
+            "userId": "4FUCUA3GN5",
+            "army": "Necrons",
+            "team": "wardice",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "45.90",
+            "userId": "4FUCUA3GN5",
+            "army": "T'au Empire",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades April GT",
+            "eventId": "zOLbwSg125",
+            "numberOfRounds": 6,
+            "eventDtcScore": "37.10",
+            "userId": "4FUCUA3GN5",
+            "army": "Drukhari",
+            "team": "wardice",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 15,
+        "totalRank": 58,
+        "averageRank": "8.3",
+        "dtcScore": "385.34",
         "rank": 10
       },
       {
@@ -1391,106 +1449,128 @@
         "rank": 14
       },
       {
-        "userId": "oPYw7BAg15",
-        "name": "Guus van den Berg",
-        "numEvents": 8,
+        "userId": "BYXUUNPEL4",
+        "name": "Daniel Thomassen",
+        "numEvents": 9,
         "armies": [
           {
-            "name": "Adeptus Mechanicus",
-            "count": 6,
-            "score": 273
+            "name": "Grey Knights",
+            "count": 7,
+            "score": 338.24
           },
           {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 33.01
-          },
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 9.53
+            "name": "Leagues of Votann",
+            "count": 2,
+            "score": 126.68
           }
         ],
-        "teams": [],
+        "teams": [
+          {
+            "name": "🦄💨👨‍👨‍👦‍👦",
+            "count": 2
+          },
+          {
+            "name": "Amsterdam Battle Brothers",
+            "count": 1
+          },
+          {
+            "name": "Stukverdriet",
+            "count": 1
+          }
+        ],
         "events": [
           {
             "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
             "eventId": "0ackWtobNR",
             "numberOfRounds": 6,
-            "eventDtcScore": "54.06",
-            "userId": "oPYw7BAg15",
-            "army": "Adeptus Mechanicus",
+            "eventDtcScore": "78.64",
+            "userId": "BYXUUNPEL4",
+            "army": "Leagues of Votann",
+            "team": "Amsterdam Battle Brothers",
             "usedForRankings": true
           },
           {
-            "name": "Carnage in Capelle 3 RottenHammer",
-            "eventId": "8J39VRBMHR",
-            "numberOfRounds": 3,
-            "eventDtcScore": "10.80",
-            "userId": "oPYw7BAg15",
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 4 RottenHammer",
-            "eventId": "GD2L58D4VQ",
-            "numberOfRounds": 3,
-            "eventDtcScore": "49.30",
-            "userId": "oPYw7BAg15",
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades September RTT",
-            "eventId": "GREc9UOagr",
-            "numberOfRounds": 3,
-            "eventDtcScore": "39.39",
-            "userId": "oPYw7BAg15",
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true
-          },
-          {
-            "name": "Alliance Open 40 Masters GT",
-            "eventId": "J19U194A3W",
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
             "numberOfRounds": 5,
-            "eventDtcScore": "71.75",
-            "userId": "oPYw7BAg15",
-            "army": "Adeptus Mechanicus",
+            "eventDtcScore": "89.60",
+            "userId": "BYXUUNPEL4",
+            "army": "Grey Knights",
+            "team": "Stukverdriet",
             "usedForRankings": true
           },
           {
-            "name": "Carnage in Capelle 5 RottenHammer",
-            "eventId": "Q9PYUFVJKX",
+            "name": "The Wardice Wargames 3",
+            "eventId": "2GF3QD8ND8",
             "numberOfRounds": 3,
-            "eventDtcScore": "33.01",
-            "userId": "oPYw7BAg15",
-            "army": "Iron Hands",
+            "eventDtcScore": "32.40",
+            "userId": "BYXUUNPEL4",
+            "army": "Grey Knights",
             "usedForRankings": true
           },
           {
-            "name": "Feast Of Blades May RTT ",
-            "eventId": "RgQ4y7kdmt",
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "HFfdUPU6x5",
             "numberOfRounds": 3,
-            "eventDtcScore": "9.53",
-            "userId": "oPYw7BAg15",
+            "eventDtcScore": "29.54",
+            "userId": "BYXUUNPEL4",
             "excludeScore": true,
-            "army": "Death Korps",
+            "army": "Grey Knights",
+            "team": "🦄💨👨‍👨‍👦‍👦",
+            "usedForRankings": false
+          },
+          {
+            "name": "The North Sea Slam ",
+            "eventId": "KrOTAvw7D3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.70",
+            "userId": "BYXUUNPEL4",
+            "army": "Grey Knights",
+            "team": "🦄💨👨‍👨‍👦‍👦",
+            "usedForRankings": true
+          },
+          {
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "Px7AnXgrep",
+            "numberOfRounds": 3,
+            "eventDtcScore": "35.80",
+            "userId": "BYXUUNPEL4",
+            "army": "Grey Knights",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "48.04",
+            "userId": "BYXUUNPEL4",
+            "army": "Leagues of Votann",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "15.30",
+            "userId": "BYXUUNPEL4",
+            "excludeScore": true,
+            "army": "Grey Knights",
             "usedForRankings": false
           },
           {
             "name": "Feast Of Blades April GT",
             "eventId": "zOLbwSg125",
             "numberOfRounds": 6,
-            "eventDtcScore": "47.70",
-            "userId": "oPYw7BAg15",
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true
+            "eventDtcScore": "68.90",
+            "userId": "BYXUUNPEL4",
+            "army": "Grey Knights",
+            "usedForRankings": false
           }
         ],
-        "numWins": 12,
-        "totalRank": 117,
-        "averageRank": "14.6",
-        "dtcScore": "306.01",
+        "numWins": 17,
+        "totalRank": 93,
+        "averageRank": "10.3",
+        "dtcScore": "303.14",
         "rank": 15
       },
       {
@@ -1557,100 +1637,77 @@
         "rank": 16
       },
       {
-        "userId": "4FUCUA3GN5",
-        "name": "Rob Goossens",
-        "numEvents": 6,
+        "userId": "SBFtCy8keB",
+        "name": "Chris Clayton",
+        "numEvents": 4,
         "armies": [
           {
-            "name": "Necrons",
+            "name": "Chaos Space Marines",
             "count": 2,
-            "score": 132.92
-          },
-          {
-            "name": "T'au Empire",
-            "count": 2,
-            "score": 67.5
+            "score": 78.66
           },
           {
             "name": "Tyranids",
             "count": 1,
-            "score": 46.4
+            "score": 127.79
           },
           {
-            "name": "Drukhari",
+            "name": "Chaos Daemons",
             "count": 1,
-            "score": 37.1
+            "score": 71.4
           }
         ],
         "teams": [
           {
-            "name": "wardice",
+            "name": "Amsterdamned Wargaming",
             "count": 3
           }
         ],
         "events": [
           {
-            "name": "The Wardice Wargames",
-            "eventId": "1VL5Q9N931",
-            "numberOfRounds": 3,
-            "eventDtcScore": "68.12",
-            "userId": "4FUCUA3GN5",
-            "army": "Necrons",
-            "usedForRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 3",
-            "eventId": "2GF3QD8ND8",
-            "numberOfRounds": 3,
-            "eventDtcScore": "21.60",
-            "userId": "4FUCUA3GN5",
-            "army": "T'au Empire",
-            "usedForRankings": true
-          },
-          {
-            "name": "The North Sea Slam ",
-            "eventId": "KrOTAvw7D3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "46.40",
-            "userId": "4FUCUA3GN5",
+            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
+            "eventId": "0ackWtobNR",
+            "numberOfRounds": 6,
+            "eventDtcScore": "127.79",
+            "userId": "SBFtCy8keB",
             "army": "Tyranids",
-            "team": "wardice",
+            "team": "Amsterdamned Wargaming",
             "usedForRankings": true
           },
           {
-            "name": "The Wardice Wargames",
-            "eventId": "PjPrY9LVfk",
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "Px7AnXgrep",
             "numberOfRounds": 3,
-            "eventDtcScore": "64.80",
-            "userId": "4FUCUA3GN5",
-            "army": "Necrons",
-            "team": "wardice",
+            "eventDtcScore": "62.65",
+            "userId": "SBFtCy8keB",
+            "army": "Chaos Space Marines",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "16.01",
+            "userId": "SBFtCy8keB",
+            "army": "Chaos Space Marines",
             "usedForRankings": true
           },
           {
             "name": "Feast Of Blades February RTT 2",
             "eventId": "iZorJvRmlT",
             "numberOfRounds": 3,
-            "eventDtcScore": "45.90",
-            "userId": "4FUCUA3GN5",
-            "army": "T'au Empire",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades April GT",
-            "eventId": "zOLbwSg125",
-            "numberOfRounds": 6,
-            "eventDtcScore": "37.10",
-            "userId": "4FUCUA3GN5",
-            "army": "Drukhari",
-            "team": "wardice",
+            "eventDtcScore": "71.40",
+            "userId": "SBFtCy8keB",
+            "army": "Chaos Daemons",
+            "team": "Amsterdamned Wargaming",
             "usedForRankings": true
           }
         ],
-        "numWins": 12,
-        "totalRank": 55,
-        "averageRank": "9.2",
-        "dtcScore": "283.92",
+        "numWins": 10,
+        "totalRank": 25,
+        "averageRank": "6.3",
+        "dtcScore": "277.85",
         "rank": 17
       },
       {
@@ -1741,71 +1798,6 @@
         "rank": 18
       },
       {
-        "userId": "SBFtCy8keB",
-        "name": "Chris Clayton",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Tyranids",
-            "count": 1,
-            "score": 127.79
-          },
-          {
-            "name": "Chaos Space Marines",
-            "count": 1,
-            "score": 62.65
-          },
-          {
-            "name": "Chaos Daemons",
-            "count": 1,
-            "score": 71.4
-          }
-        ],
-        "teams": [
-          {
-            "name": "Amsterdamned Wargaming",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
-            "eventId": "0ackWtobNR",
-            "numberOfRounds": 6,
-            "eventDtcScore": "127.79",
-            "userId": "SBFtCy8keB",
-            "army": "Tyranids",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "Px7AnXgrep",
-            "numberOfRounds": 3,
-            "eventDtcScore": "62.65",
-            "userId": "SBFtCy8keB",
-            "army": "Chaos Space Marines",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "71.40",
-            "userId": "SBFtCy8keB",
-            "army": "Chaos Daemons",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 10,
-        "totalRank": 6,
-        "averageRank": "2.0",
-        "dtcScore": "261.84",
-        "rank": 19
-      },
-      {
         "userId": "H8Y33Q194W",
         "name": "Adam Jagich",
         "numEvents": 4,
@@ -1872,6 +1864,83 @@
         "totalRank": 24,
         "averageRank": "6.0",
         "dtcScore": "261.45",
+        "rank": 19
+      },
+      {
+        "userId": "fOQUt2qkaz",
+        "name": "Florian den Uijl",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 2,
+            "score": 96.9
+          },
+          {
+            "name": "Unknown",
+            "count": 1,
+            "score": 47.67
+          },
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 112.1
+          }
+        ],
+        "teams": [
+          {
+            "name": "Valhalla games club",
+            "count": 1
+          },
+          {
+            "name": "Valhalla Gaming Club",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "TABLETOP KINGS",
+            "eventId": "1WW0DARNAF",
+            "numberOfRounds": 3,
+            "eventDtcScore": "47.67",
+            "userId": "fOQUt2qkaz",
+            "army": "Unknown",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 1",
+            "eventId": "UshxMJ6bDE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "61.20",
+            "userId": "fOQUt2qkaz",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "112.10",
+            "userId": "fOQUt2qkaz",
+            "army": "Thousand Sons",
+            "team": "Valhalla games club",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "35.70",
+            "userId": "fOQUt2qkaz",
+            "army": "Adeptus Mechanicus",
+            "team": "Valhalla Gaming Club",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 9.5,
+        "totalRank": 18,
+        "averageRank": "4.5",
+        "dtcScore": "256.67",
         "rank": 20
       },
       {
@@ -1987,6 +2056,305 @@
         "rank": 21
       },
       {
+        "userId": "oPYw7BAg15",
+        "name": "Guus van den Berg",
+        "numEvents": 9,
+        "armies": [
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 7,
+            "score": 310.37
+          },
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 33.01
+          },
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 9.53
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
+            "eventId": "0ackWtobNR",
+            "numberOfRounds": 6,
+            "eventDtcScore": "54.06",
+            "userId": "oPYw7BAg15",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 3 RottenHammer",
+            "eventId": "8J39VRBMHR",
+            "numberOfRounds": 3,
+            "eventDtcScore": "10.80",
+            "userId": "oPYw7BAg15",
+            "excludeScore": true,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": false
+          },
+          {
+            "name": "Carnage in Capelle 4 RottenHammer",
+            "eventId": "GD2L58D4VQ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "49.30",
+            "userId": "oPYw7BAg15",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades September RTT",
+            "eventId": "GREc9UOagr",
+            "numberOfRounds": 3,
+            "eventDtcScore": "39.39",
+            "userId": "oPYw7BAg15",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true
+          },
+          {
+            "name": "Alliance Open 40 Masters GT",
+            "eventId": "J19U194A3W",
+            "numberOfRounds": 5,
+            "eventDtcScore": "71.75",
+            "userId": "oPYw7BAg15",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 5 RottenHammer",
+            "eventId": "Q9PYUFVJKX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "33.01",
+            "userId": "oPYw7BAg15",
+            "army": "Iron Hands",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades May RTT ",
+            "eventId": "RgQ4y7kdmt",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.53",
+            "userId": "oPYw7BAg15",
+            "excludeScore": true,
+            "army": "Death Korps",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "37.37",
+            "userId": "oPYw7BAg15",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades April GT",
+            "eventId": "zOLbwSg125",
+            "numberOfRounds": 6,
+            "eventDtcScore": "47.70",
+            "userId": "oPYw7BAg15",
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": false
+          }
+        ],
+        "numWins": 13,
+        "totalRank": 132,
+        "averageRank": "14.7",
+        "dtcScore": "247.51",
+        "rank": 22
+      },
+      {
+        "userId": "eOFVEEMOEb",
+        "name": "mitchell klein",
+        "numEvents": 7,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 5,
+            "score": 180.37
+          },
+          {
+            "name": "Grey Knights",
+            "count": 2,
+            "score": 65.3
+          }
+        ],
+        "teams": [
+          {
+            "name": "RottenHammer",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "IRONMAN Rotterdam Rumble ",
+            "eventId": "1c5aDIFn1I",
+            "numberOfRounds": 5,
+            "eventDtcScore": "39.20",
+            "userId": "eOFVEEMOEb",
+            "army": "Grey Knights",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 3 RottenHammer",
+            "eventId": "8J39VRBMHR",
+            "numberOfRounds": 3,
+            "eventDtcScore": "32.40",
+            "userId": "eOFVEEMOEb",
+            "army": "Tyranids",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 4 RottenHammer",
+            "eventId": "GD2L58D4VQ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "26.10",
+            "userId": "eOFVEEMOEb",
+            "army": "Grey Knights",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          },
+          {
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "HFfdUPU6x5",
+            "numberOfRounds": 3,
+            "eventDtcScore": "42.66",
+            "userId": "eOFVEEMOEb",
+            "army": "Tyranids",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 5 RottenHammer",
+            "eventId": "Q9PYUFVJKX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "30.65",
+            "userId": "eOFVEEMOEb",
+            "army": "Hive Fleet Behemoth",
+            "team": "RottenHammer",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "64.06",
+            "userId": "eOFVEEMOEb",
+            "army": "Tyranids",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades April GT",
+            "eventId": "zOLbwSg125",
+            "numberOfRounds": 6,
+            "eventDtcScore": "10.60",
+            "userId": "eOFVEEMOEb",
+            "army": "Hive Fleet Behemoth",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 9.5,
+        "totalRank": 106,
+        "averageRank": "15.1",
+        "dtcScore": "245.67",
+        "rank": 23
+      },
+      {
+        "userId": "aCgNrvM5ko",
+        "name": "Thomas Verkooijen",
+        "numEvents": 6,
+        "armies": [
+          {
+            "name": "Adeptus Custodes",
+            "count": 5,
+            "score": 219.62
+          },
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 21.35
+          }
+        ],
+        "teams": [
+          {
+            "name": "Thomas' Angels",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
+            "eventId": "0ackWtobNR",
+            "numberOfRounds": 6,
+            "eventDtcScore": "93.38",
+            "userId": "aCgNrvM5ko",
+            "army": "Adeptus Custodes",
+            "team": "Thomas' Angels",
+            "usedForRankings": true
+          },
+          {
+            "name": "Carnage in Capelle 5 RottenHammer",
+            "eventId": "Q9PYUFVJKX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "54.24",
+            "userId": "aCgNrvM5ko",
+            "army": "Adeptus Custodes",
+            "team": "Thomas' Angels",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 1",
+            "eventId": "UshxMJ6bDE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "45.90",
+            "userId": "aCgNrvM5ko",
+            "army": "Adeptus Custodes",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "21.35",
+            "userId": "aCgNrvM5ko",
+            "army": "Fallen",
+            "team": "Thomas' Angels",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "10.20",
+            "userId": "aCgNrvM5ko",
+            "army": "Adeptus Custodes",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades April GT",
+            "eventId": "zOLbwSg125",
+            "numberOfRounds": 6,
+            "eventDtcScore": "15.90",
+            "userId": "aCgNrvM5ko",
+            "army": "Adeptus Custodes",
+            "team": "Thomas' Angels",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 10,
+        "totalRank": 78,
+        "averageRank": "13.0",
+        "dtcScore": "240.97",
+        "rank": 24
+      },
+      {
         "userId": "doASAKgaUX",
         "name": "Cees Jan Stam",
         "numEvents": 3,
@@ -2039,7 +2407,7 @@
         "totalRank": 11,
         "averageRank": "3.7",
         "dtcScore": "239.80",
-        "rank": 22
+        "rank": 25
       },
       {
         "userId": "hTG9QzuNQW",
@@ -2116,7 +2484,7 @@
         "totalRank": 54,
         "averageRank": "10.8",
         "dtcScore": "226.34",
-        "rank": 23
+        "rank": 26
       },
       {
         "userId": "anABDkvHAC",
@@ -2197,7 +2565,7 @@
         "totalRank": 70,
         "averageRank": "11.7",
         "dtcScore": "226.27",
-        "rank": 24
+        "rank": 27
       },
       {
         "userId": "NYLcU6mpnw",
@@ -2269,80 +2637,7 @@
         "totalRank": 26,
         "averageRank": "6.5",
         "dtcScore": "223.94",
-        "rank": 25
-      },
-      {
-        "userId": "aCgNrvM5ko",
-        "name": "Thomas Verkooijen",
-        "numEvents": 5,
-        "armies": [
-          {
-            "name": "Adeptus Custodes",
-            "count": 5,
-            "score": 219.62
-          }
-        ],
-        "teams": [
-          {
-            "name": "Thomas' Angels",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters GT 6 rounds DTC40K qualifier",
-            "eventId": "0ackWtobNR",
-            "numberOfRounds": 6,
-            "eventDtcScore": "93.38",
-            "userId": "aCgNrvM5ko",
-            "army": "Adeptus Custodes",
-            "team": "Thomas' Angels",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 5 RottenHammer",
-            "eventId": "Q9PYUFVJKX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "54.24",
-            "userId": "aCgNrvM5ko",
-            "army": "Adeptus Custodes",
-            "team": "Thomas' Angels",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 1",
-            "eventId": "UshxMJ6bDE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "45.90",
-            "userId": "aCgNrvM5ko",
-            "army": "Adeptus Custodes",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "10.20",
-            "userId": "aCgNrvM5ko",
-            "army": "Adeptus Custodes",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades April GT",
-            "eventId": "zOLbwSg125",
-            "numberOfRounds": 6,
-            "eventDtcScore": "15.90",
-            "userId": "aCgNrvM5ko",
-            "army": "Adeptus Custodes",
-            "team": "Thomas' Angels",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 10,
-        "totalRank": 60,
-        "averageRank": "12.0",
-        "dtcScore": "219.62",
-        "rank": 26
+        "rank": 28
       },
       {
         "userId": "AOIaD4FIFe",
@@ -2409,7 +2704,7 @@
         "totalRank": 49,
         "averageRank": "12.3",
         "dtcScore": "216.37",
-        "rank": 27
+        "rank": 29
       },
       {
         "userId": "vAZ2RllJSj",
@@ -2474,7 +2769,7 @@
         "totalRank": 23,
         "averageRank": "7.7",
         "dtcScore": "210.53",
-        "rank": 28
+        "rank": 30
       },
       {
         "userId": "Ci8drOUGlg",
@@ -2534,7 +2829,7 @@
         "totalRank": 19,
         "averageRank": "6.3",
         "dtcScore": "195.17",
-        "rank": 29
+        "rank": 31
       },
       {
         "userId": "A4RPL9G4HB",
@@ -2588,7 +2883,7 @@
         "totalRank": 33,
         "averageRank": "11.0",
         "dtcScore": "193.40",
-        "rank": 30
+        "rank": 32
       },
       {
         "userId": "FFnduPdfzJ",
@@ -2651,7 +2946,7 @@
         "totalRank": 39,
         "averageRank": "13.0",
         "dtcScore": "191.49",
-        "rank": 31
+        "rank": 33
       },
       {
         "userId": "m1Cf1dFdAY",
@@ -2715,7 +3010,7 @@
         "totalRank": 41,
         "averageRank": "13.7",
         "dtcScore": "187.42",
-        "rank": 32
+        "rank": 34
       },
       {
         "userId": "sxb9mXkYHY",
@@ -2780,7 +3075,7 @@
         "totalRank": 42,
         "averageRank": "10.5",
         "dtcScore": "186.70",
-        "rank": 33
+        "rank": 35
       },
       {
         "userId": "CaLnU6ybkA",
@@ -2838,96 +3133,7 @@
         "totalRank": 27,
         "averageRank": "9.0",
         "dtcScore": "185.72",
-        "rank": 34
-      },
-      {
-        "userId": "eOFVEEMOEb",
-        "name": "mitchell klein",
-        "numEvents": 6,
-        "armies": [
-          {
-            "name": "Tyranids",
-            "count": 4,
-            "score": 116.31
-          },
-          {
-            "name": "Grey Knights",
-            "count": 2,
-            "score": 65.3
-          }
-        ],
-        "teams": [
-          {
-            "name": "RottenHammer",
-            "count": 5
-          }
-        ],
-        "events": [
-          {
-            "name": "IRONMAN Rotterdam Rumble ",
-            "eventId": "1c5aDIFn1I",
-            "numberOfRounds": 5,
-            "eventDtcScore": "39.20",
-            "userId": "eOFVEEMOEb",
-            "army": "Grey Knights",
-            "team": "RottenHammer",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 3 RottenHammer",
-            "eventId": "8J39VRBMHR",
-            "numberOfRounds": 3,
-            "eventDtcScore": "32.40",
-            "userId": "eOFVEEMOEb",
-            "army": "Tyranids",
-            "team": "RottenHammer",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 4 RottenHammer",
-            "eventId": "GD2L58D4VQ",
-            "numberOfRounds": 3,
-            "eventDtcScore": "26.10",
-            "userId": "eOFVEEMOEb",
-            "army": "Grey Knights",
-            "team": "RottenHammer",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "HFfdUPU6x5",
-            "numberOfRounds": 3,
-            "eventDtcScore": "42.66",
-            "userId": "eOFVEEMOEb",
-            "army": "Tyranids",
-            "team": "RottenHammer",
-            "usedForRankings": true
-          },
-          {
-            "name": "Carnage in Capelle 5 RottenHammer",
-            "eventId": "Q9PYUFVJKX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "30.65",
-            "userId": "eOFVEEMOEb",
-            "army": "Hive Fleet Behemoth",
-            "team": "RottenHammer",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades April GT",
-            "eventId": "zOLbwSg125",
-            "numberOfRounds": 6,
-            "eventDtcScore": "10.60",
-            "userId": "eOFVEEMOEb",
-            "army": "Hive Fleet Behemoth",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 7,
-        "totalRank": 96,
-        "averageRank": "16.0",
-        "dtcScore": "181.61",
-        "rank": 35
+        "rank": 36
       },
       {
         "userId": "MJ5R2P58YV",
@@ -2976,7 +3182,7 @@
         "totalRank": 15,
         "averageRank": "7.5",
         "dtcScore": "176.46",
-        "rank": 36
+        "rank": 37
       },
       {
         "userId": "GLD52F7LC5",
@@ -3028,7 +3234,7 @@
         "totalRank": 31,
         "averageRank": "10.3",
         "dtcScore": "169.95",
-        "rank": 37
+        "rank": 38
       },
       {
         "userId": "ycayO2BvU5",
@@ -3075,17 +3281,17 @@
         "totalRank": 31,
         "averageRank": "10.3",
         "dtcScore": "157.55",
-        "rank": 38
+        "rank": 39
       },
       {
         "userId": "2zxVMGJrNI",
         "name": "David Beckers",
-        "numEvents": 5,
+        "numEvents": 6,
         "armies": [
           {
             "name": "Chaos Knights",
-            "count": 3,
-            "score": 89.67
+            "count": 4,
+            "score": 95.01
           },
           {
             "name": "Leagues of Votann",
@@ -3148,70 +3354,21 @@
             "army": "Leagues of Votann",
             "team": "wardice",
             "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "5.34",
+            "userId": "2zxVMGJrNI",
+            "army": "Chaos Knights",
+            "usedForRankings": true
           }
         ],
         "numWins": 7,
-        "totalRank": 70,
-        "averageRank": "14.0",
-        "dtcScore": "149.77",
-        "rank": 39
-      },
-      {
-        "userId": "fOQUt2qkaz",
-        "name": "Florian den Uijl",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Adeptus Mechanicus",
-            "count": 2,
-            "score": 96.9
-          },
-          {
-            "name": "Unknown",
-            "count": 1,
-            "score": 47.67
-          }
-        ],
-        "teams": [
-          {
-            "name": "Valhalla Gaming Club",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "TABLETOP KINGS",
-            "eventId": "1WW0DARNAF",
-            "numberOfRounds": 3,
-            "eventDtcScore": "47.67",
-            "userId": "fOQUt2qkaz",
-            "army": "Unknown",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 1",
-            "eventId": "UshxMJ6bDE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "61.20",
-            "userId": "fOQUt2qkaz",
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "35.70",
-            "userId": "fOQUt2qkaz",
-            "army": "Adeptus Mechanicus",
-            "team": "Valhalla Gaming Club",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 6,
-        "totalRank": 17,
-        "averageRank": "5.7",
-        "dtcScore": "144.57",
+        "totalRank": 91,
+        "averageRank": "15.2",
+        "dtcScore": "155.11",
         "rank": 40
       },
       {
@@ -3370,6 +3527,100 @@
         "rank": 42
       },
       {
+        "userId": "1MqrA0sGvi",
+        "name": "Thomas Beckers",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 4,
+            "score": 167.57
+          },
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 42.7
+          }
+        ],
+        "teams": [
+          {
+            "name": "Southern Comfort",
+            "count": 2
+          },
+          {
+            "name": "The Eastern Fringe",
+            "count": 1
+          },
+          {
+            "name": "Thomas's Angels ",
+            "count": 1
+          },
+          {
+            "name": "Try Hard Wargaming",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Carnage in Capelle 3 RottenHammer",
+            "eventId": "8J39VRBMHR",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.00",
+            "userId": "1MqrA0sGvi",
+            "army": "Adeptus Astartes",
+            "team": "The Eastern Fringe",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades May RTT ",
+            "eventId": "RgQ4y7kdmt",
+            "numberOfRounds": 3,
+            "eventDtcScore": "19.07",
+            "userId": "1MqrA0sGvi",
+            "army": "Adeptus Astartes",
+            "team": "Thomas's Angels ",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 1",
+            "eventId": "UshxMJ6bDE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "56.10",
+            "userId": "1MqrA0sGvi",
+            "excludeScore": true,
+            "army": "Adeptus Astartes",
+            "team": "Southern Comfort",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "42.70",
+            "userId": "1MqrA0sGvi",
+            "army": "Thousand Sons",
+            "team": "Try Hard Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "20.40",
+            "userId": "1MqrA0sGvi",
+            "excludeScore": true,
+            "army": "Adeptus Astartes",
+            "team": "Southern Comfort",
+            "usedForRankings": false
+          }
+        ],
+        "numWins": 8.5,
+        "totalRank": 42,
+        "averageRank": "8.4",
+        "dtcScore": "133.77",
+        "rank": 43
+      },
+      {
         "userId": "THLUWFDF7D",
         "name": "Barry Bressers",
         "numEvents": 2,
@@ -3416,7 +3667,7 @@
         "totalRank": 28,
         "averageRank": "14.0",
         "dtcScore": "122.07",
-        "rank": 43
+        "rank": 44
       },
       {
         "userId": "Qf5qwD10ar",
@@ -3445,7 +3696,7 @@
         "totalRank": 3,
         "averageRank": 3,
         "dtcScore": "121.90",
-        "rank": 44
+        "rank": 45
       },
       {
         "userId": "GOsC0uLFvq",
@@ -3483,7 +3734,7 @@
         "totalRank": 10,
         "averageRank": "5.0",
         "dtcScore": "114.73",
-        "rank": 45
+        "rank": 46
       },
       {
         "userId": "2MyAt9ekNA",
@@ -3530,7 +3781,54 @@
         "totalRank": 31,
         "averageRank": "10.3",
         "dtcScore": "114.36",
-        "rank": 46
+        "rank": 47
+      },
+      {
+        "userId": "fmlRvdCQqo",
+        "name": "William Waight",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 3,
+            "score": 112.38
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "The Wardice Wargames 3",
+            "eventId": "2GF3QD8ND8",
+            "numberOfRounds": 3,
+            "eventDtcScore": "10.80",
+            "userId": "fmlRvdCQqo",
+            "army": "Adeptus Astartes",
+            "usedForRankings": true
+          },
+          {
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "Px7AnXgrep",
+            "numberOfRounds": 3,
+            "eventDtcScore": "26.85",
+            "userId": "fmlRvdCQqo",
+            "army": "Adeptus Astartes",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "74.73",
+            "userId": "fmlRvdCQqo",
+            "army": "Adeptus Astartes",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 37,
+        "averageRank": "12.3",
+        "dtcScore": "112.38",
+        "rank": 48
       },
       {
         "userId": "DbvgCYEE9a",
@@ -3575,7 +3873,7 @@
         "totalRank": 15,
         "averageRank": "7.5",
         "dtcScore": "111.15",
-        "rank": 47
+        "rank": 49
       },
       {
         "userId": "MTT5A81BT9",
@@ -3630,7 +3928,7 @@
         "totalRank": 50,
         "averageRank": "16.7",
         "dtcScore": "108.92",
-        "rank": 48
+        "rank": 50
       },
       {
         "userId": "NvkOKjD8kO",
@@ -3718,7 +4016,7 @@
         "totalRank": 89,
         "averageRank": "22.3",
         "dtcScore": "108.00",
-        "rank": 49
+        "rank": 51
       },
       {
         "userId": "HiGJBbpMGm",
@@ -3753,7 +4051,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "105.23",
-        "rank": 50
+        "rank": 52
       },
       {
         "userId": "92MLK8N5G5",
@@ -3812,7 +4110,7 @@
         "totalRank": 53,
         "averageRank": "17.7",
         "dtcScore": "103.91",
-        "rank": 51
+        "rank": 53
       },
       {
         "userId": "ZRyVn8v3qG",
@@ -3850,7 +4148,7 @@
         "totalRank": 14,
         "averageRank": "7.0",
         "dtcScore": "96.02",
-        "rank": 52
+        "rank": 54
       },
       {
         "userId": "qMHEyRqDHV",
@@ -3885,7 +4183,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "95.67",
-        "rank": 53
+        "rank": 55
       },
       {
         "userId": "OkeiqII4aV",
@@ -3920,7 +4218,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "93.27",
-        "rank": 54
+        "rank": 56
       },
       {
         "userId": "HWDxChNykU",
@@ -3987,82 +4285,36 @@
         "totalRank": 71,
         "averageRank": "17.8",
         "dtcScore": "91.16",
-        "rank": 55
+        "rank": 57
       },
       {
-        "userId": "1MqrA0sGvi",
-        "name": "Thomas Beckers",
-        "numEvents": 4,
+        "userId": "D82YxsnAC8",
+        "name": "Tom Roks",
+        "numEvents": 1,
         "armies": [
           {
-            "name": "Adeptus Astartes",
-            "count": 4,
-            "score": 167.57
+            "name": "Chaos Knights",
+            "count": 1,
+            "score": 90.75
           }
         ],
-        "teams": [
-          {
-            "name": "Southern Comfort",
-            "count": 2
-          },
-          {
-            "name": "The Eastern Fringe",
-            "count": 1
-          },
-          {
-            "name": "Thomas's Angels ",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "Carnage in Capelle 3 RottenHammer",
-            "eventId": "8J39VRBMHR",
-            "numberOfRounds": 3,
-            "eventDtcScore": "72.00",
-            "userId": "1MqrA0sGvi",
-            "army": "Adeptus Astartes",
-            "team": "The Eastern Fringe",
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "90.75",
+            "userId": "D82YxsnAC8",
+            "army": "Chaos Knights",
             "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades May RTT ",
-            "eventId": "RgQ4y7kdmt",
-            "numberOfRounds": 3,
-            "eventDtcScore": "19.07",
-            "userId": "1MqrA0sGvi",
-            "army": "Adeptus Astartes",
-            "team": "Thomas's Angels ",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 1",
-            "eventId": "UshxMJ6bDE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "56.10",
-            "userId": "1MqrA0sGvi",
-            "excludeScore": true,
-            "army": "Adeptus Astartes",
-            "team": "Southern Comfort",
-            "usedForRankings": false
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "20.40",
-            "userId": "1MqrA0sGvi",
-            "excludeScore": true,
-            "army": "Adeptus Astartes",
-            "team": "Southern Comfort",
-            "usedForRankings": false
           }
         ],
-        "numWins": 7,
-        "totalRank": 28,
-        "averageRank": "7.0",
-        "dtcScore": "91.07",
-        "rank": 56
+        "numWins": 3,
+        "totalRank": 5,
+        "averageRank": 5,
+        "dtcScore": "90.75",
+        "rank": 58
       },
       {
         "userId": "F8AHw2ib7x",
@@ -4106,7 +4358,7 @@
         "totalRank": 41,
         "averageRank": "20.5",
         "dtcScore": "88.94",
-        "rank": 57
+        "rank": 59
       },
       {
         "userId": "f6vUmsHLNv",
@@ -4153,7 +4405,7 @@
         "totalRank": 41,
         "averageRank": "13.7",
         "dtcScore": "86.78",
-        "rank": 58
+        "rank": 60
       },
       {
         "userId": "72NCAEEUG3",
@@ -4218,7 +4470,7 @@
         "totalRank": 86,
         "averageRank": "17.2",
         "dtcScore": "82.47",
-        "rank": 59
+        "rank": 61
       },
       {
         "userId": "1L6C42HXTX",
@@ -4247,7 +4499,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "81.32",
-        "rank": 60
+        "rank": 62
       },
       {
         "userId": "6Y8BD2KGHD",
@@ -4291,7 +4543,7 @@
         "totalRank": 44,
         "averageRank": "22.0",
         "dtcScore": "81.26",
-        "rank": 61
+        "rank": 63
       },
       {
         "userId": "WGKVVdWGJ4",
@@ -4320,7 +4572,7 @@
         "totalRank": 16,
         "averageRank": 16,
         "dtcScore": "78.92",
-        "rank": 62
+        "rank": 64
       },
       {
         "userId": "M88H6XP8E1",
@@ -4394,7 +4646,7 @@
         "totalRank": 99,
         "averageRank": "19.8",
         "dtcScore": "77.06",
-        "rank": 63
+        "rank": 65
       },
       {
         "userId": "fNYTUpbraZ",
@@ -4471,7 +4723,7 @@
         "totalRank": 97,
         "averageRank": "19.4",
         "dtcScore": "74.67",
-        "rank": 64
+        "rank": 66
       },
       {
         "userId": "r5y9C4EDtx",
@@ -4500,7 +4752,7 @@
         "totalRank": 13,
         "averageRank": 13,
         "dtcScore": "73.72",
-        "rank": 65
+        "rank": 67
       },
       {
         "userId": "UiMfZw9t11",
@@ -4552,7 +4804,7 @@
         "totalRank": 42,
         "averageRank": "14.0",
         "dtcScore": "72.74",
-        "rank": 66
+        "rank": 68
       },
       {
         "userId": "qS4KmlF7Mj",
@@ -4620,7 +4872,7 @@
         "totalRank": 69,
         "averageRank": "17.3",
         "dtcScore": "71.53",
-        "rank": 67
+        "rank": 69
       },
       {
         "userId": "HY6E0VDR23",
@@ -4649,7 +4901,42 @@
         "totalRank": 1,
         "averageRank": 1,
         "dtcScore": "71.00",
-        "rank": 68
+        "rank": 70
+      },
+      {
+        "userId": "7EzFInhtYL",
+        "name": "Jochem Warmenhoven",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 69.4
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "69.40",
+            "userId": "7EzFInhtYL",
+            "army": "Chaos Space Marines",
+            "team": "wardice",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2.5,
+        "totalRank": 9,
+        "averageRank": 9,
+        "dtcScore": "69.40",
+        "rank": 71
       },
       {
         "userId": "nsWAsQLyy9",
@@ -4678,7 +4965,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "69.36",
-        "rank": 69
+        "rank": 72
       },
       {
         "userId": "25BXGACMEU",
@@ -4707,7 +4994,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "68.81",
-        "rank": 70
+        "rank": 73
       },
       {
         "userId": "H2ekuoCzIe",
@@ -4760,7 +5047,7 @@
         "totalRank": 56,
         "averageRank": "18.7",
         "dtcScore": "67.04",
-        "rank": 71
+        "rank": 74
       },
       {
         "userId": "FIvWHCGzmv",
@@ -4813,7 +5100,7 @@
         "totalRank": 44,
         "averageRank": "14.7",
         "dtcScore": "66.27",
-        "rank": 72
+        "rank": 75
       },
       {
         "userId": "ASv7YffR0l",
@@ -4848,7 +5135,7 @@
         "totalRank": 3,
         "averageRank": 3,
         "dtcScore": "65.64",
-        "rank": 73
+        "rank": 76
       },
       {
         "userId": "15GCn7em5M",
@@ -4893,7 +5180,7 @@
         "totalRank": 25,
         "averageRank": "12.5",
         "dtcScore": "64.73",
-        "rank": 74
+        "rank": 77
       },
       {
         "userId": "9WDN03KDPR",
@@ -4928,7 +5215,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "64.58",
-        "rank": 75
+        "rank": 78
       },
       {
         "userId": "rErhoVCPjJ",
@@ -4963,7 +5250,7 @@
         "totalRank": 2,
         "averageRank": 2,
         "dtcScore": "63.90",
-        "rank": 76
+        "rank": 79
       },
       {
         "userId": "WN0D19HQMJ",
@@ -5012,7 +5299,7 @@
         "totalRank": 52,
         "averageRank": "26.0",
         "dtcScore": "62.30",
-        "rank": 77
+        "rank": 80
       },
       {
         "userId": "GAQX4KLFL2",
@@ -5041,7 +5328,7 @@
         "totalRank": 23,
         "averageRank": 23,
         "dtcScore": "62.18",
-        "rank": 78
+        "rank": 81
       },
       {
         "userId": "OVJxyn0EU4",
@@ -5100,7 +5387,7 @@
         "totalRank": 53,
         "averageRank": "17.7",
         "dtcScore": "61.98",
-        "rank": 79
+        "rank": 82
       },
       {
         "userId": "3FQ9TwHEI3",
@@ -5129,7 +5416,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "61.20",
-        "rank": 80
+        "rank": 83
       },
       {
         "userId": "HE7UB31UV7",
@@ -5158,7 +5445,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "61.20",
-        "rank": 81
+        "rank": 84
       },
       {
         "userId": "2BPXVXRWUN",
@@ -5201,7 +5488,7 @@
         "totalRank": 50,
         "averageRank": "25.0",
         "dtcScore": "61.13",
-        "rank": 82
+        "rank": 85
       },
       {
         "userId": "KN551ZmT5m",
@@ -5248,7 +5535,7 @@
         "totalRank": 54,
         "averageRank": "18.0",
         "dtcScore": "60.92",
-        "rank": 83
+        "rank": 86
       },
       {
         "userId": "TlATr9MSrX",
@@ -5277,7 +5564,70 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "60.90",
-        "rank": 84
+        "rank": 87
+      },
+      {
+        "userId": "LdfriAMeoT",
+        "name": "Jan van Geldrop",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Chaos Daemons",
+            "count": 1,
+            "score": 14.2
+          },
+          {
+            "name": "Chaos Knights",
+            "count": 1,
+            "score": 14.35
+          },
+          {
+            "name": "Death Guard",
+            "count": 1,
+            "score": 32.03
+          }
+        ],
+        "teams": [
+          {
+            "name": "Team Edward",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Basement Brawl IV",
+            "eventId": "2B5m1covDt",
+            "numberOfRounds": 3,
+            "eventDtcScore": "14.20",
+            "userId": "LdfriAMeoT",
+            "army": "Chaos Daemons",
+            "usedForRankings": true
+          },
+          {
+            "name": "Alliance Open 40 Masters GT",
+            "eventId": "J19U194A3W",
+            "numberOfRounds": 5,
+            "eventDtcScore": "14.35",
+            "userId": "LdfriAMeoT",
+            "army": "Chaos Knights",
+            "team": "Team Edward",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "32.03",
+            "userId": "LdfriAMeoT",
+            "army": "Death Guard",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 1.5,
+        "totalRank": 68,
+        "averageRank": "22.7",
+        "dtcScore": "60.58",
+        "rank": 88
       },
       {
         "userId": "YGG8VMYJPW",
@@ -5306,7 +5656,36 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "60.55",
-        "rank": 85
+        "rank": 89
+      },
+      {
+        "userId": "6UBC215W79",
+        "name": "Maciej Cyzio",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 58.72
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "58.72",
+            "userId": "6UBC215W79",
+            "army": "Chaos Space Marines",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 11,
+        "averageRank": 11,
+        "dtcScore": "58.72",
+        "rank": 90
       },
       {
         "userId": "3D187RXMPD",
@@ -5335,7 +5714,7 @@
         "totalRank": 6,
         "averageRank": 6,
         "dtcScore": "58.00",
-        "rank": 86
+        "rank": 91
       },
       {
         "userId": "LjtfGqy9dh",
@@ -5364,7 +5743,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "57.60",
-        "rank": 87
+        "rank": 92
       },
       {
         "userId": "U0VhFRlFBh",
@@ -5393,7 +5772,7 @@
         "totalRank": 25,
         "averageRank": 25,
         "dtcScore": "57.40",
-        "rank": 88
+        "rank": 93
       },
       {
         "userId": "GAvFY10IlS",
@@ -5422,7 +5801,7 @@
         "totalRank": 3,
         "averageRank": 3,
         "dtcScore": "56.80",
-        "rank": 89
+        "rank": 94
       },
       {
         "userId": "gKTCB3gQ02",
@@ -5451,7 +5830,7 @@
         "totalRank": 16,
         "averageRank": 16,
         "dtcScore": "53.00",
-        "rank": 90
+        "rank": 95
       },
       {
         "userId": "E2qLXTzBxe",
@@ -5486,7 +5865,7 @@
         "totalRank": 6,
         "averageRank": 6,
         "dtcScore": "52.98",
-        "rank": 91
+        "rank": 96
       },
       {
         "userId": "2TNG4LQGY1",
@@ -5521,7 +5900,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "51.88",
-        "rank": 92
+        "rank": 97
       },
       {
         "userId": "tcSdB2eHtj",
@@ -5556,7 +5935,7 @@
         "totalRank": 28,
         "averageRank": 28,
         "dtcScore": "50.22",
-        "rank": 93
+        "rank": 98
       },
       {
         "userId": "xAHG8rotJ3",
@@ -5599,7 +5978,7 @@
         "totalRank": 32,
         "averageRank": "16.0",
         "dtcScore": "50.02",
-        "rank": 94
+        "rank": 99
       },
       {
         "userId": "D8MTJJKL8A",
@@ -5628,7 +6007,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "49.70",
-        "rank": 95
+        "rank": 100
       },
       {
         "userId": "XAgbliWrTL",
@@ -5663,7 +6042,7 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "49.19",
-        "rank": 96
+        "rank": 101
       },
       {
         "userId": "Q9CKZAF7Bh",
@@ -5698,7 +6077,7 @@
         "totalRank": 29,
         "averageRank": 29,
         "dtcScore": "47.83",
-        "rank": 97
+        "rank": 102
       },
       {
         "userId": "l7sWpk8knX",
@@ -5727,7 +6106,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "46.40",
-        "rank": 98
+        "rank": 103
       },
       {
         "userId": "tTAmEHjRVo",
@@ -5756,7 +6135,7 @@
         "totalRank": 8,
         "averageRank": 8,
         "dtcScore": "45.41",
-        "rank": 99
+        "rank": 104
       },
       {
         "userId": "dEfc4CQn9O",
@@ -5791,7 +6170,7 @@
         "totalRank": 13,
         "averageRank": 13,
         "dtcScore": "44.80",
-        "rank": 100
+        "rank": 105
       },
       {
         "userId": "OHQuM6gp76",
@@ -5820,7 +6199,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "43.50",
-        "rank": 101
+        "rank": 106
       },
       {
         "userId": "ZEdDEdiPdp",
@@ -5855,7 +6234,7 @@
         "totalRank": 31,
         "averageRank": 31,
         "dtcScore": "43.05",
-        "rank": 102
+        "rank": 107
       },
       {
         "userId": "CT9MTXB661",
@@ -5884,7 +6263,7 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "42.90",
-        "rank": 103
+        "rank": 108
       },
       {
         "userId": "uPfQJhyfTR",
@@ -5913,7 +6292,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "42.60",
-        "rank": 104
+        "rank": 109
       },
       {
         "userId": "t4Sp8sAm7P",
@@ -5957,7 +6336,7 @@
         "totalRank": 36,
         "averageRank": "18.0",
         "dtcScore": "42.47",
-        "rank": 105
+        "rank": 110
       },
       {
         "userId": "peqyreNysd",
@@ -5986,7 +6365,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "41.63",
-        "rank": 106
+        "rank": 111
       },
       {
         "userId": "af5H6D0ztS",
@@ -6015,7 +6394,7 @@
         "totalRank": 12,
         "averageRank": 12,
         "dtcScore": "40.60",
-        "rank": 107
+        "rank": 112
       },
       {
         "userId": "8HBVVF80R1",
@@ -6050,7 +6429,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "40.09",
-        "rank": 108
+        "rank": 113
       },
       {
         "userId": "6ien5i3UEb",
@@ -6115,45 +6494,7 @@
         "totalRank": 65,
         "averageRank": "21.7",
         "dtcScore": "39.51",
-        "rank": 109
-      },
-      {
-        "userId": "fmlRvdCQqo",
-        "name": "William Waight",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 2,
-            "score": 37.65
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "The Wardice Wargames 3",
-            "eventId": "2GF3QD8ND8",
-            "numberOfRounds": 3,
-            "eventDtcScore": "10.80",
-            "userId": "fmlRvdCQqo",
-            "army": "Adeptus Astartes",
-            "usedForRankings": true
-          },
-          {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "Px7AnXgrep",
-            "numberOfRounds": 3,
-            "eventDtcScore": "26.85",
-            "userId": "fmlRvdCQqo",
-            "army": "Adeptus Astartes",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 1.5,
-        "totalRank": 29,
-        "averageRank": "14.5",
-        "dtcScore": "37.65",
-        "rank": 110
+        "rank": 114
       },
       {
         "userId": "AUVWDFLETW",
@@ -6188,7 +6529,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "36.00",
-        "rank": 111
+        "rank": 115
       },
       {
         "userId": "5lpLtWypn6",
@@ -6217,7 +6558,7 @@
         "totalRank": 34,
         "averageRank": 34,
         "dtcScore": "35.88",
-        "rank": 112
+        "rank": 116
       },
       {
         "userId": "64467TB2WM",
@@ -6246,7 +6587,7 @@
         "totalRank": 8,
         "averageRank": 8,
         "dtcScore": "35.70",
-        "rank": 113
+        "rank": 117
       },
       {
         "userId": "U8TY6Y0YJT",
@@ -6275,7 +6616,7 @@
         "totalRank": 6,
         "averageRank": 6,
         "dtcScore": "35.50",
-        "rank": 114
+        "rank": 118
       },
       {
         "userId": "MqROm67JZ9",
@@ -6304,7 +6645,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "34.80",
-        "rank": 115
+        "rank": 119
       },
       {
         "userId": "uvmhlJ1ra6",
@@ -6339,7 +6680,7 @@
         "totalRank": 35,
         "averageRank": 35,
         "dtcScore": "33.48",
-        "rank": 116
+        "rank": 120
       },
       {
         "userId": "U18LN2U8KL",
@@ -6368,7 +6709,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "33.37",
-        "rank": 117
+        "rank": 121
       },
       {
         "userId": "MelAMahdMs",
@@ -6397,7 +6738,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "31.90",
-        "rank": 118
+        "rank": 122
       },
       {
         "userId": "3N8MFYLNNV",
@@ -6432,7 +6773,7 @@
         "totalRank": 36,
         "averageRank": 36,
         "dtcScore": "31.09",
-        "rank": 119
+        "rank": 123
       },
       {
         "userId": "oLWC7ArCTG",
@@ -6467,56 +6808,7 @@
         "totalRank": 13,
         "averageRank": 13,
         "dtcScore": "28.80",
-        "rank": 120
-      },
-      {
-        "userId": "LdfriAMeoT",
-        "name": "Jan van Geldrop",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Chaos Daemons",
-            "count": 1,
-            "score": 14.2
-          },
-          {
-            "name": "Chaos Knights",
-            "count": 1,
-            "score": 14.35
-          }
-        ],
-        "teams": [
-          {
-            "name": "Team Edward",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Basement Brawl IV",
-            "eventId": "2B5m1covDt",
-            "numberOfRounds": 3,
-            "eventDtcScore": "14.20",
-            "userId": "LdfriAMeoT",
-            "army": "Chaos Daemons",
-            "usedForRankings": true
-          },
-          {
-            "name": "Alliance Open 40 Masters GT",
-            "eventId": "J19U194A3W",
-            "numberOfRounds": 5,
-            "eventDtcScore": "14.35",
-            "userId": "LdfriAMeoT",
-            "army": "Chaos Knights",
-            "team": "Team Edward",
-            "usedForRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 52,
-        "averageRank": "26.0",
-        "dtcScore": "28.55",
-        "rank": 121
+        "rank": 124
       },
       {
         "userId": "wtcF3NHXUU",
@@ -6551,7 +6843,7 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "28.40",
-        "rank": 122
+        "rank": 125
       },
       {
         "userId": "WQi2JqpQzU",
@@ -6586,7 +6878,36 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "28.30",
-        "rank": 123
+        "rank": 126
+      },
+      {
+        "userId": "L5TB41nv3i",
+        "name": "Richard van Straten",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Space Wolves",
+            "count": 1,
+            "score": 26.69
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "26.69",
+            "userId": "L5TB41nv3i",
+            "army": "Space Wolves",
+            "usedForRankings": true
+          }
+        ],
+        "numWins": 0.5,
+        "totalRank": 17,
+        "averageRank": 17,
+        "dtcScore": "26.69",
+        "rank": 127
       },
       {
         "userId": "TJGCVNKKML",
@@ -6641,7 +6962,7 @@
         "totalRank": 87,
         "averageRank": "29.0",
         "dtcScore": "26.38",
-        "rank": 124
+        "rank": 128
       },
       {
         "userId": "COQiFg8zCQ",
@@ -6670,7 +6991,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "25.50",
-        "rank": 125
+        "rank": 129
       },
       {
         "userId": "YFTQgBC5sm",
@@ -6705,7 +7026,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "25.20",
-        "rank": 126
+        "rank": 130
       },
       {
         "userId": "Bq8yHInztX",
@@ -6748,7 +7069,7 @@
         "totalRank": 66,
         "averageRank": "33.0",
         "dtcScore": "25.08",
-        "rank": 127
+        "rank": 131
       },
       {
         "userId": "Ij8juDKKFC",
@@ -6783,7 +7104,7 @@
         "totalRank": 39,
         "averageRank": 39,
         "dtcScore": "23.92",
-        "rank": 128
+        "rank": 132
       },
       {
         "userId": "LMks8noh2u",
@@ -6812,7 +7133,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "23.83",
-        "rank": 129
+        "rank": 133
       },
       {
         "userId": "DP7CCFEHKL",
@@ -6841,7 +7162,7 @@
         "totalRank": 18,
         "averageRank": 18,
         "dtcScore": "23.20",
-        "rank": 130
+        "rank": 134
       },
       {
         "userId": "NkjhsVr6Jl",
@@ -6899,7 +7220,7 @@
         "totalRank": 85,
         "averageRank": "28.3",
         "dtcScore": "23.02",
-        "rank": 131
+        "rank": 135
       },
       {
         "userId": "aRO9M1nmMx",
@@ -6937,7 +7258,7 @@
         "totalRank": 49,
         "averageRank": "24.5",
         "dtcScore": "22.85",
-        "rank": 132
+        "rank": 136
       },
       {
         "userId": "i8z3NiZYAh",
@@ -6966,7 +7287,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "22.71",
-        "rank": 133
+        "rank": 137
       },
       {
         "userId": "49mGOxqycs",
@@ -6995,7 +7316,7 @@
         "totalRank": 12,
         "averageRank": 12,
         "dtcScore": "22.38",
-        "rank": 134
+        "rank": 138
       },
       {
         "userId": "mFhp7roYqm",
@@ -7030,7 +7351,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "21.60",
-        "rank": 135
+        "rank": 139
       },
       {
         "userId": "rzabCbO3PG",
@@ -7065,7 +7386,7 @@
         "totalRank": 8,
         "averageRank": 8,
         "dtcScore": "21.30",
-        "rank": 136
+        "rank": 140
       },
       {
         "userId": "QyDL6kgpNi",
@@ -7094,7 +7415,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "21.20",
-        "rank": 137
+        "rank": 141
       },
       {
         "userId": "GAvEGQAv0k",
@@ -7129,7 +7450,7 @@
         "totalRank": 41,
         "averageRank": 41,
         "dtcScore": "19.13",
-        "rank": 138
+        "rank": 142
       },
       {
         "userId": "8XKBHFR93J",
@@ -7158,7 +7479,7 @@
         "totalRank": 12,
         "averageRank": 12,
         "dtcScore": "19.07",
-        "rank": 139
+        "rank": 143
       },
       {
         "userId": "KYBJV48XDW",
@@ -7187,7 +7508,7 @@
         "totalRank": 16,
         "averageRank": 16,
         "dtcScore": "18.00",
-        "rank": 140
+        "rank": 144
       },
       {
         "userId": "ZAnGg4i4Gs",
@@ -7216,7 +7537,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "17.40",
-        "rank": 141
+        "rank": 145
       },
       {
         "userId": "ixeSYxmAtb",
@@ -7245,7 +7566,7 @@
         "totalRank": 42,
         "averageRank": 42,
         "dtcScore": "16.74",
-        "rank": 142
+        "rank": 146
       },
       {
         "userId": "WLG9N92YXC",
@@ -7274,7 +7595,7 @@
         "totalRank": 18,
         "averageRank": 18,
         "dtcScore": "16.41",
-        "rank": 143
+        "rank": 147
       },
       {
         "userId": "X4Q473BKNU",
@@ -7303,7 +7624,7 @@
         "totalRank": 21,
         "averageRank": 21,
         "dtcScore": "14.50",
-        "rank": 144
+        "rank": 148
       },
       {
         "userId": "BY5T9XAVLB",
@@ -7332,7 +7653,7 @@
         "totalRank": 19,
         "averageRank": 19,
         "dtcScore": "13.13",
-        "rank": 145
+        "rank": 149
       },
       {
         "userId": "K9R3VVJ2BU",
@@ -7361,7 +7682,7 @@
         "totalRank": 44,
         "averageRank": 44,
         "dtcScore": "11.96",
-        "rank": 146
+        "rank": 150
       },
       {
         "userId": "J64Y1NRQLD",
@@ -7406,7 +7727,7 @@
         "totalRank": 40,
         "averageRank": "20.0",
         "dtcScore": "11.82",
-        "rank": 147
+        "rank": 151
       },
       {
         "userId": "3CsaBwdRVz",
@@ -7441,7 +7762,7 @@
         "totalRank": 27,
         "averageRank": 27,
         "dtcScore": "11.79",
-        "rank": 148
+        "rank": 152
       },
       {
         "userId": "91QL9L0M2B",
@@ -7470,7 +7791,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "11.60",
-        "rank": 149
+        "rank": 153
       },
       {
         "userId": "8DM69jt11O",
@@ -7499,7 +7820,7 @@
         "totalRank": 17,
         "averageRank": 17,
         "dtcScore": "11.35",
-        "rank": 150
+        "rank": 154
       },
       {
         "userId": "ZdvGqaA4gD",
@@ -7534,7 +7855,7 @@
         "totalRank": 28,
         "averageRank": 28,
         "dtcScore": "9.43",
-        "rank": 151
+        "rank": 155
       },
       {
         "userId": "rlGxwEXHID",
@@ -7569,7 +7890,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "8.95",
-        "rank": 152
+        "rank": 156
       },
       {
         "userId": "HP79REUXF1",
@@ -7604,7 +7925,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "7.88",
-        "rank": 153
+        "rank": 157
       },
       {
         "userId": "62V3UH49PK",
@@ -7633,7 +7954,7 @@
         "totalRank": 24,
         "averageRank": 24,
         "dtcScore": "5.80",
-        "rank": 154
+        "rank": 158
       },
       {
         "userId": "cLWiXebqAH",
@@ -7668,7 +7989,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "5.10",
-        "rank": 155
+        "rank": 159
       },
       {
         "userId": "BGQ20FLAY3",
@@ -7697,7 +8018,7 @@
         "totalRank": 27,
         "averageRank": 27,
         "dtcScore": "4.91",
-        "rank": 156
+        "rank": 160
       },
       {
         "userId": "R54R4TK7MP",
@@ -7726,7 +8047,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "4.77",
-        "rank": 157
+        "rank": 161
       },
       {
         "userId": "NNP0HWNVXG",
@@ -7761,7 +8082,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "3.60",
-        "rank": 158
+        "rank": 162
       },
       {
         "userId": "NVY3JKG5MW",
@@ -7796,7 +8117,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "3.28",
-        "rank": 159
+        "rank": 163
       },
       {
         "userId": "61YEGYooym",
@@ -7825,7 +8146,7 @@
         "totalRank": 25,
         "averageRank": 25,
         "dtcScore": "2.90",
-        "rank": 160
+        "rank": 164
       },
       {
         "userId": "TJF3KU9Q5C",
@@ -7860,7 +8181,7 @@
         "totalRank": 48,
         "averageRank": 48,
         "dtcScore": "2.39",
-        "rank": 161
+        "rank": 165
       }
     ]
   },

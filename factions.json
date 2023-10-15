@@ -3,6 +3,198 @@
     "season": "2023",
     "factionRanking": [
       {
+        "name": "Tyranids",
+        "players": [
+          {
+            "userId": "95WJH9Q3KL",
+            "name": "Ron Eliyahoo",
+            "numEvents": 8,
+            "dtcScore": 653.09,
+            "rank": 1
+          },
+          {
+            "userId": "jTKYUfh35b",
+            "name": "Martijn van der Most",
+            "numEvents": 4,
+            "dtcScore": 302.55,
+            "rank": 2
+          },
+          {
+            "userId": "eOFVEEMOEb",
+            "name": "mitchell klein",
+            "numEvents": 5,
+            "dtcScore": 180.37,
+            "rank": 3
+          },
+          {
+            "userId": "MJ5R2P58YV",
+            "name": "Yannis Koutsioukis",
+            "numEvents": 2,
+            "dtcScore": 176.46,
+            "rank": 4
+          },
+          {
+            "userId": "SBFtCy8keB",
+            "name": "Chris Clayton",
+            "numEvents": 1,
+            "dtcScore": 127.79,
+            "rank": 5
+          },
+          {
+            "userId": "M88H6XP8E1",
+            "name": "Ruben Stapel",
+            "numEvents": 5,
+            "dtcScore": 77.06,
+            "rank": 6
+          },
+          {
+            "userId": "oAlaJi0kEF",
+            "name": "Ruben Malschaert",
+            "numEvents": 2,
+            "dtcScore": 64.88,
+            "rank": 7
+          },
+          {
+            "userId": "GAQX4KLFL2",
+            "name": "Korak Schoone",
+            "numEvents": 1,
+            "dtcScore": 62.18,
+            "rank": 8
+          },
+          {
+            "userId": "Ci8drOUGlg",
+            "name": "Ruud Steenbakkers",
+            "numEvents": 1,
+            "dtcScore": 53.7,
+            "rank": 9
+          },
+          {
+            "userId": "4FUCUA3GN5",
+            "name": "Rob Goossens",
+            "numEvents": 1,
+            "dtcScore": 46.4,
+            "rank": 10
+          },
+          {
+            "userId": "l7sWpk8knX",
+            "name": "Jasper Busch",
+            "numEvents": 1,
+            "dtcScore": 46.4,
+            "rank": 11
+          },
+          {
+            "userId": "U18LN2U8KL",
+            "name": "Rhamon Zoelman",
+            "numEvents": 1,
+            "dtcScore": 33.37,
+            "rank": 12
+          },
+          {
+            "userId": "YFTQgBC5sm",
+            "name": "Joost Engelhard",
+            "numEvents": 1,
+            "dtcScore": 25.2,
+            "rank": 13
+          },
+          {
+            "userId": "DP7CCFEHKL",
+            "name": "Randy De Vaan",
+            "numEvents": 1,
+            "dtcScore": 23.2,
+            "rank": 14
+          },
+          {
+            "userId": "BGQ20FLAY3",
+            "name": "Mitchell Klein",
+            "numEvents": 1,
+            "dtcScore": 4.91,
+            "rank": 15
+          }
+        ]
+      },
+      {
+        "name": "Grey Knights",
+        "players": [
+          {
+            "userId": "BYXUUNPEL4",
+            "name": "Daniel Thomassen",
+            "numEvents": 7,
+            "dtcScore": 338.24,
+            "rank": 1
+          },
+          {
+            "userId": "j8WphFYeF8",
+            "name": "Jort Kassies",
+            "numEvents": 2,
+            "dtcScore": 142.49,
+            "rank": 2
+          },
+          {
+            "userId": "95WJH9Q3KL",
+            "name": "Ron Eliyahoo",
+            "numEvents": 2,
+            "dtcScore": 86.7,
+            "rank": 3
+          },
+          {
+            "userId": "92MLK8N5G5",
+            "name": "Remon Singelenberg",
+            "numEvents": 2,
+            "dtcScore": 78.71,
+            "rank": 4
+          },
+          {
+            "userId": "eOFVEEMOEb",
+            "name": "mitchell klein",
+            "numEvents": 2,
+            "dtcScore": 65.3,
+            "rank": 5
+          },
+          {
+            "userId": "yNvCWMm1gz",
+            "name": "Dick van der Harst",
+            "numEvents": 1,
+            "dtcScore": 51,
+            "rank": 6
+          },
+          {
+            "userId": "nQGuaQUkot",
+            "name": "Lennart Lindeman",
+            "numEvents": 1,
+            "dtcScore": 28.6,
+            "rank": 7
+          },
+          {
+            "userId": "NkjhsVr6Jl",
+            "name": "Maarten Geuskens",
+            "numEvents": 2,
+            "dtcScore": 13.17,
+            "rank": 8
+          },
+          {
+            "userId": "J64Y1NRQLD",
+            "name": "Ithamar Dingjan",
+            "numEvents": 2,
+            "dtcScore": 11.82,
+            "rank": 9
+          },
+          {
+            "userId": "rlGxwEXHID",
+            "name": "Matthijs Mentink",
+            "numEvents": 1,
+            "dtcScore": 8.95,
+            "rank": 10
+          },
+          {
+            "userId": "NNP0HWNVXG",
+            "name": "jorni krook",
+            "numEvents": 1,
+            "dtcScore": 3.6,
+            "rank": 11
+          }
+        ]
+      },
+      {
         "name": "Adeptus Astartes",
         "players": [
           {
@@ -15,8 +207,8 @@
           {
             "userId": "cgcimvdJ2E",
             "name": "Coen van der Lee",
-            "numEvents": 3,
-            "dtcScore": 213.43,
+            "numEvents": 4,
+            "dtcScore": 224.11,
             "rank": 2
           },
           {
@@ -34,66 +226,66 @@
             "rank": 4
           },
           {
+            "userId": "fmlRvdCQqo",
+            "name": "William Waight",
+            "numEvents": 3,
+            "dtcScore": 112.38,
+            "rank": 5
+          },
+          {
             "userId": "sdjXWgUjur",
             "name": "Frank van der Vooren",
             "numEvents": 1,
             "dtcScore": 108.13,
-            "rank": 5
+            "rank": 6
           },
           {
             "userId": "6Y8BD2KGHD",
             "name": "Peter Zijderveld",
             "numEvents": 2,
             "dtcScore": 81.26,
-            "rank": 6
+            "rank": 7
           },
           {
             "userId": "HWDxChNykU",
             "name": "Rafael Aletrino",
             "numEvents": 3,
             "dtcScore": 55.06,
-            "rank": 7
+            "rank": 8
           },
           {
             "userId": "NvkOKjD8kO",
             "name": "Bas Riemens",
             "numEvents": 1,
             "dtcScore": 50.4,
-            "rank": 8
+            "rank": 9
           },
           {
             "userId": "OHQuM6gp76",
             "name": "Bart Switijnk",
             "numEvents": 1,
             "dtcScore": 43.5,
-            "rank": 9
+            "rank": 10
           },
           {
             "userId": "t4Sp8sAm7P",
             "name": "dirk klumper",
             "numEvents": 2,
             "dtcScore": 42.47,
-            "rank": 10
+            "rank": 11
           },
           {
             "userId": "xAHG8rotJ3",
             "name": "Rutger van Iperen",
             "numEvents": 1,
             "dtcScore": 42.45,
-            "rank": 11
+            "rank": 12
           },
           {
             "userId": "vAZ2RllJSj",
             "name": "Joshua Conant",
             "numEvents": 1,
             "dtcScore": 37.73,
-            "rank": 12
-          },
-          {
-            "userId": "fmlRvdCQqo",
-            "name": "William Waight",
-            "numEvents": 2,
-            "dtcScore": 37.65,
             "rank": 13
           },
           {
@@ -293,205 +485,13 @@
         ]
       },
       {
-        "name": "Tyranids",
-        "players": [
-          {
-            "userId": "95WJH9Q3KL",
-            "name": "Ron Eliyahoo",
-            "numEvents": 7,
-            "dtcScore": 567.68,
-            "rank": 1
-          },
-          {
-            "userId": "jTKYUfh35b",
-            "name": "Martijn van der Most",
-            "numEvents": 4,
-            "dtcScore": 302.55,
-            "rank": 2
-          },
-          {
-            "userId": "MJ5R2P58YV",
-            "name": "Yannis Koutsioukis",
-            "numEvents": 2,
-            "dtcScore": 176.46,
-            "rank": 3
-          },
-          {
-            "userId": "SBFtCy8keB",
-            "name": "Chris Clayton",
-            "numEvents": 1,
-            "dtcScore": 127.79,
-            "rank": 4
-          },
-          {
-            "userId": "eOFVEEMOEb",
-            "name": "mitchell klein",
-            "numEvents": 4,
-            "dtcScore": 116.31,
-            "rank": 5
-          },
-          {
-            "userId": "M88H6XP8E1",
-            "name": "Ruben Stapel",
-            "numEvents": 5,
-            "dtcScore": 77.06,
-            "rank": 6
-          },
-          {
-            "userId": "oAlaJi0kEF",
-            "name": "Ruben Malschaert",
-            "numEvents": 2,
-            "dtcScore": 64.88,
-            "rank": 7
-          },
-          {
-            "userId": "GAQX4KLFL2",
-            "name": "Korak Schoone",
-            "numEvents": 1,
-            "dtcScore": 62.18,
-            "rank": 8
-          },
-          {
-            "userId": "Ci8drOUGlg",
-            "name": "Ruud Steenbakkers",
-            "numEvents": 1,
-            "dtcScore": 53.7,
-            "rank": 9
-          },
-          {
-            "userId": "4FUCUA3GN5",
-            "name": "Rob Goossens",
-            "numEvents": 1,
-            "dtcScore": 46.4,
-            "rank": 10
-          },
-          {
-            "userId": "l7sWpk8knX",
-            "name": "Jasper Busch",
-            "numEvents": 1,
-            "dtcScore": 46.4,
-            "rank": 11
-          },
-          {
-            "userId": "U18LN2U8KL",
-            "name": "Rhamon Zoelman",
-            "numEvents": 1,
-            "dtcScore": 33.37,
-            "rank": 12
-          },
-          {
-            "userId": "YFTQgBC5sm",
-            "name": "Joost Engelhard",
-            "numEvents": 1,
-            "dtcScore": 25.2,
-            "rank": 13
-          },
-          {
-            "userId": "DP7CCFEHKL",
-            "name": "Randy De Vaan",
-            "numEvents": 1,
-            "dtcScore": 23.2,
-            "rank": 14
-          },
-          {
-            "userId": "BGQ20FLAY3",
-            "name": "Mitchell Klein",
-            "numEvents": 1,
-            "dtcScore": 4.91,
-            "rank": 15
-          }
-        ]
-      },
-      {
-        "name": "Grey Knights",
-        "players": [
-          {
-            "userId": "BYXUUNPEL4",
-            "name": "Daniel Thomassen",
-            "numEvents": 7,
-            "dtcScore": 338.24,
-            "rank": 1
-          },
-          {
-            "userId": "j8WphFYeF8",
-            "name": "Jort Kassies",
-            "numEvents": 2,
-            "dtcScore": 142.49,
-            "rank": 2
-          },
-          {
-            "userId": "95WJH9Q3KL",
-            "name": "Ron Eliyahoo",
-            "numEvents": 2,
-            "dtcScore": 86.7,
-            "rank": 3
-          },
-          {
-            "userId": "92MLK8N5G5",
-            "name": "Remon Singelenberg",
-            "numEvents": 2,
-            "dtcScore": 78.71,
-            "rank": 4
-          },
-          {
-            "userId": "eOFVEEMOEb",
-            "name": "mitchell klein",
-            "numEvents": 2,
-            "dtcScore": 65.3,
-            "rank": 5
-          },
-          {
-            "userId": "yNvCWMm1gz",
-            "name": "Dick van der Harst",
-            "numEvents": 1,
-            "dtcScore": 51,
-            "rank": 6
-          },
-          {
-            "userId": "nQGuaQUkot",
-            "name": "Lennart Lindeman",
-            "numEvents": 1,
-            "dtcScore": 28.6,
-            "rank": 7
-          },
-          {
-            "userId": "NkjhsVr6Jl",
-            "name": "Maarten Geuskens",
-            "numEvents": 2,
-            "dtcScore": 13.17,
-            "rank": 8
-          },
-          {
-            "userId": "J64Y1NRQLD",
-            "name": "Ithamar Dingjan",
-            "numEvents": 2,
-            "dtcScore": 11.82,
-            "rank": 9
-          },
-          {
-            "userId": "rlGxwEXHID",
-            "name": "Matthijs Mentink",
-            "numEvents": 1,
-            "dtcScore": 8.95,
-            "rank": 10
-          },
-          {
-            "userId": "NNP0HWNVXG",
-            "name": "jorni krook",
-            "numEvents": 1,
-            "dtcScore": 3.6,
-            "rank": 11
-          }
-        ]
-      },
-      {
         "name": "Astra Militarum",
         "players": [
           {
             "userId": "aXodFjn9lU",
             "name": "Christian Domburg",
-            "numEvents": 5,
-            "dtcScore": 352.67,
+            "numEvents": 6,
+            "dtcScore": 459.43,
             "rank": 1
           },
           {
@@ -619,17 +619,17 @@
             "rank": 1
           },
           {
+            "userId": "BYXUUNPEL4",
+            "name": "Daniel Thomassen",
+            "numEvents": 2,
+            "dtcScore": 126.68,
+            "rank": 2
+          },
+          {
             "userId": "OkeiqII4aV",
             "name": "Thije Prins",
             "numEvents": 1,
             "dtcScore": 93.27,
-            "rank": 2
-          },
-          {
-            "userId": "BYXUUNPEL4",
-            "name": "Daniel Thomassen",
-            "numEvents": 1,
-            "dtcScore": 78.64,
             "rank": 3
           },
           {
@@ -715,8 +715,8 @@
           {
             "userId": "taF4FcGA4u",
             "name": "Aron Prinsen",
-            "numEvents": 3,
-            "dtcScore": 297.02,
+            "numEvents": 4,
+            "dtcScore": 393.11,
             "rank": 1
           },
           {
@@ -858,6 +858,86 @@
         ]
       },
       {
+        "name": "World Eaters",
+        "players": [
+          {
+            "userId": "h2XgvPvfer",
+            "name": "Josef Levy",
+            "numEvents": 5,
+            "dtcScore": 343.62,
+            "rank": 1
+          },
+          {
+            "userId": "15GCn7em5M",
+            "name": "Michiel Kruijff",
+            "numEvents": 2,
+            "dtcScore": 64.73,
+            "rank": 2
+          },
+          {
+            "userId": "THLUWFDF7D",
+            "name": "Barry Bressers",
+            "numEvents": 1,
+            "dtcScore": 55.1,
+            "rank": 3
+          },
+          {
+            "userId": "NYLcU6mpnw",
+            "name": "Simon Borgers",
+            "numEvents": 1,
+            "dtcScore": 9.53,
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "name": "T'au Empire",
+        "players": [
+          {
+            "userId": "anABDkvHAC",
+            "name": "Reno Van der Zee",
+            "numEvents": 6,
+            "dtcScore": 226.27,
+            "rank": 1
+          },
+          {
+            "userId": "GOsC0uLFvq",
+            "name": "Raymond Oostveen",
+            "numEvents": 2,
+            "dtcScore": 114.73,
+            "rank": 2
+          },
+          {
+            "userId": "h2XgvPvfer",
+            "name": "Josef Levy",
+            "numEvents": 2,
+            "dtcScore": 111.39,
+            "rank": 3
+          },
+          {
+            "userId": "4FUCUA3GN5",
+            "name": "Rob Goossens",
+            "numEvents": 2,
+            "dtcScore": 67.5,
+            "rank": 4
+          },
+          {
+            "userId": "YGG8VMYJPW",
+            "name": "Melvin Plak",
+            "numEvents": 1,
+            "dtcScore": 60.55,
+            "rank": 5
+          },
+          {
+            "userId": "LMks8noh2u",
+            "name": "Freek Manz",
+            "numEvents": 1,
+            "dtcScore": 23.83,
+            "rank": 6
+          }
+        ]
+      },
+      {
         "name": "Chaos Knights",
         "players": [
           {
@@ -870,44 +950,51 @@
           {
             "userId": "2zxVMGJrNI",
             "name": "David Beckers",
-            "numEvents": 3,
-            "dtcScore": 89.67,
+            "numEvents": 4,
+            "dtcScore": 95.01,
             "rank": 2
+          },
+          {
+            "userId": "D82YxsnAC8",
+            "name": "Tom Roks",
+            "numEvents": 1,
+            "dtcScore": 90.75,
+            "rank": 3
           },
           {
             "userId": "GLD52F7LC5",
             "name": "Aat Niehot",
             "numEvents": 2,
             "dtcScore": 69.5,
-            "rank": 3
+            "rank": 4
           },
           {
             "userId": "THLUWFDF7D",
             "name": "Barry Bressers",
             "numEvents": 1,
             "dtcScore": 66.97,
-            "rank": 4
+            "rank": 5
           },
           {
             "userId": "KN551ZmT5m",
             "name": "Florian Booden",
             "numEvents": 3,
             "dtcScore": 60.92,
-            "rank": 5
+            "rank": 6
           },
           {
             "userId": "UiMfZw9t11",
             "name": "Marten Kamerling",
             "numEvents": 1,
             "dtcScore": 15.14,
-            "rank": 6
+            "rank": 7
           },
           {
             "userId": "LdfriAMeoT",
             "name": "Jan van Geldrop",
             "numEvents": 1,
             "dtcScore": 14.35,
-            "rank": 7
+            "rank": 8
           }
         ]
       },
@@ -915,17 +1002,17 @@
         "name": "Necrons",
         "players": [
           {
+            "userId": "4FUCUA3GN5",
+            "name": "Rob Goossens",
+            "numEvents": 3,
+            "dtcScore": 234.34,
+            "rank": 1
+          },
+          {
             "userId": "sxb9mXkYHY",
             "name": "Don Janssen",
             "numEvents": 4,
             "dtcScore": 186.7,
-            "rank": 1
-          },
-          {
-            "userId": "4FUCUA3GN5",
-            "name": "Rob Goossens",
-            "numEvents": 2,
-            "dtcScore": 132.92,
             "rank": 2
           },
           {
@@ -1030,6 +1117,13 @@
             "numEvents": 1,
             "dtcScore": 100.45,
             "rank": 4
+          },
+          {
+            "userId": "L5TB41nv3i",
+            "name": "Richard van Straten",
+            "numEvents": 1,
+            "dtcScore": 26.69,
+            "rank": 5
           }
         ]
       },
@@ -1116,93 +1210,13 @@
         ]
       },
       {
-        "name": "World Eaters",
-        "players": [
-          {
-            "userId": "h2XgvPvfer",
-            "name": "Josef Levy",
-            "numEvents": 5,
-            "dtcScore": 343.62,
-            "rank": 1
-          },
-          {
-            "userId": "15GCn7em5M",
-            "name": "Michiel Kruijff",
-            "numEvents": 2,
-            "dtcScore": 64.73,
-            "rank": 2
-          },
-          {
-            "userId": "THLUWFDF7D",
-            "name": "Barry Bressers",
-            "numEvents": 1,
-            "dtcScore": 55.1,
-            "rank": 3
-          },
-          {
-            "userId": "NYLcU6mpnw",
-            "name": "Simon Borgers",
-            "numEvents": 1,
-            "dtcScore": 9.53,
-            "rank": 4
-          }
-        ]
-      },
-      {
-        "name": "T'au Empire",
-        "players": [
-          {
-            "userId": "anABDkvHAC",
-            "name": "Reno Van der Zee",
-            "numEvents": 6,
-            "dtcScore": 226.27,
-            "rank": 1
-          },
-          {
-            "userId": "GOsC0uLFvq",
-            "name": "Raymond Oostveen",
-            "numEvents": 2,
-            "dtcScore": 114.73,
-            "rank": 2
-          },
-          {
-            "userId": "4FUCUA3GN5",
-            "name": "Rob Goossens",
-            "numEvents": 2,
-            "dtcScore": 67.5,
-            "rank": 3
-          },
-          {
-            "userId": "YGG8VMYJPW",
-            "name": "Melvin Plak",
-            "numEvents": 1,
-            "dtcScore": 60.55,
-            "rank": 4
-          },
-          {
-            "userId": "h2XgvPvfer",
-            "name": "Josef Levy",
-            "numEvents": 1,
-            "dtcScore": 31.32,
-            "rank": 5
-          },
-          {
-            "userId": "LMks8noh2u",
-            "name": "Freek Manz",
-            "numEvents": 1,
-            "dtcScore": 23.83,
-            "rank": 6
-          }
-        ]
-      },
-      {
         "name": "Dark Angels",
         "players": [
           {
             "userId": "fBbz9SqAAE",
             "name": "Daan Van Herk",
-            "numEvents": 8,
-            "dtcScore": 479.47,
+            "numEvents": 9,
+            "dtcScore": 532.85,
             "rank": 1
           },
           {
@@ -1286,6 +1300,53 @@
             "numEvents": 1,
             "dtcScore": 11.6,
             "rank": 3
+          }
+        ]
+      },
+      {
+        "name": "Drukhari",
+        "players": [
+          {
+            "userId": "qMHEyRqDHV",
+            "name": "Youri Ommering",
+            "numEvents": 1,
+            "dtcScore": 95.67,
+            "rank": 1
+          },
+          {
+            "userId": "tcSdB2eHtj",
+            "name": "Frank van der Meij",
+            "numEvents": 1,
+            "dtcScore": 50.22,
+            "rank": 2
+          },
+          {
+            "userId": "Q9CKZAF7Bh",
+            "name": "Jalmar Nijpels",
+            "numEvents": 1,
+            "dtcScore": 47.83,
+            "rank": 3
+          },
+          {
+            "userId": "OVJxyn0EU4",
+            "name": "Sjap Horwitz",
+            "numEvents": 1,
+            "dtcScore": 39.38,
+            "rank": 4
+          },
+          {
+            "userId": "4FUCUA3GN5",
+            "name": "Rob Goossens",
+            "numEvents": 1,
+            "dtcScore": 37.1,
+            "rank": 5
+          },
+          {
+            "userId": "3CsaBwdRVz",
+            "name": "Jivan Wassenaar",
+            "numEvents": 1,
+            "dtcScore": 11.79,
+            "rank": 6
           }
         ]
       },
@@ -1438,13 +1499,109 @@
         ]
       },
       {
+        "name": "Chaos Space Marines",
+        "players": [
+          {
+            "userId": "F8AHw2ib7x",
+            "name": "Alex Werner-Oosterhout",
+            "numEvents": 2,
+            "dtcScore": 88.94,
+            "rank": 1
+          },
+          {
+            "userId": "SBFtCy8keB",
+            "name": "Chris Clayton",
+            "numEvents": 2,
+            "dtcScore": 78.66,
+            "rank": 2
+          },
+          {
+            "userId": "CaLnU6ybkA",
+            "name": "Joey Tittel",
+            "numEvents": 1,
+            "dtcScore": 76.53,
+            "rank": 3
+          },
+          {
+            "userId": "7EzFInhtYL",
+            "name": "Jochem Warmenhoven",
+            "numEvents": 1,
+            "dtcScore": 69.4,
+            "rank": 4
+          },
+          {
+            "userId": "9WDN03KDPR",
+            "name": "Edmeister Flier",
+            "numEvents": 1,
+            "dtcScore": 64.58,
+            "rank": 5
+          },
+          {
+            "userId": "6UBC215W79",
+            "name": "Maciej Cyzio",
+            "numEvents": 1,
+            "dtcScore": 58.72,
+            "rank": 6
+          },
+          {
+            "userId": "U0VhFRlFBh",
+            "name": "Dewie Hajek",
+            "numEvents": 1,
+            "dtcScore": 57.4,
+            "rank": 7
+          },
+          {
+            "userId": "HWDxChNykU",
+            "name": "Rafael Aletrino",
+            "numEvents": 1,
+            "dtcScore": 36.1,
+            "rank": 8
+          },
+          {
+            "userId": "WQi2JqpQzU",
+            "name": "sjon Cornelissen",
+            "numEvents": 1,
+            "dtcScore": 28.3,
+            "rank": 9
+          },
+          {
+            "userId": "aCgNrvM5ko",
+            "name": "Thomas Verkooijen",
+            "numEvents": 1,
+            "dtcScore": 21.35,
+            "rank": 10
+          },
+          {
+            "userId": "ZAnGg4i4Gs",
+            "name": "Delano Wyss",
+            "numEvents": 1,
+            "dtcScore": 17.4,
+            "rank": 11
+          },
+          {
+            "userId": "8DM69jt11O",
+            "name": "Ringer Ringer",
+            "numEvents": 1,
+            "dtcScore": 11.35,
+            "rank": 12
+          },
+          {
+            "userId": "NVY3JKG5MW",
+            "name": "Timon Voormanns",
+            "numEvents": 1,
+            "dtcScore": 3.28,
+            "rank": 13
+          }
+        ]
+      },
+      {
         "name": "Adeptus Mechanicus",
         "players": [
           {
             "userId": "oPYw7BAg15",
             "name": "Guus van den Berg",
-            "numEvents": 6,
-            "dtcScore": 273,
+            "numEvents": 7,
+            "dtcScore": 310.37,
             "rank": 1
           },
           {
@@ -1464,124 +1621,61 @@
         ]
       },
       {
-        "name": "Drukhari",
+        "name": "Unknown",
         "players": [
           {
-            "userId": "qMHEyRqDHV",
-            "name": "Youri Ommering",
+            "userId": "fOQUt2qkaz",
+            "name": "Florian den Uijl",
             "numEvents": 1,
-            "dtcScore": 95.67,
+            "dtcScore": 47.67,
             "rank": 1
           },
           {
-            "userId": "tcSdB2eHtj",
-            "name": "Frank van der Meij",
+            "userId": "xAHG8rotJ3",
+            "name": "Rutger van Iperen",
             "numEvents": 1,
-            "dtcScore": 50.22,
+            "dtcScore": 7.57,
             "rank": 2
-          },
-          {
-            "userId": "Q9CKZAF7Bh",
-            "name": "Jalmar Nijpels",
-            "numEvents": 1,
-            "dtcScore": 47.83,
-            "rank": 3
-          },
-          {
-            "userId": "OVJxyn0EU4",
-            "name": "Sjap Horwitz",
-            "numEvents": 1,
-            "dtcScore": 39.38,
-            "rank": 4
-          },
-          {
-            "userId": "4FUCUA3GN5",
-            "name": "Rob Goossens",
-            "numEvents": 1,
-            "dtcScore": 37.1,
-            "rank": 5
-          },
-          {
-            "userId": "3CsaBwdRVz",
-            "name": "Jivan Wassenaar",
-            "numEvents": 1,
-            "dtcScore": 11.79,
-            "rank": 6
           }
         ]
       },
       {
-        "name": "Chaos Space Marines",
+        "name": "Thousand Sons",
         "players": [
           {
-            "userId": "F8AHw2ib7x",
-            "name": "Alex Werner-Oosterhout",
-            "numEvents": 2,
-            "dtcScore": 88.94,
+            "userId": "fOQUt2qkaz",
+            "name": "Florian den Uijl",
+            "numEvents": 1,
+            "dtcScore": 112.1,
             "rank": 1
           },
           {
-            "userId": "CaLnU6ybkA",
-            "name": "Joey Tittel",
+            "userId": "3D187RXMPD",
+            "name": "Jeroen Steijn",
             "numEvents": 1,
-            "dtcScore": 76.53,
+            "dtcScore": 58,
             "rank": 2
           },
           {
-            "userId": "9WDN03KDPR",
-            "name": "Edmeister Flier",
+            "userId": "1MqrA0sGvi",
+            "name": "Thomas Beckers",
             "numEvents": 1,
-            "dtcScore": 64.58,
+            "dtcScore": 42.7,
             "rank": 3
           },
           {
-            "userId": "SBFtCy8keB",
-            "name": "Chris Clayton",
+            "userId": "KYBJV48XDW",
+            "name": "Dion Van Der Veek",
             "numEvents": 1,
-            "dtcScore": 62.65,
+            "dtcScore": 18,
             "rank": 4
           },
           {
-            "userId": "U0VhFRlFBh",
-            "name": "Dewie Hajek",
+            "userId": "ZdvGqaA4gD",
+            "name": "Joep Houterman-Timmers",
             "numEvents": 1,
-            "dtcScore": 57.4,
+            "dtcScore": 9.43,
             "rank": 5
-          },
-          {
-            "userId": "HWDxChNykU",
-            "name": "Rafael Aletrino",
-            "numEvents": 1,
-            "dtcScore": 36.1,
-            "rank": 6
-          },
-          {
-            "userId": "WQi2JqpQzU",
-            "name": "sjon Cornelissen",
-            "numEvents": 1,
-            "dtcScore": 28.3,
-            "rank": 7
-          },
-          {
-            "userId": "ZAnGg4i4Gs",
-            "name": "Delano Wyss",
-            "numEvents": 1,
-            "dtcScore": 17.4,
-            "rank": 8
-          },
-          {
-            "userId": "8DM69jt11O",
-            "name": "Ringer Ringer",
-            "numEvents": 1,
-            "dtcScore": 11.35,
-            "rank": 9
-          },
-          {
-            "userId": "NVY3JKG5MW",
-            "name": "Timon Voormanns",
-            "numEvents": 1,
-            "dtcScore": 3.28,
-            "rank": 10
           }
         ]
       },
@@ -1645,25 +1739,6 @@
         ]
       },
       {
-        "name": "Unknown",
-        "players": [
-          {
-            "userId": "fOQUt2qkaz",
-            "name": "Florian den Uijl",
-            "numEvents": 1,
-            "dtcScore": 47.67,
-            "rank": 1
-          },
-          {
-            "userId": "xAHG8rotJ3",
-            "name": "Rutger van Iperen",
-            "numEvents": 1,
-            "dtcScore": 7.57,
-            "rank": 2
-          }
-        ]
-      },
-      {
         "name": "Death Guard",
         "players": [
           {
@@ -1674,36 +1749,17 @@
             "rank": 1
           },
           {
+            "userId": "LdfriAMeoT",
+            "name": "Jan van Geldrop",
+            "numEvents": 1,
+            "dtcScore": 32.03,
+            "rank": 2
+          },
+          {
             "userId": "TJGCVNKKML",
             "name": "Mike Jungeling",
             "numEvents": 3,
             "dtcScore": 26.38,
-            "rank": 2
-          }
-        ]
-      },
-      {
-        "name": "Thousand Sons",
-        "players": [
-          {
-            "userId": "3D187RXMPD",
-            "name": "Jeroen Steijn",
-            "numEvents": 1,
-            "dtcScore": 58,
-            "rank": 1
-          },
-          {
-            "userId": "KYBJV48XDW",
-            "name": "Dion Van Der Veek",
-            "numEvents": 1,
-            "dtcScore": 18,
-            "rank": 2
-          },
-          {
-            "userId": "ZdvGqaA4gD",
-            "name": "Joep Houterman-Timmers",
-            "numEvents": 1,
-            "dtcScore": 9.43,
             "rank": 3
           }
         ]
