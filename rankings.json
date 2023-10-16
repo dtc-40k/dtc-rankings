@@ -2772,63 +2772,97 @@
         "rank": 30
       },
       {
-        "userId": "Ci8drOUGlg",
-        "name": "Ruud Steenbakkers",
-        "numEvents": 3,
+        "userId": "1MqrA0sGvi",
+        "name": "Thomas Beckers",
+        "numEvents": 5,
         "armies": [
           {
-            "name": "Aeldari",
-            "count": 2,
-            "score": 141.47
+            "name": "Adeptus Astartes",
+            "count": 4,
+            "score": 167.57
           },
           {
-            "name": "Tyranids",
+            "name": "Thousand Sons",
             "count": 1,
-            "score": 53.7
+            "score": 42.7
           }
         ],
         "teams": [
           {
-            "name": "Glasshammer",
-            "count": 3
+            "name": "Southern Comfort",
+            "count": 2
+          },
+          {
+            "name": "The Eastern Fringe",
+            "count": 1
+          },
+          {
+            "name": "Thomas's Angels ",
+            "count": 1
+          },
+          {
+            "name": "Try Hard Wargaming",
+            "count": 1
           }
         ],
         "events": [
           {
-            "name": "ENTER THE TRAININGCAGES",
-            "eventId": "Px7AnXgrep",
+            "name": "Carnage in Capelle 3 RottenHammer",
+            "eventId": "8J39VRBMHR",
             "numberOfRounds": 3,
-            "eventDtcScore": "53.70",
-            "userId": "Ci8drOUGlg",
-            "army": "Tyranids",
-            "team": "Glasshammer",
+            "eventDtcScore": "72.00",
+            "userId": "1MqrA0sGvi",
+            "army": "Adeptus Astartes",
+            "team": "The Eastern Fringe",
             "usedForRankings": true
           },
           {
             "name": "Feast Of Blades May RTT ",
             "eventId": "RgQ4y7kdmt",
             "numberOfRounds": 3,
-            "eventDtcScore": "61.97",
-            "userId": "Ci8drOUGlg",
-            "army": "Aeldari",
-            "team": "Glasshammer",
+            "eventDtcScore": "19.07",
+            "userId": "1MqrA0sGvi",
+            "army": "Adeptus Astartes",
+            "team": "Thomas's Angels ",
             "usedForRankings": true
           },
           {
-            "name": "Feast Of Blades April GT",
-            "eventId": "zOLbwSg125",
-            "numberOfRounds": 6,
-            "eventDtcScore": "79.50",
-            "userId": "Ci8drOUGlg",
-            "army": "Aeldari",
-            "team": "Glasshammer",
+            "name": "Feast Of Blades February RTT 1",
+            "eventId": "UshxMJ6bDE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "56.10",
+            "userId": "1MqrA0sGvi",
+            "excludeScore": false,
+            "army": "Adeptus Astartes",
+            "team": "Southern Comfort",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades October GT",
+            "eventId": "eicsrZAUFF",
+            "numberOfRounds": 5,
+            "eventDtcScore": "42.70",
+            "userId": "1MqrA0sGvi",
+            "army": "Thousand Sons",
+            "team": "Try Hard Wargaming",
+            "usedForRankings": true
+          },
+          {
+            "name": "Feast Of Blades February RTT 2",
+            "eventId": "iZorJvRmlT",
+            "numberOfRounds": 3,
+            "eventDtcScore": "20.40",
+            "userId": "1MqrA0sGvi",
+            "excludeScore": false,
+            "army": "Adeptus Astartes",
+            "team": "Southern Comfort",
             "usedForRankings": true
           }
         ],
-        "numWins": 7,
-        "totalRank": 19,
-        "averageRank": "6.3",
-        "dtcScore": "195.17",
+        "numWins": 8.5,
+        "totalRank": 42,
+        "averageRank": "8.4",
+        "dtcScore": "210.27",
         "rank": 31
       },
       {
@@ -3527,100 +3561,6 @@
         "rank": 42
       },
       {
-        "userId": "1MqrA0sGvi",
-        "name": "Thomas Beckers",
-        "numEvents": 5,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 4,
-            "score": 167.57
-          },
-          {
-            "name": "Thousand Sons",
-            "count": 1,
-            "score": 42.7
-          }
-        ],
-        "teams": [
-          {
-            "name": "Southern Comfort",
-            "count": 2
-          },
-          {
-            "name": "The Eastern Fringe",
-            "count": 1
-          },
-          {
-            "name": "Thomas's Angels ",
-            "count": 1
-          },
-          {
-            "name": "Try Hard Wargaming",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Carnage in Capelle 3 RottenHammer",
-            "eventId": "8J39VRBMHR",
-            "numberOfRounds": 3,
-            "eventDtcScore": "72.00",
-            "userId": "1MqrA0sGvi",
-            "army": "Adeptus Astartes",
-            "team": "The Eastern Fringe",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades May RTT ",
-            "eventId": "RgQ4y7kdmt",
-            "numberOfRounds": 3,
-            "eventDtcScore": "19.07",
-            "userId": "1MqrA0sGvi",
-            "army": "Adeptus Astartes",
-            "team": "Thomas's Angels ",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 1",
-            "eventId": "UshxMJ6bDE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "56.10",
-            "userId": "1MqrA0sGvi",
-            "excludeScore": true,
-            "army": "Adeptus Astartes",
-            "team": "Southern Comfort",
-            "usedForRankings": false
-          },
-          {
-            "name": "Feast Of Blades October GT",
-            "eventId": "eicsrZAUFF",
-            "numberOfRounds": 5,
-            "eventDtcScore": "42.70",
-            "userId": "1MqrA0sGvi",
-            "army": "Thousand Sons",
-            "team": "Try Hard Wargaming",
-            "usedForRankings": true
-          },
-          {
-            "name": "Feast Of Blades February RTT 2",
-            "eventId": "iZorJvRmlT",
-            "numberOfRounds": 3,
-            "eventDtcScore": "20.40",
-            "userId": "1MqrA0sGvi",
-            "excludeScore": true,
-            "army": "Adeptus Astartes",
-            "team": "Southern Comfort",
-            "usedForRankings": false
-          }
-        ],
-        "numWins": 8.5,
-        "totalRank": 42,
-        "averageRank": "8.4",
-        "dtcScore": "133.77",
-        "rank": 43
-      },
-      {
         "userId": "THLUWFDF7D",
         "name": "Barry Bressers",
         "numEvents": 2,
@@ -3667,7 +3607,7 @@
         "totalRank": 28,
         "averageRank": "14.0",
         "dtcScore": "122.07",
-        "rank": 44
+        "rank": 43
       },
       {
         "userId": "Qf5qwD10ar",
@@ -3696,7 +3636,7 @@
         "totalRank": 3,
         "averageRank": 3,
         "dtcScore": "121.90",
-        "rank": 45
+        "rank": 44
       },
       {
         "userId": "GOsC0uLFvq",
@@ -3734,7 +3674,7 @@
         "totalRank": 10,
         "averageRank": "5.0",
         "dtcScore": "114.73",
-        "rank": 46
+        "rank": 45
       },
       {
         "userId": "2MyAt9ekNA",
@@ -3781,7 +3721,7 @@
         "totalRank": 31,
         "averageRank": "10.3",
         "dtcScore": "114.36",
-        "rank": 47
+        "rank": 46
       },
       {
         "userId": "fmlRvdCQqo",
@@ -3828,7 +3768,7 @@
         "totalRank": 37,
         "averageRank": "12.3",
         "dtcScore": "112.38",
-        "rank": 48
+        "rank": 47
       },
       {
         "userId": "DbvgCYEE9a",
@@ -3873,7 +3813,7 @@
         "totalRank": 15,
         "averageRank": "7.5",
         "dtcScore": "111.15",
-        "rank": 49
+        "rank": 48
       },
       {
         "userId": "MTT5A81BT9",
@@ -3928,7 +3868,7 @@
         "totalRank": 50,
         "averageRank": "16.7",
         "dtcScore": "108.92",
-        "rank": 50
+        "rank": 49
       },
       {
         "userId": "NvkOKjD8kO",
@@ -4016,7 +3956,7 @@
         "totalRank": 89,
         "averageRank": "22.3",
         "dtcScore": "108.00",
-        "rank": 51
+        "rank": 50
       },
       {
         "userId": "HiGJBbpMGm",
@@ -4051,7 +3991,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "105.23",
-        "rank": 52
+        "rank": 51
       },
       {
         "userId": "92MLK8N5G5",
@@ -4110,7 +4050,7 @@
         "totalRank": 53,
         "averageRank": "17.7",
         "dtcScore": "103.91",
-        "rank": 53
+        "rank": 52
       },
       {
         "userId": "ZRyVn8v3qG",
@@ -4148,7 +4088,7 @@
         "totalRank": 14,
         "averageRank": "7.0",
         "dtcScore": "96.02",
-        "rank": 54
+        "rank": 53
       },
       {
         "userId": "qMHEyRqDHV",
@@ -4183,7 +4123,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "95.67",
-        "rank": 55
+        "rank": 54
       },
       {
         "userId": "OkeiqII4aV",
@@ -4218,7 +4158,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "93.27",
-        "rank": 56
+        "rank": 55
       },
       {
         "userId": "HWDxChNykU",
@@ -4285,7 +4225,7 @@
         "totalRank": 71,
         "averageRank": "17.8",
         "dtcScore": "91.16",
-        "rank": 57
+        "rank": 56
       },
       {
         "userId": "D82YxsnAC8",
@@ -4314,7 +4254,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "90.75",
-        "rank": 58
+        "rank": 57
       },
       {
         "userId": "F8AHw2ib7x",
@@ -4358,7 +4298,7 @@
         "totalRank": 41,
         "averageRank": "20.5",
         "dtcScore": "88.94",
-        "rank": 59
+        "rank": 58
       },
       {
         "userId": "f6vUmsHLNv",
@@ -4405,7 +4345,7 @@
         "totalRank": 41,
         "averageRank": "13.7",
         "dtcScore": "86.78",
-        "rank": 60
+        "rank": 59
       },
       {
         "userId": "72NCAEEUG3",
@@ -4470,7 +4410,7 @@
         "totalRank": 86,
         "averageRank": "17.2",
         "dtcScore": "82.47",
-        "rank": 61
+        "rank": 60
       },
       {
         "userId": "1L6C42HXTX",
@@ -4499,7 +4439,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "81.32",
-        "rank": 62
+        "rank": 61
       },
       {
         "userId": "6Y8BD2KGHD",
@@ -4543,7 +4483,7 @@
         "totalRank": 44,
         "averageRank": "22.0",
         "dtcScore": "81.26",
-        "rank": 63
+        "rank": 62
       },
       {
         "userId": "WGKVVdWGJ4",
@@ -4572,7 +4512,7 @@
         "totalRank": 16,
         "averageRank": 16,
         "dtcScore": "78.92",
-        "rank": 64
+        "rank": 63
       },
       {
         "userId": "M88H6XP8E1",
@@ -4646,7 +4586,7 @@
         "totalRank": 99,
         "averageRank": "19.8",
         "dtcScore": "77.06",
-        "rank": 65
+        "rank": 64
       },
       {
         "userId": "fNYTUpbraZ",
@@ -4723,7 +4663,7 @@
         "totalRank": 97,
         "averageRank": "19.4",
         "dtcScore": "74.67",
-        "rank": 66
+        "rank": 65
       },
       {
         "userId": "r5y9C4EDtx",
@@ -4752,7 +4692,7 @@
         "totalRank": 13,
         "averageRank": 13,
         "dtcScore": "73.72",
-        "rank": 67
+        "rank": 66
       },
       {
         "userId": "UiMfZw9t11",
@@ -4804,7 +4744,7 @@
         "totalRank": 42,
         "averageRank": "14.0",
         "dtcScore": "72.74",
-        "rank": 68
+        "rank": 67
       },
       {
         "userId": "qS4KmlF7Mj",
@@ -4872,7 +4812,7 @@
         "totalRank": 69,
         "averageRank": "17.3",
         "dtcScore": "71.53",
-        "rank": 69
+        "rank": 68
       },
       {
         "userId": "HY6E0VDR23",
@@ -4901,7 +4841,7 @@
         "totalRank": 1,
         "averageRank": 1,
         "dtcScore": "71.00",
-        "rank": 70
+        "rank": 69
       },
       {
         "userId": "7EzFInhtYL",
@@ -4936,7 +4876,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "69.40",
-        "rank": 71
+        "rank": 70
       },
       {
         "userId": "nsWAsQLyy9",
@@ -4965,7 +4905,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "69.36",
-        "rank": 72
+        "rank": 71
       },
       {
         "userId": "25BXGACMEU",
@@ -4994,7 +4934,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "68.81",
-        "rank": 73
+        "rank": 72
       },
       {
         "userId": "H2ekuoCzIe",
@@ -5047,7 +4987,7 @@
         "totalRank": 56,
         "averageRank": "18.7",
         "dtcScore": "67.04",
-        "rank": 74
+        "rank": 73
       },
       {
         "userId": "FIvWHCGzmv",
@@ -5100,7 +5040,7 @@
         "totalRank": 44,
         "averageRank": "14.7",
         "dtcScore": "66.27",
-        "rank": 75
+        "rank": 74
       },
       {
         "userId": "ASv7YffR0l",
@@ -5135,7 +5075,7 @@
         "totalRank": 3,
         "averageRank": 3,
         "dtcScore": "65.64",
-        "rank": 76
+        "rank": 75
       },
       {
         "userId": "15GCn7em5M",
@@ -5180,7 +5120,7 @@
         "totalRank": 25,
         "averageRank": "12.5",
         "dtcScore": "64.73",
-        "rank": 77
+        "rank": 76
       },
       {
         "userId": "9WDN03KDPR",
@@ -5215,7 +5155,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "64.58",
-        "rank": 78
+        "rank": 77
       },
       {
         "userId": "rErhoVCPjJ",
@@ -5250,7 +5190,7 @@
         "totalRank": 2,
         "averageRank": 2,
         "dtcScore": "63.90",
-        "rank": 79
+        "rank": 78
       },
       {
         "userId": "WN0D19HQMJ",
@@ -5299,7 +5239,7 @@
         "totalRank": 52,
         "averageRank": "26.0",
         "dtcScore": "62.30",
-        "rank": 80
+        "rank": 79
       },
       {
         "userId": "GAQX4KLFL2",
@@ -5328,7 +5268,7 @@
         "totalRank": 23,
         "averageRank": 23,
         "dtcScore": "62.18",
-        "rank": 81
+        "rank": 80
       },
       {
         "userId": "OVJxyn0EU4",
@@ -5387,7 +5327,7 @@
         "totalRank": 53,
         "averageRank": "17.7",
         "dtcScore": "61.98",
-        "rank": 82
+        "rank": 81
       },
       {
         "userId": "3FQ9TwHEI3",
@@ -5416,7 +5356,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "61.20",
-        "rank": 83
+        "rank": 82
       },
       {
         "userId": "HE7UB31UV7",
@@ -5445,7 +5385,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "61.20",
-        "rank": 84
+        "rank": 83
       },
       {
         "userId": "2BPXVXRWUN",
@@ -5488,7 +5428,7 @@
         "totalRank": 50,
         "averageRank": "25.0",
         "dtcScore": "61.13",
-        "rank": 85
+        "rank": 84
       },
       {
         "userId": "KN551ZmT5m",
@@ -5535,7 +5475,7 @@
         "totalRank": 54,
         "averageRank": "18.0",
         "dtcScore": "60.92",
-        "rank": 86
+        "rank": 85
       },
       {
         "userId": "TlATr9MSrX",
@@ -5564,7 +5504,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "60.90",
-        "rank": 87
+        "rank": 86
       },
       {
         "userId": "LdfriAMeoT",
@@ -5627,7 +5567,7 @@
         "totalRank": 68,
         "averageRank": "22.7",
         "dtcScore": "60.58",
-        "rank": 88
+        "rank": 87
       },
       {
         "userId": "YGG8VMYJPW",
@@ -5656,7 +5596,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "60.55",
-        "rank": 89
+        "rank": 88
       },
       {
         "userId": "6UBC215W79",
@@ -5685,7 +5625,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "58.72",
-        "rank": 90
+        "rank": 89
       },
       {
         "userId": "3D187RXMPD",
@@ -5714,7 +5654,7 @@
         "totalRank": 6,
         "averageRank": 6,
         "dtcScore": "58.00",
-        "rank": 91
+        "rank": 90
       },
       {
         "userId": "LjtfGqy9dh",
@@ -5743,7 +5683,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "57.60",
-        "rank": 92
+        "rank": 91
       },
       {
         "userId": "U0VhFRlFBh",
@@ -5772,7 +5712,7 @@
         "totalRank": 25,
         "averageRank": 25,
         "dtcScore": "57.40",
-        "rank": 93
+        "rank": 92
       },
       {
         "userId": "GAvFY10IlS",
@@ -5801,7 +5741,7 @@
         "totalRank": 3,
         "averageRank": 3,
         "dtcScore": "56.80",
-        "rank": 94
+        "rank": 93
       },
       {
         "userId": "gKTCB3gQ02",
@@ -5830,7 +5770,7 @@
         "totalRank": 16,
         "averageRank": 16,
         "dtcScore": "53.00",
-        "rank": 95
+        "rank": 94
       },
       {
         "userId": "E2qLXTzBxe",
@@ -5865,7 +5805,7 @@
         "totalRank": 6,
         "averageRank": 6,
         "dtcScore": "52.98",
-        "rank": 96
+        "rank": 95
       },
       {
         "userId": "2TNG4LQGY1",
@@ -5900,7 +5840,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "51.88",
-        "rank": 97
+        "rank": 96
       },
       {
         "userId": "tcSdB2eHtj",
@@ -5935,7 +5875,7 @@
         "totalRank": 28,
         "averageRank": 28,
         "dtcScore": "50.22",
-        "rank": 98
+        "rank": 97
       },
       {
         "userId": "xAHG8rotJ3",
@@ -5978,7 +5918,7 @@
         "totalRank": 32,
         "averageRank": "16.0",
         "dtcScore": "50.02",
-        "rank": 99
+        "rank": 98
       },
       {
         "userId": "D8MTJJKL8A",
@@ -6007,7 +5947,7 @@
         "totalRank": 4,
         "averageRank": 4,
         "dtcScore": "49.70",
-        "rank": 100
+        "rank": 99
       },
       {
         "userId": "XAgbliWrTL",
@@ -6042,7 +5982,7 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "49.19",
-        "rank": 101
+        "rank": 100
       },
       {
         "userId": "Q9CKZAF7Bh",
@@ -6077,7 +6017,7 @@
         "totalRank": 29,
         "averageRank": 29,
         "dtcScore": "47.83",
-        "rank": 102
+        "rank": 101
       },
       {
         "userId": "l7sWpk8knX",
@@ -6106,7 +6046,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "46.40",
-        "rank": 103
+        "rank": 102
       },
       {
         "userId": "tTAmEHjRVo",
@@ -6135,7 +6075,7 @@
         "totalRank": 8,
         "averageRank": 8,
         "dtcScore": "45.41",
-        "rank": 104
+        "rank": 103
       },
       {
         "userId": "dEfc4CQn9O",
@@ -6170,7 +6110,7 @@
         "totalRank": 13,
         "averageRank": 13,
         "dtcScore": "44.80",
-        "rank": 105
+        "rank": 104
       },
       {
         "userId": "OHQuM6gp76",
@@ -6199,7 +6139,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "43.50",
-        "rank": 106
+        "rank": 105
       },
       {
         "userId": "ZEdDEdiPdp",
@@ -6234,7 +6174,7 @@
         "totalRank": 31,
         "averageRank": 31,
         "dtcScore": "43.05",
-        "rank": 107
+        "rank": 106
       },
       {
         "userId": "CT9MTXB661",
@@ -6263,7 +6203,7 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "42.90",
-        "rank": 108
+        "rank": 107
       },
       {
         "userId": "uPfQJhyfTR",
@@ -6292,7 +6232,7 @@
         "totalRank": 5,
         "averageRank": 5,
         "dtcScore": "42.60",
-        "rank": 109
+        "rank": 108
       },
       {
         "userId": "t4Sp8sAm7P",
@@ -6336,7 +6276,7 @@
         "totalRank": 36,
         "averageRank": "18.0",
         "dtcScore": "42.47",
-        "rank": 110
+        "rank": 109
       },
       {
         "userId": "peqyreNysd",
@@ -6365,7 +6305,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "41.63",
-        "rank": 111
+        "rank": 110
       },
       {
         "userId": "af5H6D0ztS",
@@ -6394,7 +6334,7 @@
         "totalRank": 12,
         "averageRank": 12,
         "dtcScore": "40.60",
-        "rank": 112
+        "rank": 111
       },
       {
         "userId": "8HBVVF80R1",
@@ -6429,7 +6369,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "40.09",
-        "rank": 113
+        "rank": 112
       },
       {
         "userId": "6ien5i3UEb",
@@ -6494,7 +6434,7 @@
         "totalRank": 65,
         "averageRank": "21.7",
         "dtcScore": "39.51",
-        "rank": 114
+        "rank": 113
       },
       {
         "userId": "AUVWDFLETW",
@@ -6529,7 +6469,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "36.00",
-        "rank": 115
+        "rank": 114
       },
       {
         "userId": "5lpLtWypn6",
@@ -6558,7 +6498,7 @@
         "totalRank": 34,
         "averageRank": 34,
         "dtcScore": "35.88",
-        "rank": 116
+        "rank": 115
       },
       {
         "userId": "64467TB2WM",
@@ -6587,7 +6527,7 @@
         "totalRank": 8,
         "averageRank": 8,
         "dtcScore": "35.70",
-        "rank": 117
+        "rank": 116
       },
       {
         "userId": "U8TY6Y0YJT",
@@ -6616,7 +6556,7 @@
         "totalRank": 6,
         "averageRank": 6,
         "dtcScore": "35.50",
-        "rank": 118
+        "rank": 117
       },
       {
         "userId": "MqROm67JZ9",
@@ -6645,7 +6585,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "34.80",
-        "rank": 119
+        "rank": 118
       },
       {
         "userId": "uvmhlJ1ra6",
@@ -6680,7 +6620,7 @@
         "totalRank": 35,
         "averageRank": 35,
         "dtcScore": "33.48",
-        "rank": 120
+        "rank": 119
       },
       {
         "userId": "U18LN2U8KL",
@@ -6709,7 +6649,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "33.37",
-        "rank": 121
+        "rank": 120
       },
       {
         "userId": "MelAMahdMs",
@@ -6738,7 +6678,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "31.90",
-        "rank": 122
+        "rank": 121
       },
       {
         "userId": "3N8MFYLNNV",
@@ -6773,7 +6713,7 @@
         "totalRank": 36,
         "averageRank": 36,
         "dtcScore": "31.09",
-        "rank": 123
+        "rank": 122
       },
       {
         "userId": "oLWC7ArCTG",
@@ -6808,7 +6748,7 @@
         "totalRank": 13,
         "averageRank": 13,
         "dtcScore": "28.80",
-        "rank": 124
+        "rank": 123
       },
       {
         "userId": "wtcF3NHXUU",
@@ -6843,7 +6783,7 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "28.40",
-        "rank": 125
+        "rank": 124
       },
       {
         "userId": "WQi2JqpQzU",
@@ -6878,7 +6818,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "28.30",
-        "rank": 126
+        "rank": 125
       },
       {
         "userId": "L5TB41nv3i",
@@ -6907,7 +6847,7 @@
         "totalRank": 17,
         "averageRank": 17,
         "dtcScore": "26.69",
-        "rank": 127
+        "rank": 126
       },
       {
         "userId": "TJGCVNKKML",
@@ -6962,7 +6902,7 @@
         "totalRank": 87,
         "averageRank": "29.0",
         "dtcScore": "26.38",
-        "rank": 128
+        "rank": 127
       },
       {
         "userId": "COQiFg8zCQ",
@@ -6991,7 +6931,7 @@
         "totalRank": 10,
         "averageRank": 10,
         "dtcScore": "25.50",
-        "rank": 129
+        "rank": 128
       },
       {
         "userId": "YFTQgBC5sm",
@@ -7026,7 +6966,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "25.20",
-        "rank": 130
+        "rank": 129
       },
       {
         "userId": "Bq8yHInztX",
@@ -7069,7 +7009,7 @@
         "totalRank": 66,
         "averageRank": "33.0",
         "dtcScore": "25.08",
-        "rank": 131
+        "rank": 130
       },
       {
         "userId": "Ij8juDKKFC",
@@ -7104,7 +7044,7 @@
         "totalRank": 39,
         "averageRank": 39,
         "dtcScore": "23.92",
-        "rank": 132
+        "rank": 131
       },
       {
         "userId": "LMks8noh2u",
@@ -7133,7 +7073,7 @@
         "totalRank": 11,
         "averageRank": 11,
         "dtcScore": "23.83",
-        "rank": 133
+        "rank": 132
       },
       {
         "userId": "DP7CCFEHKL",
@@ -7162,7 +7102,7 @@
         "totalRank": 18,
         "averageRank": 18,
         "dtcScore": "23.20",
-        "rank": 134
+        "rank": 133
       },
       {
         "userId": "NkjhsVr6Jl",
@@ -7220,7 +7160,7 @@
         "totalRank": 85,
         "averageRank": "28.3",
         "dtcScore": "23.02",
-        "rank": 135
+        "rank": 134
       },
       {
         "userId": "aRO9M1nmMx",
@@ -7258,7 +7198,7 @@
         "totalRank": 49,
         "averageRank": "24.5",
         "dtcScore": "22.85",
-        "rank": 136
+        "rank": 135
       },
       {
         "userId": "i8z3NiZYAh",
@@ -7287,7 +7227,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "22.71",
-        "rank": 137
+        "rank": 136
       },
       {
         "userId": "49mGOxqycs",
@@ -7316,7 +7256,7 @@
         "totalRank": 12,
         "averageRank": 12,
         "dtcScore": "22.38",
-        "rank": 138
+        "rank": 137
       },
       {
         "userId": "mFhp7roYqm",
@@ -7351,7 +7291,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "21.60",
-        "rank": 139
+        "rank": 138
       },
       {
         "userId": "rzabCbO3PG",
@@ -7386,7 +7326,7 @@
         "totalRank": 8,
         "averageRank": 8,
         "dtcScore": "21.30",
-        "rank": 140
+        "rank": 139
       },
       {
         "userId": "QyDL6kgpNi",
@@ -7415,7 +7355,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "21.20",
-        "rank": 141
+        "rank": 140
       },
       {
         "userId": "GAvEGQAv0k",
@@ -7450,7 +7390,7 @@
         "totalRank": 41,
         "averageRank": 41,
         "dtcScore": "19.13",
-        "rank": 142
+        "rank": 141
       },
       {
         "userId": "8XKBHFR93J",
@@ -7479,7 +7419,7 @@
         "totalRank": 12,
         "averageRank": 12,
         "dtcScore": "19.07",
-        "rank": 143
+        "rank": 142
       },
       {
         "userId": "KYBJV48XDW",
@@ -7508,7 +7448,7 @@
         "totalRank": 16,
         "averageRank": 16,
         "dtcScore": "18.00",
-        "rank": 144
+        "rank": 143
       },
       {
         "userId": "ZAnGg4i4Gs",
@@ -7537,7 +7477,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "17.40",
-        "rank": 145
+        "rank": 144
       },
       {
         "userId": "ixeSYxmAtb",
@@ -7566,7 +7506,7 @@
         "totalRank": 42,
         "averageRank": 42,
         "dtcScore": "16.74",
-        "rank": 146
+        "rank": 145
       },
       {
         "userId": "WLG9N92YXC",
@@ -7595,7 +7535,7 @@
         "totalRank": 18,
         "averageRank": 18,
         "dtcScore": "16.41",
-        "rank": 147
+        "rank": 146
       },
       {
         "userId": "X4Q473BKNU",
@@ -7624,7 +7564,7 @@
         "totalRank": 21,
         "averageRank": 21,
         "dtcScore": "14.50",
-        "rank": 148
+        "rank": 147
       },
       {
         "userId": "BY5T9XAVLB",
@@ -7653,7 +7593,7 @@
         "totalRank": 19,
         "averageRank": 19,
         "dtcScore": "13.13",
-        "rank": 149
+        "rank": 148
       },
       {
         "userId": "K9R3VVJ2BU",
@@ -7682,7 +7622,7 @@
         "totalRank": 44,
         "averageRank": 44,
         "dtcScore": "11.96",
-        "rank": 150
+        "rank": 149
       },
       {
         "userId": "J64Y1NRQLD",
@@ -7727,7 +7667,7 @@
         "totalRank": 40,
         "averageRank": "20.0",
         "dtcScore": "11.82",
-        "rank": 151
+        "rank": 150
       },
       {
         "userId": "3CsaBwdRVz",
@@ -7762,7 +7702,7 @@
         "totalRank": 27,
         "averageRank": 27,
         "dtcScore": "11.79",
-        "rank": 152
+        "rank": 151
       },
       {
         "userId": "91QL9L0M2B",
@@ -7791,7 +7731,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "11.60",
-        "rank": 153
+        "rank": 152
       },
       {
         "userId": "8DM69jt11O",
@@ -7820,7 +7760,7 @@
         "totalRank": 17,
         "averageRank": 17,
         "dtcScore": "11.35",
-        "rank": 154
+        "rank": 153
       },
       {
         "userId": "ZdvGqaA4gD",
@@ -7855,7 +7795,7 @@
         "totalRank": 28,
         "averageRank": 28,
         "dtcScore": "9.43",
-        "rank": 155
+        "rank": 154
       },
       {
         "userId": "rlGxwEXHID",
@@ -7890,7 +7830,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "8.95",
-        "rank": 156
+        "rank": 155
       },
       {
         "userId": "HP79REUXF1",
@@ -7925,7 +7865,7 @@
         "totalRank": 9,
         "averageRank": 9,
         "dtcScore": "7.88",
-        "rank": 157
+        "rank": 156
       },
       {
         "userId": "62V3UH49PK",
@@ -7954,7 +7894,7 @@
         "totalRank": 24,
         "averageRank": 24,
         "dtcScore": "5.80",
-        "rank": 158
+        "rank": 157
       },
       {
         "userId": "cLWiXebqAH",
@@ -7989,7 +7929,7 @@
         "totalRank": 14,
         "averageRank": 14,
         "dtcScore": "5.10",
-        "rank": 159
+        "rank": 158
       },
       {
         "userId": "BGQ20FLAY3",
@@ -8018,7 +7958,7 @@
         "totalRank": 27,
         "averageRank": 27,
         "dtcScore": "4.91",
-        "rank": 160
+        "rank": 159
       },
       {
         "userId": "R54R4TK7MP",
@@ -8047,7 +7987,7 @@
         "totalRank": 15,
         "averageRank": 15,
         "dtcScore": "4.77",
-        "rank": 161
+        "rank": 160
       },
       {
         "userId": "NNP0HWNVXG",
@@ -8082,7 +8022,7 @@
         "totalRank": 20,
         "averageRank": 20,
         "dtcScore": "3.60",
-        "rank": 162
+        "rank": 161
       },
       {
         "userId": "NVY3JKG5MW",
@@ -8117,7 +8057,7 @@
         "totalRank": 22,
         "averageRank": 22,
         "dtcScore": "3.28",
-        "rank": 163
+        "rank": 162
       },
       {
         "userId": "61YEGYooym",
@@ -8146,7 +8086,7 @@
         "totalRank": 25,
         "averageRank": 25,
         "dtcScore": "2.90",
-        "rank": 164
+        "rank": 163
       },
       {
         "userId": "TJF3KU9Q5C",
@@ -8181,6 +8121,69 @@
         "totalRank": 48,
         "averageRank": 48,
         "dtcScore": "2.39",
+        "rank": 164
+      },
+      {
+        "userId": "Ci8drOUGlg",
+        "name": "Ruud Steenbakkers",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Aeldari",
+            "count": 2,
+            "score": 141.47
+          },
+          {
+            "name": "Tyranids",
+            "count": 1,
+            "score": 53.7
+          }
+        ],
+        "teams": [
+          {
+            "name": "Glasshammer",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "ENTER THE TRAININGCAGES",
+            "eventId": "Px7AnXgrep",
+            "numberOfRounds": 3,
+            "eventDtcScore": "53.70",
+            "userId": "Ci8drOUGlg",
+            "excludeScore": true,
+            "army": "Tyranids",
+            "team": "Glasshammer",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades May RTT ",
+            "eventId": "RgQ4y7kdmt",
+            "numberOfRounds": 3,
+            "eventDtcScore": "61.97",
+            "userId": "Ci8drOUGlg",
+            "excludeScore": true,
+            "army": "Aeldari",
+            "team": "Glasshammer",
+            "usedForRankings": false
+          },
+          {
+            "name": "Feast Of Blades April GT",
+            "eventId": "zOLbwSg125",
+            "numberOfRounds": 6,
+            "eventDtcScore": "79.50",
+            "userId": "Ci8drOUGlg",
+            "excludeScore": true,
+            "army": "Aeldari",
+            "team": "Glasshammer",
+            "usedForRankings": false
+          }
+        ],
+        "numWins": 7,
+        "totalRank": 19,
+        "averageRank": "6.3",
+        "dtcScore": "0.00",
         "rank": 165
       }
     ]
