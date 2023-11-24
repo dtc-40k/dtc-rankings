@@ -23,7 +23,7 @@ const factions = {
   Deathwatch: ['deathwatch'],
   'Adeptus Custodes': ['adeptus custodes'],
   'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii'],
-  Aeldari: ['aeldari'],
+  Aeldari: ['aeldari', 'alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
   'Astra Militarum': [
     'astra militarum',
     'cadian shock troops',
@@ -46,7 +46,6 @@ const factions = {
     'black templars',
     'inquisition',
   ],
-  Asuryani: ['alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
   'Blood Angels': ['blood angels', 'fleshtearers', 'lamenters'],
   Chaos: ['chaos'],
   'Chaos Daemons': [
@@ -169,6 +168,7 @@ const updateEvents = (player, events, event) => {
     numberOfRounds: player.event.numberOfRounds,
     eventDtcScore: player.dtcScore,
     userId: player.userId,
+    rank: player.rank,
     excludeScore: player.excludeScore,
     army: player.army,
     team: player?.team?.name,
@@ -232,6 +232,7 @@ const generatePlayerRanking = (events) => {
             numberOfRounds: player.event.numberOfRounds,
             eventDtcScore: player.dtcScore,
             userId: player.userId,
+            rank: player.rank,
             excludeScore: player.excludeScore,
             army: mappedFactionName,
             team: player?.team?.name,
