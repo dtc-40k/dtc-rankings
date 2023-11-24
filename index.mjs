@@ -262,7 +262,16 @@ const generatePlayerRanking = (events) => {
       const numberOfEvents = gtEvents?.length + rttEvents?.length;
 
       if (numberOfEvents > 7) {
-        console.log("  Player with more then 7 events found...");
+        console.log("  Player with more then 7 events found...", player.name);
+
+        if (gtEvents.length > 3) {
+          console.log('    and with more then 3 GT events found...')
+          gtEvents.sort((a, b) => {
+            return b.eventDtcScore - a.eventDtcScore;
+          });
+          gtEvents = gtEvents.slice(0, 3);
+        }
+
         let allEvents = [...gtEvents, ...rttEvents];
 
         allEvents.sort((a, b) => {
@@ -283,10 +292,11 @@ const generatePlayerRanking = (events) => {
         rttScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
       } else {
         if (gtEvents.length > 3) {
+          console.log('  Player with more then 3 GT events found...', player.name)
           gtEvents.sort((a, b) => {
             return b.eventDtcScore - a.eventDtcScore;
           });
-          gtEvents = gtEvents.slice(0, 2);
+          gtEvents = gtEvents.slice(0, 3);
         }
 
         if (gtEvents && gtEvents.length > 1) {
@@ -312,6 +322,7 @@ const generatePlayerRanking = (events) => {
           };
         });
       }
+      rankings[index].events.sort((a, b) => b.eventDtcScore - a.eventDtcScore);
       rankings[index].dtcScore = (Number(gtScore) + Number(rttScore)).toFixed(2);
     });
 
