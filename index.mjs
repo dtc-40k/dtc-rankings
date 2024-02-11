@@ -22,7 +22,7 @@ const factions = {
   'Space Wolves': ['space wolves'],
   Deathwatch: ['deathwatch'],
   'Adeptus Custodes': ['adeptus custodes'],
-  'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii'],
+  'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii', 'dark mechanicus'],
   Aeldari: ['aeldari', 'alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
   'Astra Militarum': [
     'astra militarum',
@@ -45,6 +45,8 @@ const factions = {
     'salamanders',
     'black templars',
     'inquisition',
+    'imperial fists',
+    'charcharodons',
   ],
   'Blood Angels': ['blood angels', 'fleshtearers', 'lamenters'],
   Chaos: ['chaos'],
@@ -65,10 +67,12 @@ const factions = {
     'black legion',
     'chaos space marines',
     'emperors children',
+    "emperor's children",
     'fallen',
     'iron warriors',
     'night lords',
     'red corsairs',
+    'legion of the damned',
   ],
   'World Eaters': ['world eaters'],
   'Death Guard': ['death guard'],
@@ -177,11 +181,11 @@ const updateEvents = (player, events, event) => {
 };
 
 const generatePlayerRanking = (events) => {
-  const seasons = ['2023', '2022'];
+  const seasons = ['2024', '2023', '2022'];
   const seasonRankings = [];
 
   seasons.forEach((season) => {
-    const rankings = [];
+    let rankings = [];
     console.info(`Starting generation for season: ${season}`);
     const seasonEvents = events.filter((event) => event.dtcSeason === season);
     seasonEvents.forEach((event) => {
@@ -231,6 +235,7 @@ const generatePlayerRanking = (events) => {
             eventId: event.id,
             numberOfRounds: player.event.numberOfRounds,
             eventDtcScore: player.dtcScore,
+            eventHobbyScore: player.hobbyScore,
             userId: player.userId,
             rank: player.rank,
             excludeScore: player.excludeScore,
@@ -252,79 +257,8 @@ const generatePlayerRanking = (events) => {
       });
     });
     console.info(` Excluding events with more then 5 rounds to a max of 3`);
-    rankings.forEach((player, index) => {
-      let gtEvents = player.events.filter((event) => event.numberOfRounds >= 5 && !event.excludeScore);
-      let rttEvents = player.events.filter((event) => event.numberOfRounds <= 4 && !event.excludeScore);
-
-      let gtScore = 0;
-      let rttScore = 0;
-
-      const numberOfEvents = gtEvents?.length + rttEvents?.length;
-
-      if (numberOfEvents > 7) {
-        console.log("  Player with more then 7 events found...", player.name);
-
-        if (gtEvents.length > 3) {
-          console.log('    and with more then 3 GT events found...')
-          gtEvents.sort((a, b) => {
-            return b.eventDtcScore - a.eventDtcScore;
-          });
-          gtEvents = gtEvents.slice(0, 3);
-        }
-
-        let allEvents = [...gtEvents, ...rttEvents];
-
-        allEvents.sort((a, b) => {
-          return b.eventDtcScore - a.eventDtcScore;
-        });
-
-        allEvents = allEvents.slice(0, 7);
-
-        rankings[index].events.forEach((event, eventIndex) => {
-          const usedForRankings = allEvents.findIndex((allEvent) => allEvent.eventId === event.eventId) > -1;
-
-          rankings[index].events[eventIndex] = {
-            ...event,
-            usedForRankings,
-          };
-        });
-
-        rttScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
-      } else {
-        if (gtEvents.length > 3) {
-          console.log('  Player with more then 3 GT events found...', player.name)
-          gtEvents.sort((a, b) => {
-            return b.eventDtcScore - a.eventDtcScore;
-          });
-          gtEvents = gtEvents.slice(0, 3);
-        }
-
-        if (gtEvents && gtEvents.length > 1) {
-          gtScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
-        }
-        if (gtEvents && gtEvents.length === 1) {
-          gtScore = Number(gtEvents[0].eventDtcScore);
-        }
-        if (rttEvents && rttEvents.length > 1) {
-          rttScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
-        }
-        if (rttEvents && rttEvents.length === 1) {
-          rttScore = Number(rttEvents[0].eventDtcScore);
-        }
-        rankings[index].events.forEach((event, eventIndex) => {
-          const usedForRankings =
-            gtEvents.findIndex((gtEvent) => gtEvent.eventId === event.eventId) > -1 ||
-            rttEvents.findIndex((rttEvent) => rttEvent.eventId === event.eventId) > -1;
-
-          rankings[index].events[eventIndex] = {
-            ...event,
-            usedForRankings,
-          };
-        });
-      }
-      rankings[index].events.sort((a, b) => b.eventDtcScore - a.eventDtcScore);
-      rankings[index].dtcScore = (Number(gtScore) + Number(rttScore)).toFixed(2);
-    });
+    rankings = generateDtcScores(rankings);
+    rankings = generateHobbyScores(rankings);
 
     rankings.sort((a, b) => b.dtcScore - a.dtcScore);
     console.info(` Sorting overal list`);
@@ -340,6 +274,157 @@ const generatePlayerRanking = (events) => {
     seasonRankings.push({ season, rankings });
   });
   return seasonRankings;
+};
+
+const generateDtcScores = (rankings) => {
+  const newRankings = [...rankings];
+  newRankings.forEach((player, index) => {
+    let gtEvents = player.events.filter((event) => event.numberOfRounds >= 5 && !event.excludeScore);
+    let rttEvents = player.events.filter((event) => event.numberOfRounds <= 4 && !event.excludeScore);
+
+    let gtScore = 0;
+    let rttScore = 0;
+
+    const numberOfEvents = gtEvents?.length + rttEvents?.length;
+
+    if (numberOfEvents > 7) {
+      console.log('  Player with more then 7 events found...', player.name);
+
+      if (gtEvents.length > 3) {
+        console.log('    and with more then 3 GT events found...');
+        gtEvents.sort((a, b) => {
+          return b.eventDtcScore - a.eventDtcScore;
+        });
+        gtEvents = gtEvents.slice(0, 3);
+      }
+
+      let allEvents = [...gtEvents, ...rttEvents];
+
+      allEvents.sort((a, b) => {
+        return b.eventDtcScore - a.eventDtcScore;
+      });
+
+      allEvents = allEvents.slice(0, 7);
+
+      newRankings[index].events.forEach((event, eventIndex) => {
+        const usedForRankings = allEvents.findIndex((allEvent) => allEvent.eventId === event.eventId) > -1;
+
+        newRankings[index].events[eventIndex] = {
+          ...event,
+          usedForRankings,
+        };
+      });
+
+      rttScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+    } else {
+      if (gtEvents.length > 3) {
+        console.log('  Player with more then 3 GT events found...', player.name);
+        gtEvents.sort((a, b) => {
+          return b.eventDtcScore - a.eventDtcScore;
+        });
+        gtEvents = gtEvents.slice(0, 3);
+      }
+
+      if (gtEvents && gtEvents.length > 1) {
+        gtScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+      }
+      if (gtEvents && gtEvents.length === 1) {
+        gtScore = Number(gtEvents[0].eventDtcScore);
+      }
+      if (rttEvents && rttEvents.length > 1) {
+        rttScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+      }
+      if (rttEvents && rttEvents.length === 1) {
+        rttScore = Number(rttEvents[0].eventDtcScore);
+      }
+      newRankings[index].events.forEach((event, eventIndex) => {
+        const usedForRankings =
+          gtEvents.findIndex((gtEvent) => gtEvent.eventId === event.eventId) > -1 ||
+          rttEvents.findIndex((rttEvent) => rttEvent.eventId === event.eventId) > -1;
+
+        newRankings[index].events[eventIndex] = {
+          ...event,
+          usedForRankings,
+        };
+      });
+    }
+    newRankings[index].events.sort((a, b) => b.eventDtcScore - a.eventDtcScore);
+    newRankings[index].dtcScore = (Number(gtScore) + Number(rttScore)).toFixed(2);
+  });
+  return newRankings;
+};
+
+const generateHobbyScores = (rankings) => {
+  const newRankings = [...rankings];
+  newRankings.forEach((player, index) => {
+    let gtEvents = player.events.filter((event) => event.numberOfRounds >= 5 && !event.excludeScore);
+    let rttEvents = player.events.filter((event) => event.numberOfRounds <= 4 && !event.excludeScore);
+
+    let gtHobbyScore = 0;
+    let rttHobbyScore = 0;
+
+    const numberOfEvents = gtEvents?.length + rttEvents?.length;
+
+    if (numberOfEvents > 7) {
+      if (gtEvents.length > 3) {
+        gtEvents.sort((a, b) => {
+          return b.eventHobbyScore - a.eventHobbyScore;
+        });
+        gtEvents = gtEvents.slice(0, 3);
+      }
+
+      let allEvents = [...gtEvents, ...rttEvents];
+
+      allEvents.sort((a, b) => {
+        return b.eventHobbyScore - a.eventHobbyScore;
+      });
+
+      allEvents = allEvents.slice(0, 7);
+
+      newRankings[index].events.forEach((event, eventIndex) => {
+        const usedForHobbyRankings = allEvents.findIndex((allEvent) => allEvent.eventId === event.eventId) > -1;
+
+        newRankings[index].events[eventIndex] = {
+          ...event,
+          usedForHobbyRankings,
+        };
+      });
+
+      rttHobbyScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore), 0);
+    } else {
+      if (gtEvents.length > 3) {
+        gtEvents.sort((a, b) => {
+          return b.eventHobbyScore - a.eventHobbyScore;
+        });
+        gtEvents = gtEvents.slice(0, 3);
+      }
+
+      if (gtEvents && gtEvents.length > 1) {
+        gtHobbyScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore), 0);
+      }
+      if (gtEvents && gtEvents.length === 1) {
+        gtHobbyScore = Number(gtEvents[0].eventHobbyScore);
+      }
+      if (rttEvents && rttEvents.length > 1) {
+        rttHobbyScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore), 0);
+      }
+      if (rttEvents && rttEvents.length === 1) {
+        rttHobbyScore = Number(rttEvents[0].eventHobbyScore);
+      }
+      newRankings[index].events.forEach((event, eventIndex) => {
+        const usedForHobbyRankings =
+          gtEvents.findIndex((gtEvent) => gtEvent.eventId === event.eventId) > -1 ||
+          rttEvents.findIndex((rttEvent) => rttEvent.eventId === event.eventId) > -1;
+
+        newRankings[index].events[eventIndex] = {
+          ...event,
+          usedForHobbyRankings,
+        };
+      });
+    }
+    newRankings[index].hobbyScore = (Number(gtHobbyScore) + Number(rttHobbyScore)).toFixed(2);
+  });
+  return newRankings;
 };
 
 const generateFactionRanking = (seasonalRanking) => {
