@@ -235,7 +235,7 @@ const generatePlayerRanking = (events) => {
             eventId: event.id,
             numberOfRounds: player.event.numberOfRounds,
             eventDtcScore: player.dtcScore,
-            eventHobbyScore: player.hobbyScore,
+            eventHobbyScore: player?.hobbyScore?.toFixed(2) || "0",
             userId: player.userId,
             rank: player.rank,
             excludeScore: player.excludeScore,
@@ -390,7 +390,7 @@ const generateHobbyScores = (rankings) => {
         };
       });
 
-      rttHobbyScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore), 0);
+      rttHobbyScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore || 0), 0);
     } else {
       if (gtEvents.length > 3) {
         gtEvents.sort((a, b) => {
@@ -400,16 +400,16 @@ const generateHobbyScores = (rankings) => {
       }
 
       if (gtEvents && gtEvents.length > 1) {
-        gtHobbyScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore), 0);
+        gtHobbyScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore || 0), 0);
       }
       if (gtEvents && gtEvents.length === 1) {
-        gtHobbyScore = Number(gtEvents[0].eventHobbyScore);
+        gtHobbyScore = Number(gtEvents[0].eventHobbyScore || 0);
       }
       if (rttEvents && rttEvents.length > 1) {
-        rttHobbyScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore), 0);
+        rttHobbyScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore || 0), 0);
       }
       if (rttEvents && rttEvents.length === 1) {
-        rttHobbyScore = Number(rttEvents[0].eventHobbyScore);
+        rttHobbyScore = Number(rttEvents[0].eventHobbyScore || 0);
       }
       newRankings[index].events.forEach((event, eventIndex) => {
         const usedForHobbyRankings =
@@ -422,6 +422,7 @@ const generateHobbyScores = (rankings) => {
         };
       });
     }
+    console.log(gtHobbyScore, rttHobbyScore);
     newRankings[index].hobbyScore = (Number(gtHobbyScore) + Number(rttHobbyScore)).toFixed(2);
   });
   return newRankings;
