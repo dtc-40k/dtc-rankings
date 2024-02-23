@@ -171,6 +171,7 @@ const updateEvents = (player, events, event) => {
     eventId: event.id,
     numberOfRounds: player.event.numberOfRounds,
     eventDtcScore: player.dtcScore,
+    eventHobbyScore: player?.hobbyScore?.toFixed(2) || "0",
     userId: player.userId,
     rank: player.rank,
     excludeScore: player.excludeScore,
@@ -422,7 +423,6 @@ const generateHobbyScores = (rankings) => {
         };
       });
     }
-    console.log(gtHobbyScore, rttHobbyScore);
     newRankings[index].hobbyScore = (Number(gtHobbyScore) + Number(rttHobbyScore)).toFixed(2);
   });
   return newRankings;
