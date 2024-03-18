@@ -160,12 +160,20 @@
             "rank": 1
           },
           {
+            "userId": "2TNG4LQGY1",
+            "name": "Stephan van der Vuurst",
+            "numEvents": 1,
+            "dtcScore": 26.85,
+            "hobbyScore": "0.00",
+            "rank": 2
+          },
+          {
             "userId": "3K1BGKE2RW",
             "name": "Klaas Harm Wiggerman",
             "numEvents": 1,
             "dtcScore": 14.5,
             "hobbyScore": "0.00",
-            "rank": 2
+            "rank": 3
           }
         ]
       },
@@ -189,12 +197,20 @@
             "rank": 2
           },
           {
+            "userId": "1MqrA0sGvi",
+            "name": "Thomas Beckers",
+            "numEvents": 1,
+            "dtcScore": 67.13,
+            "hobbyScore": "0.00",
+            "rank": 3
+          },
+          {
             "userId": "XgHFmLFanq",
             "name": "Tim Bre",
             "numEvents": 1,
             "dtcScore": 63.38,
             "hobbyScore": "0.00",
-            "rank": 3
+            "rank": 4
           },
           {
             "userId": "JDG8B8A1RU",
@@ -202,7 +218,7 @@
             "numEvents": 1,
             "dtcScore": 58,
             "hobbyScore": "0.00",
-            "rank": 4
+            "rank": 5
           },
           {
             "userId": "L9z1rjeeaY",
@@ -210,7 +226,7 @@
             "numEvents": 2,
             "dtcScore": 51.74,
             "hobbyScore": "0.00",
-            "rank": 5
+            "rank": 6
           },
           {
             "userId": "C8SUIfF8Ar",
@@ -218,7 +234,7 @@
             "numEvents": 1,
             "dtcScore": 51.25,
             "hobbyScore": "2.00",
-            "rank": 6
+            "rank": 7
           },
           {
             "userId": "ZIMEvPWquB",
@@ -226,7 +242,7 @@
             "numEvents": 1,
             "dtcScore": 31.73,
             "hobbyScore": "1.00",
-            "rank": 7
+            "rank": 8
           },
           {
             "userId": "GLD52F7LC5",
@@ -234,7 +250,15 @@
             "numEvents": 1,
             "dtcScore": 12.2,
             "hobbyScore": "1.00",
-            "rank": 8
+            "rank": 9
+          },
+          {
+            "userId": "5YWUG27906",
+            "name": "Paul van de kamp",
+            "numEvents": 1,
+            "dtcScore": 8.95,
+            "hobbyScore": "0.00",
+            "rank": 10
           },
           {
             "userId": "UnMsUxm6vR",
@@ -242,7 +266,7 @@
             "numEvents": 1,
             "dtcScore": 2.9,
             "hobbyScore": "0.00",
-            "rank": 9
+            "rank": 11
           }
         ]
       },
@@ -313,66 +337,13 @@
         ]
       },
       {
-        "name": "Adeptus Custodes",
-        "players": [
-          {
-            "userId": "ZRyVn8v3qG",
-            "name": "Kjell Lutz",
-            "numEvents": 2,
-            "dtcScore": 154.06,
-            "hobbyScore": "3.00",
-            "rank": 1
-          },
-          {
-            "userId": "6UBC215W79",
-            "name": "Maciej Cyzio",
-            "numEvents": 1,
-            "dtcScore": 80.53,
-            "hobbyScore": "1.00",
-            "rank": 2
-          },
-          {
-            "userId": "i3XCYoz17s",
-            "name": "Michele Lucis",
-            "numEvents": 1,
-            "dtcScore": 26.84,
-            "hobbyScore": "0.00",
-            "rank": 3
-          },
-          {
-            "userId": "nsWAsQLyy9",
-            "name": "Gerard Malipaard",
-            "numEvents": 1,
-            "dtcScore": 21.96,
-            "hobbyScore": "0.00",
-            "rank": 4
-          },
-          {
-            "userId": "3FQ9TwHEI3",
-            "name": "Harry Evans",
-            "numEvents": 1,
-            "dtcScore": 6.21,
-            "hobbyScore": "0.00",
-            "rank": 5
-          },
-          {
-            "userId": "6pD99rXvA3",
-            "name": "Dino Kho",
-            "numEvents": 1,
-            "dtcScore": 4.88,
-            "hobbyScore": "0.00",
-            "rank": 6
-          }
-        ]
-      },
-      {
         "name": "Genestealer Cult",
         "players": [
           {
             "userId": "NYLcU6mpnw",
             "name": "Simon Borgers",
-            "numEvents": 2,
-            "dtcScore": 150.59,
+            "numEvents": 3,
+            "dtcScore": 155.06,
             "hobbyScore": "0.00",
             "rank": 1
           },
@@ -403,6 +374,144 @@
         ]
       },
       {
+        "name": "Adeptus Custodes",
+        "players": [
+          {
+            "userId": "ZRyVn8v3qG",
+            "name": "Kjell Lutz",
+            "numEvents": 2,
+            "dtcScore": 154.06,
+            "hobbyScore": "3.00",
+            "rank": 1
+          },
+          {
+            "userId": "6UBC215W79",
+            "name": "Maciej Cyzio",
+            "numEvents": 1,
+            "dtcScore": 80.53,
+            "hobbyScore": "1.00",
+            "rank": 2
+          },
+          {
+            "userId": "YYMJA4J4KG",
+            "name": "Johri van Eerd",
+            "numEvents": 1,
+            "dtcScore": 71.6,
+            "hobbyScore": "0.00",
+            "rank": 3
+          },
+          {
+            "userId": "i3XCYoz17s",
+            "name": "Michele Lucis",
+            "numEvents": 1,
+            "dtcScore": 26.84,
+            "hobbyScore": "0.00",
+            "rank": 4
+          },
+          {
+            "userId": "nsWAsQLyy9",
+            "name": "Gerard Malipaard",
+            "numEvents": 1,
+            "dtcScore": 21.96,
+            "hobbyScore": "0.00",
+            "rank": 5
+          },
+          {
+            "userId": "3FQ9TwHEI3",
+            "name": "Harry Evans",
+            "numEvents": 1,
+            "dtcScore": 6.21,
+            "hobbyScore": "0.00",
+            "rank": 6
+          },
+          {
+            "userId": "6pD99rXvA3",
+            "name": "Dino Kho",
+            "numEvents": 1,
+            "dtcScore": 4.88,
+            "hobbyScore": "0.00",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "name": "Chaos Space Marines",
+        "players": [
+          {
+            "userId": "aCgNrvM5ko",
+            "name": "Thomas Verkooijen",
+            "numEvents": 3,
+            "dtcScore": 147.77,
+            "hobbyScore": "0.00",
+            "rank": 1
+          },
+          {
+            "userId": "8H4TWK6ABJ",
+            "name": "Mart Seijst, van",
+            "numEvents": 1,
+            "dtcScore": 69.6,
+            "hobbyScore": "0.00",
+            "rank": 2
+          },
+          {
+            "userId": "oLWC7ArCTG",
+            "name": "Hugo Honijk",
+            "numEvents": 1,
+            "dtcScore": 61.33,
+            "hobbyScore": "3.00",
+            "rank": 3
+          },
+          {
+            "userId": "WLG9N92YXC",
+            "name": "Gidon Kleinjan",
+            "numEvents": 1,
+            "dtcScore": 42.93,
+            "hobbyScore": "0.00",
+            "rank": 4
+          },
+          {
+            "userId": "U0VhFRlFBh",
+            "name": "Dewie Hajek",
+            "numEvents": 1,
+            "dtcScore": 41.49,
+            "hobbyScore": "3.00",
+            "rank": 5
+          },
+          {
+            "userId": "Ml16xrXaly",
+            "name": "Diego Frans",
+            "numEvents": 1,
+            "dtcScore": 24.53,
+            "hobbyScore": "0.00",
+            "rank": 6
+          },
+          {
+            "userId": "i1R8NVtlqD",
+            "name": "Marcel van Driel",
+            "numEvents": 1,
+            "dtcScore": 22.38,
+            "hobbyScore": "0.00",
+            "rank": 7
+          },
+          {
+            "userId": "M88H6XP8E1",
+            "name": "Ruben Stapel",
+            "numEvents": 1,
+            "dtcScore": 20.44,
+            "hobbyScore": "1.00",
+            "rank": 8
+          },
+          {
+            "userId": "9WDN03KDPR",
+            "name": "Evert-Jan Flier",
+            "numEvents": 1,
+            "dtcScore": 5.8,
+            "hobbyScore": "0.00",
+            "rank": 9
+          }
+        ]
+      },
+      {
         "name": "Tyranids",
         "players": [
           {
@@ -422,12 +531,20 @@
             "rank": 2
           },
           {
+            "userId": "64MGEBJE81",
+            "name": "Bart van Oosterbosch",
+            "numEvents": 1,
+            "dtcScore": 53.7,
+            "hobbyScore": "0.00",
+            "rank": 3
+          },
+          {
             "userId": "NvkOKjD8kO",
             "name": "Bas Riemens",
             "numEvents": 1,
             "dtcScore": 29.29,
             "hobbyScore": "1.00",
-            "rank": 3
+            "rank": 4
           }
         ]
       },
@@ -570,12 +687,20 @@
             "rank": 5
           },
           {
+            "userId": "HACRAH4KQW",
+            "name": "Milan van de Pol",
+            "numEvents": 1,
+            "dtcScore": 40.27,
+            "hobbyScore": "0.00",
+            "rank": 6
+          },
+          {
             "userId": "Ij8juDKKFC",
             "name": "Michael Temming",
             "numEvents": 1,
             "dtcScore": 30.67,
             "hobbyScore": "0.00",
-            "rank": 6
+            "rank": 7
           },
           {
             "userId": "HkPgU4cCdV",
@@ -583,7 +708,7 @@
             "numEvents": 1,
             "dtcScore": 28.8,
             "hobbyScore": "0.00",
-            "rank": 7
+            "rank": 8
           }
         ]
       },
@@ -665,12 +790,20 @@
             "rank": 2
           },
           {
+            "userId": "gKTCB3gQ02",
+            "name": "Johnnie Hanegraaf",
+            "numEvents": 1,
+            "dtcScore": 62.65,
+            "hobbyScore": "0.00",
+            "rank": 3
+          },
+          {
             "userId": "mFhp7roYqm",
             "name": "Richard Helder",
             "numEvents": 1,
             "dtcScore": 57.24,
             "hobbyScore": "1.00",
-            "rank": 3
+            "rank": 4
           },
           {
             "userId": "aQ6yS4eAiy",
@@ -678,7 +811,15 @@
             "numEvents": 1,
             "dtcScore": 40.6,
             "hobbyScore": "0.00",
-            "rank": 4
+            "rank": 5
+          },
+          {
+            "userId": "wfSIpe15kP",
+            "name": "Steven De Regter",
+            "numEvents": 1,
+            "dtcScore": 35.8,
+            "hobbyScore": "0.00",
+            "rank": 6
           },
           {
             "userId": "5U542FLB8K",
@@ -686,7 +827,7 @@
             "numEvents": 1,
             "dtcScore": 26.58,
             "hobbyScore": "0.00",
-            "rank": 5
+            "rank": 7
           },
           {
             "userId": "65JB2YL8GE",
@@ -694,7 +835,7 @@
             "numEvents": 1,
             "dtcScore": 22.49,
             "hobbyScore": "0.00",
-            "rank": 6
+            "rank": 8
           },
           {
             "userId": "2BPXVXRWUN",
@@ -702,7 +843,7 @@
             "numEvents": 1,
             "dtcScore": 21.6,
             "hobbyScore": "0.00",
-            "rank": 7
+            "rank": 9
           },
           {
             "userId": "WFkqq2PAcs",
@@ -710,7 +851,7 @@
             "numEvents": 1,
             "dtcScore": 20.3,
             "hobbyScore": "0.00",
-            "rank": 8
+            "rank": 10
           },
           {
             "userId": "URPWL4VK65",
@@ -718,7 +859,7 @@
             "numEvents": 1,
             "dtcScore": 16.36,
             "hobbyScore": "0.00",
-            "rank": 9
+            "rank": 11
           },
           {
             "userId": "T7V0WBDC5C",
@@ -726,7 +867,7 @@
             "numEvents": 1,
             "dtcScore": 14.31,
             "hobbyScore": "0.00",
-            "rank": 10
+            "rank": 12
           },
           {
             "userId": "BY5T9XAVLB",
@@ -734,76 +875,7 @@
             "numEvents": 1,
             "dtcScore": 10.22,
             "hobbyScore": "0.00",
-            "rank": 11
-          }
-        ]
-      },
-      {
-        "name": "Chaos Space Marines",
-        "players": [
-          {
-            "userId": "aCgNrvM5ko",
-            "name": "Thomas Verkooijen",
-            "numEvents": 2,
-            "dtcScore": 89.6,
-            "hobbyScore": "0.00",
-            "rank": 1
-          },
-          {
-            "userId": "8H4TWK6ABJ",
-            "name": "Mart Seijst, van",
-            "numEvents": 1,
-            "dtcScore": 69.6,
-            "hobbyScore": "0.00",
-            "rank": 2
-          },
-          {
-            "userId": "oLWC7ArCTG",
-            "name": "Hugo Honijk",
-            "numEvents": 1,
-            "dtcScore": 61.33,
-            "hobbyScore": "3.00",
-            "rank": 3
-          },
-          {
-            "userId": "WLG9N92YXC",
-            "name": "Gidon Kleinjan",
-            "numEvents": 1,
-            "dtcScore": 42.93,
-            "hobbyScore": "0.00",
-            "rank": 4
-          },
-          {
-            "userId": "U0VhFRlFBh",
-            "name": "Dewie Hajek",
-            "numEvents": 1,
-            "dtcScore": 41.49,
-            "hobbyScore": "3.00",
-            "rank": 5
-          },
-          {
-            "userId": "Ml16xrXaly",
-            "name": "Diego Frans",
-            "numEvents": 1,
-            "dtcScore": 24.53,
-            "hobbyScore": "0.00",
-            "rank": 6
-          },
-          {
-            "userId": "M88H6XP8E1",
-            "name": "Ruben Stapel",
-            "numEvents": 1,
-            "dtcScore": 20.44,
-            "hobbyScore": "1.00",
-            "rank": 7
-          },
-          {
-            "userId": "9WDN03KDPR",
-            "name": "Evert-Jan Flier",
-            "numEvents": 1,
-            "dtcScore": 5.8,
-            "hobbyScore": "0.00",
-            "rank": 8
+            "rank": 13
           }
         ]
       },
@@ -819,12 +891,20 @@
             "rank": 1
           },
           {
+            "userId": "vCUvmVLvsl",
+            "name": "Roel van Broekhoven",
+            "numEvents": 1,
+            "dtcScore": 49.22,
+            "hobbyScore": "0.00",
+            "rank": 2
+          },
+          {
             "userId": "1YBzQ7IxGR",
             "name": "Chiel de Groen",
             "numEvents": 1,
             "dtcScore": 24.4,
             "hobbyScore": "0.00",
-            "rank": 2
+            "rank": 3
           }
         ]
       },
@@ -885,12 +965,20 @@
             "rank": 4
           },
           {
+            "userId": "72NCAEEUG3",
+            "name": "Ap de Ree",
+            "numEvents": 3,
+            "dtcScore": 40.66,
+            "hobbyScore": "4.00",
+            "rank": 5
+          },
+          {
             "userId": "FIvWHCGzmv",
             "name": "Ricardo Barrientos de Reus",
             "numEvents": 1,
             "dtcScore": 36.8,
             "hobbyScore": "0.00",
-            "rank": 5
+            "rank": 6
           },
           {
             "userId": "FFnduPdfzJ",
@@ -898,14 +986,6 @@
             "numEvents": 1,
             "dtcScore": 34.76,
             "hobbyScore": "0.00",
-            "rank": 6
-          },
-          {
-            "userId": "72NCAEEUG3",
-            "name": "Ap de Ree",
-            "numEvents": 2,
-            "dtcScore": 27.24,
-            "hobbyScore": "4.00",
             "rank": 7
           },
           {
@@ -1062,12 +1142,20 @@
             "rank": 1
           },
           {
+            "userId": "DbvgCYEE9a",
+            "name": "Dennis Aaltink",
+            "numEvents": 1,
+            "dtcScore": 44.75,
+            "hobbyScore": "0.00",
+            "rank": 2
+          },
+          {
             "userId": "WB5G3VLK60",
             "name": "Willem Nijgh",
             "numEvents": 1,
             "dtcScore": 40.89,
             "hobbyScore": "0.00",
-            "rank": 2
+            "rank": 3
           },
           {
             "userId": "7R35THCV43",
@@ -1075,7 +1163,15 @@
             "numEvents": 1,
             "dtcScore": 26.1,
             "hobbyScore": "0.00",
-            "rank": 3
+            "rank": 4
+          },
+          {
+            "userId": "5G1TW3BUAQ",
+            "name": "Willem van Lith",
+            "numEvents": 1,
+            "dtcScore": 17.9,
+            "hobbyScore": "0.00",
+            "rank": 5
           },
           {
             "userId": "LU8P971QJG",
@@ -1083,7 +1179,20 @@
             "numEvents": 1,
             "dtcScore": 8.18,
             "hobbyScore": "0.00",
-            "rank": 4
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "name": "Chaos Daemons",
+        "players": [
+          {
+            "userId": "rzabCbO3PG",
+            "name": "Tim Simonis",
+            "numEvents": 1,
+            "dtcScore": 31.32,
+            "hobbyScore": "0.00",
+            "rank": 1
           }
         ]
       }
