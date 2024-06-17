@@ -47,7 +47,7 @@ const factions = {
     'inquisition',
     'imperial fists',
     'charcharodons',
-    'Space Marines (Astartes)',
+    'space marines (astartes)',
   ],
   'Blood Angels': ['blood angels', 'fleshtearers', 'lamenters'],
   Chaos: ['chaos'],
