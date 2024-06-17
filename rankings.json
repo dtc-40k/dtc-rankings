@@ -3,6 +3,106 @@
     "season": "2024",
     "rankings": [
       {
+        "userId": "yNvCWMm1gz",
+        "name": "Dick van der Harst",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Unknown",
+            "count": 3,
+            "score": 242.84
+          },
+          {
+            "name": "Chaos Knights",
+            "count": 2,
+            "score": 179.5
+          }
+        ],
+        "teams": [
+          {
+            "name": "stacked check",
+            "count": 4
+          },
+          {
+            "name": "Stat Check",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "114.70",
+            "eventHobbyScore": "1.00",
+            "userId": "yNvCWMm1gz",
+            "rank": 1,
+            "army": "Chaos Knights",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "104.63",
+            "eventHobbyScore": "0.00",
+            "userId": "yNvCWMm1gz",
+            "rank": 5,
+            "army": "Space Marines (Astartes)",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.20",
+            "eventHobbyScore": "0.00",
+            "userId": "yNvCWMm1gz",
+            "rank": 1,
+            "army": "Unknown",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.01",
+            "eventHobbyScore": "0.00",
+            "userId": "yNvCWMm1gz",
+            "rank": 3,
+            "army": "Space Marines (Astartes)",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 5",
+            "eventId": "LV94UWLEU3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "64.80",
+            "eventHobbyScore": "2.00",
+            "userId": "yNvCWMm1gz",
+            "rank": 3,
+            "army": "Chaos Knights",
+            "team": "Stat Check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 18,
+        "totalRank": 13,
+        "averageRank": "2.6",
+        "dtcScore": "422.34",
+        "hobbyScore": "3.00",
+        "rank": 1
+      },
+      {
         "userId": "4FUCUA3GN5",
         "name": "Rob Goossens",
         "numEvents": 5,
@@ -91,169 +191,17 @@
         "averageRank": "5.0",
         "dtcScore": "422.13",
         "hobbyScore": "0.00",
-        "rank": 1
-      },
-      {
-        "userId": "yNvCWMm1gz",
-        "name": "Dick van der Harst",
-        "numEvents": 4,
-        "armies": [
-          {
-            "name": "Unknown",
-            "count": 2,
-            "score": 176.83
-          },
-          {
-            "name": "Chaos Knights",
-            "count": 2,
-            "score": 179.5
-          }
-        ],
-        "teams": [
-          {
-            "name": "stacked check",
-            "count": 3
-          },
-          {
-            "name": "Stat Check",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "114.70",
-            "eventHobbyScore": "1.00",
-            "userId": "yNvCWMm1gz",
-            "rank": 1,
-            "army": "Chaos Knights",
-            "team": "stacked check",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "104.63",
-            "eventHobbyScore": "0.00",
-            "userId": "yNvCWMm1gz",
-            "rank": 5,
-            "army": "Space Marines (Astartes)",
-            "team": "stacked check",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "72.20",
-            "eventHobbyScore": "0.00",
-            "userId": "yNvCWMm1gz",
-            "rank": 1,
-            "army": "Unknown",
-            "team": "stacked check",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 5",
-            "eventId": "LV94UWLEU3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "64.80",
-            "eventHobbyScore": "2.00",
-            "userId": "yNvCWMm1gz",
-            "rank": 3,
-            "army": "Chaos Knights",
-            "team": "Stat Check",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 15,
-        "totalRank": 10,
-        "averageRank": "2.5",
-        "dtcScore": "356.33",
-        "hobbyScore": "3.00",
         "rank": 2
-      },
-      {
-        "userId": "Nl9NLmfAa0",
-        "name": "Stefan Meertens",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Space Wolves",
-            "count": 3,
-            "score": 288.75
-          }
-        ],
-        "teams": [
-          {
-            "name": "Amsterdam Battle Brothers",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "114.60",
-            "eventHobbyScore": "2.00",
-            "userId": "Nl9NLmfAa0",
-            "rank": 1,
-            "army": "Space Wolves",
-            "team": "Amsterdam Battle Brothers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers IRONMAN 2024",
-            "eventId": "s93NDBDKXl",
-            "numberOfRounds": 5,
-            "eventDtcScore": "111.80",
-            "eventHobbyScore": "3.00",
-            "userId": "Nl9NLmfAa0",
-            "rank": 1,
-            "army": "Space Wolves",
-            "team": "Amsterdam Battle Brothers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "62.35",
-            "eventHobbyScore": "3.00",
-            "userId": "Nl9NLmfAa0",
-            "rank": 4,
-            "army": "Space Wolves",
-            "team": "Amsterdam Battle Brothers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 12,
-        "totalRank": 6,
-        "averageRank": "2.0",
-        "dtcScore": "288.75",
-        "hobbyScore": "8.00",
-        "rank": 3
       },
       {
         "userId": "BYXUUNPEL4",
         "name": "Daniel Thomassen",
-        "numEvents": 5,
+        "numEvents": 6,
         "armies": [
           {
             "name": "Grey Knights",
-            "count": 3,
-            "score": 176.12
+            "count": 4,
+            "score": 216.99
           },
           {
             "name": "Adeptus Astartes",
@@ -269,7 +217,7 @@
         "teams": [
           {
             "name": "🦄💨👨‍👨‍👦‍👦",
-            "count": 5
+            "count": 6
           }
         ],
         "events": [
@@ -326,6 +274,19 @@
             "usedForHobbyRankings": true
           },
           {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "40.87",
+            "eventHobbyScore": "0.00",
+            "userId": "BYXUUNPEL4",
+            "rank": 11,
+            "army": "Grey Knights",
+            "team": "🦄💨👨‍👨‍👦‍👦",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
             "name": "Amsterdam Battle Brothers IRONMAN 2024",
             "eventId": "s93NDBDKXl",
             "numberOfRounds": 5,
@@ -339,27 +300,27 @@
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 11,
-        "totalRank": 64,
-        "averageRank": "12.8",
-        "dtcScore": "286.25",
+        "numWins": 12,
+        "totalRank": 75,
+        "averageRank": "12.5",
+        "dtcScore": "327.12",
         "hobbyScore": "7.00",
-        "rank": 4
+        "rank": 3
       },
       {
         "userId": "vAZ2RllJSj",
         "name": "Joshua Conant",
-        "numEvents": 5,
+        "numEvents": 6,
         "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 3,
+            "score": 172.84
+          },
           {
             "name": "World Eaters",
             "count": 2,
             "score": 106
-          },
-          {
-            "name": "Blood Angels",
-            "count": 2,
-            "score": 141.41
           },
           {
             "name": "Death Guard",
@@ -370,7 +331,7 @@
         "teams": [
           {
             "name": "U.S. Army Esports",
-            "count": 5
+            "count": 6
           }
         ],
         "events": [
@@ -438,14 +399,301 @@
             "team": "U.S. Army Esports",
             "usedForRankings": true,
             "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "31.43",
+            "eventHobbyScore": "0.00",
+            "userId": "vAZ2RllJSj",
+            "rank": 14,
+            "army": "Blood Angels",
+            "team": "U.S. Army Esports",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
           }
         ],
-        "numWins": 11,
-        "totalRank": 46,
-        "averageRank": "9.2",
-        "dtcScore": "280.23",
+        "numWins": 12,
+        "totalRank": 60,
+        "averageRank": "10.0",
+        "dtcScore": "311.66",
+        "hobbyScore": "0.00",
+        "rank": 4
+      },
+      {
+        "userId": "aCgNrvM5ko",
+        "name": "Thomas Verkooijen",
+        "numEvents": 6,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 6,
+            "score": 303.42
+          }
+        ],
+        "teams": [
+          {
+            "name": "Thomas' Angels",
+            "count": 3
+          },
+          {
+            "name": "Thomas Angels ",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "73.20",
+            "eventHobbyScore": "0.00",
+            "userId": "aCgNrvM5ko",
+            "rank": 1,
+            "army": "Chaos Space Marines",
+            "team": "Thomas' Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Brabohammer 1st edition",
+            "eventId": "RV9GTRB2VD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "58.17",
+            "eventHobbyScore": "0.00",
+            "userId": "aCgNrvM5ko",
+            "rank": 4,
+            "army": "Chaos Space Marines",
+            "team": "Thomas' Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "57.30",
+            "eventHobbyScore": "0.00",
+            "userId": "aCgNrvM5ko",
+            "rank": 24,
+            "army": "Chaos Space Marines",
+            "team": "Thomas Angels ",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "46.40",
+            "eventHobbyScore": "0.00",
+            "userId": "aCgNrvM5ko",
+            "rank": 10,
+            "army": "Chaos Space Marines",
+            "team": "Thomas Angels ",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 5",
+            "eventId": "LV94UWLEU3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "43.20",
+            "eventHobbyScore": "0.00",
+            "userId": "aCgNrvM5ko",
+            "rank": 9,
+            "army": "Chaos Space Marines",
+            "team": "Thomas' Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "25.15",
+            "eventHobbyScore": "0.00",
+            "userId": "aCgNrvM5ko",
+            "rank": 16,
+            "army": "Chaos Space Marines",
+            "team": "Thomas Angels ",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 12.5,
+        "totalRank": 64,
+        "averageRank": "10.7",
+        "dtcScore": "303.42",
         "hobbyScore": "0.00",
         "rank": 5
+      },
+      {
+        "userId": "aXodFjn9lU",
+        "name": "Christian Domburg",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 3,
+            "score": 144.06
+          },
+          {
+            "name": "Unknown",
+            "count": 1,
+            "score": 69.16
+          },
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 84.7
+          }
+        ],
+        "teams": [
+          {
+            "name": "Warzone Presikhaaf",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "84.70",
+            "eventHobbyScore": "0.00",
+            "userId": "aXodFjn9lU",
+            "rank": 13,
+            "army": "Black Templars",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 5",
+            "eventId": "LV94UWLEU3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.00",
+            "eventHobbyScore": "0.00",
+            "userId": "aXodFjn9lU",
+            "rank": 1,
+            "army": "Astra Militarum",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "69.16",
+            "eventHobbyScore": "3.00",
+            "userId": "aXodFjn9lU",
+            "rank": 2,
+            "army": "Space Marines (Astartes)",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.92",
+            "eventHobbyScore": "0.00",
+            "userId": "aXodFjn9lU",
+            "rank": 2,
+            "army": "Astra Militarum",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "3.14",
+            "eventHobbyScore": "0.00",
+            "userId": "aXodFjn9lU",
+            "rank": 23,
+            "army": "Astra Militarum",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 12,
+        "totalRank": 41,
+        "averageRank": "8.2",
+        "dtcScore": "297.92",
+        "hobbyScore": "3.00",
+        "rank": 6
+      },
+      {
+        "userId": "Nl9NLmfAa0",
+        "name": "Stefan Meertens",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Space Wolves",
+            "count": 3,
+            "score": 288.75
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdam Battle Brothers",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "114.60",
+            "eventHobbyScore": "2.00",
+            "userId": "Nl9NLmfAa0",
+            "rank": 1,
+            "army": "Space Wolves",
+            "team": "Amsterdam Battle Brothers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers IRONMAN 2024",
+            "eventId": "s93NDBDKXl",
+            "numberOfRounds": 5,
+            "eventDtcScore": "111.80",
+            "eventHobbyScore": "3.00",
+            "userId": "Nl9NLmfAa0",
+            "rank": 1,
+            "army": "Space Wolves",
+            "team": "Amsterdam Battle Brothers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.35",
+            "eventHobbyScore": "3.00",
+            "userId": "Nl9NLmfAa0",
+            "rank": 4,
+            "army": "Space Wolves",
+            "team": "Amsterdam Battle Brothers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 12,
+        "totalRank": 6,
+        "averageRank": "2.0",
+        "dtcScore": "288.75",
+        "hobbyScore": "8.00",
+        "rank": 7
       },
       {
         "userId": "doASAKgaUX",
@@ -520,7 +768,7 @@
         "averageRank": "5.7",
         "dtcScore": "269.07",
         "hobbyScore": "1.00",
-        "rank": 6
+        "rank": 8
       },
       {
         "userId": "U18LN2U8KL",
@@ -590,53 +838,59 @@
         "averageRank": "8.3",
         "dtcScore": "244.64",
         "hobbyScore": "3.00",
-        "rank": 7
+        "rank": 9
       },
       {
-        "userId": "aCgNrvM5ko",
-        "name": "Thomas Verkooijen",
-        "numEvents": 5,
+        "userId": "fOQUt2qkaz",
+        "name": "Florian den Uijl",
+        "numEvents": 3,
         "armies": [
           {
             "name": "Chaos Space Marines",
-            "count": 5,
-            "score": 230.22
+            "count": 1,
+            "score": 68.63
+          },
+          {
+            "name": "Necrons",
+            "count": 1,
+            "score": 66.7
+          },
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 97.16
           }
         ],
         "teams": [
           {
-            "name": "Thomas Angels ",
+            "name": "Koningen van Groningen",
             "count": 3
-          },
-          {
-            "name": "Thomas' Angels",
-            "count": 2
           }
         ],
         "events": [
           {
-            "name": "Brabohammer 1st edition",
-            "eventId": "RV9GTRB2VD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "58.17",
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "97.16",
             "eventHobbyScore": "0.00",
-            "userId": "aCgNrvM5ko",
-            "rank": 4,
-            "army": "Chaos Space Marines",
-            "team": "Thomas' Angels",
+            "userId": "fOQUt2qkaz",
+            "rank": 8,
+            "army": "Thousand Sons",
+            "team": "Koningen van Groningen",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "57.30",
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.63",
             "eventHobbyScore": "0.00",
-            "userId": "aCgNrvM5ko",
-            "rank": 24,
+            "userId": "fOQUt2qkaz",
+            "rank": 3,
             "army": "Chaos Space Marines",
-            "team": "Thomas Angels ",
+            "team": "Koningen van Groningen",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
@@ -644,131 +898,100 @@
             "name": "Legends of the North V7",
             "eventId": "WMN9VENWYD",
             "numberOfRounds": 3,
-            "eventDtcScore": "46.40",
+            "eventDtcScore": "66.70",
             "eventHobbyScore": "0.00",
-            "userId": "aCgNrvM5ko",
-            "rank": 10,
-            "army": "Chaos Space Marines",
-            "team": "Thomas Angels ",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 5",
-            "eventId": "LV94UWLEU3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "43.20",
-            "eventHobbyScore": "0.00",
-            "userId": "aCgNrvM5ko",
-            "rank": 9,
-            "army": "Chaos Space Marines",
-            "team": "Thomas' Angels",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "25.15",
-            "eventHobbyScore": "0.00",
-            "userId": "aCgNrvM5ko",
-            "rank": 16,
-            "army": "Chaos Space Marines",
-            "team": "Thomas Angels ",
+            "userId": "fOQUt2qkaz",
+            "rank": 3,
+            "army": "Necrons",
+            "team": "Koningen van Groningen",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 9.5,
-        "totalRank": 63,
-        "averageRank": "12.6",
-        "dtcScore": "230.22",
+        "numWins": 10,
+        "totalRank": 14,
+        "averageRank": "4.7",
+        "dtcScore": "232.49",
         "hobbyScore": "0.00",
-        "rank": 8
+        "rank": 10
       },
       {
-        "userId": "aXodFjn9lU",
-        "name": "Christian Domburg",
+        "userId": "AOIaD4FIFe",
+        "name": "Niek de Neijs",
         "numEvents": 4,
         "armies": [
           {
-            "name": "Astra Militarum",
-            "count": 3,
-            "score": 144.06
-          },
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 84.7
+            "name": "Genestealer Cult",
+            "count": 4,
+            "score": 227.27
           }
         ],
         "teams": [
           {
-            "name": "Warzone Presikhaaf",
+            "name": "Grimdark Society",
             "count": 4
           }
         ],
         "events": [
           {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "97.62",
+            "eventHobbyScore": "0.00",
+            "userId": "AOIaD4FIFe",
+            "rank": 8,
+            "army": "Genestealer Cult",
+            "team": "Grimdark Society",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "53.44",
+            "eventHobbyScore": "0.00",
+            "userId": "AOIaD4FIFe",
+            "rank": 7,
+            "army": "Genestealer Cult",
+            "team": "Grimdark Society",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "North Sea Slam 02 RottenHammer",
+            "eventId": "3D5M0PG8KR",
+            "numberOfRounds": 3,
+            "eventDtcScore": "38.84",
+            "eventHobbyScore": "0.00",
+            "userId": "AOIaD4FIFe",
+            "rank": 18,
+            "army": "Genestealer Cult",
+            "team": "Grimdark Society",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
             "name": "Dutch Masters Grand tournament | golden ticket qualifier",
             "eventId": "cBFG69Kfi0",
             "numberOfRounds": 5,
-            "eventDtcScore": "84.70",
+            "eventDtcScore": "37.37",
             "eventHobbyScore": "0.00",
-            "userId": "aXodFjn9lU",
-            "rank": 13,
-            "army": "Black Templars",
-            "team": "Warzone Presikhaaf",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 5",
-            "eventId": "LV94UWLEU3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "72.00",
-            "eventHobbyScore": "0.00",
-            "userId": "aXodFjn9lU",
-            "rank": 1,
-            "army": "Astra Militarum",
-            "team": "Warzone Presikhaaf",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "68.92",
-            "eventHobbyScore": "0.00",
-            "userId": "aXodFjn9lU",
-            "rank": 2,
-            "army": "Astra Militarum",
-            "team": "Warzone Presikhaaf",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "3.14",
-            "eventHobbyScore": "0.00",
-            "userId": "aXodFjn9lU",
-            "rank": 23,
-            "army": "Astra Militarum",
-            "team": "Warzone Presikhaaf",
+            "userId": "AOIaD4FIFe",
+            "rank": 32,
+            "army": "Genestealer Cult",
+            "team": "Grimdark Society",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 9,
-        "totalRank": 39,
-        "averageRank": "9.8",
-        "dtcScore": "228.76",
+        "totalRank": 65,
+        "averageRank": "16.3",
+        "dtcScore": "227.27",
         "hobbyScore": "0.00",
-        "rank": 9
+        "rank": 11
       },
       {
         "userId": "ZRyVn8v3qG",
@@ -825,7 +1048,85 @@
         "averageRank": "4.7",
         "dtcScore": "226.36",
         "hobbyScore": "5.00",
-        "rank": 10
+        "rank": 12
+      },
+      {
+        "userId": "NYLcU6mpnw",
+        "name": "Simon Borgers",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Genestealer Cult",
+            "count": 4,
+            "score": 225.97
+          }
+        ],
+        "teams": [
+          {
+            "name": "Koningen van Groningen",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "78.09",
+            "eventHobbyScore": "0.00",
+            "userId": "NYLcU6mpnw",
+            "rank": 16,
+            "army": "Genestealer Cult",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.50",
+            "eventHobbyScore": "0.00",
+            "userId": "NYLcU6mpnw",
+            "rank": 1,
+            "army": "Genestealer Cult",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "70.91",
+            "eventHobbyScore": "0.00",
+            "userId": "NYLcU6mpnw",
+            "rank": 2,
+            "army": "Genestealer Cult",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Brabohammer 1st edition",
+            "eventId": "RV9GTRB2VD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "4.47",
+            "eventHobbyScore": "0.00",
+            "userId": "NYLcU6mpnw",
+            "rank": 16,
+            "army": "Genestealer Cult",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9,
+        "totalRank": 35,
+        "averageRank": "8.8",
+        "dtcScore": "225.97",
+        "hobbyScore": "0.00",
+        "rank": 13
       },
       {
         "userId": "oAlaJi0kEF",
@@ -908,7 +1209,7 @@
         "averageRank": "13.0",
         "dtcScore": "222.36",
         "hobbyScore": "2.00",
-        "rank": 11
+        "rank": 14
       },
       {
         "userId": "sdjXWgUjur",
@@ -991,7 +1292,316 @@
         "averageRank": "16.0",
         "dtcScore": "218.57",
         "hobbyScore": "6.00",
-        "rank": 12
+        "rank": 15
+      },
+      {
+        "userId": "R3QG70jgwM",
+        "name": "Anthony Eisses",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Drukhari",
+            "count": 5,
+            "score": 208.55
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "64.05",
+            "eventHobbyScore": "0.00",
+            "userId": "R3QG70jgwM",
+            "rank": 5,
+            "army": "Drukhari",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "58.57",
+            "eventHobbyScore": "0.00",
+            "userId": "R3QG70jgwM",
+            "rank": 24,
+            "army": "Drukhari",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "44.84",
+            "eventHobbyScore": "0.00",
+            "userId": "R3QG70jgwM",
+            "rank": 29,
+            "army": "Drukhari",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "34.80",
+            "eventHobbyScore": "0.00",
+            "userId": "R3QG70jgwM",
+            "rank": 14,
+            "army": "Drukhari",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "6.29",
+            "eventHobbyScore": "0.00",
+            "userId": "R3QG70jgwM",
+            "rank": 22,
+            "army": "Drukhari",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 7,
+        "totalRank": 94,
+        "averageRank": "18.8",
+        "dtcScore": "208.55",
+        "hobbyScore": "0.00",
+        "rank": 16
+      },
+      {
+        "userId": "fBbz9SqAAE",
+        "name": "Daan Van Herk",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Orks",
+            "count": 3,
+            "score": 149.58
+          },
+          {
+            "name": "Grey Knights",
+            "count": 1,
+            "score": 56.58
+          }
+        ],
+        "teams": [
+          {
+            "name": "Mannen van het wapen",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "The Wardice Wargames 5",
+            "eventId": "LV94UWLEU3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.40",
+            "eventHobbyScore": "0.00",
+            "userId": "fBbz9SqAAE",
+            "rank": 2,
+            "army": "Orks",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "64.77",
+            "eventHobbyScore": "0.00",
+            "userId": "fBbz9SqAAE",
+            "rank": 21,
+            "army": "Orks",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "56.58",
+            "eventHobbyScore": "0.00",
+            "userId": "fBbz9SqAAE",
+            "rank": 6,
+            "army": "Grey Knights",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "16.41",
+            "eventHobbyScore": "4.00",
+            "userId": "fBbz9SqAAE",
+            "rank": 18,
+            "army": "Orks",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9,
+        "totalRank": 47,
+        "averageRank": "11.8",
+        "dtcScore": "206.16",
+        "hobbyScore": "4.00",
+        "rank": 17
+      },
+      {
+        "userId": "7EzFInhtYL",
+        "name": "Jochem Warmenhoven",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Adepta Sororitas",
+            "count": 2,
+            "score": 128.62
+          },
+          {
+            "name": "Orks",
+            "count": 1,
+            "score": 74.53
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Amsterdam Battle Brothers IRONMAN 2024",
+            "eventId": "s93NDBDKXl",
+            "numberOfRounds": 5,
+            "eventDtcScore": "74.53",
+            "eventHobbyScore": "3.00",
+            "userId": "7EzFInhtYL",
+            "rank": 7,
+            "army": "Orks",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.34",
+            "eventHobbyScore": "0.00",
+            "userId": "7EzFInhtYL",
+            "rank": 4,
+            "army": "Adepta Sororitas",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "62.28",
+            "eventHobbyScore": "3.00",
+            "userId": "7EzFInhtYL",
+            "rank": 22,
+            "army": "Adepta Sororitas",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 8,
+        "totalRank": 33,
+        "averageRank": "11.0",
+        "dtcScore": "203.15",
+        "hobbyScore": "6.00",
+        "rank": 18
+      },
+      {
+        "userId": "11UVudMFZ4",
+        "name": "Laurens Tjallingii",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Adepta Sororitas",
+            "count": 3,
+            "score": 202.27
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "82.21",
+            "eventHobbyScore": "0.00",
+            "userId": "11UVudMFZ4",
+            "rank": 14,
+            "army": "Adepta Sororitas",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.87",
+            "eventHobbyScore": "2.00",
+            "userId": "11UVudMFZ4",
+            "rank": 4,
+            "army": "Adepta Sororitas",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.19",
+            "eventHobbyScore": "0.00",
+            "userId": "11UVudMFZ4",
+            "rank": 8,
+            "army": "Adepta Sororitas",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 7,
+        "totalRank": 26,
+        "averageRank": "8.7",
+        "dtcScore": "202.27",
+        "hobbyScore": "2.00",
+        "rank": 19
       },
       {
         "userId": "95WJH9Q3KL",
@@ -1041,7 +1651,7 @@
         "averageRank": "3.5",
         "dtcScore": "199.07",
         "hobbyScore": "2.00",
-        "rank": 13
+        "rank": 20
       },
       {
         "userId": "MqROm67JZ9",
@@ -1116,7 +1726,85 @@
         "averageRank": "14.3",
         "dtcScore": "187.80",
         "hobbyScore": "0.00",
-        "rank": 14
+        "rank": 21
+      },
+      {
+        "userId": "FaF3dECqaz",
+        "name": "Lennaert Tjallingii",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "T'au Empire",
+            "count": 4,
+            "score": 184.47
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "63.80",
+            "eventHobbyScore": "0.00",
+            "userId": "FaF3dECqaz",
+            "rank": 4,
+            "army": "T'au Empire",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "44.01",
+            "eventHobbyScore": "2.00",
+            "userId": "FaF3dECqaz",
+            "rank": 10,
+            "army": "T'au Empire",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "42.35",
+            "eventHobbyScore": "0.00",
+            "userId": "FaF3dECqaz",
+            "rank": 30,
+            "army": "T'au Empire",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "34.31",
+            "eventHobbyScore": "0.00",
+            "userId": "FaF3dECqaz",
+            "rank": 18,
+            "army": "T'au Empire",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 7,
+        "totalRank": 62,
+        "averageRank": "15.5",
+        "dtcScore": "184.47",
+        "hobbyScore": "2.00",
+        "rank": 22
       },
       {
         "userId": "anABDkvHAC",
@@ -1194,7 +1882,85 @@
         "averageRank": "16.3",
         "dtcScore": "177.99",
         "hobbyScore": "0.00",
-        "rank": 15
+        "rank": 23
+      },
+      {
+        "userId": "zIsZB85fkZ",
+        "name": "Brian Lijs",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Unknown",
+            "count": 4,
+            "score": 177.51
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdamned Wargaming",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "77.23",
+            "eventHobbyScore": "4.00",
+            "userId": "zIsZB85fkZ",
+            "rank": 16,
+            "army": "Space Marines (Astartes)",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "47.15",
+            "eventHobbyScore": "0.00",
+            "userId": "zIsZB85fkZ",
+            "rank": 9,
+            "army": "Space Marines (Astartes)",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "28.29",
+            "eventHobbyScore": "0.00",
+            "userId": "zIsZB85fkZ",
+            "rank": 15,
+            "army": "Unknown",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers IRONMAN 2024",
+            "eventId": "s93NDBDKXl",
+            "numberOfRounds": 5,
+            "eventDtcScore": "24.84",
+            "eventHobbyScore": "0.00",
+            "userId": "zIsZB85fkZ",
+            "rank": 15,
+            "army": "Space Marines (Astartes)",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 7,
+        "totalRank": 55,
+        "averageRank": "13.8",
+        "dtcScore": "177.51",
+        "hobbyScore": "4.00",
+        "rank": 24
       },
       {
         "userId": "eOFVEEMOEb",
@@ -1259,72 +2025,7 @@
         "averageRank": "14.7",
         "dtcScore": "174.23",
         "hobbyScore": "0.00",
-        "rank": 16
-      },
-      {
-        "userId": "AOIaD4FIFe",
-        "name": "Niek de Neijs",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Genestealer Cult",
-            "count": 3,
-            "score": 173.83
-          }
-        ],
-        "teams": [
-          {
-            "name": "Grimdark Society",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "97.62",
-            "eventHobbyScore": "0.00",
-            "userId": "AOIaD4FIFe",
-            "rank": 8,
-            "army": "Genestealer Cult",
-            "team": "Grimdark Society",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "North Sea Slam 02 RottenHammer",
-            "eventId": "3D5M0PG8KR",
-            "numberOfRounds": 3,
-            "eventDtcScore": "38.84",
-            "eventHobbyScore": "0.00",
-            "userId": "AOIaD4FIFe",
-            "rank": 18,
-            "army": "Genestealer Cult",
-            "team": "Grimdark Society",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "37.37",
-            "eventHobbyScore": "0.00",
-            "userId": "AOIaD4FIFe",
-            "rank": 32,
-            "army": "Genestealer Cult",
-            "team": "Grimdark Society",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 7,
-        "totalRank": 58,
-        "averageRank": "19.3",
-        "dtcScore": "173.83",
-        "hobbyScore": "0.00",
-        "rank": 17
+        "rank": 25
       },
       {
         "userId": "61t2okJcUl",
@@ -1419,7 +2120,7 @@
         "averageRank": "18.0",
         "dtcScore": "169.48",
         "hobbyScore": "0.00",
-        "rank": 18
+        "rank": 26
       },
       {
         "userId": "6UBC215W79",
@@ -1469,7 +2170,7 @@
         "averageRank": "13.5",
         "dtcScore": "167.73",
         "hobbyScore": "1.00",
-        "rank": 19
+        "rank": 27
       },
       {
         "userId": "taF4FcGA4u",
@@ -1539,41 +2240,45 @@
         "averageRank": "11.7",
         "dtcScore": "167.39",
         "hobbyScore": "0.00",
-        "rank": 20
+        "rank": 28
       },
       {
-        "userId": "fOQUt2qkaz",
-        "name": "Florian den Uijl",
-        "numEvents": 2,
+        "userId": "L9z1rjeeaY",
+        "name": "Van Farnacles Serrano",
+        "numEvents": 5,
         "armies": [
           {
-            "name": "Necrons",
-            "count": 1,
-            "score": 66.7
+            "name": "Thousand Sons",
+            "count": 3,
+            "score": 111.92
           },
           {
-            "name": "Thousand Sons",
-            "count": 1,
-            "score": 97.16
+            "name": "Chaos Knights",
+            "count": 2,
+            "score": 51.74
           }
         ],
         "teams": [
           {
-            "name": "Koningen van Groningen",
+            "name": "Warriors Del Barrio",
             "count": 2
+          },
+          {
+            "name": "Warriors of Barrio",
+            "count": 1
           }
         ],
         "events": [
           {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "97.16",
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "52.61",
             "eventHobbyScore": "0.00",
-            "userId": "fOQUt2qkaz",
-            "rank": 8,
+            "userId": "L9z1rjeeaY",
+            "rank": 10,
             "army": "Thousand Sons",
-            "team": "Koningen van Groningen",
+            "team": "Warriors Del Barrio",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
@@ -1581,22 +2286,59 @@
             "name": "Legends of the North V7",
             "eventId": "WMN9VENWYD",
             "numberOfRounds": 3,
-            "eventDtcScore": "66.70",
+            "eventDtcScore": "49.30",
             "eventHobbyScore": "0.00",
-            "userId": "fOQUt2qkaz",
-            "rank": 3,
-            "army": "Necrons",
-            "team": "Koningen van Groningen",
+            "userId": "L9z1rjeeaY",
+            "rank": 9,
+            "army": "Chaos Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "39.38",
+            "eventHobbyScore": "0.00",
+            "userId": "L9z1rjeeaY",
+            "rank": 11,
+            "army": "Thousand Sons",
+            "team": "Warriors Del Barrio",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "19.93",
+            "eventHobbyScore": "0.00",
+            "userId": "L9z1rjeeaY",
+            "rank": 39,
+            "army": "Thousand Sons",
+            "team": "Warriors of Barrio",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "2.44",
+            "eventHobbyScore": "0.00",
+            "userId": "L9z1rjeeaY",
+            "rank": 47,
+            "army": "Chaos Knights",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 7,
-        "totalRank": 11,
-        "averageRank": "5.5",
-        "dtcScore": "163.86",
+        "numWins": 6,
+        "totalRank": 116,
+        "averageRank": "23.2",
+        "dtcScore": "163.66",
         "hobbyScore": "0.00",
-        "rank": 21
+        "rank": 29
       },
       {
         "userId": "jTKYUfh35b",
@@ -1648,7 +2390,7 @@
         "averageRank": "5.5",
         "dtcScore": "160.85",
         "hobbyScore": "0.00",
-        "rank": 22
+        "rank": 30
       },
       {
         "userId": "CT9MTXB661",
@@ -1705,7 +2447,7 @@
         "averageRank": "8.5",
         "dtcScore": "157.24",
         "hobbyScore": "0.00",
-        "rank": 23
+        "rank": 31
       },
       {
         "userId": "xAHG8rotJ3",
@@ -1775,179 +2517,47 @@
         "averageRank": "12.3",
         "dtcScore": "156.44",
         "hobbyScore": "0.00",
-        "rank": 24
+        "rank": 32
       },
       {
-        "userId": "NYLcU6mpnw",
-        "name": "Simon Borgers",
+        "userId": "CaLnU6ybkA",
+        "name": "Joey Tittel",
         "numEvents": 3,
         "armies": [
           {
-            "name": "Genestealer Cult",
-            "count": 3,
-            "score": 155.06
-          }
-        ],
-        "teams": [
+            "name": "Necrons",
+            "count": 2,
+            "score": 147.95
+          },
           {
-            "name": "Koningen van Groningen",
-            "count": 3
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 3.28
           }
         ],
+        "teams": [],
         "events": [
           {
             "name": "Alliance Open 40K Masters",
             "eventId": "LVVXB2G40G",
             "numberOfRounds": 5,
-            "eventDtcScore": "78.09",
-            "eventHobbyScore": "0.00",
-            "userId": "NYLcU6mpnw",
-            "rank": 16,
-            "army": "Genestealer Cult",
-            "team": "Koningen van Groningen",
+            "eventDtcScore": "75.65",
+            "eventHobbyScore": "1.00",
+            "userId": "CaLnU6ybkA",
+            "rank": 17,
+            "army": "Necrons",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
             "numberOfRounds": 3,
-            "eventDtcScore": "72.50",
+            "eventDtcScore": "72.30",
             "eventHobbyScore": "0.00",
-            "userId": "NYLcU6mpnw",
+            "userId": "CaLnU6ybkA",
             "rank": 1,
-            "army": "Genestealer Cult",
-            "team": "Koningen van Groningen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Brabohammer 1st edition",
-            "eventId": "RV9GTRB2VD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "4.47",
-            "eventHobbyScore": "0.00",
-            "userId": "NYLcU6mpnw",
-            "rank": 16,
-            "army": "Genestealer Cult",
-            "team": "Koningen van Groningen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 6,
-        "totalRank": 33,
-        "averageRank": "11.0",
-        "dtcScore": "155.06",
-        "hobbyScore": "0.00",
-        "rank": 25
-      },
-      {
-        "userId": "FaF3dECqaz",
-        "name": "Lennaert Tjallingii",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "T'au Empire",
-            "count": 3,
-            "score": 150.16
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "63.80",
-            "eventHobbyScore": "0.00",
-            "userId": "FaF3dECqaz",
-            "rank": 4,
-            "army": "T'au Empire",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "44.01",
-            "eventHobbyScore": "2.00",
-            "userId": "FaF3dECqaz",
-            "rank": 10,
-            "army": "T'au Empire",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "42.35",
-            "eventHobbyScore": "0.00",
-            "userId": "FaF3dECqaz",
-            "rank": 30,
-            "army": "T'au Empire",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 6,
-        "totalRank": 44,
-        "averageRank": "14.7",
-        "dtcScore": "150.16",
-        "hobbyScore": "2.00",
-        "rank": 26
-      },
-      {
-        "userId": "fBbz9SqAAE",
-        "name": "Daan Van Herk",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Orks",
-            "count": 3,
-            "score": 149.58
-          }
-        ],
-        "teams": [
-          {
-            "name": "Mannen van het wapen",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "The Wardice Wargames 5",
-            "eventId": "LV94UWLEU3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "68.40",
-            "eventHobbyScore": "0.00",
-            "userId": "fBbz9SqAAE",
-            "rank": 2,
-            "army": "Orks",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "64.77",
-            "eventHobbyScore": "0.00",
-            "userId": "fBbz9SqAAE",
-            "rank": 21,
-            "army": "Orks",
-            "team": "Mannen van het wapen",
+            "army": "Necrons",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
@@ -1955,77 +2565,11 @@
             "name": "Amsterdam Battle Brothers trainingcages ",
             "eventId": "2bHCHu2c6w",
             "numberOfRounds": 3,
-            "eventDtcScore": "16.41",
-            "eventHobbyScore": "4.00",
-            "userId": "fBbz9SqAAE",
-            "rank": 18,
-            "army": "Orks",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 7,
-        "totalRank": 41,
-        "averageRank": "13.7",
-        "dtcScore": "149.58",
-        "hobbyScore": "4.00",
-        "rank": 27
-      },
-      {
-        "userId": "zIsZB85fkZ",
-        "name": "Brian Lijs",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Unknown",
-            "count": 3,
-            "score": 149.22
-          }
-        ],
-        "teams": [
-          {
-            "name": "Amsterdamned Wargaming",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "77.23",
-            "eventHobbyScore": "4.00",
-            "userId": "zIsZB85fkZ",
-            "rank": 16,
-            "army": "Space Marines (Astartes)",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "47.15",
+            "eventDtcScore": "3.28",
             "eventHobbyScore": "0.00",
-            "userId": "zIsZB85fkZ",
-            "rank": 9,
-            "army": "Unknown",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers IRONMAN 2024",
-            "eventId": "s93NDBDKXl",
-            "numberOfRounds": 5,
-            "eventDtcScore": "24.84",
-            "eventHobbyScore": "0.00",
-            "userId": "zIsZB85fkZ",
-            "rank": 15,
-            "army": "Space Marines (Astartes)",
-            "team": "Amsterdamned Wargaming",
+            "userId": "CaLnU6ybkA",
+            "rank": 22,
+            "army": "Astra Militarum",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -2033,139 +2577,9 @@
         "numWins": 6,
         "totalRank": 40,
         "averageRank": "13.3",
-        "dtcScore": "149.22",
-        "hobbyScore": "4.00",
-        "rank": 28
-      },
-      {
-        "userId": "11UVudMFZ4",
-        "name": "Laurens Tjallingii",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Adepta Sororitas",
-            "count": 2,
-            "score": 145.08
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "82.21",
-            "eventHobbyScore": "0.00",
-            "userId": "11UVudMFZ4",
-            "rank": 14,
-            "army": "Adepta Sororitas",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "62.87",
-            "eventHobbyScore": "2.00",
-            "userId": "11UVudMFZ4",
-            "rank": 4,
-            "army": "Adepta Sororitas",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 5,
-        "totalRank": 18,
-        "averageRank": "9.0",
-        "dtcScore": "145.08",
-        "hobbyScore": "2.00",
-        "rank": 29
-      },
-      {
-        "userId": "R3QG70jgwM",
-        "name": "Anthony Eisses",
-        "numEvents": 4,
-        "armies": [
-          {
-            "name": "Drukhari",
-            "count": 4,
-            "score": 144.5
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 4
-          }
-        ],
-        "events": [
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "58.57",
-            "eventHobbyScore": "0.00",
-            "userId": "R3QG70jgwM",
-            "rank": 24,
-            "army": "Drukhari",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "44.84",
-            "eventHobbyScore": "0.00",
-            "userId": "R3QG70jgwM",
-            "rank": 29,
-            "army": "Drukhari",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "34.80",
-            "eventHobbyScore": "0.00",
-            "userId": "R3QG70jgwM",
-            "rank": 14,
-            "army": "Drukhari",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "6.29",
-            "eventHobbyScore": "0.00",
-            "userId": "R3QG70jgwM",
-            "rank": 22,
-            "army": "Drukhari",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 5,
-        "totalRank": 89,
-        "averageRank": "22.3",
-        "dtcScore": "144.50",
-        "hobbyScore": "0.00",
-        "rank": 30
+        "dtcScore": "151.23",
+        "hobbyScore": "1.00",
+        "rank": 33
       },
       {
         "userId": "m1Cf1dFdAY",
@@ -2222,7 +2636,7 @@
         "averageRank": "11.0",
         "dtcScore": "142.26",
         "hobbyScore": "0.00",
-        "rank": 31
+        "rank": 34
       },
       {
         "userId": "H8Y33Q194W",
@@ -2279,64 +2693,344 @@
         "averageRank": "10.5",
         "dtcScore": "141.32",
         "hobbyScore": "0.00",
-        "rank": 32
+        "rank": 35
       },
       {
-        "userId": "7EzFInhtYL",
-        "name": "Jochem Warmenhoven",
-        "numEvents": 2,
+        "userId": "2BPXVXRWUN",
+        "name": "Kasper Ruiter",
+        "numEvents": 3,
         "armies": [
-          {
-            "name": "Adepta Sororitas",
-            "count": 1,
-            "score": 62.28
-          },
           {
             "name": "Orks",
             "count": 1,
-            "score": 74.53
+            "score": 61.76
+          },
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 21.6
+          },
+          {
+            "name": "Unknown",
+            "count": 1,
+            "score": 56.13
           }
         ],
         "teams": [
           {
-            "name": "wardice",
-            "count": 2
+            "name": "Wahammer Gooi+",
+            "count": 1
+          },
+          {
+            "name": "Meathammer",
+            "count": 1
           }
         ],
         "events": [
           {
-            "name": "Amsterdam Battle Brothers IRONMAN 2024",
-            "eventId": "s93NDBDKXl",
-            "numberOfRounds": 5,
-            "eventDtcScore": "74.53",
-            "eventHobbyScore": "3.00",
-            "userId": "7EzFInhtYL",
-            "rank": 7,
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "61.76",
+            "eventHobbyScore": "0.00",
+            "userId": "2BPXVXRWUN",
+            "rank": 6,
             "army": "Orks",
-            "team": "wardice",
+            "team": "Wahammer Gooi+",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
             "numberOfRounds": 5,
-            "eventDtcScore": "62.28",
-            "eventHobbyScore": "3.00",
-            "userId": "7EzFInhtYL",
-            "rank": 22,
-            "army": "Adepta Sororitas",
-            "team": "wardice",
+            "eventDtcScore": "56.13",
+            "eventHobbyScore": "0.00",
+            "userId": "2BPXVXRWUN",
+            "rank": 25,
+            "army": "Space Marines (Astartes)",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 5",
+            "eventId": "LV94UWLEU3",
+            "numberOfRounds": 3,
+            "eventDtcScore": "21.60",
+            "eventHobbyScore": "0.00",
+            "userId": "2BPXVXRWUN",
+            "rank": 15,
+            "army": "Adeptus Astartes",
+            "team": "Meathammer",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 5,
-        "totalRank": 29,
-        "averageRank": "14.5",
-        "dtcScore": "136.81",
-        "hobbyScore": "6.00",
-        "rank": 33
+        "totalRank": 46,
+        "averageRank": "15.3",
+        "dtcScore": "139.49",
+        "hobbyScore": "0.00",
+        "rank": 36
+      },
+      {
+        "userId": "6pD99rXvA3",
+        "name": "Dino Kho",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Aeldari",
+            "count": 1,
+            "score": 18.86
+          },
+          {
+            "name": "Adeptus Custodes",
+            "count": 1,
+            "score": 4.88
+          },
+          {
+            "name": "Necrons",
+            "count": 1,
+            "score": 109.62
+          }
+        ],
+        "teams": [
+          {
+            "name": "stacked check",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "109.62",
+            "eventHobbyScore": "0.00",
+            "userId": "6pD99rXvA3",
+            "rank": 3,
+            "army": "Necrons",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "18.86",
+            "eventHobbyScore": "0.00",
+            "userId": "6pD99rXvA3",
+            "rank": 18,
+            "army": "Aeldari",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "4.88",
+            "eventHobbyScore": "0.00",
+            "userId": "6pD99rXvA3",
+            "rank": 46,
+            "army": "Adeptus Custodes",
+            "team": "stacked check",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 5,
+        "totalRank": 67,
+        "averageRank": "22.3",
+        "dtcScore": "133.36",
+        "hobbyScore": "0.00",
+        "rank": 37
+      },
+      {
+        "userId": "fmlRvdCQqo",
+        "name": "William Waight",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Unknown",
+            "count": 2,
+            "score": 73.82
+          },
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 49.83
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "49.83",
+            "eventHobbyScore": "0.00",
+            "userId": "fmlRvdCQqo",
+            "rank": 27,
+            "army": "Ultramarines",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "37.72",
+            "eventHobbyScore": "2.00",
+            "userId": "fmlRvdCQqo",
+            "rank": 12,
+            "army": "Space Marines (Astartes)",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "36.10",
+            "eventHobbyScore": "0.00",
+            "userId": "fmlRvdCQqo",
+            "rank": 12,
+            "army": "Unknown",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 51,
+        "averageRank": "17.0",
+        "dtcScore": "123.65",
+        "hobbyScore": "2.00",
+        "rank": 38
+      },
+      {
+        "userId": "8H4TWK6ABJ",
+        "name": "Mart Seijst, van",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 2,
+            "score": 94.76
+          },
+          {
+            "name": "World Eaters",
+            "count": 1,
+            "score": 28.29
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "69.60",
+            "eventHobbyScore": "0.00",
+            "userId": "8H4TWK6ABJ",
+            "rank": 2,
+            "army": "Chaos Space Marines",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "28.29",
+            "eventHobbyScore": "0.00",
+            "userId": "8H4TWK6ABJ",
+            "rank": 15,
+            "army": "World Eaters",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "25.16",
+            "eventHobbyScore": "0.00",
+            "userId": "8H4TWK6ABJ",
+            "rank": 22,
+            "army": "Chaos Space Marines",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 5,
+        "totalRank": 39,
+        "averageRank": "13.0",
+        "dtcScore": "123.05",
+        "hobbyScore": "0.00",
+        "rank": 39
+      },
+      {
+        "userId": "RWTFCJ16JR",
+        "name": "Sjors Meijer",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 2,
+            "score": 121.89
+          }
+        ],
+        "teams": [
+          {
+            "name": "Mannen van het wapen",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "74.74",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 17,
+            "army": "Blood Angels",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "47.15",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 9,
+            "army": "Blood Angels",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 5,
+        "totalRank": 26,
+        "averageRank": "13.0",
+        "dtcScore": "121.89",
+        "hobbyScore": "0.00",
+        "rank": 40
       },
       {
         "userId": "GLD52F7LC5",
@@ -2410,7 +3104,7 @@
         "averageRank": "26.0",
         "dtcScore": "120.82",
         "hobbyScore": "4.00",
-        "rank": 34
+        "rank": 41
       },
       {
         "userId": "72NCAEEUG3",
@@ -2514,7 +3208,7 @@
         "averageRank": "22.2",
         "dtcScore": "116.30",
         "hobbyScore": "13.00",
-        "rank": 35
+        "rank": 42
       },
       {
         "userId": "L9ENNV6P84",
@@ -2566,149 +3260,7 @@
         "averageRank": "18.5",
         "dtcScore": "114.69",
         "hobbyScore": "0.00",
-        "rank": 36
-      },
-      {
-        "userId": "6pD99rXvA3",
-        "name": "Dino Kho",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Adeptus Custodes",
-            "count": 1,
-            "score": 4.88
-          },
-          {
-            "name": "Necrons",
-            "count": 1,
-            "score": 109.62
-          }
-        ],
-        "teams": [
-          {
-            "name": "stacked check",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "109.62",
-            "eventHobbyScore": "0.00",
-            "userId": "6pD99rXvA3",
-            "rank": 3,
-            "army": "Necrons",
-            "team": "stacked check",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "4.88",
-            "eventHobbyScore": "0.00",
-            "userId": "6pD99rXvA3",
-            "rank": 46,
-            "army": "Adeptus Custodes",
-            "team": "stacked check",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4,
-        "totalRank": 49,
-        "averageRank": "24.5",
-        "dtcScore": "114.50",
-        "hobbyScore": "0.00",
-        "rank": 37
-      },
-      {
-        "userId": "L9z1rjeeaY",
-        "name": "Van Farnacles Serrano",
-        "numEvents": 4,
-        "armies": [
-          {
-            "name": "Thousand Sons",
-            "count": 2,
-            "score": 59.31
-          },
-          {
-            "name": "Chaos Knights",
-            "count": 2,
-            "score": 51.74
-          }
-        ],
-        "teams": [
-          {
-            "name": "Warriors Del Barrio",
-            "count": 1
-          },
-          {
-            "name": "Warriors of Barrio",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "49.30",
-            "eventHobbyScore": "0.00",
-            "userId": "L9z1rjeeaY",
-            "rank": 9,
-            "army": "Chaos Knights",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "39.38",
-            "eventHobbyScore": "0.00",
-            "userId": "L9z1rjeeaY",
-            "rank": 11,
-            "army": "Thousand Sons",
-            "team": "Warriors Del Barrio",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "19.93",
-            "eventHobbyScore": "0.00",
-            "userId": "L9z1rjeeaY",
-            "rank": 39,
-            "army": "Thousand Sons",
-            "team": "Warriors of Barrio",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "2.44",
-            "eventHobbyScore": "0.00",
-            "userId": "L9z1rjeeaY",
-            "rank": 47,
-            "army": "Chaos Knights",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4,
-        "totalRank": 106,
-        "averageRank": "26.5",
-        "dtcScore": "111.05",
-        "hobbyScore": "0.00",
-        "rank": 38
+        "rank": 43
       },
       {
         "userId": "cgcimvdJ2E",
@@ -2747,7 +3299,59 @@
         "averageRank": 4,
         "dtcScore": "107.13",
         "hobbyScore": "0.00",
-        "rank": 39
+        "rank": 44
+      },
+      {
+        "userId": "N5EBDV4EXR",
+        "name": "Matthijs Kuiper",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Necrons",
+            "count": 2,
+            "score": 106.65
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "60.90",
+            "eventHobbyScore": "0.00",
+            "userId": "N5EBDV4EXR",
+            "rank": 5,
+            "army": "Necrons",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "45.75",
+            "eventHobbyScore": "0.00",
+            "userId": "N5EBDV4EXR",
+            "rank": 13,
+            "army": "Necrons",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 18,
+        "averageRank": "9.0",
+        "dtcScore": "106.65",
+        "hobbyScore": "0.00",
+        "rank": 45
       },
       {
         "userId": "TlATr9MSrX",
@@ -2786,7 +3390,7 @@
         "averageRank": 2,
         "dtcScore": "105.59",
         "hobbyScore": "2.00",
-        "rank": 40
+        "rank": 46
       },
       {
         "userId": "j8WphFYeF8",
@@ -2825,22 +3429,22 @@
         "averageRank": 5,
         "dtcScore": "104.94",
         "hobbyScore": "1.00",
-        "rank": 41
+        "rank": 47
       },
       {
-        "userId": "8H4TWK6ABJ",
-        "name": "Mart Seijst, van",
+        "userId": "Db1AWQwcg6",
+        "name": "michiel zandbergen",
         "numEvents": 2,
         "armies": [
           {
-            "name": "World Eaters",
+            "name": "T'au Empire",
             "count": 1,
-            "score": 28.29
+            "score": 54.9
           },
           {
-            "name": "Chaos Space Marines",
+            "name": "Dark Angels",
             "count": 1,
-            "score": 69.6
+            "score": 43.5
           }
         ],
         "teams": [
@@ -2851,38 +3455,112 @@
         ],
         "events": [
           {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
             "numberOfRounds": 3,
-            "eventDtcScore": "69.60",
+            "eventDtcScore": "54.90",
             "eventHobbyScore": "0.00",
-            "userId": "8H4TWK6ABJ",
-            "rank": 2,
-            "army": "Chaos Space Marines",
+            "userId": "Db1AWQwcg6",
+            "rank": 9,
+            "army": "T'au Empire",
             "team": "LMG",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
             "numberOfRounds": 3,
-            "eventDtcScore": "28.29",
+            "eventDtcScore": "43.50",
             "eventHobbyScore": "0.00",
-            "userId": "8H4TWK6ABJ",
-            "rank": 15,
-            "army": "World Eaters",
+            "userId": "Db1AWQwcg6",
+            "rank": 11,
+            "army": "Dark Angels",
             "team": "LMG",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 4,
-        "totalRank": 17,
-        "averageRank": "8.5",
-        "dtcScore": "97.89",
+        "totalRank": 20,
+        "averageRank": "10.0",
+        "dtcScore": "98.40",
         "hobbyScore": "0.00",
-        "rank": 42
+        "rank": 48
+      },
+      {
+        "userId": "oPYw7BAg15",
+        "name": "Guus van den Berg",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 3,
+            "score": 62.15
+          },
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 34.58
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Alliance Open 40K Masters",
+            "eventId": "LVVXB2G40G",
+            "numberOfRounds": 5,
+            "eventDtcScore": "39.05",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 32,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "34.58",
+            "eventHobbyScore": "3.00",
+            "userId": "oPYw7BAg15",
+            "rank": 13,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Amsterdam Battle Brothers trainingcages ",
+            "eventId": "2bHCHu2c6w",
+            "numberOfRounds": 3,
+            "eventDtcScore": "13.13",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 19,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "9.97",
+            "eventHobbyScore": "3.00",
+            "userId": "oPYw7BAg15",
+            "rank": 43,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 107,
+        "averageRank": "26.8",
+        "dtcScore": "96.73",
+        "hobbyScore": "6.00",
+        "rank": 49
       },
       {
         "userId": "FIvWHCGzmv",
@@ -2934,7 +3612,59 @@
         "averageRank": "12.0",
         "dtcScore": "95.87",
         "hobbyScore": "0.00",
-        "rank": 43
+        "rank": 50
+      },
+      {
+        "userId": "JDG8B8A1RU",
+        "name": "Bryan van Bommel",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Chaos Knights",
+            "count": 2,
+            "score": 94.6
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "58.00",
+            "eventHobbyScore": "0.00",
+            "userId": "JDG8B8A1RU",
+            "rank": 6,
+            "army": "Chaos Knights",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "36.60",
+            "eventHobbyScore": "0.00",
+            "userId": "JDG8B8A1RU",
+            "rank": 17,
+            "army": "Chaos Knights",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 23,
+        "averageRank": "11.5",
+        "dtcScore": "94.60",
+        "hobbyScore": "0.00",
+        "rank": 51
       },
       {
         "userId": "5U542FLB8K",
@@ -2990,7 +3720,151 @@
         "averageRank": "13.5",
         "dtcScore": "92.59",
         "hobbyScore": "0.00",
-        "rank": 44
+        "rank": 52
+      },
+      {
+        "userId": "QLopEGzWuA",
+        "name": "Tijs van der Vegt",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 2,
+            "score": 73.53
+          },
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 15.72
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "50.33",
+            "eventHobbyScore": "0.00",
+            "userId": "QLopEGzWuA",
+            "rank": 11,
+            "army": "Astra Militarum",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "23.20",
+            "eventHobbyScore": "0.00",
+            "userId": "QLopEGzWuA",
+            "rank": 18,
+            "army": "Astra Militarum",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "15.72",
+            "eventHobbyScore": "0.00",
+            "userId": "QLopEGzWuA",
+            "rank": 19,
+            "army": "Night Lords",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 48,
+        "averageRank": "16.0",
+        "dtcScore": "89.25",
+        "hobbyScore": "0.00",
+        "rank": 53
+      },
+      {
+        "userId": "9WDN03KDPR",
+        "name": "Evert-Jan Flier",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 2,
+            "score": 28.68
+          },
+          {
+            "name": "Chaos Daemons",
+            "count": 1,
+            "score": 59.73
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          },
+          {
+            "name": "Ed Edd Eddie",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "59.73",
+            "eventHobbyScore": "0.00",
+            "userId": "9WDN03KDPR",
+            "rank": 5,
+            "army": "Chaos Daemons",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "22.88",
+            "eventHobbyScore": "0.00",
+            "userId": "9WDN03KDPR",
+            "rank": 23,
+            "army": "Chaos Space Marines",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "5.80",
+            "eventHobbyScore": "0.00",
+            "userId": "9WDN03KDPR",
+            "rank": 24,
+            "army": "Chaos Space Marines",
+            "team": "Ed Edd Eddie",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 52,
+        "averageRank": "17.3",
+        "dtcScore": "88.41",
+        "hobbyScore": "0.00",
+        "rank": 54
       },
       {
         "userId": "AaM7vCtzio",
@@ -3047,57 +3921,52 @@
         "averageRank": "9.5",
         "dtcScore": "86.30",
         "hobbyScore": "0.00",
-        "rank": 45
+        "rank": 55
       },
       {
-        "userId": "fmlRvdCQqo",
-        "name": "William Waight",
+        "userId": "j1q8untWVm",
+        "name": "Geert Franken",
         "numEvents": 2,
         "armies": [
           {
-            "name": "Unknown",
-            "count": 1,
-            "score": 36.1
-          },
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 49.83
+            "name": "Orks",
+            "count": 2,
+            "score": 82.15
           }
         ],
         "teams": [],
         "events": [
           {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "49.83",
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "59.73",
             "eventHobbyScore": "0.00",
-            "userId": "fmlRvdCQqo",
-            "rank": 27,
-            "army": "Ultramarines",
+            "userId": "j1q8untWVm",
+            "rank": 5,
+            "army": "Orks",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "36.10",
-            "eventHobbyScore": "0.00",
-            "userId": "fmlRvdCQqo",
-            "rank": 12,
-            "army": "Unknown",
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "22.42",
+            "eventHobbyScore": "4.00",
+            "userId": "j1q8untWVm",
+            "rank": 38,
+            "army": "Orks",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 3,
-        "totalRank": 39,
-        "averageRank": "19.5",
-        "dtcScore": "85.93",
-        "hobbyScore": "0.00",
-        "rank": 46
+        "totalRank": 43,
+        "averageRank": "21.5",
+        "dtcScore": "82.15",
+        "hobbyScore": "4.00",
+        "rank": 56
       },
       {
         "userId": "4HQ91V49H9",
@@ -3136,152 +4005,7 @@
         "averageRank": 6,
         "dtcScore": "80.74",
         "hobbyScore": "0.00",
-        "rank": 47
-      },
-      {
-        "userId": "CaLnU6ybkA",
-        "name": "Joey Tittel",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 3.28
-          },
-          {
-            "name": "Necrons",
-            "count": 1,
-            "score": 75.65
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "75.65",
-            "eventHobbyScore": "1.00",
-            "userId": "CaLnU6ybkA",
-            "rank": 17,
-            "army": "Necrons",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "3.28",
-            "eventHobbyScore": "0.00",
-            "userId": "CaLnU6ybkA",
-            "rank": 22,
-            "army": "Astra Militarum",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3,
-        "totalRank": 39,
-        "averageRank": "19.5",
-        "dtcScore": "78.93",
-        "hobbyScore": "1.00",
-        "rank": 48
-      },
-      {
-        "userId": "2BPXVXRWUN",
-        "name": "Kasper Ruiter",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 21.6
-          },
-          {
-            "name": "Unknown",
-            "count": 1,
-            "score": 56.13
-          }
-        ],
-        "teams": [
-          {
-            "name": "Meathammer",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "56.13",
-            "eventHobbyScore": "0.00",
-            "userId": "2BPXVXRWUN",
-            "rank": 25,
-            "army": "Space Marines (Astartes)",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 5",
-            "eventId": "LV94UWLEU3",
-            "numberOfRounds": 3,
-            "eventDtcScore": "21.60",
-            "eventHobbyScore": "0.00",
-            "userId": "2BPXVXRWUN",
-            "rank": 15,
-            "army": "Adeptus Astartes",
-            "team": "Meathammer",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3,
-        "totalRank": 40,
-        "averageRank": "20.0",
-        "dtcScore": "77.73",
-        "hobbyScore": "0.00",
-        "rank": 49
-      },
-      {
-        "userId": "RWTFCJ16JR",
-        "name": "Sjors Meijer",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Blood Angels",
-            "count": 1,
-            "score": 74.74
-          }
-        ],
-        "teams": [
-          {
-            "name": "Mannen van het wapen",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "74.74",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 17,
-            "army": "Blood Angels",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3,
-        "totalRank": 17,
-        "averageRank": 17,
-        "dtcScore": "74.74",
-        "hobbyScore": "0.00",
-        "rank": 50
+        "rank": 57
       },
       {
         "userId": "THLUWFDF7D",
@@ -3320,7 +4044,58 @@
         "averageRank": 18,
         "dtcScore": "73.21",
         "hobbyScore": "2.00",
-        "rank": 51
+        "rank": 58
+      },
+      {
+        "userId": "Ci8drOUGlg",
+        "name": "Ruud Steenbakkers",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Aeldari",
+            "count": 2,
+            "score": 72.3
+          }
+        ],
+        "teams": [
+          {
+            "name": "Team Gru",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.87",
+            "eventHobbyScore": "0.00",
+            "userId": "Ci8drOUGlg",
+            "rank": 4,
+            "army": "Aeldari",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames 6",
+            "eventId": "NV3AMX3DB0",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.43",
+            "eventHobbyScore": "0.00",
+            "userId": "Ci8drOUGlg",
+            "rank": 21,
+            "army": "Aeldari",
+            "team": "Team Gru",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 25,
+        "averageRank": "12.5",
+        "dtcScore": "72.30",
+        "hobbyScore": "0.00",
+        "rank": 59
       },
       {
         "userId": "YYMJA4J4KG",
@@ -3359,7 +4134,7 @@
         "averageRank": 1,
         "dtcScore": "71.60",
         "hobbyScore": "0.00",
-        "rank": 52
+        "rank": 60
       },
       {
         "userId": "5HBN1JHN57",
@@ -3398,7 +4173,57 @@
         "averageRank": 19,
         "dtcScore": "70.77",
         "hobbyScore": "0.00",
-        "rank": 53
+        "rank": 61
+      },
+      {
+        "userId": "xjSaBkjaaE",
+        "name": "Alfonso Gutierrez Segura",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 3.14
+          },
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 67.27
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "67.27",
+            "eventHobbyScore": "0.00",
+            "userId": "xjSaBkjaaE",
+            "rank": 20,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "3.14",
+            "eventHobbyScore": "0.00",
+            "userId": "xjSaBkjaaE",
+            "rank": 23,
+            "army": "Chaos Space Marines",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 43,
+        "averageRank": "21.5",
+        "dtcScore": "70.41",
+        "hobbyScore": "0.00",
+        "rank": 62
       },
       {
         "userId": "F8AHw2ib7x",
@@ -3437,40 +4262,7 @@
         "averageRank": 20,
         "dtcScore": "68.33",
         "hobbyScore": "1.00",
-        "rank": 54
-      },
-      {
-        "userId": "xjSaBkjaaE",
-        "name": "Alfonso Gutierrez Segura",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 67.27
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "67.27",
-            "eventHobbyScore": "0.00",
-            "userId": "xjSaBkjaaE",
-            "rank": 20,
-            "army": "Astra Militarum",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3,
-        "totalRank": 20,
-        "averageRank": 20,
-        "dtcScore": "67.27",
-        "hobbyScore": "0.00",
-        "rank": 55
+        "rank": 63
       },
       {
         "userId": "1MqrA0sGvi",
@@ -3509,7 +4301,7 @@
         "averageRank": 2,
         "dtcScore": "67.13",
         "hobbyScore": "0.00",
-        "rank": 56
+        "rank": 64
       },
       {
         "userId": "0pReepnUG5",
@@ -3542,68 +4334,7 @@
         "averageRank": 21,
         "dtcScore": "65.89",
         "hobbyScore": "3.00",
-        "rank": 57
-      },
-      {
-        "userId": "9WDN03KDPR",
-        "name": "Evert-Jan Flier",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Chaos Daemons",
-            "count": 1,
-            "score": 59.73
-          },
-          {
-            "name": "Chaos Space Marines",
-            "count": 1,
-            "score": 5.8
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          },
-          {
-            "name": "Ed Edd Eddie",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "59.73",
-            "eventHobbyScore": "0.00",
-            "userId": "9WDN03KDPR",
-            "rank": 5,
-            "army": "Chaos Daemons",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "5.80",
-            "eventHobbyScore": "0.00",
-            "userId": "9WDN03KDPR",
-            "rank": 24,
-            "army": "Chaos Space Marines",
-            "team": "Ed Edd Eddie",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 29,
-        "averageRank": "14.5",
-        "dtcScore": "65.53",
-        "hobbyScore": "0.00",
-        "rank": 58
+        "rank": 65
       },
       {
         "userId": "COQiFg8zCQ",
@@ -3642,7 +4373,59 @@
         "averageRank": 5,
         "dtcScore": "65.42",
         "hobbyScore": "0.00",
-        "rank": 59
+        "rank": 66
+      },
+      {
+        "userId": "7R35THCV43",
+        "name": "Tiwaz Krijger",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Death Guard",
+            "count": 2,
+            "score": 64.99
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "38.89",
+            "eventHobbyScore": "0.00",
+            "userId": "7R35THCV43",
+            "rank": 16,
+            "army": "Death Guard",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "26.10",
+            "eventHobbyScore": "0.00",
+            "userId": "7R35THCV43",
+            "rank": 17,
+            "army": "Death Guard",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 33,
+        "averageRank": "16.5",
+        "dtcScore": "64.99",
+        "hobbyScore": "0.00",
+        "rank": 67
       },
       {
         "userId": "RGgTnCpgNT",
@@ -3681,7 +4464,7 @@
         "averageRank": 22,
         "dtcScore": "63.45",
         "hobbyScore": "0.00",
-        "rank": 60
+        "rank": 68
       },
       {
         "userId": "XgHFmLFanq",
@@ -3720,7 +4503,7 @@
         "averageRank": 6,
         "dtcScore": "63.38",
         "hobbyScore": "0.00",
-        "rank": 61
+        "rank": 69
       },
       {
         "userId": "gKTCB3gQ02",
@@ -3759,64 +4542,7 @@
         "averageRank": 3,
         "dtcScore": "62.65",
         "hobbyScore": "0.00",
-        "rank": 62
-      },
-      {
-        "userId": "oPYw7BAg15",
-        "name": "Guus van den Berg",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Adeptus Mechanicus",
-            "count": 3,
-            "score": 62.15
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "Alliance Open 40K Masters",
-            "eventId": "LVVXB2G40G",
-            "numberOfRounds": 5,
-            "eventDtcScore": "39.05",
-            "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 32,
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Amsterdam Battle Brothers trainingcages ",
-            "eventId": "2bHCHu2c6w",
-            "numberOfRounds": 3,
-            "eventDtcScore": "13.13",
-            "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 19,
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "9.97",
-            "eventHobbyScore": "3.00",
-            "userId": "oPYw7BAg15",
-            "rank": 43,
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 94,
-        "averageRank": "31.3",
-        "dtcScore": "62.15",
-        "hobbyScore": "3.00",
-        "rank": 63
+        "rank": 70
       },
       {
         "userId": "ycayO2BvU5",
@@ -3855,7 +4581,7 @@
         "averageRank": 9,
         "dtcScore": "62.11",
         "hobbyScore": "0.00",
-        "rank": 64
+        "rank": 71
       },
       {
         "userId": "oLWC7ArCTG",
@@ -3894,7 +4620,7 @@
         "averageRank": 7,
         "dtcScore": "61.33",
         "hobbyScore": "3.00",
-        "rank": 65
+        "rank": 72
       },
       {
         "userId": "C89DPGXTD3",
@@ -3933,46 +4659,7 @@
         "averageRank": 23,
         "dtcScore": "61.01",
         "hobbyScore": "0.00",
-        "rank": 66
-      },
-      {
-        "userId": "N5EBDV4EXR",
-        "name": "Matthijs Kuiper",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Necrons",
-            "count": 1,
-            "score": 60.9
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "60.90",
-            "eventHobbyScore": "0.00",
-            "userId": "N5EBDV4EXR",
-            "rank": 5,
-            "army": "Necrons",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 5,
-        "averageRank": 5,
-        "dtcScore": "60.90",
-        "hobbyScore": "0.00",
-        "rank": 67
+        "rank": 73
       },
       {
         "userId": "3UYu9j00Jz",
@@ -4011,7 +4698,46 @@
         "averageRank": 23,
         "dtcScore": "59.79",
         "hobbyScore": "0.00",
-        "rank": 68
+        "rank": 74
+      },
+      {
+        "userId": "KGd1raGd0E",
+        "name": "Elwin Fennema",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Grey Knights",
+            "count": 1,
+            "score": 59.48
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "59.48",
+            "eventHobbyScore": "0.00",
+            "userId": "KGd1raGd0E",
+            "rank": 7,
+            "army": "Grey Knights",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 7,
+        "averageRank": 7,
+        "dtcScore": "59.48",
+        "hobbyScore": "0.00",
+        "rank": 75
       },
       {
         "userId": "NvkOKjD8kO",
@@ -4067,7 +4793,7 @@
         "averageRank": "25.0",
         "dtcScore": "58.83",
         "hobbyScore": "1.00",
-        "rank": 69
+        "rank": 76
       },
       {
         "userId": "cLWiXebqAH",
@@ -4119,46 +4845,7 @@
         "averageRank": "15.0",
         "dtcScore": "58.80",
         "hobbyScore": "0.00",
-        "rank": 70
-      },
-      {
-        "userId": "JDG8B8A1RU",
-        "name": "Bryan van Bommel",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Chaos Knights",
-            "count": 1,
-            "score": 58
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "58.00",
-            "eventHobbyScore": "0.00",
-            "userId": "JDG8B8A1RU",
-            "rank": 6,
-            "army": "Chaos Knights",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 6,
-        "averageRank": 6,
-        "dtcScore": "58.00",
-        "hobbyScore": "0.00",
-        "rank": 71
+        "rank": 77
       },
       {
         "userId": "mFhp7roYqm",
@@ -4197,7 +4884,111 @@
         "averageRank": 9,
         "dtcScore": "57.24",
         "hobbyScore": "1.00",
-        "rank": 72
+        "rank": 78
+      },
+      {
+        "userId": "1G90AYL6C0",
+        "name": "Sjoerd Reiche",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 2,
+            "score": 56.88
+          }
+        ],
+        "teams": [
+          {
+            "name": "Lost legion wargaming",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
+            "eventId": "cBFG69Kfi0",
+            "numberOfRounds": 5,
+            "eventDtcScore": "34.88",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 33,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "22.00",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 17,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 50,
+        "averageRank": "25.0",
+        "dtcScore": "56.88",
+        "hobbyScore": "0.00",
+        "rank": 79
+      },
+      {
+        "userId": "aQ6yS4eAiy",
+        "name": "Willem Sterk",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 2,
+            "score": 56.61
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "40.60",
+            "eventHobbyScore": "0.00",
+            "userId": "aQ6yS4eAiy",
+            "rank": 12,
+            "army": "Black Templars",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "16.01",
+            "eventHobbyScore": "0.00",
+            "userId": "aQ6yS4eAiy",
+            "rank": 26,
+            "army": "Adeptus Astartes",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 38,
+        "averageRank": "19.0",
+        "dtcScore": "56.61",
+        "hobbyScore": "0.00",
+        "rank": 80
       },
       {
         "userId": "4PAUSb3Quz",
@@ -4236,7 +5027,7 @@
         "averageRank": 7,
         "dtcScore": "55.10",
         "hobbyScore": "0.00",
-        "rank": 73
+        "rank": 81
       },
       {
         "userId": "L5TB41nv3i",
@@ -4326,7 +5117,7 @@
         "averageRank": "31.4",
         "dtcScore": "54.20",
         "hobbyScore": "0.00",
-        "rank": 74
+        "rank": 82
       },
       {
         "userId": "64MGEBJE81",
@@ -4359,7 +5150,7 @@
         "averageRank": 5,
         "dtcScore": "53.70",
         "hobbyScore": "0.00",
-        "rank": 75
+        "rank": 83
       },
       {
         "userId": "sCyscDZHkB",
@@ -4398,7 +5189,52 @@
         "averageRank": 26,
         "dtcScore": "53.69",
         "hobbyScore": "0.00",
-        "rank": 76
+        "rank": 84
+      },
+      {
+        "userId": "BVDMBBNWKK",
+        "name": "Bas Top",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 2,
+            "score": 52.16
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "43.46",
+            "eventHobbyScore": "0.00",
+            "userId": "BVDMBBNWKK",
+            "rank": 14,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "8.70",
+            "eventHobbyScore": "0.00",
+            "userId": "BVDMBBNWKK",
+            "rank": 23,
+            "army": "Tallarn",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 37,
+        "averageRank": "18.5",
+        "dtcScore": "52.16",
+        "hobbyScore": "0.00",
+        "rank": 85
       },
       {
         "userId": "C8SUIfF8Ar",
@@ -4431,7 +5267,7 @@
         "averageRank": 27,
         "dtcScore": "51.25",
         "hobbyScore": "2.00",
-        "rank": 77
+        "rank": 86
       },
       {
         "userId": "MTT5A81BT9",
@@ -4464,7 +5300,46 @@
         "averageRank": 12,
         "dtcScore": "51.11",
         "hobbyScore": "0.00",
-        "rank": 78
+        "rank": 87
+      },
+      {
+        "userId": "nBB1SSmOLN",
+        "name": "Ronald Van Oostrom",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 50.3
+          }
+        ],
+        "teams": [
+          {
+            "name": "🦄💨🧑‍🧑‍🧒",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "50.30",
+            "eventHobbyScore": "0.00",
+            "userId": "nBB1SSmOLN",
+            "rank": 8,
+            "army": "Chaos Space Marines",
+            "team": "🦄💨🧑‍🧑‍🧒",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 8,
+        "averageRank": 8,
+        "dtcScore": "50.30",
+        "hobbyScore": "0.00",
+        "rank": 88
       },
       {
         "userId": "JJF7VP485Q",
@@ -4497,7 +5372,7 @@
         "averageRank": 11,
         "dtcScore": "49.69",
         "hobbyScore": "0.00",
-        "rank": 79
+        "rank": 89
       },
       {
         "userId": "vCUvmVLvsl",
@@ -4536,7 +5411,7 @@
         "averageRank": 6,
         "dtcScore": "49.22",
         "hobbyScore": "0.00",
-        "rank": 80
+        "rank": 90
       },
       {
         "userId": "LjtfGqy9dh",
@@ -4575,7 +5450,46 @@
         "averageRank": 28,
         "dtcScore": "48.81",
         "hobbyScore": "0.00",
-        "rank": 81
+        "rank": 91
+      },
+      {
+        "userId": "WGRF908PRQ",
+        "name": "Hylkje Dijkstra",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Unknown",
+            "count": 1,
+            "score": 48.04
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "48.04",
+            "eventHobbyScore": "0.00",
+            "userId": "WGRF908PRQ",
+            "rank": 12,
+            "army": "Unknown",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 12,
+        "averageRank": 12,
+        "dtcScore": "48.04",
+        "hobbyScore": "0.00",
+        "rank": 92
       },
       {
         "userId": "ccCsgah072",
@@ -4614,7 +5528,7 @@
         "averageRank": 28,
         "dtcScore": "47.33",
         "hobbyScore": "0.00",
-        "rank": 82
+        "rank": 93
       },
       {
         "userId": "tTmPg6j6ft",
@@ -4653,7 +5567,7 @@
         "averageRank": 14,
         "dtcScore": "47.02",
         "hobbyScore": "0.00",
-        "rank": 83
+        "rank": 94
       },
       {
         "userId": "TJGCVNKKML",
@@ -4692,7 +5606,7 @@
         "averageRank": 8,
         "dtcScore": "46.80",
         "hobbyScore": "0.00",
-        "rank": 84
+        "rank": 95
       },
       {
         "userId": "YFTQgBC5sm",
@@ -4731,7 +5645,7 @@
         "averageRank": 9,
         "dtcScore": "45.95",
         "hobbyScore": "0.00",
-        "rank": 85
+        "rank": 96
       },
       {
         "userId": "DbvgCYEE9a",
@@ -4770,7 +5684,92 @@
         "averageRank": 7,
         "dtcScore": "44.75",
         "hobbyScore": "0.00",
-        "rank": 86
+        "rank": 97
+      },
+      {
+        "userId": "3K1BGKE2RW",
+        "name": "Klaas Harm Wiggerman",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Leagues of Votann",
+            "count": 2,
+            "score": 44.24
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "29.74",
+            "eventHobbyScore": "0.00",
+            "userId": "3K1BGKE2RW",
+            "rank": 20,
+            "army": "Leagues of Votann",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "14.50",
+            "eventHobbyScore": "0.00",
+            "userId": "3K1BGKE2RW",
+            "rank": 21,
+            "army": "Leagues of Votann",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 41,
+        "averageRank": "20.5",
+        "dtcScore": "44.24",
+        "hobbyScore": "0.00",
+        "rank": 98
+      },
+      {
+        "userId": "EFGlcAOVfc",
+        "name": "Clyde Davis",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 44.01
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "44.01",
+            "eventHobbyScore": "0.00",
+            "userId": "EFGlcAOVfc",
+            "rank": 10,
+            "army": "Thousand Sons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 10,
+        "averageRank": 10,
+        "dtcScore": "44.01",
+        "hobbyScore": "0.00",
+        "rank": 99
       },
       {
         "userId": "WGKVVdWGJ4",
@@ -4803,46 +5802,7 @@
         "averageRank": 30,
         "dtcScore": "43.93",
         "hobbyScore": "1.00",
-        "rank": 87
-      },
-      {
-        "userId": "Db1AWQwcg6",
-        "name": "Michiel Zandbergen",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Dark Angels",
-            "count": 1,
-            "score": 43.5
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "43.50",
-            "eventHobbyScore": "0.00",
-            "userId": "Db1AWQwcg6",
-            "rank": 11,
-            "army": "Dark Angels",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 11,
-        "averageRank": 11,
-        "dtcScore": "43.50",
-        "hobbyScore": "0.00",
-        "rank": 88
+        "rank": 100
       },
       {
         "userId": "WLG9N92YXC",
@@ -4881,7 +5841,7 @@
         "averageRank": 16,
         "dtcScore": "42.93",
         "hobbyScore": "0.00",
-        "rank": 89
+        "rank": 101
       },
       {
         "userId": "U0VhFRlFBh",
@@ -4914,7 +5874,46 @@
         "averageRank": 31,
         "dtcScore": "41.49",
         "hobbyScore": "3.00",
-        "rank": 90
+        "rank": 102
+      },
+      {
+        "userId": "g4VCE9V1s6",
+        "name": "Dolf Noordeloos",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "World Eaters",
+            "count": 1,
+            "score": 41.18
+          }
+        ],
+        "teams": [
+          {
+            "name": "Whorehammer Heresy",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "41.18",
+            "eventHobbyScore": "0.00",
+            "userId": "g4VCE9V1s6",
+            "rank": 15,
+            "army": "World Eaters",
+            "team": "Whorehammer Heresy",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 15,
+        "averageRank": 15,
+        "dtcScore": "41.18",
+        "hobbyScore": "0.00",
+        "rank": 103
       },
       {
         "userId": "WB5G3VLK60",
@@ -4947,7 +5946,7 @@
         "averageRank": 17,
         "dtcScore": "40.89",
         "hobbyScore": "0.00",
-        "rank": 91
+        "rank": 104
       },
       {
         "userId": "5lpLtWypn6",
@@ -4980,46 +5979,7 @@
         "averageRank": 11,
         "dtcScore": "40.87",
         "hobbyScore": "2.00",
-        "rank": 92
-      },
-      {
-        "userId": "aQ6yS4eAiy",
-        "name": "Willem Sterk",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 40.6
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "40.60",
-            "eventHobbyScore": "0.00",
-            "userId": "aQ6yS4eAiy",
-            "rank": 12,
-            "army": "Adeptus Astartes",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 12,
-        "averageRank": 12,
-        "dtcScore": "40.60",
-        "hobbyScore": "0.00",
-        "rank": 93
+        "rank": 105
       },
       {
         "userId": "HACRAH4KQW",
@@ -5052,64 +6012,7 @@
         "averageRank": 8,
         "dtcScore": "40.27",
         "hobbyScore": "0.00",
-        "rank": 94
-      },
-      {
-        "userId": "QLopEGzWuA",
-        "name": "Tijs van der Vegt",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Chaos Space Marines",
-            "count": 1,
-            "score": 15.72
-          },
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 23.2
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "23.20",
-            "eventHobbyScore": "0.00",
-            "userId": "QLopEGzWuA",
-            "rank": 18,
-            "army": "Astra Militarum",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
-            "numberOfRounds": 3,
-            "eventDtcScore": "15.72",
-            "eventHobbyScore": "0.00",
-            "userId": "QLopEGzWuA",
-            "rank": 19,
-            "army": "Chaos Space Marines",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 37,
-        "averageRank": "18.5",
-        "dtcScore": "38.92",
-        "hobbyScore": "0.00",
-        "rank": 95
+        "rank": 106
       },
       {
         "userId": "lxaakDsmYc",
@@ -5148,7 +6051,7 @@
         "averageRank": 13,
         "dtcScore": "37.70",
         "hobbyScore": "0.00",
-        "rank": 96
+        "rank": 107
       },
       {
         "userId": "45J3KHA6KP",
@@ -5187,7 +6090,7 @@
         "averageRank": 33,
         "dtcScore": "36.61",
         "hobbyScore": "0.00",
-        "rank": 97
+        "rank": 108
       },
       {
         "userId": "DA50H2AKJD",
@@ -5232,7 +6135,7 @@
         "averageRank": "34.0",
         "dtcScore": "35.94",
         "hobbyScore": "0.00",
-        "rank": 98
+        "rank": 109
       },
       {
         "userId": "wfSIpe15kP",
@@ -5271,46 +6174,7 @@
         "averageRank": 9,
         "dtcScore": "35.80",
         "hobbyScore": "0.00",
-        "rank": 99
-      },
-      {
-        "userId": "1G90AYL6C0",
-        "name": "Sjoerd Reiche",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Dark Angels",
-            "count": 1,
-            "score": 34.88
-          }
-        ],
-        "teams": [
-          {
-            "name": "Lost legion wargaming",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "34.88",
-            "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
-            "rank": 33,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 33,
-        "averageRank": 33,
-        "dtcScore": "34.88",
-        "hobbyScore": "0.00",
-        "rank": 100
+        "rank": 110
       },
       {
         "userId": "FFnduPdfzJ",
@@ -5349,7 +6213,7 @@
         "averageRank": 20,
         "dtcScore": "34.76",
         "hobbyScore": "0.00",
-        "rank": 101
+        "rank": 111
       },
       {
         "userId": "NNP0HWNVXG",
@@ -5388,7 +6252,7 @@
         "averageRank": 13,
         "dtcScore": "34.58",
         "hobbyScore": "0.00",
-        "rank": 102
+        "rank": 112
       },
       {
         "userId": "OVJxyn0EU4",
@@ -5462,7 +6326,7 @@
         "averageRank": "22.7",
         "dtcScore": "34.54",
         "hobbyScore": "0.00",
-        "rank": 103
+        "rank": 113
       },
       {
         "userId": "N22P1CPJDF",
@@ -5501,7 +6365,7 @@
         "averageRank": 34,
         "dtcScore": "34.17",
         "hobbyScore": "0.00",
-        "rank": 104
+        "rank": 114
       },
       {
         "userId": "M88H6XP8E1",
@@ -5553,7 +6417,7 @@
         "averageRank": "23.5",
         "dtcScore": "33.01",
         "hobbyScore": "1.00",
-        "rank": 105
+        "rank": 115
       },
       {
         "userId": "YBBXMYGCY6",
@@ -5586,7 +6450,46 @@
         "averageRank": 34,
         "dtcScore": "32.39",
         "hobbyScore": "0.00",
-        "rank": 106
+        "rank": 116
+      },
+      {
+        "userId": "1L7KJ9FFP1",
+        "name": "Eithel Conquet",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 32.02
+          }
+        ],
+        "teams": [
+          {
+            "name": "Koningen van Groningen",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "32.02",
+            "eventHobbyScore": "0.00",
+            "userId": "1L7KJ9FFP1",
+            "rank": 19,
+            "army": "Chaos Space Marines",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 19,
+        "averageRank": 19,
+        "dtcScore": "32.02",
+        "hobbyScore": "0.00",
+        "rank": 117
       },
       {
         "userId": "ZIMEvPWquB",
@@ -5625,7 +6528,7 @@
         "averageRank": 35,
         "dtcScore": "31.73",
         "hobbyScore": "1.00",
-        "rank": 107
+        "rank": 118
       },
       {
         "userId": "rzabCbO3PG",
@@ -5664,7 +6567,7 @@
         "averageRank": 10,
         "dtcScore": "31.32",
         "hobbyScore": "0.00",
-        "rank": 108
+        "rank": 119
       },
       {
         "userId": "Ij8juDKKFC",
@@ -5703,7 +6606,7 @@
         "averageRank": 22,
         "dtcScore": "30.67",
         "hobbyScore": "0.00",
-        "rank": 109
+        "rank": 120
       },
       {
         "userId": "tcSdB2eHtj",
@@ -5736,7 +6639,7 @@
         "averageRank": 35,
         "dtcScore": "29.90",
         "hobbyScore": "0.00",
-        "rank": 110
+        "rank": 121
       },
       {
         "userId": "VA0R2JW0LP",
@@ -5769,7 +6672,7 @@
         "averageRank": 16,
         "dtcScore": "29.00",
         "hobbyScore": "0.00",
-        "rank": 111
+        "rank": 122
       },
       {
         "userId": "HkPgU4cCdV",
@@ -5802,7 +6705,40 @@
         "averageRank": 13,
         "dtcScore": "28.80",
         "hobbyScore": "0.00",
-        "rank": 112
+        "rank": 123
+      },
+      {
+        "userId": "3JBQ02TU0U",
+        "name": "Maria Heeres",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 1,
+            "score": 27.45
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "27.45",
+            "eventHobbyScore": "0.00",
+            "userId": "3JBQ02TU0U",
+            "rank": 21,
+            "army": "Tyranids",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 21,
+        "averageRank": 21,
+        "dtcScore": "27.45",
+        "hobbyScore": "0.00",
+        "rank": 124
       },
       {
         "userId": "2TNG4LQGY1",
@@ -5841,7 +6777,7 @@
         "averageRank": 11,
         "dtcScore": "26.85",
         "hobbyScore": "0.00",
-        "rank": 113
+        "rank": 125
       },
       {
         "userId": "i3XCYoz17s",
@@ -5880,46 +6816,40 @@
         "averageRank": 37,
         "dtcScore": "26.84",
         "hobbyScore": "0.00",
-        "rank": 114
+        "rank": 126
       },
       {
-        "userId": "7R35THCV43",
-        "name": "Tiwaz Krijger",
+        "userId": "QL2IqWCn0a",
+        "name": "Ben Moore",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Death Guard",
+            "name": "Grey Knights",
             "count": 1,
-            "score": 26.1
+            "score": 25.15
           }
         ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
             "numberOfRounds": 3,
-            "eventDtcScore": "26.10",
+            "eventDtcScore": "25.15",
             "eventHobbyScore": "0.00",
-            "userId": "7R35THCV43",
-            "rank": 17,
-            "army": "Death Guard",
-            "team": "LMG",
+            "userId": "QL2IqWCn0a",
+            "rank": 16,
+            "army": "Grey Knights",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 1,
-        "totalRank": 17,
-        "averageRank": 17,
-        "dtcScore": "26.10",
+        "totalRank": 16,
+        "averageRank": 16,
+        "dtcScore": "25.15",
         "hobbyScore": "0.00",
-        "rank": 115
+        "rank": 127
       },
       {
         "userId": "DKVE6UYJPR",
@@ -5958,7 +6888,7 @@
         "averageRank": 37,
         "dtcScore": "24.91",
         "hobbyScore": "0.00",
-        "rank": 116
+        "rank": 128
       },
       {
         "userId": "Ml16xrXaly",
@@ -5997,7 +6927,7 @@
         "averageRank": 25,
         "dtcScore": "24.53",
         "hobbyScore": "0.00",
-        "rank": 117
+        "rank": 129
       },
       {
         "userId": "1YBzQ7IxGR",
@@ -6036,7 +6966,64 @@
         "averageRank": 38,
         "dtcScore": "24.40",
         "hobbyScore": "0.00",
-        "rank": 118
+        "rank": 130
+      },
+      {
+        "userId": "AMMLW31QTV",
+        "name": "Oane Dijkstra",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 11.44
+          },
+          {
+            "name": "Adepta Sororitas",
+            "count": 1,
+            "score": 11.6
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V7",
+            "eventId": "WMN9VENWYD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "11.60",
+            "eventHobbyScore": "0.00",
+            "userId": "AMMLW31QTV",
+            "rank": 22,
+            "army": "Adepta Sororitas",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "11.44",
+            "eventHobbyScore": "0.00",
+            "userId": "AMMLW31QTV",
+            "rank": 28,
+            "army": "Astra Militarum",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1.5,
+        "totalRank": 50,
+        "averageRank": "25.0",
+        "dtcScore": "23.04",
+        "hobbyScore": "0.00",
+        "rank": 131
       },
       {
         "userId": "65JB2YL8GE",
@@ -6075,40 +7062,7 @@
         "averageRank": 26,
         "dtcScore": "22.49",
         "hobbyScore": "0.00",
-        "rank": 119
-      },
-      {
-        "userId": "j1q8untWVm",
-        "name": "Geert Franken",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Orks",
-            "count": 1,
-            "score": 22.42
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "Dutch Masters Grand tournament | golden ticket qualifier",
-            "eventId": "cBFG69Kfi0",
-            "numberOfRounds": 5,
-            "eventDtcScore": "22.42",
-            "eventHobbyScore": "4.00",
-            "userId": "j1q8untWVm",
-            "rank": 38,
-            "army": "Orks",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 38,
-        "averageRank": 38,
-        "dtcScore": "22.42",
-        "hobbyScore": "4.00",
-        "rank": 120
+        "rank": 132
       },
       {
         "userId": "i1R8NVtlqD",
@@ -6147,7 +7101,7 @@
         "averageRank": 12,
         "dtcScore": "22.38",
         "hobbyScore": "0.00",
-        "rank": 121
+        "rank": 133
       },
       {
         "userId": "i8z3NiZYAh",
@@ -6186,7 +7140,7 @@
         "averageRank": 17,
         "dtcScore": "22.00",
         "hobbyScore": "0.00",
-        "rank": 122
+        "rank": 134
       },
       {
         "userId": "nsWAsQLyy9",
@@ -6225,7 +7179,46 @@
         "averageRank": 39,
         "dtcScore": "21.96",
         "hobbyScore": "0.00",
-        "rank": 123
+        "rank": 135
+      },
+      {
+        "userId": "BLB28PKJ5U",
+        "name": "Cornelis Hut",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 1,
+            "score": 20.59
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "20.59",
+            "eventHobbyScore": "0.00",
+            "userId": "BLB28PKJ5U",
+            "rank": 24,
+            "army": "Tyranids",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 24,
+        "averageRank": 24,
+        "dtcScore": "20.59",
+        "hobbyScore": "0.00",
+        "rank": 136
       },
       {
         "userId": "WFkqq2PAcs",
@@ -6264,7 +7257,7 @@
         "averageRank": 19,
         "dtcScore": "20.30",
         "hobbyScore": "0.00",
-        "rank": 124
+        "rank": 137
       },
       {
         "userId": "T7V0WBDC5C",
@@ -6314,7 +7307,7 @@
         "averageRank": "37.5",
         "dtcScore": "19.29",
         "hobbyScore": "0.00",
-        "rank": 125
+        "rank": 138
       },
       {
         "userId": "af5H6D0ztS",
@@ -6353,7 +7346,46 @@
         "averageRank": 28,
         "dtcScore": "18.40",
         "hobbyScore": "0.00",
-        "rank": 126
+        "rank": 139
+      },
+      {
+        "userId": "VHV5AGBAK3",
+        "name": "Rik Galesloot",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Grey Knights",
+            "count": 1,
+            "score": 18.3
+          }
+        ],
+        "teams": [
+          {
+            "name": "Warhammer gooi+",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "18.30",
+            "eventHobbyScore": "0.00",
+            "userId": "VHV5AGBAK3",
+            "rank": 25,
+            "army": "Grey Knights",
+            "team": "Warhammer gooi+",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 25,
+        "averageRank": 25,
+        "dtcScore": "18.30",
+        "hobbyScore": "0.00",
+        "rank": 140
       },
       {
         "userId": "5G1TW3BUAQ",
@@ -6392,7 +7424,7 @@
         "averageRank": 13,
         "dtcScore": "17.90",
         "hobbyScore": "0.00",
-        "rank": 127
+        "rank": 141
       },
       {
         "userId": "PP5KMAPF7J",
@@ -6425,7 +7457,7 @@
         "averageRank": 20,
         "dtcScore": "17.40",
         "hobbyScore": "0.00",
-        "rank": 128
+        "rank": 142
       },
       {
         "userId": "04L3Q6445K",
@@ -6464,7 +7496,7 @@
         "averageRank": 41,
         "dtcScore": "17.08",
         "hobbyScore": "0.00",
-        "rank": 129
+        "rank": 143
       },
       {
         "userId": "URPWL4VK65",
@@ -6497,7 +7529,40 @@
         "averageRank": 29,
         "dtcScore": "16.36",
         "hobbyScore": "0.00",
-        "rank": 130
+        "rank": 144
+      },
+      {
+        "userId": "XHXD087EEN",
+        "name": "Hencas van Huyssteen",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Necrons",
+            "count": 1,
+            "score": 15.72
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "15.72",
+            "eventHobbyScore": "3.00",
+            "userId": "XHXD087EEN",
+            "rank": 19,
+            "army": "Necrons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 19,
+        "averageRank": 19,
+        "dtcScore": "15.72",
+        "hobbyScore": "3.00",
+        "rank": 145
       },
       {
         "userId": "NkjhsVr6Jl",
@@ -6530,46 +7595,7 @@
         "averageRank": 42,
         "dtcScore": "14.64",
         "hobbyScore": "0.00",
-        "rank": 131
-      },
-      {
-        "userId": "3K1BGKE2RW",
-        "name": "Klaas Harm Wiggerman",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Leagues of Votann",
-            "count": 1,
-            "score": 14.5
-          }
-        ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "14.50",
-            "eventHobbyScore": "0.00",
-            "userId": "3K1BGKE2RW",
-            "rank": 21,
-            "army": "Leagues of Votann",
-            "team": "LMG",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 21,
-        "averageRank": 21,
-        "dtcScore": "14.50",
-        "hobbyScore": "0.00",
-        "rank": 132
+        "rank": 146
       },
       {
         "userId": "FBLT7VXJF8",
@@ -6608,46 +7634,73 @@
         "averageRank": 17,
         "dtcScore": "14.40",
         "hobbyScore": "0.00",
-        "rank": 133
+        "rank": 147
       },
       {
-        "userId": "AMMLW31QTV",
-        "name": "Oane Dijkstra",
+        "userId": "K1AQQFTB94",
+        "name": "Mitchell Windsma",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Adepta Sororitas",
+            "name": "Death Guard",
             "count": 1,
-            "score": 11.6
+            "score": 13.73
           }
         ],
-        "teams": [
-          {
-            "name": "LMG",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
             "numberOfRounds": 3,
-            "eventDtcScore": "11.60",
+            "eventDtcScore": "13.73",
             "eventHobbyScore": "0.00",
-            "userId": "AMMLW31QTV",
-            "rank": 22,
-            "army": "Adepta Sororitas",
-            "team": "LMG",
+            "userId": "K1AQQFTB94",
+            "rank": 27,
+            "army": "Death Guard",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 0.5,
-        "totalRank": 22,
-        "averageRank": 22,
-        "dtcScore": "11.60",
+        "numWins": 1,
+        "totalRank": 27,
+        "averageRank": 27,
+        "dtcScore": "13.73",
         "hobbyScore": "0.00",
-        "rank": 134
+        "rank": 148
+      },
+      {
+        "userId": "XN2D2WBTH9",
+        "name": "Tim Lamb",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Drukhari",
+            "count": 1,
+            "score": 12.57
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "12.57",
+            "eventHobbyScore": "0.00",
+            "userId": "XN2D2WBTH9",
+            "rank": 20,
+            "army": "Drukhari",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 20,
+        "averageRank": 20,
+        "dtcScore": "12.57",
+        "hobbyScore": "0.00",
+        "rank": 149
       },
       {
         "userId": "BY5T9XAVLB",
@@ -6686,7 +7739,7 @@
         "averageRank": 32,
         "dtcScore": "10.22",
         "hobbyScore": "0.00",
-        "rank": 135
+        "rank": 150
       },
       {
         "userId": "OPThYlDNKC",
@@ -6725,36 +7778,36 @@
         "averageRank": 44,
         "dtcScore": "9.76",
         "hobbyScore": "0.00",
-        "rank": 136
+        "rank": 151
       },
       {
-        "userId": "Ci8drOUGlg",
-        "name": "Ruud Steenbakkers",
+        "userId": "HrvKDM0jK6",
+        "name": "Carl Heiberg",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Aeldari",
+            "name": "Chaos Daemons",
             "count": 1,
             "score": 9.43
           }
         ],
         "teams": [
           {
-            "name": "Team Gru",
+            "name": "Lost legion wargaming",
             "count": 1
           }
         ],
         "events": [
           {
-            "name": "The Wardice Wargames 6",
-            "eventId": "NV3AMX3DB0",
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
             "numberOfRounds": 3,
             "eventDtcScore": "9.43",
             "eventHobbyScore": "0.00",
-            "userId": "Ci8drOUGlg",
+            "userId": "HrvKDM0jK6",
             "rank": 21,
-            "army": "Aeldari",
-            "team": "Team Gru",
+            "army": "Chaos Daemons",
+            "team": "Lost legion wargaming",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -6764,7 +7817,46 @@
         "averageRank": 21,
         "dtcScore": "9.43",
         "hobbyScore": "0.00",
-        "rank": 137
+        "rank": 152
+      },
+      {
+        "userId": "CM4VFT5ACG",
+        "name": "Alpheaus Feltham",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "T'au Empire",
+            "count": 1,
+            "score": 9.15
+          }
+        ],
+        "teams": [
+          {
+            "name": "Koningen van Groningen",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.15",
+            "eventHobbyScore": "0.00",
+            "userId": "CM4VFT5ACG",
+            "rank": 29,
+            "army": "T'au Empire",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 29,
+        "averageRank": 29,
+        "dtcScore": "9.15",
+        "hobbyScore": "0.00",
+        "rank": 153
       },
       {
         "userId": "5YWUG27906",
@@ -6797,40 +7889,7 @@
         "averageRank": 15,
         "dtcScore": "8.95",
         "hobbyScore": "0.00",
-        "rank": 138
-      },
-      {
-        "userId": "BVDMBBNWKK",
-        "name": "Bas Top",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 8.7
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "Legends of the North V7",
-            "eventId": "WMN9VENWYD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "8.70",
-            "eventHobbyScore": "0.00",
-            "userId": "BVDMBBNWKK",
-            "rank": 23,
-            "army": "Astra Militarum",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 0,
-        "totalRank": 23,
-        "averageRank": 23,
-        "dtcScore": "8.70",
-        "hobbyScore": "0.00",
-        "rank": 139
+        "rank": 154
       },
       {
         "userId": "LU8P971QJG",
@@ -6869,7 +7928,7 @@
         "averageRank": 33,
         "dtcScore": "8.18",
         "hobbyScore": "0.00",
-        "rank": 140
+        "rank": 155
       },
       {
         "userId": "LdfriAMeoT",
@@ -6908,7 +7967,79 @@
         "averageRank": 44,
         "dtcScore": "7.47",
         "hobbyScore": "2.00",
-        "rank": 141
+        "rank": 156
+      },
+      {
+        "userId": "Q9CKZAF7Bh",
+        "name": "Jalmar Nijpels",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Aeldari",
+            "count": 1,
+            "score": 6.86
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "6.86",
+            "eventHobbyScore": "0.00",
+            "userId": "Q9CKZAF7Bh",
+            "rank": 30,
+            "army": "Aeldari",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 30,
+        "averageRank": 30,
+        "dtcScore": "6.86",
+        "hobbyScore": "0.00",
+        "rank": 157
+      },
+      {
+        "userId": "C3uOuXmsWn",
+        "name": "Andreas Spelberg",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "T'au Empire",
+            "count": 1,
+            "score": 6.29
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "amsterdam battle brothers Trainingcages",
+            "eventId": "ALZ6ae3HZ4",
+            "numberOfRounds": 3,
+            "eventDtcScore": "6.29",
+            "eventHobbyScore": "4.00",
+            "userId": "C3uOuXmsWn",
+            "rank": 22,
+            "army": "T'au Empire",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 22,
+        "averageRank": 22,
+        "dtcScore": "6.29",
+        "hobbyScore": "4.00",
+        "rank": 158
       },
       {
         "userId": "3FQ9TwHEI3",
@@ -6947,7 +8078,46 @@
         "averageRank": 18,
         "dtcScore": "6.21",
         "hobbyScore": "0.00",
-        "rank": 142
+        "rank": 159
+      },
+      {
+        "userId": "GVFWNJRQYF",
+        "name": "Robin Smilde",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 4.58
+          }
+        ],
+        "teams": [
+          {
+            "name": "Koningen van Groningen",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "4.58",
+            "eventHobbyScore": "0.00",
+            "userId": "GVFWNJRQYF",
+            "rank": 31,
+            "army": "Chaos Space Marines",
+            "team": "Koningen van Groningen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 31,
+        "averageRank": 31,
+        "dtcScore": "4.58",
+        "hobbyScore": "0.00",
+        "rank": 160
       },
       {
         "userId": "D5HF9BYUK2",
@@ -6986,7 +8156,7 @@
         "averageRank": 35,
         "dtcScore": "4.09",
         "hobbyScore": "0.00",
-        "rank": 143
+        "rank": 161
       },
       {
         "userId": "UnMsUxm6vR",
@@ -7019,7 +8189,46 @@
         "averageRank": 25,
         "dtcScore": "2.90",
         "hobbyScore": "0.00",
-        "rank": 144
+        "rank": 162
+      },
+      {
+        "userId": "5MKL5G9HAB",
+        "name": "Stefan Hoekstra",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Leagues of Votann",
+            "count": 1,
+            "score": 2.29
+          }
+        ],
+        "teams": [
+          {
+            "name": "LMG",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Legends of the North V8",
+            "eventId": "A6WBCC3NRJ",
+            "numberOfRounds": 3,
+            "eventDtcScore": "2.29",
+            "eventHobbyScore": "0.00",
+            "userId": "5MKL5G9HAB",
+            "rank": 32,
+            "army": "Leagues of Votann",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 32,
+        "averageRank": 32,
+        "dtcScore": "2.29",
+        "hobbyScore": "0.00",
+        "rank": 163
       }
     ]
   },
