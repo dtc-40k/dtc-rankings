@@ -132,7 +132,7 @@ const retrieveEvents = async () => {
   return events;
 };
 
-const updateArmies = (player, armies) => {
+const updateArmies = (player, armies, event) => {
   let mappedFactionName = Object.keys(factions).find((f) => {
     return factions[f].includes(player.army.toLowerCase());
   });
@@ -149,9 +149,32 @@ const updateArmies = (player, armies) => {
       name: mappedFactionName,
       count: armies[armyIndex].count + 1,
       score: Number((Number(armies[armyIndex].score) + Number(player.dtcScore)).toFixed(2)),
+      events: [
+        ...armies[armyIndex].events,
+        {
+          name: event.name,
+          eventId: event.id,
+          numberOfRounds: player.event.numberOfRounds,
+          eventDtcScore: player.dtcScore,
+          excludeScore: player.excludeScore,
+        },
+      ],
     };
   } else {
-    armies.push({ name: mappedFactionName, count: 1, score: Number(Number(player.dtcScore).toFixed(2)) });
+    armies.push({
+      name: mappedFactionName,
+      count: 1,
+      score: Number(Number(player.dtcScore).toFixed(2)),
+      events: [
+        {
+          name: event.name,
+          eventId: event.id,
+          numberOfRounds: player.event.numberOfRounds,
+          eventDtcScore: player.dtcScore,
+          excludeScore: player.excludeScore,
+        },
+      ],
+    });
   }
   return armies;
 };
@@ -197,7 +220,7 @@ const generatePlayerRanking = (events) => {
         const oldPlayerIndex = rankings.findIndex((item) => item.userId === player.userId);
         if (oldPlayerIndex > -1) {
           const oldPlayer = rankings[oldPlayerIndex];
-          let armies = updateArmies(player, oldPlayer.armies);
+          let armies = updateArmies(player, oldPlayer.armies, event);
           let teams = updateTeams(player, oldPlayer.teams);
 
           let events = updateEvents(player, oldPlayer.events, event);
@@ -231,7 +254,20 @@ const generatePlayerRanking = (events) => {
           if (player.team) {
             teams.push({ name: player.team.name, count: 1 });
           }
-          armies.push({ name: mappedFactionName, count: 1, score: Number(player.dtcScore) });
+          armies.push({
+            name: mappedFactionName,
+            count: 1,
+            score: Number(player.dtcScore),
+            events: [
+              {
+                name: event.name,
+                eventId: event.id,
+                numberOfRounds: player.event.numberOfRounds,
+                eventDtcScore: player.dtcScore,
+                excludeScore: player.excludeScore,
+              },
+            ],
+          });
           events.push({
             name: event.name,
             eventId: event.id,
@@ -445,6 +481,61 @@ const generateFactionRanking = (seasonalRanking) => {
           console.error(' --- UNKNOWN FACTION ---', army.name?.toLowerCase());
           mappedFactionName = 'Unknown';
         }
+        let gtEvents = army.events.filter((event) => event.numberOfRounds >= 5 && !event.excludeScore);
+        let rttEvents = army.events.filter((event) => event.numberOfRounds <= 4 && !event.excludeScore);
+
+        let gtScore = 0;
+        let rttScore = 0;
+
+        const numberOfEvents = gtEvents?.length + rttEvents?.length;
+        let scoringNumEvents = 0;
+        if (numberOfEvents > 7) {
+          console.log('  Faction Ranking Player with more then 7 events found...', _player.name);
+
+          if (gtEvents.length > 3) {
+            console.log('    and with more then 3 GT events found...');
+            gtEvents.sort((a, b) => {
+              return b.eventDtcScore - a.eventDtcScore;
+            });
+            gtEvents = gtEvents.slice(0, 3);
+          }
+
+          let allEvents = [...gtEvents, ...rttEvents];
+
+          allEvents.sort((a, b) => {
+            return b.eventDtcScore - a.eventDtcScore;
+          });
+
+          allEvents = allEvents.slice(0, 7);
+
+          scoringNumEvents = allEvents.length;
+
+          rttScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+        } else {
+          if (gtEvents.length > 3) {
+            console.log('  Player with more then 3 GT events found...', _player.name);
+            gtEvents.sort((a, b) => {
+              return b.eventDtcScore - a.eventDtcScore;
+            });
+            gtEvents = gtEvents.slice(0, 3);
+          }
+
+          if (gtEvents && gtEvents.length > 1) {
+            gtScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+          }
+          if (gtEvents && gtEvents.length === 1) {
+            gtScore = Number(gtEvents[0].eventDtcScore);
+          }
+          if (rttEvents && rttEvents.length > 1) {
+            rttScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+          }
+          if (rttEvents && rttEvents.length === 1) {
+            rttScore = Number(rttEvents[0].eventDtcScore);
+          }
+          scoringNumEvents = gtEvents.length + rttEvents.length;
+        }
+        const armyScore = (Number(gtScore) + Number(rttScore)).toFixed(2);
+
         const factionIndex = factionLists.findIndex((a) => a.name === mappedFactionName);
         const factionPlayer = {
           ..._player,
@@ -452,18 +543,20 @@ const generateFactionRanking = (seasonalRanking) => {
           events: undefined,
           teams: undefined,
           totalRank: undefined,
-          dtcScore: Number(army.score.toFixed(2)),
-          numEvents: army.count,
+          dtcScore: Number(armyScore),
+          numEvents: scoringNumEvents,
           averageRank: army.averageRank,
           numWins: army.numWins,
         };
-        if (factionIndex > -1) {
-          factionLists[factionIndex] = {
-            name: mappedFactionName,
-            players: [...factionLists[factionIndex].players, factionPlayer],
-          };
-        } else {
-          factionLists.push({ name: mappedFactionName, players: [factionPlayer] });
+        if (scoringNumEvents > 0) {
+          if (factionIndex > -1) {
+            factionLists[factionIndex] = {
+              name: mappedFactionName,
+              players: [...factionLists[factionIndex].players, factionPlayer],
+            };
+          } else {
+            factionLists.push({ name: mappedFactionName, players: [factionPlayer] });
+          }
         }
       });
     });
