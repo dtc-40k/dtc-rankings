@@ -23,7 +23,7 @@ const factions = {
   Deathwatch: ['deathwatch'],
   'Adeptus Custodes': ['adeptus custodes'],
   'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii', 'dark mechanicus'],
-  Aeldari: ['aeldari', 'alaitoc', 'asuryani', 'iyanden', 'ulthwe'],
+  Aeldari: ['aeldari', 'alaitoc', 'asuryani', 'iyanden', 'ulthwe', 'ynnari'],
   'Astra Militarum': [
     'astra militarum',
     'cadian shock troops',
@@ -115,7 +115,6 @@ const factions = {
     'hive fleet gorgon',
     'tyranids',
   ],
-  Ynnari: ['ynnari'],
 };
 
 const retrieveEvents = async () => {
