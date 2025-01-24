@@ -762,9 +762,8 @@ retrieveEvents()
     console.info(`Writing faction ranking file.`);
     fs.writeFileSync(`./rankings/factions.json`, JSON.stringify(factionRanking, null, 2));
 
-    const teamRanking = generateTeamRankings(playerRanking.seasonalRankings); // seasonalRankings gebruiken voor team rankings
     console.info(`Writing team ranking file.`);
-    fs.writeFileSync(`./rankings/teams.json`, JSON.stringify(teamRanking, null, 2)); // Schrijf team rankings naar teams.json
+    fs.writeFileSync(`./rankings/teams.json`, JSON.stringify(playerRanking.seasonalRankings, null, 2)); // Schrijf team rankings naar teams.json
   })
   .catch((e) => {
     console.error(e);
