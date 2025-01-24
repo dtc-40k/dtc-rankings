@@ -1,7 +1,5 @@
 import { initializeApp } from 'firebase/app';
-
 import { collection, getDocs, getFirestore } from 'firebase/firestore';
-
 import fs from 'fs';
 
 const firebaseConfig = {
@@ -17,7 +15,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-const factions = {
+const factionsMapping = {
   'Adepta Sororitas': ['adepta sororitas', 'adeptus ministorum'],
   'Space Wolves': ['space wolves'],
   Deathwatch: ['deathwatch'],
@@ -103,7 +101,7 @@ const factions = {
   ],
   Necrons: ['maynarkh', 'necrons', 'nihilakh', 'sautek'],
   Orks: ['orks', 'bad moon', 'blood axe', 'deathskulls', 'evil sunz', 'freebooterz', 'goffs', 'snakebites'],
-  "T'au Empire": ["t'au sept", "t'au empire", 'farsightr enclaves', "vior'la sept"],
+  "T'au Empire": ["t'au sept", "t'au empire", 'farsight enclaves', "vior'la sept"],
   Tyranids: [
     'hive fleet behemoth',
     'hive fleet hive fleet ',
@@ -132,8 +130,8 @@ const retrieveEvents = async () => {
 };
 
 const updateArmies = (player, armies, event) => {
-  let mappedFactionName = Object.keys(factions).find((f) => {
-    return factions[f].includes(player.army.toLowerCase());
+  let mappedFactionName = Object.keys(factionsMapping).find((f) => {
+    return factionsMapping[f].includes(player.army.toLowerCase());
   });
 
   if (!mappedFactionName) {
@@ -205,13 +203,22 @@ const updateEvents = (player, events, event) => {
 };
 
 const generatePlayerRanking = (events) => {
-  const seasons = ['2024', '2023', '2022'];
-  const seasonRankings = [];
+  const seasons = ['2025','2024', '2023', '2022'];
+  const seasonalRankings = [];
+  const seasonalTeamRankings = []; // Nieuwe array voor team rankings
 
-  seasons.forEach((season) => {
+  seasons.forEach(async (season) => {
+    // Async functie om team rankings af te wachten
     let rankings = [];
+    let teamRankings = {}; // Nieuwe teamRankings per seizoen
+
     console.info(`Starting generation for season: ${season}`);
     const seasonEvents = events.filter((event) => event.dtcSeason === season);
+
+    // Team ranking berekenen (voorheen in TeamRankings.jsx)
+    teamRankings = calculateTeamRanking(seasonEvents);
+    seasonalTeamRankings.push({ season, teamRanking: teamRankings }); // Team rankings toevoegen aan seasonalTeamRankings
+
     seasonEvents.forEach((event) => {
       console.info(` Generate ranking for event: ${event.name}`);
       event.eventPlayers.forEach((player) => {
@@ -241,8 +248,8 @@ const generatePlayerRanking = (events) => {
           let teams = [];
           let events = [];
 
-          let mappedFactionName = Object.keys(factions).find((f) => {
-            return factions[f].includes(player.army.toLowerCase());
+          let mappedFactionName = Object.keys(factionsMapping).find((f) => {
+            return factionsMapping[f].includes(player.army.toLowerCase());
           });
 
           if (!mappedFactionName) {
@@ -308,9 +315,9 @@ const generatePlayerRanking = (events) => {
         return b.count - a.count;
       });
     });
-    seasonRankings.push({ season, rankings });
+    seasonalRankings.push({ season, rankings });
   });
-  return seasonRankings;
+  return { seasonalRankings, seasonalTeamRankings }; // Return player en team rankings
 };
 
 const generateDtcScores = (rankings) => {
@@ -437,16 +444,16 @@ const generateHobbyScores = (rankings) => {
       }
 
       if (gtEvents && gtEvents.length > 1) {
-        gtHobbyScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore || 0), 0);
+        gtHobbyScore = gtEvents?.reduce((total, event) => Number(total) + Number(event?.eventHobbyScore || 0), 0);
       }
       if (gtEvents && gtEvents.length === 1) {
         gtHobbyScore = Number(gtEvents[0].eventHobbyScore || 0);
       }
       if (rttEvents && rttEvents.length > 1) {
-        rttHobbyScore = rttEvents?.reduce((total, event) => Number(total) + Number(event.eventHobbyScore || 0), 0);
+        rttHobbyScore = rttEvents?.reduce((total, event) => Number(total) + Number(event?.eventHobbyScore || 0), 0);
       }
       if (rttEvents && rttEvents.length === 1) {
-        rttHobbyScore = Number(rttEvents[0].eventHobbyScore || 0);
+        rttHobbyScore = Number(rttEvents[0]?.eventHobbyScore || 0);
       }
       newRankings[index].events.forEach((event, eventIndex) => {
         const usedForHobbyRankings =
@@ -464,6 +471,144 @@ const generateHobbyScores = (rankings) => {
   return newRankings;
 };
 
+const calculateTeamRanking = (events) => {
+  // Hergebruik calculateTeamRanking functie van TeamRankings.jsx
+  let teamRankings = {};
+
+  events.forEach((event) => {
+    const eventTeamScores = {};
+    event.eventPlayers.forEach((player) => {
+      if (player.team && player.team.name) {
+        const teamName = player.team.name.trim();
+        if (!eventTeamScores[teamName] || Number(player.dtcScore) > Number(eventTeamScores[teamName].score)) {
+          eventTeamScores[teamName] = {
+            score: player.dtcScore,
+            playerId: player.userId,
+            playerName: `${player.firstName} ${player.lastName}`,
+            eventId: event.id,
+            eventName: event.name,
+            playerObject: player,
+            numberOfRounds: player.event.numberOfRounds, // Voeg numberOfRounds toe
+          };
+        }
+      }
+    });
+
+    for (const teamName in eventTeamScores) {
+      const eventScore = eventTeamScores[teamName];
+      if (!teamRankings[teamName]) {
+        teamRankings[teamName] = {
+          name: teamName,
+          players: {},
+          eventScores: [],
+          teamEventPlayers: {},
+          totalScore: 0,
+          numEvents: 0,
+        };
+      }
+      const team = teamRankings[teamName];
+      team.numEvents += 1;
+      team.eventScores.push({
+        score: Number(eventScore.score),
+        eventName: eventScore.eventName,
+        eventId: eventScore.eventId,
+        playerId: eventScore.playerId,
+        playerName: eventScore.playerName,
+        // player: eventScore.playerObject,
+        numberOfRounds: eventScore.numberOfRounds, // Voeg numberOfRounds toe
+      });
+      if (!teamRankings[teamName].players[eventScore.playerId]) {
+        // Gebruik teamRankings.team.players
+        teamRankings[teamName].players[eventScore.playerId] = {
+          playerId: eventScore.playerId,
+          playerName: eventScore.playerName,
+          scores: [],
+          topScoresWithEvents: [],
+          // player: eventScore.playerObject,
+        };
+      }
+      teamRankings[teamName].players[eventScore.playerId].scores.push(Number(eventScore.score)); // Gebruik teamRankings.team.players
+    }
+  });
+
+  // Calculate team total score based on rules and identify contributing scores
+  for (const teamName in teamRankings) {
+    const team = teamRankings[teamName];
+    let allPlayerTopScoresWithEvents = [];
+
+    for (const playerId in team.players) {
+      const player = team.players[playerId];
+      player.scores.sort((a, b) => b - a);
+      const topPlayerScores = player.scores.slice(0, 3);
+
+      const topScoresWithEvents = topPlayerScores.map((score) => {
+        const eventForScore = team.eventScores.find((es) => es.playerId === playerId && Number(es.score) === score);
+        return {
+          score,
+          eventName: eventForScore ? eventForScore.eventName : 'Unknown Event',
+          numberOfRounds: eventForScore?.numberOfRounds,
+        }; // Voeg numberOfRounds toe
+      });
+      team.players[playerId].topScoresWithEvents = topScoresWithEvents;
+      allPlayerTopScoresWithEvents = [...allPlayerTopScoresWithEvents, ...topScoresWithEvents];
+      player.topScores = topPlayerScores;
+    }
+
+    // GT Event Limiet Toepassen
+    let gtEvents = allPlayerTopScoresWithEvents.filter((scoreEvent) => scoreEvent.numberOfRounds >= 5);
+    let rttEvents = allPlayerTopScoresWithEvents.filter((scoreEvent) => scoreEvent.numberOfRounds < 5);
+
+    gtEvents.sort((a, b) => b.score - a.score);
+    gtEvents = gtEvents.slice(0, 3); // Maximaal 3 GT events
+
+    let allAllowedEvents = [...gtEvents, ...rttEvents];
+    allAllowedEvents.sort((a, b) => b.score - a.score);
+    const topTeamScoresWithEvents = allAllowedEvents.slice(0, 7);
+
+    team.totalScore = topTeamScoresWithEvents.reduce((sum, scoreEvent) => sum + scoreEvent.score, 0).toFixed(2);
+    team.topTeamScoresWithEvents = topTeamScoresWithEvents;
+
+    for (const playerId in team.players) {
+      const player = team.players[playerId];
+      player.topScoresWithEvents = player.topScoresWithEvents.map((scoreEvent) => {
+        const inTop7 = topTeamScoresWithEvents.some(
+          (topTeamScoreEvent) =>
+            topTeamScoreEvent.score === scoreEvent.score && topTeamScoreEvent.eventName === scoreEvent.eventName
+        );
+        const isGTEvent = scoreEvent.numberOfRounds >= 5; // Bepaal of event GT is
+        return { ...scoreEvent, inTop7, isGTEvent }; // Voeg isGTEvent toe
+      });
+    }
+  }
+
+  let rankingArray = Object.values(teamRankings);
+  rankingArray.sort((a, b) => b.totalScore - a.totalScore);
+
+  rankingArray.forEach((team, index) => {
+    team.rank = index + 1;
+    team.eventScores.sort((a, b) => b.score - a.score);
+  });
+
+  return rankingArray;
+};
+
+const generateTeamRankings = (seasonalEvents) => {
+  // Nieuwe functie om team rankings te genereren
+  const seasonalTeamRankings = [];
+
+  seasonalEvents.forEach(async (season) => {
+    // Async loop voor seizoenen (optioneel, kan ook sync)
+    let teamRankings = {};
+    const seasonEvents = season.teamRanking; // Gebruik rankings array als events voor team ranking berekening
+
+    teamRankings = calculateTeamRanking(seasonEvents); // Hergebruik calculateTeamRanking
+
+    seasonalTeamRankings.push({ season: season.season, teamRanking: teamRankings }); // Voeg team rankings toe aan seasonalTeamRankings
+  });
+
+  return seasonalTeamRankings; // Return team rankings array
+};
+
 const generateFactionRanking = (seasonalRanking) => {
   const seasonalFactionRanking = [];
 
@@ -473,8 +618,8 @@ const generateFactionRanking = (seasonalRanking) => {
     console.info(` Generating faction ranking list`);
     players.forEach((_player, index) => {
       _player.armies.forEach((army) => {
-        let mappedFactionName = Object.keys(factions).find((f) => {
-          return factions[f].includes(army.name?.toLowerCase());
+        let mappedFactionName = Object.keys(factionsMapping).find((f) => {
+          return factionsMapping[f].includes(army.name?.toLowerCase());
         });
         if (!mappedFactionName) {
           console.error(' --- UNKNOWN FACTION ---', army.name?.toLowerCase());
@@ -575,16 +720,19 @@ const generateFactionRanking = (seasonalRanking) => {
   });
   return seasonalFactionRanking;
 };
-
 retrieveEvents()
   .then((events) => {
     const playerRanking = generatePlayerRanking(events);
     console.info(`Writing player ranking file.`);
-    fs.writeFileSync(`./rankings/rankings.json`, JSON.stringify(playerRanking, null, 2));
+    fs.writeFileSync(`./rankings/rankings.json`, JSON.stringify(playerRanking.seasonalRankings, null, 2)); // seasonalRankings gebruiken
 
-    const factionRanking = generateFactionRanking(playerRanking);
+    const factionRanking = generateFactionRanking(playerRanking.seasonalRankings); // seasonalRankings gebruiken
     console.info(`Writing faction ranking file.`);
     fs.writeFileSync(`./rankings/factions.json`, JSON.stringify(factionRanking, null, 2));
+
+    // const teamRanking = generateTeamRankings(playerRanking.seasonalTeamRankings); // seasonalRankings gebruiken voor team rankings
+    console.info(`Writing team ranking file.`);
+    fs.writeFileSync(`./rankings/teams.json`, JSON.stringify(playerRanking.seasonalTeamRankings, null, 2)); // Schrijf team rankings naar teams.json
   })
   .catch((e) => {
     console.error(e);
