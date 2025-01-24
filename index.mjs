@@ -203,7 +203,7 @@ const updateEvents = (player, events, event) => {
 };
 
 const generatePlayerRanking = (events) => {
-  const seasons = ['2025','2024', '2023', '2022'];
+  const seasons = ['2025', '2024', '2023', '2022'];
   const seasonalRankings = [];
   const seasonalTeamRankings = []; // Nieuwe array voor team rankings
 
@@ -599,7 +599,7 @@ const generateTeamRankings = (seasonalEvents) => {
   seasonalEvents.forEach(async (season) => {
     // Async loop voor seizoenen (optioneel, kan ook sync)
     let teamRankings = {};
-    const seasonEvents = season.teamRanking; // Gebruik rankings array als events voor team ranking berekening
+    const seasonEvents = season.rankings; // Gebruik rankings array als events voor team ranking berekening
 
     teamRankings = calculateTeamRanking(seasonEvents); // Hergebruik calculateTeamRanking
 
@@ -633,6 +633,9 @@ const generateFactionRanking = (seasonalRanking) => {
 
         const numberOfEvents = gtEvents?.length + rttEvents?.length;
         let scoringNumEvents = 0;
+        let usedEventsForFactionRanking = []; // Array om gebruikte events op te slaan
+        let allScoresWithRankingInfo = []; // Alle scores met ranking info
+
         if (numberOfEvents > 7) {
           console.log('  Faction Ranking Player with more then 7 events found...', _player.name);
 
@@ -650,11 +653,13 @@ const generateFactionRanking = (seasonalRanking) => {
             return b.eventDtcScore - a.eventDtcScore;
           });
 
-          allEvents = allEvents.slice(0, 7);
+          usedEventsForFactionRanking = allEvents.slice(0, 7); // Gebruikte events voor faction ranking
+          scoringNumEvents = usedEventsForFactionRanking.length;
 
-          scoringNumEvents = allEvents.length;
-
-          rttScore = allEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
+          rttScore = usedEventsForFactionRanking?.reduce(
+            (total, event) => Number(total) + Number(event.eventDtcScore),
+            0
+          );
         } else {
           if (gtEvents.length > 3) {
             console.log('  Player with more then 3 GT events found...', _player.name);
@@ -663,6 +668,9 @@ const generateFactionRanking = (seasonalRanking) => {
             });
             gtEvents = gtEvents.slice(0, 3);
           }
+
+          usedEventsForFactionRanking = [...gtEvents, ...rttEvents]; // Gebruikte events voor faction ranking
+          scoringNumEvents = usedEventsForFactionRanking.length;
 
           if (gtEvents && gtEvents.length > 1) {
             gtScore = gtEvents?.reduce((total, event) => Number(total) + Number(event.eventDtcScore), 0);
@@ -680,6 +688,18 @@ const generateFactionRanking = (seasonalRanking) => {
         }
         const armyScore = (Number(gtScore) + Number(rttScore)).toFixed(2);
 
+        // Alle scores verzamelen en markeren of ze gebruikt zijn voor ranking
+        army.events.forEach((eventScore) => {
+          const isUsedForRanking = usedEventsForFactionRanking.some(
+            (usedEvent) => usedEvent.eventId === eventScore.eventId
+          );
+          allScoresWithRankingInfo.push({
+            ...eventScore,
+            isUsedForRanking, // Markeer of score gebruikt is voor ranking
+            isGTEvent: eventScore.numberOfRounds >= 5, // Markeer of event een GT event is
+          });
+        });
+
         const factionIndex = factionLists.findIndex((a) => a.name === mappedFactionName);
         const factionPlayer = {
           ..._player,
@@ -691,6 +711,7 @@ const generateFactionRanking = (seasonalRanking) => {
           numEvents: scoringNumEvents,
           averageRank: army.averageRank,
           numWins: army.numWins,
+          scores: allScoresWithRankingInfo, // Gebruik allScoresWithRankingInfo in plaats van usedEventsForFactionRanking
         };
         if (scoringNumEvents > 0) {
           if (factionIndex > -1) {
@@ -720,6 +741,7 @@ const generateFactionRanking = (seasonalRanking) => {
   });
   return seasonalFactionRanking;
 };
+
 retrieveEvents()
   .then((events) => {
     const playerRanking = generatePlayerRanking(events);
@@ -730,9 +752,9 @@ retrieveEvents()
     console.info(`Writing faction ranking file.`);
     fs.writeFileSync(`./rankings/factions.json`, JSON.stringify(factionRanking, null, 2));
 
-    // const teamRanking = generateTeamRankings(playerRanking.seasonalTeamRankings); // seasonalRankings gebruiken voor team rankings
+    const teamRanking = generateTeamRankings(playerRanking.seasonalRankings); // seasonalRankings gebruiken voor team rankings
     console.info(`Writing team ranking file.`);
-    fs.writeFileSync(`./rankings/teams.json`, JSON.stringify(playerRanking.seasonalTeamRankings, null, 2)); // Schrijf team rankings naar teams.json
+    fs.writeFileSync(`./rankings/teams.json`, JSON.stringify(teamRanking, null, 2)); // Schrijf team rankings naar teams.json
   })
   .catch((e) => {
     console.error(e);
