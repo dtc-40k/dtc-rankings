@@ -2534,7 +2534,7 @@
         ]
       },
       {
-        "name": "Unknown",
+        "name": "Imperial Agents",
         "players": [
           {
             "userId": "Ci8drOUGlg",
@@ -2549,68 +2549,6 @@
                 "eventId": "XbDZIM28MzNC",
                 "numberOfRounds": 5,
                 "eventDtcScore": "110.63",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "NvkOKjD8kO",
-            "name": "Bas Riemens",
-            "numEvents": 2,
-            "dtcScore": 62.84,
-            "hobbyScore": "1.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "Alliance Open WH40K Grand Tournament 2024",
-                "eventId": "5AAK4H5BA7",
-                "numberOfRounds": 6,
-                "eventDtcScore": "38.81",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "DTC40K TRAININGCAGES SEPTEMBER RTT",
-                "eventId": "DLEUDNVAA0",
-                "numberOfRounds": 3,
-                "eventDtcScore": "24.03",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "YFTQgBC5sm",
-            "name": "Joost Engelhard",
-            "numEvents": 1,
-            "dtcScore": 45.95,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "Amsterdam Battle Brothers trainingcages ",
-                "eventId": "2bHCHu2c6w",
-                "numberOfRounds": 3,
-                "eventDtcScore": "45.95",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "iTvx9wlIY6SD",
-            "name": "Bob Maassen",
-            "numEvents": 1,
-            "dtcScore": 5.24,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Alliance Open WH40K Grand Tournament 2024",
-                "eventId": "5AAK4H5BA7",
-                "numberOfRounds": 6,
-                "eventDtcScore": "5.24",
                 "isUsedForRanking": true,
                 "isGTEvent": true
               }
@@ -11067,12 +11005,54 @@
             ]
           },
           {
+            "userId": "NvkOKjD8kO",
+            "name": "Bas Riemens",
+            "numEvents": 4,
+            "dtcScore": 121.67,
+            "hobbyScore": "1.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "Alliance Open WH40K Grand Tournament 2024",
+                "eventId": "5AAK4H5BA7",
+                "numberOfRounds": 6,
+                "eventDtcScore": "38.81",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Alliance Open 40K Masters",
+                "eventId": "LVVXB2G40G",
+                "numberOfRounds": 5,
+                "eventDtcScore": "29.29",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Amsterdam Battle Brothers trainingcages ",
+                "eventId": "2bHCHu2c6w",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.54",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "DTC40K TRAININGCAGES SEPTEMBER RTT",
+                "eventId": "DLEUDNVAA0",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.03",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "UX5VHDLFUL",
             "name": "Thomas Krings",
             "numEvents": 1,
             "dtcScore": 111.18,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "Alliance Open WH40K Grand Tournament 2024",
@@ -11090,7 +11070,7 @@
             "numEvents": 1,
             "dtcScore": 106.99,
             "hobbyScore": "0.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "Alliance Open WH40K Grand Tournament 2024",
@@ -11108,7 +11088,7 @@
             "numEvents": 1,
             "dtcScore": 102.79,
             "hobbyScore": "0.00",
-            "rank": 9,
+            "rank": 10,
             "scores": [
               {
                 "name": "Alliance Open WH40K Grand Tournament 2024",
@@ -11126,7 +11106,7 @@
             "numEvents": 2,
             "dtcScore": 101.74,
             "hobbyScore": "2.00",
-            "rank": 10,
+            "rank": 11,
             "scores": [
               {
                 "name": "Brabohammer 1st edition",
@@ -11152,7 +11132,7 @@
             "numEvents": 3,
             "dtcScore": 97.19,
             "hobbyScore": "0.00",
-            "rank": 11,
+            "rank": 12,
             "scores": [
               {
                 "name": "Alliance Open WH40K Grand Tournament 2024",
@@ -11181,12 +11161,38 @@
             ]
           },
           {
+            "userId": "YFTQgBC5sm",
+            "name": "Joost Engelhard",
+            "numEvents": 2,
+            "dtcScore": 95.18,
+            "hobbyScore": "0.00",
+            "rank": 13,
+            "scores": [
+              {
+                "name": "DTC4OK TRAININGCAGES RTT OKTOBER",
+                "eventId": "NLRY0WAN2G",
+                "numberOfRounds": 3,
+                "eventDtcScore": "49.23",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Amsterdam Battle Brothers trainingcages ",
+                "eventId": "2bHCHu2c6w",
+                "numberOfRounds": 3,
+                "eventDtcScore": "45.95",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "eOFVEEMOEb",
             "name": "Mitchell klein",
             "numEvents": 2,
             "dtcScore": 82.88,
             "hobbyScore": "0.00",
-            "rank": 12,
+            "rank": 14,
             "scores": [
               {
                 "name": "Madness in the Middle",
@@ -11212,7 +11218,7 @@
             "numEvents": 1,
             "dtcScore": 70.77,
             "hobbyScore": "0.00",
-            "rank": 13,
+            "rank": 15,
             "scores": [
               {
                 "name": "Alliance Open 40K Masters",
@@ -11225,38 +11231,12 @@
             ]
           },
           {
-            "userId": "NvkOKjD8kO",
-            "name": "Bas Riemens",
-            "numEvents": 2,
-            "dtcScore": 58.83,
-            "hobbyScore": "1.00",
-            "rank": 14,
-            "scores": [
-              {
-                "name": "Alliance Open 40K Masters",
-                "eventId": "LVVXB2G40G",
-                "numberOfRounds": 5,
-                "eventDtcScore": "29.29",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Amsterdam Battle Brothers trainingcages ",
-                "eventId": "2bHCHu2c6w",
-                "numberOfRounds": 3,
-                "eventDtcScore": "29.54",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
             "userId": "GMYBNUEKPW",
             "name": "Chris Bonke",
             "numEvents": 1,
             "dtcScore": 50.35,
             "hobbyScore": "0.00",
-            "rank": 15,
+            "rank": 16,
             "scores": [
               {
                 "name": "Alliance Open WH40K Grand Tournament 2024",
@@ -11265,24 +11245,6 @@
                 "eventDtcScore": "50.35",
                 "isUsedForRanking": true,
                 "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "YFTQgBC5sm",
-            "name": "Joost Engelhard",
-            "numEvents": 1,
-            "dtcScore": 49.23,
-            "hobbyScore": "0.00",
-            "rank": 16,
-            "scores": [
-              {
-                "name": "DTC4OK TRAININGCAGES RTT OKTOBER",
-                "eventId": "NLRY0WAN2G",
-                "numberOfRounds": 3,
-                "eventDtcScore": "49.23",
-                "isUsedForRanking": true,
-                "isGTEvent": false
               }
             ]
           },
@@ -11353,6 +11315,24 @@
                 "eventId": "XbDZIM28MzNC",
                 "numberOfRounds": 5,
                 "eventDtcScore": "15.36",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "iTvx9wlIY6SD",
+            "name": "Bob Maassen",
+            "numEvents": 1,
+            "dtcScore": 5.24,
+            "hobbyScore": "0.00",
+            "rank": 21,
+            "scores": [
+              {
+                "name": "Alliance Open WH40K Grand Tournament 2024",
+                "eventId": "5AAK4H5BA7",
+                "numberOfRounds": 6,
+                "eventDtcScore": "5.24",
                 "isUsedForRanking": true,
                 "isGTEvent": true
               }
