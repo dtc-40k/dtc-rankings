@@ -608,7 +608,6 @@ const generateTeamRankings = (seasonalEvents) => {
 
   return seasonalTeamRankings; // Return team rankings array
 };
-
 const generateFactionRanking = (seasonalRanking) => {
   const seasonalFactionRanking = [];
 
@@ -711,7 +710,16 @@ const generateFactionRanking = (seasonalRanking) => {
           numEvents: scoringNumEvents,
           averageRank: army.averageRank,
           numWins: army.numWins,
-          scores: allScoresWithRankingInfo, // Gebruik allScoresWithRankingInfo in plaats van usedEventsForFactionRanking
+          scores: allScoresWithRankingInfo.sort((a, b) => {
+            // Sorteer scores array
+            if (a.isUsedForRanking !== b.isUsedForRanking) {
+              return b.isUsedForRanking ? 1 : -1; // Gebruikte scores eerst
+            }
+            if (a.isGTEvent !== b.isGTEvent) {
+              return b.isGTEvent ? 1 : -1; // GT events binnen gebruikte scores eerst
+            }
+            return b.eventDtcScore - a.eventDtcScore; // Binnen groepen sorteer op score
+          }),
         };
         if (scoringNumEvents > 0) {
           if (factionIndex > -1) {
