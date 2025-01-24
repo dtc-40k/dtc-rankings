@@ -19,7 +19,7 @@ const factionsMapping = {
   'Adepta Sororitas': ['adepta sororitas', 'adeptus ministorum'],
   'Space Wolves': ['space wolves'],
   Deathwatch: ['deathwatch'],
-  "Imperial Agents": ['imperial agents'],
+  'Imperial Agents': ['imperial agents'],
   'Adeptus Custodes': ['adeptus custodes'],
   'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii', 'dark mechanicus'],
   Aeldari: ['aeldari', 'alaitoc', 'asuryani', 'iyanden', 'ulthwe', 'ynnari'],
@@ -565,7 +565,16 @@ const calculateTeamRanking = (events) => {
 
     let allAllowedEvents = [...gtEvents, ...rttEvents];
     allAllowedEvents.sort((a, b) => b.score - a.score);
-    const topTeamScoresWithEvents = allAllowedEvents.slice(0, 7);
+    const topTeamScoresWithEvents = allAllowedEvents.slice(0, 7).sort((a, b) => {
+      // Sorteer scores array
+      if (a.inTop7 !== b.inTop7) {
+        return b.inTop7 ? 1 : -1; // Gebruikte scores eerst
+      }
+      if (a.isGTEvent !== b.isGTEvent) {
+        return b.isGTEvent ? 1 : -1; // GT events binnen gebruikte scores eerst
+      }
+      return b.score - a.score; // Binnen groepen sorteer op score
+    });
 
     team.totalScore = topTeamScoresWithEvents.reduce((sum, scoreEvent) => sum + scoreEvent.score, 0).toFixed(2);
     team.topTeamScoresWithEvents = topTeamScoresWithEvents;
