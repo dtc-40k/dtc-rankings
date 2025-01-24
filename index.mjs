@@ -19,6 +19,7 @@ const factionsMapping = {
   'Adepta Sororitas': ['adepta sororitas', 'adeptus ministorum'],
   'Space Wolves': ['space wolves'],
   Deathwatch: ['deathwatch'],
+  "Imperial Agents": ['imperial agents'],
   'Adeptus Custodes': ['adeptus custodes'],
   'Adeptus Mechanicus': ['adeptus titanicus', 'adeptus mechanicus', 'cult mechanicus', 'skitarii', 'dark mechanicus'],
   Aeldari: ['aeldari', 'alaitoc', 'asuryani', 'iyanden', 'ulthwe', 'ynnari'],
@@ -112,6 +113,7 @@ const factionsMapping = {
     'hive fleet leviathan',
     'hive fleet gorgon',
     'tyranids',
+    'forces of the hive mind',
   ],
 };
 
@@ -135,7 +137,7 @@ const updateArmies = (player, armies, event) => {
   });
 
   if (!mappedFactionName) {
-    console.error(' --- UNKNOWN FACTION ---', player?.army);
+    console.error(' --- UNKNOWN FACTION 1 ---', player?.army.toLowerCase());
     mappedFactionName = 'Unknown';
   }
 
