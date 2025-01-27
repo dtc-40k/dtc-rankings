@@ -1,7 +1,364 @@
 [
   {
     "season": "2025",
-    "factionRanking": []
+    "factionRanking": [
+      {
+        "name": "Death Guard",
+        "players": [
+          {
+            "userId": "WB5G3VLK60",
+            "name": "Willem Nijgh",
+            "numEvents": 1,
+            "dtcScore": 71.7,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "71.70",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tyranids",
+        "players": [
+          {
+            "userId": "cN77fl1hWy",
+            "name": "Lenny Craft-it",
+            "numEvents": 1,
+            "dtcScore": 67.48,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "67.48",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "i8z3NiZYAh",
+            "name": "Stéphane Châtel",
+            "numEvents": 1,
+            "dtcScore": 37.96,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "37.96",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chaos Knights",
+        "players": [
+          {
+            "userId": "JKHTXU22UQ",
+            "name": "Remco Pullen",
+            "numEvents": 1,
+            "dtcScore": 63.26,
+            "hobbyScore": "1.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "63.26",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "KN551ZmT5m",
+            "name": "Florian Booden",
+            "numEvents": 1,
+            "dtcScore": 8.44,
+            "hobbyScore": "3.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "8.44",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Necrons",
+        "players": [
+          {
+            "userId": "sxb9mXkYHY",
+            "name": "Don Janssen",
+            "numEvents": 1,
+            "dtcScore": 59.05,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "59.05",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "DKVE6UYJPR",
+            "name": "Xandor Tollenaar",
+            "numEvents": 1,
+            "dtcScore": 42.18,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.18",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grey Knights",
+        "players": [
+          {
+            "userId": "AaM7vCtzio",
+            "name": "Lev Matzig",
+            "numEvents": 1,
+            "dtcScore": 54.83,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "54.83",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "92MLK8N5G5",
+            "name": "Remon Singelenberg",
+            "numEvents": 1,
+            "dtcScore": 50.61,
+            "hobbyScore": "1.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "50.61",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "9YDM6RMUGT",
+            "name": "Nic van ‘t Schip",
+            "numEvents": 1,
+            "dtcScore": 29.52,
+            "hobbyScore": "3.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.52",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Space Wolves",
+        "players": [
+          {
+            "userId": "L5TB41nv3i",
+            "name": "Richard van Straten",
+            "numEvents": 1,
+            "dtcScore": 46.39,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.39",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aeldari",
+        "players": [
+          {
+            "userId": "Q9CKZAF7Bh",
+            "name": "Jalmar Nijpels",
+            "numEvents": 1,
+            "dtcScore": 33.74,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "33.74",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Angels",
+        "players": [
+          {
+            "userId": "1G90AYL6C0",
+            "name": "Sjoerd Reiche",
+            "numEvents": 1,
+            "dtcScore": 25.31,
+            "hobbyScore": "1.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.31",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Astartes",
+        "players": [
+          {
+            "userId": "2BPXVXRWUN",
+            "name": "Kasper Ruiter",
+            "numEvents": 1,
+            "dtcScore": 21.09,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "21.09",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "YBBXMYGCY6",
+            "name": "Vincent van der Mark",
+            "numEvents": 1,
+            "dtcScore": 12.65,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "12.65",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chaos Space Marines",
+        "players": [
+          {
+            "userId": "T9MWUD5W51",
+            "name": "Pieter 't Hoen",
+            "numEvents": 1,
+            "dtcScore": 16.87,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.87",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "aCgNrvM5ko",
+            "name": "Thomas Verkooijen",
+            "numEvents": 1,
+            "dtcScore": 4.22,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.22",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "season": "2024",

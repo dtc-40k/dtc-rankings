@@ -1,7 +1,278 @@
 [
   {
     "season": "2025",
-    "teamRanking": []
+    "teamRanking": [
+      {
+        "name": "Tafelridder",
+        "players": {
+          "WB5G3VLK60": {
+            "playerId": "WB5G3VLK60",
+            "playerName": "Willem Nijgh",
+            "scores": [
+              71.7
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 71.7,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              71.7
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 71.7,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "WB5G3VLK60",
+            "playerName": "Willem Nijgh",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "71.70",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 71.7,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "name": "wardice",
+        "players": {
+          "cN77fl1hWy": {
+            "playerId": "cN77fl1hWy",
+            "playerName": "Lenny Craft-it",
+            "scores": [
+              67.48
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 67.48,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              67.48
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 67.48,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "cN77fl1hWy",
+            "playerName": "Lenny Craft-it",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "67.48",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 67.48,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "name": "Order of Ones",
+        "players": {
+          "sxb9mXkYHY": {
+            "playerId": "sxb9mXkYHY",
+            "playerName": "Don Janssen",
+            "scores": [
+              59.05
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 59.05,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              59.05
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 59.05,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "sxb9mXkYHY",
+            "playerName": "Don Janssen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "59.05",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 59.05,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "name": "Lost legion wargaming",
+        "players": {
+          "DKVE6UYJPR": {
+            "playerId": "DKVE6UYJPR",
+            "playerName": "Xandor Tollenaar",
+            "scores": [
+              42.18
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 42.18,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              42.18
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 42.18,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "DKVE6UYJPR",
+            "playerName": "Xandor Tollenaar",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "42.18",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 42.18,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "name": "Gooi+",
+        "players": {
+          "9YDM6RMUGT": {
+            "playerId": "9YDM6RMUGT",
+            "playerName": "Nic van ‘t Schip",
+            "scores": [
+              29.52
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 29.52,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              29.52
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 29.52,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "9YDM6RMUGT",
+            "playerName": "Nic van ‘t Schip",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "29.52",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 29.52,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "name": "Thomas' Angels",
+        "players": {
+          "aCgNrvM5ko": {
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "scores": [
+              4.22
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 4.22,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              4.22
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "4.22",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 6
+      }
+    ]
   },
   {
     "season": "2024",
