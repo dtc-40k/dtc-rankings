@@ -3,6 +3,128 @@
     "season": "2025",
     "teamRanking": [
       {
+        "name": "Thomas' Angels",
+        "players": {
+          "aCgNrvM5ko": {
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "scores": [
+              4.22
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 4.22,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              4.22
+            ]
+          },
+          "rErhoVCPjJ": {
+            "playerId": "rErhoVCPjJ",
+            "playerName": "Stefan Martens",
+            "scores": [
+              69.81
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.81,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.81
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 69.81,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "rErhoVCPjJ",
+            "playerName": "Stefan Martens",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "74.03",
+        "numEvents": 2,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 69.81,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "name": "Hiredguns",
+        "players": {
+          "LjtfGqy9dh": {
+            "playerId": "LjtfGqy9dh",
+            "playerName": "Niek Vogels",
+            "scores": [
+              72.6
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 72.6,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              72.6
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 72.6,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "LjtfGqy9dh",
+            "playerName": "Niek Vogels",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "72.60",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 72.6,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 2
+      },
+      {
         "name": "Tafelridder",
         "players": {
           "WB5G3VLK60": {
@@ -45,7 +167,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 1
+        "rank": 3
       },
       {
         "name": "wardice",
@@ -90,7 +212,97 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 2
+        "rank": 4
+      },
+      {
+        "name": "Team Gru",
+        "players": {
+          "Ci8drOUGlg": {
+            "playerId": "Ci8drOUGlg",
+            "playerName": "Ruud Steenbakkers",
+            "scores": [
+              67.02
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 67.02,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              67.02
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 67.02,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "Ci8drOUGlg",
+            "playerName": "Ruud Steenbakkers",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "67.02",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 67.02,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "name": "hired guns",
+        "players": {
+          "WHTMXCTK8N": {
+            "playerId": "WHTMXCTK8N",
+            "playerName": "Max Jansen",
+            "scores": [
+              61.43
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 61.43,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              61.43
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 61.43,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "WHTMXCTK8N",
+            "playerName": "Max Jansen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "61.43",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 61.43,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 6
       },
       {
         "name": "Order of Ones",
@@ -135,7 +347,97 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 3
+        "rank": 7
+      },
+      {
+        "name": "Het Brabantsche Krijgsspellengilde",
+        "players": {
+          "uPfQJhyfTR": {
+            "playerId": "uPfQJhyfTR",
+            "playerName": "Arjan Van Rijzingen",
+            "scores": [
+              58.64
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 58.64,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              58.64
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 58.64,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "uPfQJhyfTR",
+            "playerName": "Arjan Van Rijzingen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "58.64",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 58.64,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "name": "Hive Novio",
+        "players": {
+          "NoszkIL0oj": {
+            "playerId": "NoszkIL0oj",
+            "playerName": "Rick Stallen",
+            "scores": [
+              53.05
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 53.05,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              53.05
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 53.05,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "NoszkIL0oj",
+            "playerName": "Rick Stallen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "53.05",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 53.05,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 9
       },
       {
         "name": "Lost legion wargaming",
@@ -180,7 +482,52 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 4
+        "rank": 10
+      },
+      {
+        "name": "Hammertime Oss",
+        "players": {
+          "2wi4mercIL": {
+            "playerId": "2wi4mercIL",
+            "playerName": "Bertjan Wanders",
+            "scores": [
+              41.88
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 41.88,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              41.88
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 41.88,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "2wi4mercIL",
+            "playerName": "Bertjan Wanders",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "41.88",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 41.88,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 11
       },
       {
         "name": "Gooi+",
@@ -225,52 +572,142 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 5
+        "rank": 12
       },
       {
-        "name": "Thomas' Angels",
+        "name": "Hammertime",
         "players": {
-          "aCgNrvM5ko": {
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
+          "HLJWUQLU50": {
+            "playerId": "HLJWUQLU50",
+            "playerName": "Niels Hamersma",
             "scores": [
-              4.22
+              19.55
             ],
             "topScoresWithEvents": [
               {
-                "score": 4.22,
-                "eventName": "The Wardice Wargames Alpha",
+                "score": 19.55,
+                "eventName": "[OE:S] Spring 2025",
                 "numberOfRounds": 3,
                 "inTop7": true,
                 "isGTEvent": false
               }
             ],
             "topScores": [
-              4.22
+              19.55
             ]
           }
         },
         "eventScores": [
           {
-            "score": 4.22,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
+            "score": 19.55,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "HLJWUQLU50",
+            "playerName": "Niels Hamersma",
             "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "4.22",
+        "totalScore": "19.55",
         "numEvents": 1,
         "topTeamScoresWithEvents": [
           {
-            "score": 4.22,
-            "eventName": "The Wardice Wargames Alpha",
+            "score": 19.55,
+            "eventName": "[OE:S] Spring 2025",
             "numberOfRounds": 3
           }
         ],
-        "rank": 6
+        "rank": 13
+      },
+      {
+        "name": "RSWL",
+        "players": {
+          "kztUuy5CB4": {
+            "playerId": "kztUuy5CB4",
+            "playerName": "Daniel Scott",
+            "scores": [
+              13.96
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 13.96,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              13.96
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 13.96,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "kztUuy5CB4",
+            "playerName": "Daniel Scott",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "13.96",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 13.96,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "name": "Calimero",
+        "players": {
+          "rzabCbO3PG": {
+            "playerId": "rzabCbO3PG",
+            "playerName": "Tim Simonis",
+            "scores": [
+              2.79
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 2.79,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              2.79
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 2.79,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "rzabCbO3PG",
+            "playerName": "Tim Simonis",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "2.79",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 2.79,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 15
       }
     ]
   },
