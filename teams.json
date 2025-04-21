@@ -3,6 +3,574 @@
     "season": "2025",
     "teamRanking": [
       {
+        "name": "Amsterdamned Wargaming",
+        "players": {
+          "SBFtCy8keB": {
+            "playerId": "SBFtCy8keB",
+            "playerName": "Chris Clayton",
+            "scores": [
+              135.1,
+              112.2
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 135.1,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 112.2,
+                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              135.1,
+              112.2
+            ]
+          },
+          "oAlaJi0kEF": {
+            "playerId": "oAlaJi0kEF",
+            "playerName": "Ruben Malschaert",
+            "scores": [
+              72.2
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 72.2,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              72.2
+            ]
+          },
+          "yNvCWMm1gz": {
+            "playerId": "yNvCWMm1gz",
+            "playerName": "Dick van der Harst",
+            "scores": [
+              56.32
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 56.32,
+                "eventName": "North Sea Slam RTT 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              56.32
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 135.1,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "SBFtCy8keB",
+            "playerName": "Chris Clayton",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 112.2,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "playerId": "SBFtCy8keB",
+            "playerName": "Chris Clayton",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 72.2,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "oAlaJi0kEF",
+            "playerName": "Ruben Malschaert",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 56.32,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "yNvCWMm1gz",
+            "playerName": "Dick van der Harst",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "375.82",
+        "numEvents": 4,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 135.1,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 112.2,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 72.2,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 56.32,
+            "eventName": "North Sea Slam RTT 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "name": "wardice",
+        "players": {
+          "4FUCUA3GN5": {
+            "playerId": "4FUCUA3GN5",
+            "playerName": "Rob Goossens",
+            "scores": [
+              91.8,
+              68.92
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 91.8,
+                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 68.92,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              91.8,
+              68.92
+            ]
+          },
+          "cN77fl1hWy": {
+            "playerId": "cN77fl1hWy",
+            "playerName": "Lenny Craft-it",
+            "scores": [
+              67.48
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 67.48,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              67.48
+            ]
+          },
+          "Nl9NLmfAa0": {
+            "playerId": "Nl9NLmfAa0",
+            "playerName": "Stefan Meertens",
+            "scores": [
+              126.87
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 126.87,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              126.87
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 126.87,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "Nl9NLmfAa0",
+            "playerName": "Stefan Meertens",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 91.8,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "playerId": "4FUCUA3GN5",
+            "playerName": "Rob Goossens",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 68.92,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "4FUCUA3GN5",
+            "playerName": "Rob Goossens",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 67.48,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "cN77fl1hWy",
+            "playerName": "Lenny Craft-it",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "355.07",
+        "numEvents": 4,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 126.87,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 91.8,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 68.92,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 67.48,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "name": "Thomas' Angels",
+        "players": {
+          "AJ0WH8N83Q": {
+            "playerId": "AJ0WH8N83Q",
+            "playerName": "Martijn Carol",
+            "scores": [
+              54.6
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 54.6,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              54.6
+            ]
+          },
+          "aCgNrvM5ko": {
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "scores": [
+              98.86,
+              4.22
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 98.86,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 4.22,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              98.86,
+              4.22
+            ]
+          },
+          "taF4FcGA4u": {
+            "playerId": "taF4FcGA4u",
+            "playerName": "Aron Prinsen",
+            "scores": [
+              64.09,
+              49.23
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 64.09,
+                "eventName": "North Sea Slam RTT 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 49.23,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              64.09,
+              49.23
+            ]
+          },
+          "rErhoVCPjJ": {
+            "playerId": "rErhoVCPjJ",
+            "playerName": "Stefan Martens",
+            "scores": [
+              69.81
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.81,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.81
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 98.86,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 69.81,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "rErhoVCPjJ",
+            "playerName": "Stefan Martens",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 64.09,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "taF4FcGA4u",
+            "playerName": "Aron Prinsen",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 54.6,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "AJ0WH8N83Q",
+            "playerName": "Martijn Carol",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 49.23,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "taF4FcGA4u",
+            "playerName": "Aron Prinsen",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "340.81",
+        "numEvents": 6,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 98.86,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 69.81,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 64.09,
+            "eventName": "North Sea Slam RTT 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 54.6,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 49.23,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "name": "LMG",
+        "players": {
+          "N5EBDV4EXR": {
+            "playerId": "N5EBDV4EXR",
+            "playerName": "Matthijs Kuiper",
+            "scores": [
+              69.3
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.3,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.3
+            ]
+          },
+          "11UVudMFZ4": {
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "scores": [
+              121.92,
+              70.91,
+              65.64
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 121.92,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 70.91,
+                "eventName": "Legends of the North V10",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 65.64,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              121.92,
+              70.91,
+              65.64
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 121.92,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 70.91,
+            "eventName": "Legends of the North V10",
+            "eventId": "E3chcfMTSRt3",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.3,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "N5EBDV4EXR",
+            "playerName": "Matthijs Kuiper",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "327.77",
+        "numEvents": 4,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 121.92,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 70.91,
+            "eventName": "Legends of the North V10",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.3,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 4
+      },
+      {
         "name": "The Order",
         "players": {
           "j8WphFYeF8": {
@@ -109,48 +677,75 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 1
+        "rank": 5
       },
       {
-        "name": "Amsterdamned Wargaming",
+        "name": "Gooi+",
         "players": {
-          "SBFtCy8keB": {
-            "playerId": "SBFtCy8keB",
-            "playerName": "Chris Clayton",
+          "ZRyVn8v3qG": {
+            "playerId": "ZRyVn8v3qG",
+            "playerName": "Kjell Lutz",
             "scores": [
-              135.1,
-              112.2
+              102,
+              36.1
             ],
             "topScoresWithEvents": [
               {
-                "score": 135.1,
+                "score": 102,
+                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 36.1,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              102,
+              36.1
+            ]
+          },
+          "9YDM6RMUGT": {
+            "playerId": "9YDM6RMUGT",
+            "playerName": "Nic van ‘t Schip",
+            "scores": [
+              29.52
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 29.52,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              29.52
+            ]
+          },
+          "F8AHw2ib7x": {
+            "playerId": "F8AHw2ib7x",
+            "playerName": "Alex Werner-Oosterhout",
+            "scores": [
+              70.85,
+              60.21
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 70.85,
                 "eventName": "The Gauntlet: Phoenix 40K GT",
                 "numberOfRounds": 6,
                 "inTop7": true,
                 "isGTEvent": true
               },
               {
-                "score": 112.2,
-                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              135.1,
-              112.2
-            ]
-          },
-          "yNvCWMm1gz": {
-            "playerId": "yNvCWMm1gz",
-            "playerName": "Dick van der Harst",
-            "scores": [
-              56.32
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 56.32,
+                "score": 60.21,
                 "eventName": "North Sea Slam RTT 2025",
                 "numberOfRounds": 3,
                 "inTop7": true,
@@ -158,57 +753,84 @@
               }
             ],
             "topScores": [
-              56.32
+              70.85,
+              60.21
             ]
           }
         },
         "eventScores": [
           {
-            "score": 135.1,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "SBFtCy8keB",
-            "playerName": "Chris Clayton",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 112.2,
+            "score": 102,
             "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
             "eventId": "1SvECjIJFzLb",
-            "playerId": "SBFtCy8keB",
-            "playerName": "Chris Clayton",
+            "playerId": "ZRyVn8v3qG",
+            "playerName": "Kjell Lutz",
             "numberOfRounds": 5
           },
           {
-            "score": 56.32,
+            "score": 70.85,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "F8AHw2ib7x",
+            "playerName": "Alex Werner-Oosterhout",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 60.21,
             "eventName": "North Sea Slam RTT 2025",
             "eventId": "ydNZzdeWjzNV",
-            "playerId": "yNvCWMm1gz",
-            "playerName": "Dick van der Harst",
+            "playerId": "F8AHw2ib7x",
+            "playerName": "Alex Werner-Oosterhout",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 36.1,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "ZRyVn8v3qG",
+            "playerName": "Kjell Lutz",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 29.52,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "9YDM6RMUGT",
+            "playerName": "Nic van ‘t Schip",
             "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "303.62",
-        "numEvents": 3,
+        "totalScore": "298.68",
+        "numEvents": 5,
         "topTeamScoresWithEvents": [
           {
-            "score": 135.1,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 112.2,
+            "score": 102,
             "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
             "numberOfRounds": 5
           },
           {
-            "score": 56.32,
+            "score": 70.85,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 60.21,
             "eventName": "North Sea Slam RTT 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 36.1,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 29.52,
+            "eventName": "The Wardice Wargames Alpha",
             "numberOfRounds": 3
           }
         ],
-        "rank": 2
+        "rank": 6
       },
       {
         "name": "Mannen van het wapen",
@@ -307,202 +929,57 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 3
+        "rank": 7
       },
       {
-        "name": "Thomas' Angels",
+        "name": "Lost legion wargaming",
         "players": {
-          "AJ0WH8N83Q": {
-            "playerId": "AJ0WH8N83Q",
-            "playerName": "Martijn Carol",
+          "1G90AYL6C0": {
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
             "scores": [
-              54.6
+              92.27,
+              76.5,
+              62.35
             ],
             "topScoresWithEvents": [
               {
-                "score": 54.6,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              54.6
-            ]
-          },
-          "aCgNrvM5ko": {
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
-            "scores": [
-              98.86,
-              4.22
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 98.86,
+                "score": 92.27,
                 "eventName": "The Gauntlet: Phoenix 40K GT",
                 "numberOfRounds": 6,
                 "inTop7": true,
                 "isGTEvent": true
               },
               {
-                "score": 4.22,
-                "eventName": "The Wardice Wargames Alpha",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              98.86,
-              4.22
-            ]
-          },
-          "rErhoVCPjJ": {
-            "playerId": "rErhoVCPjJ",
-            "playerName": "Stefan Martens",
-            "scores": [
-              69.81
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.81,
-                "eventName": "[OE:S] Spring 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.81
-            ]
-          },
-          "taF4FcGA4u": {
-            "playerId": "taF4FcGA4u",
-            "playerName": "Aron Prinsen",
-            "scores": [
-              64.09
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 64.09,
-                "eventName": "North Sea Slam RTT 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              64.09
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 98.86,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 69.81,
-            "eventName": "[OE:S] Spring 2025",
-            "eventId": "rd3c96pCs2OB",
-            "playerId": "rErhoVCPjJ",
-            "playerName": "Stefan Martens",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 64.09,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "taF4FcGA4u",
-            "playerName": "Aron Prinsen",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 54.6,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "AJ0WH8N83Q",
-            "playerName": "Martijn Carol",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 4.22,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "291.58",
-        "numEvents": 5,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 98.86,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 69.81,
-            "eventName": "[OE:S] Spring 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 64.09,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 54.6,
-            "eventName": "KvG - Eierbal Cup",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 4.22,
-            "eventName": "The Wardice Wargames Alpha",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 4
-      },
-      {
-        "name": "wardice",
-        "players": {
-          "4FUCUA3GN5": {
-            "playerId": "4FUCUA3GN5",
-            "playerName": "Rob Goossens",
-            "scores": [
-              91.8
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 91.8,
+                "score": 76.5,
                 "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
                 "numberOfRounds": 5,
                 "inTop7": true,
                 "isGTEvent": true
+              },
+              {
+                "score": 62.35,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
               }
             ],
             "topScores": [
-              91.8
+              92.27,
+              76.5,
+              62.35
             ]
           },
-          "cN77fl1hWy": {
-            "playerId": "cN77fl1hWy",
-            "playerName": "Lenny Craft-it",
+          "DKVE6UYJPR": {
+            "playerId": "DKVE6UYJPR",
+            "playerName": "Xandor Tollenaar",
             "scores": [
-              67.48
+              42.18
             ],
             "topScoresWithEvents": [
               {
-                "score": 67.48,
+                "score": 42.18,
                 "eventName": "The Wardice Wargames Alpha",
                 "numberOfRounds": 3,
                 "inTop7": true,
@@ -510,76 +987,70 @@
               }
             ],
             "topScores": [
-              67.48
-            ]
-          },
-          "Nl9NLmfAa0": {
-            "playerId": "Nl9NLmfAa0",
-            "playerName": "Stefan Meertens",
-            "scores": [
-              126.87
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 126.87,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              126.87
+              42.18
             ]
           }
         },
         "eventScores": [
           {
-            "score": 126.87,
+            "score": 92.27,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
-            "playerId": "Nl9NLmfAa0",
-            "playerName": "Stefan Meertens",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
             "numberOfRounds": 6
           },
           {
-            "score": 91.8,
+            "score": 76.5,
             "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
             "eventId": "1SvECjIJFzLb",
-            "playerId": "4FUCUA3GN5",
-            "playerName": "Rob Goossens",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
             "numberOfRounds": 5
           },
           {
-            "score": 67.48,
+            "score": 62.35,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 42.18,
             "eventName": "The Wardice Wargames Alpha",
             "eventId": "A4KFMVW5DB",
-            "playerId": "cN77fl1hWy",
-            "playerName": "Lenny Craft-it",
+            "playerId": "DKVE6UYJPR",
+            "playerName": "Xandor Tollenaar",
             "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "286.15",
-        "numEvents": 3,
+        "totalScore": "273.30",
+        "numEvents": 4,
         "topTeamScoresWithEvents": [
           {
-            "score": 126.87,
+            "score": 92.27,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "numberOfRounds": 6
           },
           {
-            "score": 91.8,
+            "score": 76.5,
             "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
             "numberOfRounds": 5
           },
           {
-            "score": 67.48,
+            "score": 62.35,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 42.18,
             "eventName": "The Wardice Wargames Alpha",
             "numberOfRounds": 3
           }
         ],
-        "rank": 5
+        "rank": 8
       },
       {
         "name": "Koningen van Groningen",
@@ -678,39 +1149,20 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 6
+        "rank": 9
       },
       {
-        "name": "Gooi+",
+        "name": "Tafelridder",
         "players": {
-          "ZRyVn8v3qG": {
-            "playerId": "ZRyVn8v3qG",
-            "playerName": "Kjell Lutz",
+          "WB5G3VLK60": {
+            "playerId": "WB5G3VLK60",
+            "playerName": "Willem Nijgh",
             "scores": [
-              102
+              71.7
             ],
             "topScoresWithEvents": [
               {
-                "score": 102,
-                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              102
-            ]
-          },
-          "9YDM6RMUGT": {
-            "playerId": "9YDM6RMUGT",
-            "playerName": "Nic van ‘t Schip",
-            "scores": [
-              29.52
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 29.52,
+                "score": 71.7,
                 "eventName": "The Wardice Wargames Alpha",
                 "numberOfRounds": 3,
                 "inTop7": true,
@@ -718,26 +1170,46 @@
               }
             ],
             "topScores": [
-              29.52
+              71.7
             ]
           },
-          "F8AHw2ib7x": {
-            "playerId": "F8AHw2ib7x",
-            "playerName": "Alex Werner-Oosterhout",
+          "5U542FLB8K": {
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
             "scores": [
-              70.85,
-              60.21
+              88.97,
+              59.07
             ],
             "topScoresWithEvents": [
               {
-                "score": 70.85,
+                "score": 88.97,
                 "eventName": "The Gauntlet: Phoenix 40K GT",
                 "numberOfRounds": 6,
                 "inTop7": true,
                 "isGTEvent": true
               },
               {
-                "score": 60.21,
+                "score": 59.07,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              88.97,
+              59.07
+            ]
+          },
+          "L5TB41nv3i": {
+            "playerId": "L5TB41nv3i",
+            "playerName": "Richard van Straten",
+            "scores": [
+              36.9
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 36.9,
                 "eventName": "North Sea Slam RTT 2025",
                 "numberOfRounds": 3,
                 "inTop7": true,
@@ -745,170 +1217,70 @@
               }
             ],
             "topScores": [
-              70.85,
-              60.21
+              36.9
             ]
           }
         },
         "eventScores": [
           {
-            "score": 102,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "playerId": "ZRyVn8v3qG",
-            "playerName": "Kjell Lutz",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 70.85,
+            "score": 88.97,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
-            "playerId": "F8AHw2ib7x",
-            "playerName": "Alex Werner-Oosterhout",
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
             "numberOfRounds": 6
           },
           {
-            "score": 60.21,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "F8AHw2ib7x",
-            "playerName": "Alex Werner-Oosterhout",
+            "score": 71.7,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "WB5G3VLK60",
+            "playerName": "Willem Nijgh",
             "numberOfRounds": 3
           },
           {
-            "score": 29.52,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "9YDM6RMUGT",
-            "playerName": "Nic van ‘t Schip",
+            "score": 59.07,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 36.9,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "L5TB41nv3i",
+            "playerName": "Richard van Straten",
             "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "262.58",
+        "totalScore": "256.64",
         "numEvents": 4,
         "topTeamScoresWithEvents": [
           {
-            "score": 102,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 70.85,
+            "score": 88.97,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "numberOfRounds": 6
           },
           {
-            "score": 60.21,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 29.52,
+            "score": 71.7,
             "eventName": "The Wardice Wargames Alpha",
             "numberOfRounds": 3
-          }
-        ],
-        "rank": 7
-      },
-      {
-        "name": "LMG",
-        "players": {
-          "N5EBDV4EXR": {
-            "playerId": "N5EBDV4EXR",
-            "playerName": "Matthijs Kuiper",
-            "scores": [
-              69.3
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.3,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.3
-            ]
-          },
-          "11UVudMFZ4": {
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "scores": [
-              121.92,
-              70.91
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 121.92,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 70.91,
-                "eventName": "Legends of the North V10",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              121.92,
-              70.91
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 121.92,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 6
           },
           {
-            "score": 70.91,
-            "eventName": "Legends of the North V10",
-            "eventId": "E3chcfMTSRt3",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
+            "score": 59.07,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
             "numberOfRounds": 3
           },
           {
-            "score": 69.3,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "N5EBDV4EXR",
-            "playerName": "Matthijs Kuiper",
+            "score": 36.9,
+            "eventName": "North Sea Slam RTT 2025",
             "numberOfRounds": 3
           }
         ],
-        "teamEventPlayers": {},
-        "totalScore": "262.13",
-        "numEvents": 3,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 121.92,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 70.91,
-            "eventName": "Legends of the North V10",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.3,
-            "eventName": "KvG - Eierbal Cup",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 8
+        "rank": 10
       },
       {
         "name": "hired guns",
@@ -1007,106 +1379,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 9
-      },
-      {
-        "name": "Lost legion wargaming",
-        "players": {
-          "1G90AYL6C0": {
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
-            "scores": [
-              92.27,
-              76.5
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 92.27,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 76.5,
-                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              92.27,
-              76.5
-            ]
-          },
-          "DKVE6UYJPR": {
-            "playerId": "DKVE6UYJPR",
-            "playerName": "Xandor Tollenaar",
-            "scores": [
-              42.18
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 42.18,
-                "eventName": "The Wardice Wargames Alpha",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              42.18
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 92.27,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 76.5,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 42.18,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "DKVE6UYJPR",
-            "playerName": "Xandor Tollenaar",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "210.95",
-        "numEvents": 3,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 92.27,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 76.5,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 42.18,
-            "eventName": "The Wardice Wargames Alpha",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 10
+        "rank": 11
       },
       {
         "name": "Het Brabantsche Krijgsspellengilde",
@@ -1205,7 +1478,7 @@
             "numberOfRounds": 5
           }
         ],
-        "rank": 11
+        "rank": 12
       },
       {
         "name": "Warzone Presikhaaf",
@@ -1300,115 +1573,6 @@
           },
           {
             "score": 1.94,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 12
-      },
-      {
-        "name": "Tafelridder",
-        "players": {
-          "WB5G3VLK60": {
-            "playerId": "WB5G3VLK60",
-            "playerName": "Willem Nijgh",
-            "scores": [
-              71.7
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 71.7,
-                "eventName": "The Wardice Wargames Alpha",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              71.7
-            ]
-          },
-          "5U542FLB8K": {
-            "playerId": "5U542FLB8K",
-            "playerName": "justin budding",
-            "scores": [
-              88.97
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 88.97,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              88.97
-            ]
-          },
-          "L5TB41nv3i": {
-            "playerId": "L5TB41nv3i",
-            "playerName": "Richard van Straten",
-            "scores": [
-              36.9
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 36.9,
-                "eventName": "North Sea Slam RTT 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              36.9
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 88.97,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "5U542FLB8K",
-            "playerName": "justin budding",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 71.7,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "WB5G3VLK60",
-            "playerName": "Willem Nijgh",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 36.9,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "L5TB41nv3i",
-            "playerName": "Richard van Straten",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "197.57",
-        "numEvents": 3,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 88.97,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 71.7,
-            "eventName": "The Wardice Wargames Alpha",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 36.9,
             "eventName": "North Sea Slam RTT 2025",
             "numberOfRounds": 3
           }
@@ -1704,6 +1868,140 @@
         "rank": 17
       },
       {
+        "name": "U.S. Army Esports",
+        "players": {
+          "vAZ2RllJSj": {
+            "playerId": "vAZ2RllJSj",
+            "playerName": "Joshua Conant",
+            "scores": [
+              75.79,
+              52.51
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 75.79,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 52.51,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              75.79,
+              52.51
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 75.79,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "vAZ2RllJSj",
+            "playerName": "Joshua Conant",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 52.51,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "vAZ2RllJSj",
+            "playerName": "Joshua Conant",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "128.30",
+        "numEvents": 2,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 75.79,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 52.51,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "name": "Rose Valley Reapers",
+        "players": {
+          "TlATr9MSrX": {
+            "playerId": "TlATr9MSrX",
+            "playerName": "Pieter Meijer",
+            "scores": [
+              85.68,
+              26.25
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 85.68,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 26.25,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              85.68,
+              26.25
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 85.68,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "TlATr9MSrX",
+            "playerName": "Pieter Meijer",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 26.25,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "TlATr9MSrX",
+            "playerName": "Pieter Meijer",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "111.93",
+        "numEvents": 2,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 85.68,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 26.25,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 19
+      },
+      {
         "name": "Order of Ones",
         "players": {
           "sxb9mXkYHY": {
@@ -1778,7 +2076,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 18
+        "rank": 20
       },
       {
         "name": "De Tafelridder",
@@ -1823,7 +2121,7 @@
             "numberOfRounds": 6
           }
         ],
-        "rank": 19
+        "rank": 21
       },
       {
         "name": "Lost Legion Amersfoort",
@@ -1868,97 +2166,96 @@
             "numberOfRounds": 6
           }
         ],
-        "rank": 20
-      },
-      {
-        "name": "Rose Valley Reapers",
-        "players": {
-          "TlATr9MSrX": {
-            "playerId": "TlATr9MSrX",
-            "playerName": "Pieter Meijer",
-            "scores": [
-              85.68
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 85.68,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              85.68
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 85.68,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "TlATr9MSrX",
-            "playerName": "Pieter Meijer",
-            "numberOfRounds": 6
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "85.68",
-        "numEvents": 1,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 85.68,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          }
-        ],
-        "rank": 21
-      },
-      {
-        "name": "U.S. Army Esports",
-        "players": {
-          "vAZ2RllJSj": {
-            "playerId": "vAZ2RllJSj",
-            "playerName": "Joshua Conant",
-            "scores": [
-              75.79
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 75.79,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              75.79
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 75.79,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "vAZ2RllJSj",
-            "playerName": "Joshua Conant",
-            "numberOfRounds": 6
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "75.79",
-        "numEvents": 1,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 75.79,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          }
-        ],
         "rank": 22
+      },
+      {
+        "name": "Warriors Del Barrio",
+        "players": {
+          "L9z1rjeeaY": {
+            "playerId": "L9z1rjeeaY",
+            "playerName": "Van Farnacles Serrano",
+            "scores": [
+              29.4,
+              25.16,
+              19.69
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 29.4,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 25.16,
+                "eventName": "Legends of the North V10",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 19.69,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              29.4,
+              25.16,
+              19.69
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 29.4,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "L9z1rjeeaY",
+            "playerName": "Van Farnacles Serrano",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 25.16,
+            "eventName": "Legends of the North V10",
+            "eventId": "E3chcfMTSRt3",
+            "playerId": "L9z1rjeeaY",
+            "playerName": "Van Farnacles Serrano",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 19.69,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "L9z1rjeeaY",
+            "playerName": "Van Farnacles .",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "74.25",
+        "numEvents": 3,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 29.4,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 25.16,
+            "eventName": "Legends of the North V10",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 19.69,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 23
       },
       {
         "name": "Hiredguns",
@@ -2003,7 +2300,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 23
+        "rank": 24
       },
       {
         "name": "Valhalla games club",
@@ -2066,73 +2363,6 @@
           },
           {
             "score": 32.02,
-            "eventName": "Legends of the North V10",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 24
-      },
-      {
-        "name": "Warriors Del Barrio",
-        "players": {
-          "L9z1rjeeaY": {
-            "playerId": "L9z1rjeeaY",
-            "playerName": "Van Farnacles Serrano",
-            "scores": [
-              29.4,
-              25.16
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 29.4,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 25.16,
-                "eventName": "Legends of the North V10",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              29.4,
-              25.16
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 29.4,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "L9z1rjeeaY",
-            "playerName": "Van Farnacles Serrano",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 25.16,
-            "eventName": "Legends of the North V10",
-            "eventId": "E3chcfMTSRt3",
-            "playerId": "L9z1rjeeaY",
-            "playerName": "Van Farnacles Serrano",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "54.56",
-        "numEvents": 2,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 29.4,
-            "eventName": "KvG - Eierbal Cup",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 25.16,
             "eventName": "Legends of the North V10",
             "numberOfRounds": 3
           }
@@ -2385,6 +2615,25 @@
             "topScores": [
               25.5
             ]
+          },
+          "130175QC7A": {
+            "playerId": "130175QC7A",
+            "playerName": "Marco De Wit",
+            "scores": [
+              3.28
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 3.28,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              3.28
+            ]
           }
         },
         "eventScores": [
@@ -2395,16 +2644,29 @@
             "playerId": "XN2D2WBTH9",
             "playerName": "Tim Lamb",
             "numberOfRounds": 5
+          },
+          {
+            "score": 3.28,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "130175QC7A",
+            "playerName": "Marco De Wit",
+            "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "25.50",
-        "numEvents": 1,
+        "totalScore": "28.78",
+        "numEvents": 2,
         "topTeamScoresWithEvents": [
           {
             "score": 25.5,
             "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
             "numberOfRounds": 5
+          },
+          {
+            "score": 3.28,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
           }
         ],
         "rank": 31
