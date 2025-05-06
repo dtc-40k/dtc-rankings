@@ -37,7 +37,8 @@
             "playerId": "oAlaJi0kEF",
             "playerName": "Ruben Malschaert",
             "scores": [
-              72.2
+              72.2,
+              71.9
             ],
             "topScoresWithEvents": [
               {
@@ -46,10 +47,18 @@
                 "numberOfRounds": 3,
                 "inTop7": true,
                 "isGTEvent": false
+              },
+              {
+                "score": 71.9,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
               }
             ],
             "topScores": [
-              72.2
+              72.2,
+              71.9
             ]
           },
           "yNvCWMm1gz": {
@@ -98,6 +107,14 @@
             "numberOfRounds": 3
           },
           {
+            "score": 71.9,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "oAlaJi0kEF",
+            "playerName": "Ruben Malschaert",
+            "numberOfRounds": 3
+          },
+          {
             "score": 56.32,
             "eventName": "North Sea Slam RTT 2025",
             "eventId": "ydNZzdeWjzNV",
@@ -107,8 +124,8 @@
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "375.82",
-        "numEvents": 4,
+        "totalScore": "447.72",
+        "numEvents": 5,
         "topTeamScoresWithEvents": [
           {
             "score": 135.1,
@@ -123,6 +140,11 @@
           {
             "score": 72.2,
             "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 71.9,
+            "eventName": "The Wardice Wargames Beta",
             "numberOfRounds": 3
           },
           {
@@ -183,6 +205,25 @@
               67.48
             ]
           },
+          "cLWiXebqAH": {
+            "playerId": "cLWiXebqAH",
+            "playerName": "Felix Brenninkmeijer",
+            "scores": [
+              68.12
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 68.12,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              68.12
+            ]
+          },
           "Nl9NLmfAa0": {
             "playerId": "Nl9NLmfAa0",
             "playerName": "Stefan Meertens",
@@ -229,6 +270,14 @@
             "numberOfRounds": 3
           },
           {
+            "score": 68.12,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "cLWiXebqAH",
+            "playerName": "Felix Brenninkmeijer",
+            "numberOfRounds": 3
+          },
+          {
             "score": 67.48,
             "eventName": "The Wardice Wargames Alpha",
             "eventId": "A4KFMVW5DB",
@@ -238,8 +287,8 @@
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "355.07",
-        "numEvents": 4,
+        "totalScore": "423.19",
+        "numEvents": 5,
         "topTeamScoresWithEvents": [
           {
             "score": 126.87,
@@ -257,12 +306,170 @@
             "numberOfRounds": 3
           },
           {
+            "score": 68.12,
+            "eventName": "The Wardice Wargames Beta",
+            "numberOfRounds": 3
+          },
+          {
             "score": 67.48,
             "eventName": "The Wardice Wargames Alpha",
             "numberOfRounds": 3
           }
         ],
         "rank": 2
+      },
+      {
+        "name": "LMG",
+        "players": {
+          "N5EBDV4EXR": {
+            "playerId": "N5EBDV4EXR",
+            "playerName": "Matthijs Kuiper",
+            "scores": [
+              69.3
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.3,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.3
+            ]
+          },
+          "11UVudMFZ4": {
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "scores": [
+              121.92,
+              70.91,
+              65.64
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 121.92,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 70.91,
+                "eventName": "Legends of the North V10",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 65.64,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              121.92,
+              70.91,
+              65.64
+            ]
+          },
+          "FaF3dECqaz": {
+            "playerId": "FaF3dECqaz",
+            "playerName": "Lennaert Tjallingii",
+            "scores": [
+              41.63
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 41.63,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              41.63
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 121.92,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 70.91,
+            "eventName": "Legends of the North V10",
+            "eventId": "E3chcfMTSRt3",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.3,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "N5EBDV4EXR",
+            "playerName": "Matthijs Kuiper",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 41.63,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "FaF3dECqaz",
+            "playerName": "Lennaert Tjallingii",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "369.40",
+        "numEvents": 5,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 121.92,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 70.91,
+            "eventName": "Legends of the North V10",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.3,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 41.63,
+            "eventName": "The Wardice Wargames Beta",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 3
       },
       {
         "name": "Thomas' Angels",
@@ -444,127 +651,6 @@
           {
             "score": 4.22,
             "eventName": "The Wardice Wargames Alpha",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 3
-      },
-      {
-        "name": "LMG",
-        "players": {
-          "N5EBDV4EXR": {
-            "playerId": "N5EBDV4EXR",
-            "playerName": "Matthijs Kuiper",
-            "scores": [
-              69.3
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.3,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.3
-            ]
-          },
-          "11UVudMFZ4": {
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "scores": [
-              121.92,
-              70.91,
-              65.64
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 121.92,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 70.91,
-                "eventName": "Legends of the North V10",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 65.64,
-                "eventName": "DTC40K EASTER TRAININGCAGES",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              121.92,
-              70.91,
-              65.64
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 121.92,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 70.91,
-            "eventName": "Legends of the North V10",
-            "eventId": "E3chcfMTSRt3",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.3,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "N5EBDV4EXR",
-            "playerName": "Matthijs Kuiper",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 65.64,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "327.77",
-        "numEvents": 4,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 121.92,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 70.91,
-            "eventName": "Legends of the North V10",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.3,
-            "eventName": "KvG - Eierbal Cup",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 65.64,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
             "numberOfRounds": 3
           }
         ],
@@ -1801,6 +1887,83 @@
         "rank": 16
       },
       {
+        "name": "De Tafelridder",
+        "players": {
+          "5U542FLB8K": {
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
+            "scores": [
+              49.19
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 49.19,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              49.19
+            ]
+          },
+          "X3XDkB0qni": {
+            "playerId": "X3XDkB0qni",
+            "playerName": "Stefan Hal",
+            "scores": [
+              102.15
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 102.15,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              102.15
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 102.15,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "X3XDkB0qni",
+            "playerName": "Stefan Hal",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 49.19,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "151.34",
+        "numEvents": 2,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 102.15,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 49.19,
+            "eventName": "The Wardice Wargames Beta",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 17
+      },
+      {
         "name": "Team Gru",
         "players": {
           "Ci8drOUGlg": {
@@ -1865,7 +2028,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 17
+        "rank": 18
       },
       {
         "name": "U.S. Army Esports",
@@ -1932,7 +2095,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 18
+        "rank": 19
       },
       {
         "name": "Rose Valley Reapers",
@@ -1999,7 +2162,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 19
+        "rank": 20
       },
       {
         "name": "Order of Ones",
@@ -2074,51 +2237,6 @@
             "score": 46.61,
             "eventName": "North Sea Slam RTT 2025",
             "numberOfRounds": 3
-          }
-        ],
-        "rank": 20
-      },
-      {
-        "name": "De Tafelridder",
-        "players": {
-          "X3XDkB0qni": {
-            "playerId": "X3XDkB0qni",
-            "playerName": "Stefan Hal",
-            "scores": [
-              102.15
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 102.15,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              102.15
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 102.15,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "X3XDkB0qni",
-            "playerName": "Stefan Hal",
-            "numberOfRounds": 6
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "102.15",
-        "numEvents": 1,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 102.15,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
           }
         ],
         "rank": 21
@@ -2370,6 +2488,51 @@
         "rank": 25
       },
       {
+        "name": "Amsterdam Battle Brothers",
+        "players": {
+          "6pD99rXvA3": {
+            "playerId": "6pD99rXvA3",
+            "playerName": "Dino Kho",
+            "scores": [
+              64.33
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 64.33,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              64.33
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 64.33,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "6pD99rXvA3",
+            "playerName": "Dino Kho",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "64.33",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 64.33,
+            "eventName": "The Wardice Wargames Beta",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 26
+      },
+      {
         "name": "Hammertime Oss",
         "players": {
           "2wi4mercIL": {
@@ -2412,7 +2575,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 26
+        "rank": 27
       },
       {
         "name": "Whorehammer Heresy",
@@ -2457,7 +2620,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 27
+        "rank": 28
       },
       {
         "name": "Sjaak's Army",
@@ -2502,7 +2665,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 28
+        "rank": 29
       },
       {
         "name": "Order of the Dice/Ex Orientis",
@@ -2547,7 +2710,7 @@
             "numberOfRounds": 6
           }
         ],
-        "rank": 29
+        "rank": 30
       },
       {
         "name": "Sector 070",
@@ -2592,7 +2755,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 30
+        "rank": 31
       },
       {
         "name": "Friday Knights",
@@ -2669,7 +2832,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 31
+        "rank": 32
       },
       {
         "name": "Hammertime",
@@ -2714,7 +2877,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 32
+        "rank": 33
       },
       {
         "name": "RSWL",
@@ -2759,7 +2922,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 33
+        "rank": 34
       },
       {
         "name": "Submariners!",
@@ -2804,7 +2967,7 @@
             "numberOfRounds": 6
           }
         ],
-        "rank": 34
+        "rank": 35
       },
       {
         "name": "Calimero",
@@ -2849,7 +3012,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 35
+        "rank": 36
       }
     ]
   },
