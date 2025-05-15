@@ -5,7 +5,7 @@
       {
         "userId": "11UVudMFZ4",
         "name": "Laurens Tjallingii",
-        "numEvents": 4,
+        "numEvents": 5,
         "armies": [
           {
             "name": "Death Guard",
@@ -34,9 +34,15 @@
           },
           {
             "name": "Deathwatch",
-            "count": 1,
-            "score": 65.64,
+            "count": 2,
+            "score": 137.84,
             "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.20"
+              },
               {
                 "name": "DTC40K EASTER TRAININGCAGES",
                 "eventId": "GsgybeLXuJ8T",
@@ -49,7 +55,7 @@
         "teams": [
           {
             "name": "LMG",
-            "count": 4
+            "count": 5
           }
         ],
         "events": [
@@ -62,6 +68,19 @@
             "userId": "11UVudMFZ4",
             "rank": 11,
             "army": "Death Guard",
+            "team": "LMG",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.20",
+            "eventHobbyScore": "0.00",
+            "userId": "11UVudMFZ4",
+            "rank": 1,
+            "army": "Deathwatch",
             "team": "LMG",
             "usedForRankings": true,
             "usedForHobbyRankings": true
@@ -106,12 +125,227 @@
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 11,
-        "totalRank": 25,
-        "averageRank": "6.3",
-        "dtcScore": "315.17",
+        "numWins": 14,
+        "totalRank": 26,
+        "averageRank": "5.2",
+        "dtcScore": "387.37",
         "hobbyScore": "0.00",
         "rank": 1
+      },
+      {
+        "userId": "SBFtCy8keB",
+        "name": "Chris Clayton",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Chaos Knights",
+            "count": 2,
+            "score": 247.3,
+            "events": [
+              {
+                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "eventId": "1SvECjIJFzLb",
+                "numberOfRounds": 5,
+                "eventDtcScore": "112.20"
+              },
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "135.10"
+              }
+            ]
+          },
+          {
+            "name": "Chaos Daemons",
+            "count": 1,
+            "score": 68.92,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.92"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdamned Wargaming",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "135.10",
+            "eventHobbyScore": "0.00",
+            "userId": "SBFtCy8keB",
+            "rank": 3,
+            "army": "Chaos Knights",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "numberOfRounds": 5,
+            "eventDtcScore": "112.20",
+            "eventHobbyScore": "0.00",
+            "userId": "SBFtCy8keB",
+            "rank": 1,
+            "army": "Chaos Knights",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.92",
+            "eventHobbyScore": "0.00",
+            "userId": "SBFtCy8keB",
+            "rank": 2,
+            "army": "Chaos Daemons",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 13,
+        "totalRank": 6,
+        "averageRank": "2.0",
+        "dtcScore": "316.22",
+        "hobbyScore": "0.00",
+        "rank": 2
+      },
+      {
+        "userId": "1G90AYL6C0",
+        "name": "Sjoerd Reiche",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 5,
+            "score": 312.22,
+            "events": [
+              {
+                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "eventId": "1SvECjIJFzLb",
+                "numberOfRounds": 5,
+                "eventDtcScore": "76.50"
+              },
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.31"
+              },
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.79"
+              },
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "62.35"
+              },
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "92.27"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Lost legion wargaming",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "92.27",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 29,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "numberOfRounds": 5,
+            "eventDtcScore": "76.50",
+            "eventHobbyScore": "3.00",
+            "userId": "1G90AYL6C0",
+            "rank": 8,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.35",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 4,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "55.79",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 6,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "numberOfRounds": 3,
+            "eventDtcScore": "25.31",
+            "eventHobbyScore": "1.00",
+            "userId": "1G90AYL6C0",
+            "rank": 12,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 11,
+        "totalRank": 59,
+        "averageRank": "11.8",
+        "dtcScore": "312.22",
+        "hobbyScore": "4.00",
+        "rank": 3
       },
       {
         "userId": "4FUCUA3GN5",
@@ -222,7 +456,7 @@
         "averageRank": "11.5",
         "dtcScore": "301.51",
         "hobbyScore": "1.00",
-        "rank": 2
+        "rank": 4
       },
       {
         "userId": "doASAKgaUX",
@@ -307,7 +541,7 @@
         "averageRank": "7.0",
         "dtcScore": "279.97",
         "hobbyScore": "0.00",
-        "rank": 3
+        "rank": 5
       },
       {
         "userId": "FaF3dECqaz",
@@ -430,111 +664,7 @@
         "averageRank": "16.8",
         "dtcScore": "257.88",
         "hobbyScore": "0.00",
-        "rank": 4
-      },
-      {
-        "userId": "1G90AYL6C0",
-        "name": "Sjoerd Reiche",
-        "numEvents": 4,
-        "armies": [
-          {
-            "name": "Dark Angels",
-            "count": 4,
-            "score": 256.43,
-            "events": [
-              {
-                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "eventId": "1SvECjIJFzLb",
-                "numberOfRounds": 5,
-                "eventDtcScore": "76.50"
-              },
-              {
-                "name": "The Wardice Wargames Alpha",
-                "eventId": "A4KFMVW5DB",
-                "numberOfRounds": 3,
-                "eventDtcScore": "25.31"
-              },
-              {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
-                "numberOfRounds": 3,
-                "eventDtcScore": "62.35"
-              },
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "92.27"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Lost legion wargaming",
-            "count": 4
-          }
-        ],
-        "events": [
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "92.27",
-            "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
-            "rank": 29,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "numberOfRounds": 5,
-            "eventDtcScore": "76.50",
-            "eventHobbyScore": "3.00",
-            "userId": "1G90AYL6C0",
-            "rank": 8,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "numberOfRounds": 3,
-            "eventDtcScore": "62.35",
-            "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
-            "rank": 4,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "numberOfRounds": 3,
-            "eventDtcScore": "25.31",
-            "eventHobbyScore": "1.00",
-            "userId": "1G90AYL6C0",
-            "rank": 12,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 9,
-        "totalRank": 53,
-        "averageRank": "13.3",
-        "dtcScore": "256.43",
-        "hobbyScore": "4.00",
-        "rank": 5
+        "rank": 6
       },
       {
         "userId": "NYLcU6mpnw",
@@ -619,37 +749,43 @@
         "averageRank": "8.0",
         "dtcScore": "249.14",
         "hobbyScore": "0.00",
-        "rank": 6
+        "rank": 7
       },
       {
-        "userId": "SBFtCy8keB",
-        "name": "Chris Clayton",
-        "numEvents": 2,
+        "userId": "Nl9NLmfAa0",
+        "name": "Stefan Meertens",
+        "numEvents": 3,
         "armies": [
           {
-            "name": "Chaos Knights",
-            "count": 2,
-            "score": 247.3,
+            "name": "Space Wolves",
+            "count": 3,
+            "score": 246.49,
             "events": [
               {
-                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "eventId": "1SvECjIJFzLb",
-                "numberOfRounds": 5,
-                "eventDtcScore": "112.20"
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "59.07"
+              },
+              {
+                "name": "The Wardice Wargames Beta",
+                "eventId": "UHF83PX9FE",
+                "numberOfRounds": 3,
+                "eventDtcScore": "60.55"
               },
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
                 "eventId": "jSUxBRHBHWaN",
                 "numberOfRounds": 6,
-                "eventDtcScore": "135.10"
+                "eventDtcScore": "126.87"
               }
             ]
           }
         ],
         "teams": [
           {
-            "name": "Amsterdamned Wargaming",
-            "count": 2
+            "name": "wardice",
+            "count": 3
           }
         ],
         "events": [
@@ -657,35 +793,140 @@
             "name": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
             "numberOfRounds": 6,
-            "eventDtcScore": "135.10",
-            "eventHobbyScore": "0.00",
-            "userId": "SBFtCy8keB",
-            "rank": 3,
-            "army": "Chaos Knights",
-            "team": "Amsterdamned Wargaming",
+            "eventDtcScore": "126.87",
+            "eventHobbyScore": "1.00",
+            "userId": "Nl9NLmfAa0",
+            "rank": 8,
+            "army": "Space Wolves",
+            "team": "wardice",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "numberOfRounds": 5,
-            "eventDtcScore": "112.20",
+            "name": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "60.55",
+            "eventHobbyScore": "1.00",
+            "userId": "Nl9NLmfAa0",
+            "rank": 4,
+            "army": "Space Wolves",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "59.07",
             "eventHobbyScore": "0.00",
-            "userId": "SBFtCy8keB",
-            "rank": 1,
-            "army": "Chaos Knights",
-            "team": "Amsterdamned Wargaming",
+            "userId": "Nl9NLmfAa0",
+            "rank": 5,
+            "army": "Space Wolves",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9,
+        "totalRank": 17,
+        "averageRank": "5.7",
+        "dtcScore": "246.49",
+        "hobbyScore": "2.00",
+        "rank": 8
+      },
+      {
+        "userId": "GLD52F7LC5",
+        "name": "Aat Niehot",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Deathwatch",
+            "count": 2,
+            "score": 135.56,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "65.64"
+              },
+              {
+                "name": "North Sea Slam RTT 2025",
+                "eventId": "ydNZzdeWjzNV",
+                "numberOfRounds": 3,
+                "eventDtcScore": "69.92"
+              }
+            ]
+          },
+          {
+            "name": "Space Wolves",
+            "count": 1,
+            "score": 107.1,
+            "events": [
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "107.10"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "The Order",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "107.10",
+            "eventHobbyScore": "0.00",
+            "userId": "GLD52F7LC5",
+            "rank": 20,
+            "army": "Space Wolves",
+            "team": "The Order",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "numberOfRounds": 3,
+            "eventDtcScore": "69.92",
+            "eventHobbyScore": "0.00",
+            "userId": "GLD52F7LC5",
+            "rank": 3,
+            "army": "Deathwatch",
+            "team": "The Order",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "65.64",
+            "eventHobbyScore": "0.00",
+            "userId": "GLD52F7LC5",
+            "rank": 3,
+            "army": "Deathwatch",
+            "team": "The Order",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 10,
-        "totalRank": 4,
-        "averageRank": "2.0",
-        "dtcScore": "247.30",
+        "totalRank": 26,
+        "averageRank": "8.7",
+        "dtcScore": "242.66",
         "hobbyScore": "0.00",
-        "rank": 7
+        "rank": 9
       },
       {
         "userId": "cN77fl1hWy",
@@ -770,7 +1011,129 @@
         "averageRank": "8.0",
         "dtcScore": "236.96",
         "hobbyScore": "1.00",
-        "rank": 8
+        "rank": 10
+      },
+      {
+        "userId": "DKVE6UYJPR",
+        "name": "Xandor Tollenaar",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Necrons",
+            "count": 5,
+            "score": 229.87,
+            "events": [
+              {
+                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "eventId": "1SvECjIJFzLb",
+                "numberOfRounds": 5,
+                "eventDtcScore": "61.20"
+              },
+              {
+                "name": "The Wardice Wargames Alpha",
+                "eventId": "A4KFMVW5DB",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.18"
+              },
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "62.35"
+              },
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.54"
+              },
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "34.60"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Lost legion wargaming",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.35",
+            "eventHobbyScore": "0.00",
+            "userId": "DKVE6UYJPR",
+            "rank": 4,
+            "army": "Necrons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "numberOfRounds": 5,
+            "eventDtcScore": "61.20",
+            "eventHobbyScore": "0.00",
+            "userId": "DKVE6UYJPR",
+            "rank": 11,
+            "army": "Necrons",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "numberOfRounds": 3,
+            "eventDtcScore": "42.18",
+            "eventHobbyScore": "0.00",
+            "userId": "DKVE6UYJPR",
+            "rank": 8,
+            "army": "Necrons",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "34.60",
+            "eventHobbyScore": "0.00",
+            "userId": "DKVE6UYJPR",
+            "rank": 64,
+            "army": "Necrons",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "numberOfRounds": 3,
+            "eventDtcScore": "29.54",
+            "eventHobbyScore": "0.00",
+            "userId": "DKVE6UYJPR",
+            "rank": 14,
+            "army": "Necrons",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 10,
+        "totalRank": 101,
+        "averageRank": "20.2",
+        "dtcScore": "229.87",
+        "hobbyScore": "0.00",
+        "rank": 11
       },
       {
         "userId": "m1Cf1dFdAY",
@@ -862,7 +1225,7 @@
         "averageRank": "10.3",
         "dtcScore": "223.03",
         "hobbyScore": "0.00",
-        "rank": 9
+        "rank": 12
       },
       {
         "userId": "j8WphFYeF8",
@@ -928,7 +1291,7 @@
         "averageRank": "10.0",
         "dtcScore": "217.49",
         "hobbyScore": "0.00",
-        "rank": 10
+        "rank": 13
       },
       {
         "userId": "fBbz9SqAAE",
@@ -1001,7 +1364,7 @@
         "averageRank": "2.0",
         "dtcScore": "208.61",
         "hobbyScore": "0.00",
-        "rank": 11
+        "rank": 14
       },
       {
         "userId": "5U542FLB8K",
@@ -1097,7 +1460,7 @@
         "averageRank": "14.3",
         "dtcScore": "197.23",
         "hobbyScore": "0.00",
-        "rank": 12
+        "rank": 15
       },
       {
         "userId": "cgcimvdJ2E",
@@ -1163,7 +1526,7 @@
         "averageRank": "5.0",
         "dtcScore": "196.46",
         "hobbyScore": "0.00",
-        "rank": 13
+        "rank": 16
       },
       {
         "userId": "6pD99rXvA3",
@@ -1240,7 +1603,7 @@
         "averageRank": "4.5",
         "dtcScore": "194.49",
         "hobbyScore": "0.00",
-        "rank": 14
+        "rank": 17
       },
       {
         "userId": "aCgNrvM5ko",
@@ -1344,7 +1707,7 @@
         "averageRank": "16.8",
         "dtcScore": "192.57",
         "hobbyScore": "0.00",
-        "rank": 15
+        "rank": 18
       },
       {
         "userId": "jTKYUfh35b",
@@ -1410,73 +1773,7 @@
         "averageRank": "7.0",
         "dtcScore": "191.25",
         "hobbyScore": "0.00",
-        "rank": 16
-      },
-      {
-        "userId": "Nl9NLmfAa0",
-        "name": "stefan Meertens",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Space Wolves",
-            "count": 2,
-            "score": 187.42,
-            "events": [
-              {
-                "name": "The Wardice Wargames Beta",
-                "eventId": "UHF83PX9FE",
-                "numberOfRounds": 3,
-                "eventDtcScore": "60.55"
-              },
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "126.87"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "wardice",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "126.87",
-            "eventHobbyScore": "1.00",
-            "userId": "Nl9NLmfAa0",
-            "rank": 8,
-            "army": "Space Wolves",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Wardice Wargames Beta",
-            "eventId": "UHF83PX9FE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "60.55",
-            "eventHobbyScore": "1.00",
-            "userId": "Nl9NLmfAa0",
-            "rank": 4,
-            "army": "Space Wolves",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 7,
-        "totalRank": 12,
-        "averageRank": "6.0",
-        "dtcScore": "187.42",
-        "hobbyScore": "2.00",
-        "rank": 17
+        "rank": 19
       },
       {
         "userId": "F8AHw2ib7x",
@@ -1568,7 +1865,7 @@
         "averageRank": "20.7",
         "dtcScore": "187.16",
         "hobbyScore": "1.00",
-        "rank": 18
+        "rank": 20
       },
       {
         "userId": "Qf5qwD10ar",
@@ -1634,7 +1931,7 @@
         "averageRank": "8.5",
         "dtcScore": "186.60",
         "hobbyScore": "0.00",
-        "rank": 19
+        "rank": 21
       },
       {
         "userId": "yNvCWMm1gz",
@@ -1700,7 +1997,7 @@
         "averageRank": "8.5",
         "dtcScore": "184.83",
         "hobbyScore": "0.00",
-        "rank": 20
+        "rank": 22
       },
       {
         "userId": "RWTFCJ16JR",
@@ -1766,7 +2063,7 @@
         "averageRank": "9.5",
         "dtcScore": "182.43",
         "hobbyScore": "0.00",
-        "rank": 21
+        "rank": 23
       },
       {
         "userId": "8H4TWK6ABJ",
@@ -1832,80 +2129,7 @@
         "averageRank": "9.5",
         "dtcScore": "181.03",
         "hobbyScore": "0.00",
-        "rank": 22
-      },
-      {
-        "userId": "GLD52F7LC5",
-        "name": "Aat Niehot",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Space Wolves",
-            "count": 1,
-            "score": 107.1,
-            "events": [
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "107.10"
-              }
-            ]
-          },
-          {
-            "name": "Deathwatch",
-            "count": 1,
-            "score": 69.92,
-            "events": [
-              {
-                "name": "North Sea Slam RTT 2025",
-                "eventId": "ydNZzdeWjzNV",
-                "numberOfRounds": 3,
-                "eventDtcScore": "69.92"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "The Order",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "107.10",
-            "eventHobbyScore": "0.00",
-            "userId": "GLD52F7LC5",
-            "rank": 20,
-            "army": "Space Wolves",
-            "team": "The Order",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "numberOfRounds": 3,
-            "eventDtcScore": "69.92",
-            "eventHobbyScore": "0.00",
-            "userId": "GLD52F7LC5",
-            "rank": 3,
-            "army": "Deathwatch",
-            "team": "The Order",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 7,
-        "totalRank": 23,
-        "averageRank": "11.5",
-        "dtcScore": "177.02",
-        "hobbyScore": "0.00",
-        "rank": 23
+        "rank": 24
       },
       {
         "userId": "sdjXWgUjur",
@@ -2003,7 +2227,7 @@
         "averageRank": "20.0",
         "dtcScore": "174.01",
         "hobbyScore": "1.00",
-        "rank": 24
+        "rank": 25
       },
       {
         "userId": "49mGOxqycs",
@@ -2062,75 +2286,76 @@
         "averageRank": "14.5",
         "dtcScore": "167.71",
         "hobbyScore": "3.00",
-        "rank": 25
+        "rank": 26
       },
       {
-        "userId": "DKVE6UYJPR",
-        "name": "Xandor Tollenaar",
-        "numEvents": 4,
+        "userId": "cLWiXebqAH",
+        "name": "Felix Brenninkmeijer",
+        "numEvents": 3,
         "armies": [
           {
-            "name": "Necrons",
-            "count": 4,
-            "score": 167.52,
+            "name": "Chaos Knights",
+            "count": 2,
+            "score": 120.63,
             "events": [
               {
-                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "eventId": "1SvECjIJFzLb",
-                "numberOfRounds": 5,
-                "eventDtcScore": "61.20"
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "52.51"
               },
               {
-                "name": "The Wardice Wargames Alpha",
-                "eventId": "A4KFMVW5DB",
+                "name": "The Wardice Wargames Beta",
+                "eventId": "UHF83PX9FE",
                 "numberOfRounds": 3,
-                "eventDtcScore": "42.18"
-              },
-              {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
-                "numberOfRounds": 3,
-                "eventDtcScore": "29.54"
-              },
+                "eventDtcScore": "68.12"
+              }
+            ]
+          },
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 46.13,
+            "events": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
                 "eventId": "jSUxBRHBHWaN",
                 "numberOfRounds": 6,
-                "eventDtcScore": "34.60"
+                "eventDtcScore": "46.13"
               }
             ]
           }
         ],
         "teams": [
           {
-            "name": "Lost legion wargaming",
-            "count": 4
+            "name": "wardice",
+            "count": 3
           }
         ],
         "events": [
           {
-            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "numberOfRounds": 5,
-            "eventDtcScore": "61.20",
+            "name": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.12",
             "eventHobbyScore": "0.00",
-            "userId": "DKVE6UYJPR",
-            "rank": 11,
-            "army": "Necrons",
-            "team": "Lost legion wargaming",
+            "userId": "cLWiXebqAH",
+            "rank": 2,
+            "army": "Chaos Knights",
+            "team": "wardice",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
             "numberOfRounds": 3,
-            "eventDtcScore": "42.18",
+            "eventDtcScore": "52.51",
             "eventHobbyScore": "0.00",
-            "userId": "DKVE6UYJPR",
-            "rank": 8,
-            "army": "Necrons",
-            "team": "Lost legion wargaming",
+            "userId": "cLWiXebqAH",
+            "rank": 7,
+            "army": "Chaos Knights",
+            "team": "wardice",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
@@ -2138,35 +2363,22 @@
             "name": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
             "numberOfRounds": 6,
-            "eventDtcScore": "34.60",
+            "eventDtcScore": "46.13",
             "eventHobbyScore": "0.00",
-            "userId": "DKVE6UYJPR",
-            "rank": 64,
-            "army": "Necrons",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "numberOfRounds": 3,
-            "eventDtcScore": "29.54",
-            "eventHobbyScore": "0.00",
-            "userId": "DKVE6UYJPR",
-            "rank": 14,
-            "army": "Necrons",
-            "team": "Lost legion wargaming",
+            "userId": "cLWiXebqAH",
+            "rank": 57,
+            "army": "Chaos Space Marines",
+            "team": "wardice",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 8,
-        "totalRank": 97,
-        "averageRank": "24.3",
-        "dtcScore": "167.52",
+        "numWins": 7,
+        "totalRank": 66,
+        "averageRank": "22.0",
+        "dtcScore": "166.76",
         "hobbyScore": "0.00",
-        "rank": 26
+        "rank": 27
       },
       {
         "userId": "uPfQJhyfTR",
@@ -2251,7 +2463,7 @@
         "averageRank": "22.7",
         "dtcScore": "165.50",
         "hobbyScore": "1.00",
-        "rank": 27
+        "rank": 28
       },
       {
         "userId": "R3QG70jgwM",
@@ -2336,7 +2548,7 @@
         "averageRank": "23.3",
         "dtcScore": "165.45",
         "hobbyScore": "0.00",
-        "rank": 28
+        "rank": 29
       },
       {
         "userId": "L5TB41nv3i",
@@ -2470,7 +2682,84 @@
         "averageRank": "25.4",
         "dtcScore": "160.09",
         "hobbyScore": "0.00",
-        "rank": 29
+        "rank": 30
+      },
+      {
+        "userId": "AOIaD4FIFe",
+        "name": "Niek de Neijs",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Genestealer Cult",
+            "count": 3,
+            "score": 156.16,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "45.95"
+              },
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "100.50"
+              },
+              {
+                "name": "North Sea Slam RTT 2025",
+                "eventId": "ydNZzdeWjzNV",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.71"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "100.50",
+            "eventHobbyScore": "0.00",
+            "userId": "AOIaD4FIFe",
+            "rank": 24,
+            "army": "Genestealer Cult",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "45.95",
+            "eventHobbyScore": "0.00",
+            "userId": "AOIaD4FIFe",
+            "rank": 9,
+            "army": "Genestealer Cult",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.71",
+            "eventHobbyScore": "0.00",
+            "userId": "AOIaD4FIFe",
+            "rank": 34,
+            "army": "Genestealer Cult",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 6,
+        "totalRank": 67,
+        "averageRank": "22.3",
+        "dtcScore": "156.16",
+        "hobbyScore": "0.00",
+        "rank": 31
       },
       {
         "userId": "oAlaJi0kEF",
@@ -2536,7 +2825,7 @@
         "averageRank": "1.0",
         "dtcScore": "144.10",
         "hobbyScore": "6.00",
-        "rank": 30
+        "rank": 32
       },
       {
         "userId": "Ci8drOUGlg",
@@ -2609,7 +2898,7 @@
         "averageRank": "2.0",
         "dtcScore": "140.52",
         "hobbyScore": "0.00",
-        "rank": 31
+        "rank": 33
       },
       {
         "userId": "YYMJA4J4KG",
@@ -2675,7 +2964,7 @@
         "averageRank": "19.0",
         "dtcScore": "139.50",
         "hobbyScore": "1.00",
-        "rank": 32
+        "rank": 34
       },
       {
         "userId": "PLQQ5ML884",
@@ -2759,7 +3048,7 @@
         "averageRank": "29.3",
         "dtcScore": "138.22",
         "hobbyScore": "0.00",
-        "rank": 33
+        "rank": 35
       },
       {
         "userId": "ZRyVn8v3qG",
@@ -2825,7 +3114,7 @@
         "averageRank": "7.5",
         "dtcScore": "138.10",
         "hobbyScore": "0.00",
-        "rank": 34
+        "rank": 36
       },
       {
         "userId": "N5EBDV4EXR",
@@ -2891,7 +3180,7 @@
         "averageRank": "3.5",
         "dtcScore": "135.64",
         "hobbyScore": "0.00",
-        "rank": 35
+        "rank": 37
       },
       {
         "userId": "fOQUt2qkaz",
@@ -2938,7 +3227,7 @@
         "averageRank": 5,
         "dtcScore": "131.81",
         "hobbyScore": "0.00",
-        "rank": 36
+        "rank": 38
       },
       {
         "userId": "vAZ2RllJSj",
@@ -3004,7 +3293,7 @@
         "averageRank": "23.0",
         "dtcScore": "128.30",
         "hobbyScore": "3.00",
-        "rank": 37
+        "rank": 39
       },
       {
         "userId": "2TNG4LQGY1",
@@ -3070,7 +3359,7 @@
         "averageRank": "23.0",
         "dtcScore": "127.06",
         "hobbyScore": "0.00",
-        "rank": 38
+        "rank": 40
       },
       {
         "userId": "95WJH9Q3KL",
@@ -3111,80 +3400,7 @@
         "averageRank": 10,
         "dtcScore": "123.57",
         "hobbyScore": "0.00",
-        "rank": 39
-      },
-      {
-        "userId": "cLWiXebqAH",
-        "name": "Felix Brenninkmeijer",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Chaos Knights",
-            "count": 1,
-            "score": 68.12,
-            "events": [
-              {
-                "name": "The Wardice Wargames Beta",
-                "eventId": "UHF83PX9FE",
-                "numberOfRounds": 3,
-                "eventDtcScore": "68.12"
-              }
-            ]
-          },
-          {
-            "name": "Chaos Space Marines",
-            "count": 1,
-            "score": 46.13,
-            "events": [
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "46.13"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "wardice",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "The Wardice Wargames Beta",
-            "eventId": "UHF83PX9FE",
-            "numberOfRounds": 3,
-            "eventDtcScore": "68.12",
-            "eventHobbyScore": "0.00",
-            "userId": "cLWiXebqAH",
-            "rank": 2,
-            "army": "Chaos Knights",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "46.13",
-            "eventHobbyScore": "0.00",
-            "userId": "cLWiXebqAH",
-            "rank": 57,
-            "army": "Chaos Space Marines",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 5,
-        "totalRank": 59,
-        "averageRank": "29.5",
-        "dtcScore": "114.25",
-        "hobbyScore": "0.00",
-        "rank": 40
+        "rank": 41
       },
       {
         "userId": "taF4FcGA4u",
@@ -3250,7 +3466,7 @@
         "averageRank": "7.0",
         "dtcScore": "113.32",
         "hobbyScore": "1.00",
-        "rank": 41
+        "rank": 42
       },
       {
         "userId": "7EzFInhtYL",
@@ -3297,7 +3513,7 @@
         "averageRank": 17,
         "dtcScore": "112.04",
         "hobbyScore": "0.00",
-        "rank": 42
+        "rank": 43
       },
       {
         "userId": "TlATr9MSrX",
@@ -3362,65 +3578,6 @@
         "totalRank": 48,
         "averageRank": "24.0",
         "dtcScore": "111.93",
-        "hobbyScore": "0.00",
-        "rank": 43
-      },
-      {
-        "userId": "AOIaD4FIFe",
-        "name": "Niek de Neijs",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Genestealer Cult",
-            "count": 2,
-            "score": 110.21,
-            "events": [
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "100.50"
-              },
-              {
-                "name": "North Sea Slam RTT 2025",
-                "eventId": "ydNZzdeWjzNV",
-                "numberOfRounds": 3,
-                "eventDtcScore": "9.71"
-              }
-            ]
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "100.50",
-            "eventHobbyScore": "0.00",
-            "userId": "AOIaD4FIFe",
-            "rank": 24,
-            "army": "Genestealer Cult",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "numberOfRounds": 3,
-            "eventDtcScore": "9.71",
-            "eventHobbyScore": "0.00",
-            "userId": "AOIaD4FIFe",
-            "rank": 34,
-            "army": "Genestealer Cult",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4,
-        "totalRank": 58,
-        "averageRank": "29.0",
-        "dtcScore": "110.21",
         "hobbyScore": "0.00",
         "rank": 44
       },
@@ -4278,6 +4435,72 @@
         "rank": 57
       },
       {
+        "userId": "zIsZB85fkZ",
+        "name": "Brian Lijs",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 2,
+            "score": 91.89,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "49.23"
+              },
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.66"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdamned Wargaming",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "49.23",
+            "eventHobbyScore": "0.00",
+            "userId": "zIsZB85fkZ",
+            "rank": 8,
+            "army": "Adeptus Astartes",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "numberOfRounds": 3,
+            "eventDtcScore": "42.66",
+            "eventHobbyScore": "0.00",
+            "userId": "zIsZB85fkZ",
+            "rank": 10,
+            "army": "Space Marines (Astartes)",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 18,
+        "averageRank": "9.0",
+        "dtcScore": "91.89",
+        "hobbyScore": "0.00",
+        "rank": 58
+      },
+      {
         "userId": "i8z3NiZYAh",
         "name": "Stéphane Châtel",
         "numEvents": 2,
@@ -4341,7 +4564,7 @@
         "averageRank": "7.5",
         "dtcScore": "90.94",
         "hobbyScore": "0.00",
-        "rank": 58
+        "rank": 59
       },
       {
         "userId": "3UYu9j00Jz",
@@ -4388,7 +4611,7 @@
         "averageRank": 30,
         "dtcScore": "90.62",
         "hobbyScore": "0.00",
-        "rank": 59
+        "rank": 60
       },
       {
         "userId": "MqROm67JZ9",
@@ -4435,7 +4658,7 @@
         "averageRank": 6,
         "dtcScore": "86.70",
         "hobbyScore": "0.00",
-        "rank": 60
+        "rank": 61
       },
       {
         "userId": "aQ6yS4eAiy",
@@ -4501,7 +4724,66 @@
         "averageRank": "37.5",
         "dtcScore": "82.37",
         "hobbyScore": "0.00",
-        "rank": 61
+        "rank": 62
+      },
+      {
+        "userId": "fmlRvdCQqo",
+        "name": "William Waight",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 2,
+            "score": 82.05,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.10"
+              },
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "45.95"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "numberOfRounds": 3,
+            "eventDtcScore": "45.95",
+            "eventHobbyScore": "0.00",
+            "userId": "fmlRvdCQqo",
+            "rank": 9,
+            "army": "Space Marines (Astartes)",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "36.10",
+            "eventHobbyScore": "0.00",
+            "userId": "fmlRvdCQqo",
+            "rank": 12,
+            "army": "Adeptus Astartes",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 21,
+        "averageRank": "10.5",
+        "dtcScore": "82.05",
+        "hobbyScore": "0.00",
+        "rank": 63
       },
       {
         "userId": "FFnduPdfzJ",
@@ -4548,7 +4830,7 @@
         "averageRank": 7,
         "dtcScore": "81.60",
         "hobbyScore": "3.00",
-        "rank": 62
+        "rank": 64
       },
       {
         "userId": "H8Y33Q194W",
@@ -4595,7 +4877,7 @@
         "averageRank": 36,
         "dtcScore": "80.73",
         "hobbyScore": "0.00",
-        "rank": 63
+        "rank": 65
       },
       {
         "userId": "9YDM6RMUGT",
@@ -4661,7 +4943,7 @@
         "averageRank": "12.0",
         "dtcScore": "80.01",
         "hobbyScore": "3.00",
-        "rank": 64
+        "rank": 66
       },
       {
         "userId": "THLUWFDF7D",
@@ -4708,7 +4990,7 @@
         "averageRank": 37,
         "dtcScore": "79.09",
         "hobbyScore": "0.00",
-        "rank": 65
+        "rank": 67
       },
       {
         "userId": "xjSaBkjaaE",
@@ -4785,7 +5067,7 @@
         "averageRank": "33.3",
         "dtcScore": "75.21",
         "hobbyScore": "0.00",
-        "rank": 66
+        "rank": 68
       },
       {
         "userId": "CZz3lUpxKh",
@@ -4850,7 +5132,7 @@
         "averageRank": "17.0",
         "dtcScore": "74.81",
         "hobbyScore": "0.00",
-        "rank": 67
+        "rank": 69
       },
       {
         "userId": "L9z1rjeeaY",
@@ -4942,7 +5224,7 @@
         "averageRank": "20.3",
         "dtcScore": "74.25",
         "hobbyScore": "0.00",
-        "rank": 68
+        "rank": 70
       },
       {
         "userId": "9WDN03KDPR",
@@ -5008,7 +5290,7 @@
         "averageRank": "17.5",
         "dtcScore": "74.21",
         "hobbyScore": "0.00",
-        "rank": 69
+        "rank": 71
       },
       {
         "userId": "8XKBHFR93J",
@@ -5055,7 +5337,7 @@
         "averageRank": 40,
         "dtcScore": "74.14",
         "hobbyScore": "0.00",
-        "rank": 70
+        "rank": 72
       },
       {
         "userId": "CM4VFT5ACG",
@@ -5121,7 +5403,7 @@
         "averageRank": "17.5",
         "dtcScore": "73.65",
         "hobbyScore": "0.00",
-        "rank": 71
+        "rank": 73
       },
       {
         "userId": "LjtfGqy9dh",
@@ -5168,7 +5450,7 @@
         "averageRank": 1,
         "dtcScore": "72.60",
         "hobbyScore": "0.00",
-        "rank": 72
+        "rank": 74
       },
       {
         "userId": "MTT5A81BT9",
@@ -5209,7 +5491,7 @@
         "averageRank": 41,
         "dtcScore": "72.50",
         "hobbyScore": "0.00",
-        "rank": 73
+        "rank": 75
       },
       {
         "userId": "WB5G3VLK60",
@@ -5256,7 +5538,7 @@
         "averageRank": 1,
         "dtcScore": "71.70",
         "hobbyScore": "0.00",
-        "rank": 74
+        "rank": 76
       },
       {
         "userId": "rErhoVCPjJ",
@@ -5303,7 +5585,7 @@
         "averageRank": 2,
         "dtcScore": "69.81",
         "hobbyScore": "0.00",
-        "rank": 75
+        "rank": 77
       },
       {
         "userId": "NvkOKjD8kO",
@@ -5350,7 +5632,7 @@
         "averageRank": 43,
         "dtcScore": "69.20",
         "hobbyScore": "0.00",
-        "rank": 76
+        "rank": 78
       },
       {
         "userId": "Db1AWQwcg6",
@@ -5397,7 +5679,73 @@
         "averageRank": 3,
         "dtcScore": "68.63",
         "hobbyScore": "0.00",
-        "rank": 77
+        "rank": 79
+      },
+      {
+        "userId": "XN2D2WBTH9",
+        "name": "Tim Lamb",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Drukhari",
+            "count": 2,
+            "score": 68.16,
+            "events": [
+              {
+                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "eventId": "1SvECjIJFzLb",
+                "numberOfRounds": 5,
+                "eventDtcScore": "25.50"
+              },
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.66"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Friday Knights",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "42.66",
+            "eventHobbyScore": "0.00",
+            "userId": "XN2D2WBTH9",
+            "rank": 10,
+            "army": "Drukhari",
+            "team": "Friday Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "numberOfRounds": 5,
+            "eventDtcScore": "25.50",
+            "eventHobbyScore": "0.00",
+            "userId": "XN2D2WBTH9",
+            "rank": 18,
+            "army": "Drukhari",
+            "team": "Friday Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3.5,
+        "totalRank": 28,
+        "averageRank": "14.0",
+        "dtcScore": "68.16",
+        "hobbyScore": "0.00",
+        "rank": 80
       },
       {
         "userId": "22WHE2VNLG",
@@ -5470,7 +5818,7 @@
         "averageRank": "19.0",
         "dtcScore": "67.72",
         "hobbyScore": "3.00",
-        "rank": 78
+        "rank": 81
       },
       {
         "userId": "QLopEGzWuA",
@@ -5543,7 +5891,7 @@
         "averageRank": "15.0",
         "dtcScore": "67.58",
         "hobbyScore": "0.00",
-        "rank": 79
+        "rank": 82
       },
       {
         "userId": "WGRF908PRQ",
@@ -5609,7 +5957,7 @@
         "averageRank": "13.0",
         "dtcScore": "66.25",
         "hobbyScore": "0.00",
-        "rank": 80
+        "rank": 83
       },
       {
         "userId": "GD6Y8KEL1W",
@@ -5656,7 +6004,7 @@
         "averageRank": 45,
         "dtcScore": "65.90",
         "hobbyScore": "0.00",
-        "rank": 81
+        "rank": 84
       },
       {
         "userId": "U18LN2U8KL",
@@ -5703,7 +6051,7 @@
         "averageRank": 5,
         "dtcScore": "65.10",
         "hobbyScore": "0.00",
-        "rank": 82
+        "rank": 85
       },
       {
         "userId": "HiGJBbpMGm",
@@ -5744,7 +6092,7 @@
         "averageRank": 46,
         "dtcScore": "64.26",
         "hobbyScore": "0.00",
-        "rank": 83
+        "rank": 86
       },
       {
         "userId": "ioGsFcvJzmSU",
@@ -5785,7 +6133,7 @@
         "averageRank": 4,
         "dtcScore": "64.22",
         "hobbyScore": "0.00",
-        "rank": 84
+        "rank": 87
       },
       {
         "userId": "JKHTXU22UQ",
@@ -5826,7 +6174,7 @@
         "averageRank": 3,
         "dtcScore": "63.26",
         "hobbyScore": "1.00",
-        "rank": 85
+        "rank": 88
       },
       {
         "userId": "WHTMXCTK8N",
@@ -5873,7 +6221,7 @@
         "averageRank": 5,
         "dtcScore": "61.43",
         "hobbyScore": "0.00",
-        "rank": 86
+        "rank": 89
       },
       {
         "userId": "rbcFK8QAyz",
@@ -5939,7 +6287,7 @@
         "averageRank": "37.5",
         "dtcScore": "60.91",
         "hobbyScore": "0.00",
-        "rank": 87
+        "rank": 90
       },
       {
         "userId": "0UVKqPRi1x",
@@ -5980,7 +6328,7 @@
         "averageRank": 7,
         "dtcScore": "60.90",
         "hobbyScore": "0.00",
-        "rank": 88
+        "rank": 91
       },
       {
         "userId": "sxb9mXkYHY",
@@ -6027,7 +6375,7 @@
         "averageRank": 4,
         "dtcScore": "59.05",
         "hobbyScore": "0.00",
-        "rank": 89
+        "rank": 92
       },
       {
         "userId": "4UYF9M5N4J",
@@ -6100,7 +6448,7 @@
         "averageRank": "21.5",
         "dtcScore": "58.35",
         "hobbyScore": "0.00",
-        "rank": 90
+        "rank": 93
       },
       {
         "userId": "yQhUh7v6OivA",
@@ -6141,7 +6489,7 @@
         "averageRank": 9,
         "dtcScore": "58.26",
         "hobbyScore": "0.00",
-        "rank": 91
+        "rank": 94
       },
       {
         "userId": "LehbBwvl0cl2",
@@ -6182,7 +6530,72 @@
         "averageRank": 8,
         "dtcScore": "57.19",
         "hobbyScore": "1.00",
-        "rank": 92
+        "rank": 95
+      },
+      {
+        "userId": "j1q8untWVm",
+        "name": "Geert P",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Orks",
+            "count": 2,
+            "score": 55.89,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "32.82"
+              },
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "23.07"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Warzone Presikhaaf",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "32.82",
+            "eventHobbyScore": "0.00",
+            "userId": "j1q8untWVm",
+            "rank": 13,
+            "army": "Orks",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "23.07",
+            "eventHobbyScore": "0.00",
+            "userId": "j1q8untWVm",
+            "rank": 71,
+            "army": "Orks",
+            "team": "Warzone Presikhaaf",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 84,
+        "averageRank": "42.0",
+        "dtcScore": "55.89",
+        "hobbyScore": "0.00",
+        "rank": 96
       },
       {
         "userId": "UKYC08R1V9",
@@ -6223,7 +6636,7 @@
         "averageRank": 7,
         "dtcScore": "55.85",
         "hobbyScore": "1.00",
-        "rank": 93
+        "rank": 97
       },
       {
         "userId": "AJ0WH8N83Q",
@@ -6270,7 +6683,7 @@
         "averageRank": 10,
         "dtcScore": "54.60",
         "hobbyScore": "0.00",
-        "rank": 94
+        "rank": 98
       },
       {
         "userId": "T8rWD8lUHC",
@@ -6317,7 +6730,7 @@
         "averageRank": 52,
         "dtcScore": "54.37",
         "hobbyScore": "0.00",
-        "rank": 95
+        "rank": 99
       },
       {
         "userId": "NoszkIL0oj",
@@ -6364,7 +6777,7 @@
         "averageRank": 8,
         "dtcScore": "53.05",
         "hobbyScore": "0.00",
-        "rank": 96
+        "rank": 100
       },
       {
         "userId": "48DY8N0F4H",
@@ -6411,7 +6824,7 @@
         "averageRank": 53,
         "dtcScore": "52.72",
         "hobbyScore": "0.00",
-        "rank": 97
+        "rank": 101
       },
       {
         "userId": "92MLK8N5G5",
@@ -6458,7 +6871,7 @@
         "averageRank": 6,
         "dtcScore": "50.61",
         "hobbyScore": "1.00",
-        "rank": 98
+        "rank": 102
       },
       {
         "userId": "h3nIoOZR1K",
@@ -6505,7 +6918,7 @@
         "averageRank": 11,
         "dtcScore": "50.33",
         "hobbyScore": "0.00",
-        "rank": 99
+        "rank": 103
       },
       {
         "userId": "DMEWE764DR",
@@ -6546,7 +6959,7 @@
         "averageRank": 9,
         "dtcScore": "50.26",
         "hobbyScore": "3.00",
-        "rank": 100
+        "rank": 104
       },
       {
         "userId": "3D187RXMPD",
@@ -6587,7 +7000,7 @@
         "averageRank": 14,
         "dtcScore": "48.55",
         "hobbyScore": "0.00",
-        "rank": 101
+        "rank": 105
       },
       {
         "userId": "0YJ8QK2CDK",
@@ -6652,7 +7065,7 @@
         "averageRank": "49.0",
         "dtcScore": "48.14",
         "hobbyScore": "0.00",
-        "rank": 102
+        "rank": 106
       },
       {
         "userId": "4PAUSb3Quz",
@@ -6699,7 +7112,7 @@
         "averageRank": 12,
         "dtcScore": "48.04",
         "hobbyScore": "0.00",
-        "rank": 103
+        "rank": 107
       },
       {
         "userId": "DbvgCYEE9a",
@@ -6746,7 +7159,7 @@
         "averageRank": 10,
         "dtcScore": "47.47",
         "hobbyScore": "0.00",
-        "rank": 104
+        "rank": 108
       },
       {
         "userId": "AW84laYLqt",
@@ -6793,48 +7206,7 @@
         "averageRank": 15,
         "dtcScore": "46.61",
         "hobbyScore": "0.00",
-        "rank": 105
-      },
-      {
-        "userId": "fmlRvdCQqo",
-        "name": "William Waight",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 45.95,
-            "events": [
-              {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
-                "numberOfRounds": 3,
-                "eventDtcScore": "45.95"
-              }
-            ]
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "numberOfRounds": 3,
-            "eventDtcScore": "45.95",
-            "eventHobbyScore": "0.00",
-            "userId": "fmlRvdCQqo",
-            "rank": 9,
-            "army": "Adeptus Astartes",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 9,
-        "averageRank": 9,
-        "dtcScore": "45.95",
-        "hobbyScore": "0.00",
-        "rank": 106
+        "rank": 109
       },
       {
         "userId": "T9FTA70QD7",
@@ -6907,7 +7279,7 @@
         "averageRank": "24.0",
         "dtcScore": "45.23",
         "hobbyScore": "0.00",
-        "rank": 107
+        "rank": 110
       },
       {
         "userId": "Y75Q1CTNCW",
@@ -6973,7 +7345,7 @@
         "averageRank": "48.5",
         "dtcScore": "44.52",
         "hobbyScore": "0.00",
-        "rank": 108
+        "rank": 111
       },
       {
         "userId": "3JBQ02TU0U",
@@ -7020,7 +7392,7 @@
         "averageRank": 15,
         "dtcScore": "44.10",
         "hobbyScore": "0.00",
-        "rank": 109
+        "rank": 112
       },
       {
         "userId": "mDFcqPld5A",
@@ -7061,7 +7433,7 @@
         "averageRank": 14,
         "dtcScore": "43.46",
         "hobbyScore": "0.00",
-        "rank": 110
+        "rank": 113
       },
       {
         "userId": "GEO8V7cAbw",
@@ -7134,7 +7506,7 @@
         "averageRank": "44.0",
         "dtcScore": "42.97",
         "hobbyScore": "3.00",
-        "rank": 111
+        "rank": 114
       },
       {
         "userId": "C8SUIfF8Ar",
@@ -7175,54 +7547,7 @@
         "averageRank": 59,
         "dtcScore": "42.84",
         "hobbyScore": "0.00",
-        "rank": 112
-      },
-      {
-        "userId": "zIsZB85fkZ",
-        "name": "Brian Lijs",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 42.66,
-            "events": [
-              {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
-                "numberOfRounds": 3,
-                "eventDtcScore": "42.66"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Amsterdamned Wargaming",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "numberOfRounds": 3,
-            "eventDtcScore": "42.66",
-            "eventHobbyScore": "0.00",
-            "userId": "zIsZB85fkZ",
-            "rank": 10,
-            "army": "Adeptus Astartes",
-            "team": "Amsterdamned Wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 10,
-        "averageRank": 10,
-        "dtcScore": "42.66",
-        "hobbyScore": "0.00",
-        "rank": 113
+        "rank": 115
       },
       {
         "userId": "2wi4mercIL",
@@ -7269,7 +7594,98 @@
         "averageRank": 12,
         "dtcScore": "41.88",
         "hobbyScore": "0.00",
-        "rank": 114
+        "rank": 116
+      },
+      {
+        "userId": "oPYw7BAg15",
+        "name": "Guus van den Berg",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 1,
+            "score": 16.41,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.41"
+              }
+            ]
+          },
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 9.85,
+            "events": [
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.85"
+              }
+            ]
+          },
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 1,
+            "score": 14.83,
+            "events": [
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "14.83"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "16.41",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 18,
+            "army": "Blood Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "14.83",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 76,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.85",
+            "eventHobbyScore": "1.00",
+            "userId": "oPYw7BAg15",
+            "rank": 20,
+            "army": "Space Marines (Astartes)",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2.5,
+        "totalRank": 114,
+        "averageRank": "38.0",
+        "dtcScore": "41.09",
+        "hobbyScore": "1.00",
+        "rank": 117
       },
       {
         "userId": "7W945WFPKN",
@@ -7316,7 +7732,7 @@
         "averageRank": 18,
         "dtcScore": "40.78",
         "hobbyScore": "0.00",
-        "rank": 115
+        "rank": 118
       },
       {
         "userId": "N8R3L3714V",
@@ -7357,7 +7773,54 @@
         "averageRank": 61,
         "dtcScore": "39.54",
         "hobbyScore": "0.00",
-        "rank": 116
+        "rank": 119
+      },
+      {
+        "userId": "7pwxq5xWuz",
+        "name": "Dion Veek",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 39.38,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "39.38"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "39.38",
+            "eventHobbyScore": "0.00",
+            "userId": "7pwxq5xWuz",
+            "rank": 11,
+            "army": "Thousand Sons",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 11,
+        "averageRank": 11,
+        "dtcScore": "39.38",
+        "hobbyScore": "0.00",
+        "rank": 120
       },
       {
         "userId": "g4VCE9V1s6",
@@ -7404,7 +7867,7 @@
         "averageRank": 16,
         "dtcScore": "38.89",
         "hobbyScore": "0.00",
-        "rank": 117
+        "rank": 121
       },
       {
         "userId": "7RzQU7aBkr",
@@ -7451,7 +7914,7 @@
         "averageRank": 19,
         "dtcScore": "38.84",
         "hobbyScore": "0.00",
-        "rank": 118
+        "rank": 122
       },
       {
         "userId": "GMYBNUEKPW",
@@ -7498,7 +7961,7 @@
         "averageRank": 62,
         "dtcScore": "37.90",
         "hobbyScore": "0.00",
-        "rank": 119
+        "rank": 123
       },
       {
         "userId": "aXodFjn9lU",
@@ -7545,7 +8008,7 @@
         "averageRank": 18,
         "dtcScore": "37.80",
         "hobbyScore": "0.00",
-        "rank": 120
+        "rank": 124
       },
       {
         "userId": "KGd1raGd0E",
@@ -7592,7 +8055,7 @@
         "averageRank": 17,
         "dtcScore": "36.60",
         "hobbyScore": "0.00",
-        "rank": 121
+        "rank": 125
       },
       {
         "userId": "z3fjX7GSOXu7",
@@ -7633,7 +8096,91 @@
         "averageRank": 63,
         "dtcScore": "36.25",
         "hobbyScore": "3.00",
-        "rank": 122
+        "rank": 126
+      },
+      {
+        "userId": "T7V0WBDC5C",
+        "name": "Mario Viranov",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 2,
+            "score": 29.27,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.85"
+              },
+              {
+                "name": "North Sea Slam RTT 2025",
+                "eventId": "ydNZzdeWjzNV",
+                "numberOfRounds": 3,
+                "eventDtcScore": "19.42"
+              }
+            ]
+          },
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 5.1,
+            "events": [
+              {
+                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "eventId": "1SvECjIJFzLb",
+                "numberOfRounds": 5,
+                "eventDtcScore": "5.10"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "numberOfRounds": 3,
+            "eventDtcScore": "19.42",
+            "eventHobbyScore": "0.00",
+            "userId": "T7V0WBDC5C",
+            "rank": 29,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.85",
+            "eventHobbyScore": "0.00",
+            "userId": "T7V0WBDC5C",
+            "rank": 20,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "numberOfRounds": 5,
+            "eventDtcScore": "5.10",
+            "eventHobbyScore": "0.00",
+            "userId": "T7V0WBDC5C",
+            "rank": 22,
+            "army": "Thousand Sons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 71,
+        "averageRank": "23.7",
+        "dtcScore": "34.37",
+        "hobbyScore": "0.00",
+        "rank": 127
       },
       {
         "userId": "5MKL5G9HAB",
@@ -7680,7 +8227,7 @@
         "averageRank": 20,
         "dtcScore": "33.60",
         "hobbyScore": "0.00",
-        "rank": 123
+        "rank": 128
       },
       {
         "userId": "HUEBZN6I1M",
@@ -7721,7 +8268,7 @@
         "averageRank": 15,
         "dtcScore": "33.51",
         "hobbyScore": "0.00",
-        "rank": 124
+        "rank": 129
       },
       {
         "userId": "Aww1GTEw3U8e",
@@ -7762,7 +8309,7 @@
         "averageRank": 65,
         "dtcScore": "32.95",
         "hobbyScore": "0.00",
-        "rank": 125
+        "rank": 130
       },
       {
         "userId": "anABDkvHAC",
@@ -7809,7 +8356,7 @@
         "averageRank": 13,
         "dtcScore": "32.82",
         "hobbyScore": "0.00",
-        "rank": 126
+        "rank": 131
       },
       {
         "userId": "WJKHP3LFK7",
@@ -7850,7 +8397,7 @@
         "averageRank": 66,
         "dtcScore": "31.30",
         "hobbyScore": "0.00",
-        "rank": 127
+        "rank": 132
       },
       {
         "userId": "HWDxChNykU",
@@ -7891,7 +8438,7 @@
         "averageRank": 23,
         "dtcScore": "31.07",
         "hobbyScore": "0.00",
-        "rank": 128
+        "rank": 133
       },
       {
         "userId": "23UUFiRZDJtH",
@@ -7932,7 +8479,7 @@
         "averageRank": 16,
         "dtcScore": "30.72",
         "hobbyScore": "0.00",
-        "rank": 129
+        "rank": 134
       },
       {
         "userId": "M88H6XP8E1",
@@ -7979,7 +8526,7 @@
         "averageRank": 17,
         "dtcScore": "30.60",
         "hobbyScore": "0.00",
-        "rank": 130
+        "rank": 135
       },
       {
         "userId": "UH8Y5Y98GE",
@@ -8026,7 +8573,48 @@
         "averageRank": 67,
         "dtcScore": "29.66",
         "hobbyScore": "0.00",
-        "rank": 131
+        "rank": 136
+      },
+      {
+        "userId": "HrvKDM0jK6",
+        "name": "Carl Heiberg",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Adeptus Custodes",
+            "count": 1,
+            "score": 29.54,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.54"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "29.54",
+            "eventHobbyScore": "0.00",
+            "userId": "HrvKDM0jK6",
+            "rank": 14,
+            "army": "Adeptus Custodes",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 14,
+        "averageRank": 14,
+        "dtcScore": "29.54",
+        "hobbyScore": "0.00",
+        "rank": 137
       },
       {
         "userId": "PPE127GFRC",
@@ -8067,7 +8655,7 @@
         "averageRank": 24,
         "dtcScore": "29.13",
         "hobbyScore": "0.00",
-        "rank": 132
+        "rank": 138
       },
       {
         "userId": "LMks8noh2u",
@@ -8114,7 +8702,7 @@
         "averageRank": 17,
         "dtcScore": "27.92",
         "hobbyScore": "0.00",
-        "rank": 133
+        "rank": 139
       },
       {
         "userId": "YBBXMYGCY6",
@@ -8173,7 +8761,7 @@
         "averageRank": "15.5",
         "dtcScore": "27.79",
         "hobbyScore": "0.00",
-        "rank": 134
+        "rank": 140
       },
       {
         "userId": "VA0R2JW0LP",
@@ -8220,7 +8808,7 @@
         "averageRank": 23,
         "dtcScore": "27.30",
         "hobbyScore": "0.00",
-        "rank": 135
+        "rank": 141
       },
       {
         "userId": "3YNPKRQXXX",
@@ -8261,7 +8849,7 @@
         "averageRank": 25,
         "dtcScore": "27.19",
         "hobbyScore": "0.00",
-        "rank": 136
+        "rank": 142
       },
       {
         "userId": "Jt42YLEQTfk2",
@@ -8302,54 +8890,54 @@
         "averageRank": 69,
         "dtcScore": "26.36",
         "hobbyScore": "0.00",
-        "rank": 137
+        "rank": 143
       },
       {
-        "userId": "XN2D2WBTH9",
-        "name": "Tim Lamb",
+        "userId": "61t2okJcUl",
+        "name": "Martijn Versteeg",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Drukhari",
+            "name": "Blood Angels",
             "count": 1,
-            "score": 25.5,
+            "score": 26.25,
             "events": [
               {
-                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "eventId": "1SvECjIJFzLb",
-                "numberOfRounds": 5,
-                "eventDtcScore": "25.50"
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "26.25"
               }
             ]
           }
         ],
         "teams": [
           {
-            "name": "Friday Knights",
+            "name": "Hellstorm Wargaming",
             "count": 1
           }
         ],
         "events": [
           {
-            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "numberOfRounds": 5,
-            "eventDtcScore": "25.50",
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "26.25",
             "eventHobbyScore": "0.00",
-            "userId": "XN2D2WBTH9",
-            "rank": 18,
-            "army": "Drukhari",
-            "team": "Friday Knights",
+            "userId": "61t2okJcUl",
+            "rank": 15,
+            "army": "Blood Angels",
+            "team": "Hellstorm Wargaming",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 1.5,
-        "totalRank": 18,
-        "averageRank": 18,
-        "dtcScore": "25.50",
+        "numWins": 1,
+        "totalRank": 15,
+        "averageRank": 15,
+        "dtcScore": "26.25",
         "hobbyScore": "0.00",
-        "rank": 138
+        "rank": 144
       },
       {
         "userId": "6ZINtkpjUowB",
@@ -8390,7 +8978,7 @@
         "averageRank": 26,
         "dtcScore": "25.25",
         "hobbyScore": "0.00",
-        "rank": 139
+        "rank": 145
       },
       {
         "userId": "uJ4B4cQMIthi",
@@ -8437,7 +9025,7 @@
         "averageRank": 24,
         "dtcScore": "25.20",
         "hobbyScore": "0.00",
-        "rank": 140
+        "rank": 146
       },
       {
         "userId": "ML0R0JDN7V",
@@ -8484,7 +9072,7 @@
         "averageRank": 18,
         "dtcScore": "25.13",
         "hobbyScore": "3.00",
-        "rank": 141
+        "rank": 147
       },
       {
         "userId": "ZIMEvPWquB",
@@ -8531,139 +9119,7 @@
         "averageRank": 70,
         "dtcScore": "24.71",
         "hobbyScore": "0.00",
-        "rank": 142
-      },
-      {
-        "userId": "oPYw7BAg15",
-        "name": "Guus van den Berg",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 1,
-            "score": 9.85,
-            "events": [
-              {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
-                "numberOfRounds": 3,
-                "eventDtcScore": "9.85"
-              }
-            ]
-          },
-          {
-            "name": "Adeptus Mechanicus",
-            "count": 1,
-            "score": 14.83,
-            "events": [
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "14.83"
-              }
-            ]
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "14.83",
-            "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 76,
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "numberOfRounds": 3,
-            "eventDtcScore": "9.85",
-            "eventHobbyScore": "1.00",
-            "userId": "oPYw7BAg15",
-            "rank": 20,
-            "army": "Adeptus Astartes",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1.5,
-        "totalRank": 96,
-        "averageRank": "48.0",
-        "dtcScore": "24.68",
-        "hobbyScore": "1.00",
-        "rank": 143
-      },
-      {
-        "userId": "T7V0WBDC5C",
-        "name": "Mario Viranov",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Thousand Sons",
-            "count": 1,
-            "score": 5.1,
-            "events": [
-              {
-                "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "eventId": "1SvECjIJFzLb",
-                "numberOfRounds": 5,
-                "eventDtcScore": "5.10"
-              }
-            ]
-          },
-          {
-            "name": "Adeptus Mechanicus",
-            "count": 1,
-            "score": 19.42,
-            "events": [
-              {
-                "name": "North Sea Slam RTT 2025",
-                "eventId": "ydNZzdeWjzNV",
-                "numberOfRounds": 3,
-                "eventDtcScore": "19.42"
-              }
-            ]
-          }
-        ],
-        "teams": [],
-        "events": [
-          {
-            "name": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "numberOfRounds": 3,
-            "eventDtcScore": "19.42",
-            "eventHobbyScore": "0.00",
-            "userId": "T7V0WBDC5C",
-            "rank": 29,
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "numberOfRounds": 5,
-            "eventDtcScore": "5.10",
-            "eventHobbyScore": "0.00",
-            "userId": "T7V0WBDC5C",
-            "rank": 22,
-            "army": "Thousand Sons",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 51,
-        "averageRank": "25.5",
-        "dtcScore": "24.52",
-        "hobbyScore": "0.00",
-        "rank": 144
+        "rank": 148
       },
       {
         "userId": "K9JP4WTDME",
@@ -8736,54 +9192,48 @@
         "averageRank": "29.0",
         "dtcScore": "23.48",
         "hobbyScore": "0.00",
-        "rank": 145
+        "rank": 149
       },
       {
-        "userId": "j1q8untWVm",
-        "name": "Geert P",
+        "userId": "8XNY54Ruur",
+        "name": "Raoul Pechler",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Orks",
+            "name": "T'au Empire",
             "count": 1,
-            "score": 23.07,
+            "score": 22.97,
             "events": [
               {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "23.07"
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "22.97"
               }
             ]
           }
         ],
-        "teams": [
-          {
-            "name": "Warzone Presikhaaf",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "23.07",
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "22.97",
             "eventHobbyScore": "0.00",
-            "userId": "j1q8untWVm",
-            "rank": 71,
-            "army": "Orks",
-            "team": "Warzone Presikhaaf",
+            "userId": "8XNY54Ruur",
+            "rank": 16,
+            "army": "T'au Empire",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 2,
-        "totalRank": 71,
-        "averageRank": 71,
-        "dtcScore": "23.07",
+        "numWins": 1,
+        "totalRank": 16,
+        "averageRank": 16,
+        "dtcScore": "22.97",
         "hobbyScore": "0.00",
-        "rank": 146
+        "rank": 150
       },
       {
         "userId": "JDG8B8A1RU",
@@ -8830,7 +9280,7 @@
         "averageRank": 23,
         "dtcScore": "22.88",
         "hobbyScore": "0.00",
-        "rank": 147
+        "rank": 151
       },
       {
         "userId": "rlGxwEXHID",
@@ -8877,7 +9327,7 @@
         "averageRank": 14,
         "dtcScore": "22.71",
         "hobbyScore": "0.00",
-        "rank": 148
+        "rank": 152
       },
       {
         "userId": "vCUvmVLvsl",
@@ -8924,7 +9374,7 @@
         "averageRank": 19,
         "dtcScore": "22.34",
         "hobbyScore": "0.00",
-        "rank": 149
+        "rank": 153
       },
       {
         "userId": "W9RiXOS4TUXc",
@@ -8965,7 +9415,7 @@
         "averageRank": 28,
         "dtcScore": "21.36",
         "hobbyScore": "0.00",
-        "rank": 150
+        "rank": 154
       },
       {
         "userId": "MCKL8HM6RD",
@@ -9006,7 +9456,7 @@
         "averageRank": 26,
         "dtcScore": "21.00",
         "hobbyScore": "0.00",
-        "rank": 151
+        "rank": 155
       },
       {
         "userId": "7R35THCV43",
@@ -9053,7 +9503,7 @@
         "averageRank": 24,
         "dtcScore": "20.59",
         "hobbyScore": "0.00",
-        "rank": 152
+        "rank": 156
       },
       {
         "userId": "4AGGGY8HE1",
@@ -9094,7 +9544,54 @@
         "averageRank": 19,
         "dtcScore": "20.40",
         "hobbyScore": "0.00",
-        "rank": 153
+        "rank": 157
+      },
+      {
+        "userId": "UQdyi1C80T1d",
+        "name": "Mario Schilder",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 19.69,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "19.69"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Friday Knights",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "19.69",
+            "eventHobbyScore": "0.00",
+            "userId": "UQdyi1C80T1d",
+            "rank": 17,
+            "army": "Chaos Space Marines",
+            "team": "Friday Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 17,
+        "averageRank": 17,
+        "dtcScore": "19.69",
+        "hobbyScore": "0.00",
+        "rank": 158
       },
       {
         "userId": "HLJWUQLU50",
@@ -9141,7 +9638,7 @@
         "averageRank": 20,
         "dtcScore": "19.55",
         "hobbyScore": "1.00",
-        "rank": 154
+        "rank": 159
       },
       {
         "userId": "rzabCbO3PG",
@@ -9218,7 +9715,7 @@
         "averageRank": "22.0",
         "dtcScore": "19.20",
         "hobbyScore": "0.00",
-        "rank": 155
+        "rank": 160
       },
       {
         "userId": "J3hpUpBZiKGu",
@@ -9259,7 +9756,7 @@
         "averageRank": 15,
         "dtcScore": "18.92",
         "hobbyScore": "0.00",
-        "rank": 156
+        "rank": 161
       },
       {
         "userId": "WFkqq2PAcs",
@@ -9306,7 +9803,7 @@
         "averageRank": 25,
         "dtcScore": "18.30",
         "hobbyScore": "3.00",
-        "rank": 157
+        "rank": 162
       },
       {
         "userId": "JE4A0J0VH4",
@@ -9353,7 +9850,7 @@
         "averageRank": 74,
         "dtcScore": "18.12",
         "hobbyScore": "0.00",
-        "rank": 158
+        "rank": 163
       },
       {
         "userId": "co6Nr4ndNhgP",
@@ -9394,7 +9891,7 @@
         "averageRank": 30,
         "dtcScore": "17.48",
         "hobbyScore": "0.00",
-        "rank": 159
+        "rank": 164
       },
       {
         "userId": "4G7ZLYlUdtn2",
@@ -9435,7 +9932,7 @@
         "averageRank": 28,
         "dtcScore": "16.80",
         "hobbyScore": "0.00",
-        "rank": 160
+        "rank": 165
       },
       {
         "userId": "TsKv8DtE9kNn",
@@ -9476,7 +9973,73 @@
         "averageRank": 21,
         "dtcScore": "16.75",
         "hobbyScore": "0.00",
-        "rank": 161
+        "rank": 166
+      },
+      {
+        "userId": "130175QC7A",
+        "name": "Marco De Wit",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 2,
+            "score": 16.41,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "13.13"
+              },
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.28"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Friday Knights",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "13.13",
+            "eventHobbyScore": "0.00",
+            "userId": "130175QC7A",
+            "rank": 19,
+            "army": "Dark Angels",
+            "team": "Friday Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "numberOfRounds": 3,
+            "eventDtcScore": "3.28",
+            "eventHobbyScore": "0.00",
+            "userId": "130175QC7A",
+            "rank": 22,
+            "army": "Dark Angels",
+            "team": "Friday Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 41,
+        "averageRank": "20.5",
+        "dtcScore": "16.41",
+        "hobbyScore": "0.00",
+        "rank": 167
       },
       {
         "userId": "Ij8juDKKFC",
@@ -9523,7 +10086,7 @@
         "averageRank": 31,
         "dtcScore": "15.54",
         "hobbyScore": "0.00",
-        "rank": 162
+        "rank": 168
       },
       {
         "userId": "GVFWNJRQYF",
@@ -9570,7 +10133,7 @@
         "averageRank": 29,
         "dtcScore": "14.70",
         "hobbyScore": "0.00",
-        "rank": 163
+        "rank": 169
       },
       {
         "userId": "kztUuy5CB4",
@@ -9617,7 +10180,7 @@
         "averageRank": 22,
         "dtcScore": "13.96",
         "hobbyScore": "0.00",
-        "rank": 164
+        "rank": 170
       },
       {
         "userId": "h1ZJaVX3jSo2",
@@ -9658,7 +10221,7 @@
         "averageRank": 32,
         "dtcScore": "13.59",
         "hobbyScore": "0.00",
-        "rank": 165
+        "rank": 171
       },
       {
         "userId": "U7OCP7yS4hQ0",
@@ -9705,7 +10268,7 @@
         "averageRank": 33,
         "dtcScore": "11.65",
         "hobbyScore": "0.00",
-        "rank": 166
+        "rank": 172
       },
       {
         "userId": "L9ENNV6P84",
@@ -9752,7 +10315,7 @@
         "averageRank": 78,
         "dtcScore": "11.53",
         "hobbyScore": "0.00",
-        "rank": 167
+        "rank": 173
       },
       {
         "userId": "PNLE86B39N",
@@ -9793,7 +10356,7 @@
         "averageRank": 28,
         "dtcScore": "11.44",
         "hobbyScore": "0.00",
-        "rank": 168
+        "rank": 174
       },
       {
         "userId": "QBE4W30CMG",
@@ -9834,7 +10397,7 @@
         "averageRank": 23,
         "dtcScore": "11.17",
         "hobbyScore": "0.00",
-        "rank": 169
+        "rank": 175
       },
       {
         "userId": "WR8A54KX63",
@@ -9881,7 +10444,7 @@
         "averageRank": 31,
         "dtcScore": "10.50",
         "hobbyScore": "0.00",
-        "rank": 170
+        "rank": 176
       },
       {
         "userId": "KqHY8yzI5a9C",
@@ -9922,7 +10485,7 @@
         "averageRank": 21,
         "dtcScore": "10.20",
         "hobbyScore": "0.00",
-        "rank": 171
+        "rank": 177
       },
       {
         "userId": "nsWAsQLyy9",
@@ -9969,7 +10532,80 @@
         "averageRank": 79,
         "dtcScore": "9.89",
         "hobbyScore": "0.00",
-        "rank": 172
+        "rank": 178
+      },
+      {
+        "userId": "OVJxyn0EU4",
+        "name": "Sjap Horwitz",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Genestealer Cult",
+            "count": 1,
+            "score": 6.56,
+            "events": [
+              {
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
+                "numberOfRounds": 3,
+                "eventDtcScore": "6.56"
+              }
+            ]
+          },
+          {
+            "name": "Orks",
+            "count": 1,
+            "score": 3.3,
+            "events": [
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "3.30"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Submariners!",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "numberOfRounds": 3,
+            "eventDtcScore": "6.56",
+            "eventHobbyScore": "0.00",
+            "userId": "OVJxyn0EU4",
+            "rank": 21,
+            "army": "Genestealer Cult",
+            "team": "Submariners!",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "numberOfRounds": 6,
+            "eventDtcScore": "3.30",
+            "eventHobbyScore": "0.00",
+            "userId": "OVJxyn0EU4",
+            "rank": 83,
+            "army": "Orks",
+            "team": "Submariners!",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 104,
+        "averageRank": "52.0",
+        "dtcScore": "9.86",
+        "hobbyScore": "0.00",
+        "rank": 179
       },
       {
         "userId": "K5MAVVEHKN",
@@ -10016,7 +10652,7 @@
         "averageRank": 29,
         "dtcScore": "9.15",
         "hobbyScore": "0.00",
-        "rank": 173
+        "rank": 180
       },
       {
         "userId": "KN551ZmT5m",
@@ -10063,7 +10699,7 @@
         "averageRank": 16,
         "dtcScore": "8.44",
         "hobbyScore": "3.00",
-        "rank": 174
+        "rank": 181
       },
       {
         "userId": "5H0KJX3TLC",
@@ -10104,7 +10740,7 @@
         "averageRank": 32,
         "dtcScore": "8.40",
         "hobbyScore": "0.00",
-        "rank": 175
+        "rank": 182
       },
       {
         "userId": "XQJT0K78EQ",
@@ -10151,7 +10787,7 @@
         "averageRank": 24,
         "dtcScore": "8.38",
         "hobbyScore": "0.00",
-        "rank": 176
+        "rank": 183
       },
       {
         "userId": "NkjhsVr6Jl",
@@ -10198,7 +10834,7 @@
         "averageRank": 80,
         "dtcScore": "8.24",
         "hobbyScore": "0.00",
-        "rank": 177
+        "rank": 184
       },
       {
         "userId": "FW8TJMMXRH",
@@ -10245,7 +10881,7 @@
         "averageRank": 35,
         "dtcScore": "7.77",
         "hobbyScore": "0.00",
-        "rank": 178
+        "rank": 185
       },
       {
         "userId": "1VhSFwOkWI0B",
@@ -10292,7 +10928,7 @@
         "averageRank": 30,
         "dtcScore": "6.86",
         "hobbyScore": "0.00",
-        "rank": 179
+        "rank": 186
       },
       {
         "userId": "wgrsFgyAE6zr",
@@ -10333,7 +10969,7 @@
         "averageRank": 81,
         "dtcScore": "6.59",
         "hobbyScore": "0.00",
-        "rank": 180
+        "rank": 187
       },
       {
         "userId": "72NCAEEUG3",
@@ -10380,7 +11016,7 @@
         "averageRank": 21,
         "dtcScore": "6.56",
         "hobbyScore": "0.00",
-        "rank": 181
+        "rank": 188
       },
       {
         "userId": "BLB28PKJ5U",
@@ -10427,7 +11063,7 @@
         "averageRank": 33,
         "dtcScore": "6.30",
         "hobbyScore": "0.00",
-        "rank": 182
+        "rank": 189
       },
       {
         "userId": "UWZVHONxDa",
@@ -10474,7 +11110,7 @@
         "averageRank": 36,
         "dtcScore": "5.83",
         "hobbyScore": "0.00",
-        "rank": 183
+        "rank": 190
       },
       {
         "userId": "9KT26BA2W9",
@@ -10515,7 +11151,7 @@
         "averageRank": 25,
         "dtcScore": "5.58",
         "hobbyScore": "1.00",
-        "rank": 184
+        "rank": 191
       },
       {
         "userId": "1YBzQ7IxGR",
@@ -10562,7 +11198,7 @@
         "averageRank": 82,
         "dtcScore": "4.94",
         "hobbyScore": "0.00",
-        "rank": 185
+        "rank": 192
       },
       {
         "userId": "7DBR8NLMDA",
@@ -10609,91 +11245,38 @@
         "averageRank": 34,
         "dtcScore": "4.20",
         "hobbyScore": "0.00",
-        "rank": 186
+        "rank": 193
       },
       {
-        "userId": "OVJxyn0EU4",
-        "name": "Sjap Horwitz",
+        "userId": "xzRjeCRPS0bL",
+        "name": "Tom Blokker",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Orks",
-            "count": 1,
-            "score": 3.3,
-            "events": [
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "3.30"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Submariners!",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "numberOfRounds": 6,
-            "eventDtcScore": "3.30",
-            "eventHobbyScore": "0.00",
-            "userId": "OVJxyn0EU4",
-            "rank": 83,
-            "army": "Orks",
-            "team": "Submariners!",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 0,
-        "totalRank": 83,
-        "averageRank": 83,
-        "dtcScore": "3.30",
-        "hobbyScore": "0.00",
-        "rank": 187
-      },
-      {
-        "userId": "130175QC7A",
-        "name": "Marco De Wit",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Dark Angels",
+            "name": "Adeptus Astartes",
             "count": 1,
             "score": 3.28,
             "events": [
               {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
+                "name": "DTC40K ENTER THE TRAININCAGES",
+                "eventId": "DUBqj9Ipvs5u",
                 "numberOfRounds": 3,
                 "eventDtcScore": "3.28"
               }
             ]
           }
         ],
-        "teams": [
-          {
-            "name": "Friday Knights",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
+            "name": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
             "numberOfRounds": 3,
             "eventDtcScore": "3.28",
             "eventHobbyScore": "0.00",
-            "userId": "130175QC7A",
+            "userId": "xzRjeCRPS0bL",
             "rank": 22,
-            "army": "Dark Angels",
-            "team": "Friday Knights",
+            "army": "Adeptus Astartes",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -10703,7 +11286,7 @@
         "averageRank": 22,
         "dtcScore": "3.28",
         "hobbyScore": "0.00",
-        "rank": 188
+        "rank": 194
       },
       {
         "userId": "AMMLW31QTV",
@@ -10750,7 +11333,7 @@
         "averageRank": 32,
         "dtcScore": "2.29",
         "hobbyScore": "0.00",
-        "rank": 189
+        "rank": 195
       },
       {
         "userId": "1L7KJ9FFP1",
@@ -10797,7 +11380,7 @@
         "averageRank": 35,
         "dtcScore": "2.10",
         "hobbyScore": "0.00",
-        "rank": 190
+        "rank": 196
       },
       {
         "userId": "DA50H2AKJD",
@@ -10844,7 +11427,7 @@
         "averageRank": 38,
         "dtcScore": "1.94",
         "hobbyScore": "0.00",
-        "rank": 191
+        "rank": 197
       },
       {
         "userId": "VWFu62AcMB",
@@ -10885,7 +11468,7 @@
         "averageRank": 84,
         "dtcScore": "1.65",
         "hobbyScore": "0.00",
-        "rank": 192
+        "rank": 198
       }
     ]
   },
