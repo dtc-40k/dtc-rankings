@@ -46,10 +46,18 @@
             "playerId": "oAlaJi0kEF",
             "playerName": "Ruben Malschaert",
             "scores": [
+              102.6,
               72.2,
               71.9
             ],
             "topScoresWithEvents": [
+              {
+                "score": 102.6,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
               {
                 "score": 72.2,
                 "eventName": "DTC40K EASTER TRAININGCAGES",
@@ -66,6 +74,7 @@
               }
             ],
             "topScores": [
+              102.6,
               72.2,
               71.9
             ]
@@ -108,6 +117,14 @@
             "numberOfRounds": 5
           },
           {
+            "score": 102.6,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "oAlaJi0kEF",
+            "playerName": "Ruben Malschaert",
+            "numberOfRounds": 5
+          },
+          {
             "score": 72.2,
             "eventName": "DTC40K EASTER TRAININGCAGES",
             "eventId": "GsgybeLXuJ8T",
@@ -141,8 +158,8 @@
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "516.64",
-        "numEvents": 6,
+        "totalScore": "619.24",
+        "numEvents": 7,
         "topTeamScoresWithEvents": [
           {
             "score": 135.1,
@@ -152,6 +169,11 @@
           {
             "score": 112.2,
             "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 102.6,
+            "eventName": "Dutch Masters Mid Season GT",
             "numberOfRounds": 5
           },
           {
@@ -176,6 +198,419 @@
           }
         ],
         "rank": 1
+      },
+      {
+        "name": "Thomas' Angels",
+        "players": {
+          "2TNG4LQGY1": {
+            "playerId": "2TNG4LQGY1",
+            "playerName": "Stephan van der Vuurst",
+            "scores": [
+              69.72,
+              63.26
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.72,
+                "eventName": "[OE:S] Summer 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 63.26,
+                "eventName": "BKG Brawl",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.72,
+              63.26
+            ]
+          },
+          "AJ0WH8N83Q": {
+            "playerId": "AJ0WH8N83Q",
+            "playerName": "Martijn Carol",
+            "scores": [
+              54.6
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 54.6,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              54.6
+            ]
+          },
+          "aCgNrvM5ko": {
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "scores": [
+              105.45,
+              98.86,
+              4.22
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 105.45,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 98.86,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 4.22,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": false,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              105.45,
+              98.86,
+              4.22
+            ]
+          },
+          "taF4FcGA4u": {
+            "playerId": "taF4FcGA4u",
+            "playerName": "Aron Prinsen",
+            "scores": [
+              64.09,
+              49.23
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 64.09,
+                "eventName": "North Sea Slam RTT 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 49.23,
+                "eventName": "DTC40K EASTER TRAININGCAGES",
+                "numberOfRounds": 3,
+                "inTop7": false,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              64.09,
+              49.23
+            ]
+          },
+          "rErhoVCPjJ": {
+            "playerId": "rErhoVCPjJ",
+            "playerName": "Stefan Martens",
+            "scores": [
+              69.81
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.81,
+                "eventName": "[OE:S] Spring 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.81
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 105.45,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 98.86,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 69.81,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "rErhoVCPjJ",
+            "playerName": "Stefan Martens",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.72,
+            "eventName": "[OE:S] Summer 2025",
+            "eventId": "SDWqg0cNH9Co",
+            "playerId": "2TNG4LQGY1",
+            "playerName": "Stephan van der Vuurst",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 64.09,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "taF4FcGA4u",
+            "playerName": "Aron Prinsen",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 63.26,
+            "eventName": "BKG Brawl",
+            "eventId": "6TALoasNINMm",
+            "playerId": "2TNG4LQGY1",
+            "playerName": "Stephan van der Vuurst",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 54.6,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "AJ0WH8N83Q",
+            "playerName": "Martijn Carol",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 49.23,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "taF4FcGA4u",
+            "playerName": "Aron Prinsen",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 4.22,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "525.79",
+        "numEvents": 9,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 105.45,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 98.86,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 69.81,
+            "eventName": "[OE:S] Spring 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.72,
+            "eventName": "[OE:S] Summer 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 64.09,
+            "eventName": "North Sea Slam RTT 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 63.26,
+            "eventName": "BKG Brawl",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 54.6,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "name": "The Order",
+        "players": {
+          "j8WphFYeF8": {
+            "playerId": "j8WphFYeF8",
+            "playerName": "Jort Kassies",
+            "scores": [
+              107.1
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 107.1,
+                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              107.1
+            ]
+          },
+          "GLD52F7LC5": {
+            "playerId": "GLD52F7LC5",
+            "playerName": "Aat Niehot",
+            "scores": [
+              111.15,
+              69.92,
+              65.64,
+              55.77
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 111.15,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 69.92,
+                "eventName": "North Sea Slam RTT 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 65.64,
+                "eventName": "DTC40K ENTER THE TRAININCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              111.15,
+              69.92,
+              65.64
+            ]
+          },
+          "doASAKgaUX": {
+            "playerId": "doASAKgaUX",
+            "playerName": "Cees Jan Stam",
+            "scores": [
+              138.4
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 138.4,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              138.4
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 138.4,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "doASAKgaUX",
+            "playerName": "Cees Jan Stam",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 111.15,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "GLD52F7LC5",
+            "playerName": "Aat Niehot",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 107.1,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "playerId": "j8WphFYeF8",
+            "playerName": "Jort Kassies",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 69.92,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "GLD52F7LC5",
+            "playerName": "Aat Niehot",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "playerId": "GLD52F7LC5",
+            "playerName": "Aat Niehot",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 55.77,
+            "eventName": "[OE:S] Summer 2025",
+            "eventId": "SDWqg0cNH9Co",
+            "playerId": "GLD52F7LC5",
+            "playerName": "Aat Niehot",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "492.21",
+        "numEvents": 6,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 138.4,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 111.15,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 107.1,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 69.92,
+            "eventName": "North Sea Slam RTT 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 3
       },
       {
         "name": "wardice",
@@ -360,241 +795,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 2
-      },
-      {
-        "name": "Thomas' Angels",
-        "players": {
-          "2TNG4LQGY1": {
-            "playerId": "2TNG4LQGY1",
-            "playerName": "Stephan van der Vuurst",
-            "scores": [
-              69.72,
-              63.26
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.72,
-                "eventName": "[OE:S] Summer 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 63.26,
-                "eventName": "BKG Brawl",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.72,
-              63.26
-            ]
-          },
-          "AJ0WH8N83Q": {
-            "playerId": "AJ0WH8N83Q",
-            "playerName": "Martijn Carol",
-            "scores": [
-              54.6
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 54.6,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              54.6
-            ]
-          },
-          "aCgNrvM5ko": {
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
-            "scores": [
-              98.86,
-              4.22
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 98.86,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 4.22,
-                "eventName": "The Wardice Wargames Alpha",
-                "numberOfRounds": 3,
-                "inTop7": false,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              98.86,
-              4.22
-            ]
-          },
-          "taF4FcGA4u": {
-            "playerId": "taF4FcGA4u",
-            "playerName": "Aron Prinsen",
-            "scores": [
-              64.09,
-              49.23
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 64.09,
-                "eventName": "North Sea Slam RTT 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 49.23,
-                "eventName": "DTC40K EASTER TRAININGCAGES",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              64.09,
-              49.23
-            ]
-          },
-          "rErhoVCPjJ": {
-            "playerId": "rErhoVCPjJ",
-            "playerName": "Stefan Martens",
-            "scores": [
-              69.81
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.81,
-                "eventName": "[OE:S] Spring 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.81
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 98.86,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 69.81,
-            "eventName": "[OE:S] Spring 2025",
-            "eventId": "rd3c96pCs2OB",
-            "playerId": "rErhoVCPjJ",
-            "playerName": "Stefan Martens",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.72,
-            "eventName": "[OE:S] Summer 2025",
-            "eventId": "SDWqg0cNH9Co",
-            "playerId": "2TNG4LQGY1",
-            "playerName": "Stephan van der Vuurst",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 64.09,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "taF4FcGA4u",
-            "playerName": "Aron Prinsen",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 63.26,
-            "eventName": "BKG Brawl",
-            "eventId": "6TALoasNINMm",
-            "playerId": "2TNG4LQGY1",
-            "playerName": "Stephan van der Vuurst",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 54.6,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "AJ0WH8N83Q",
-            "playerName": "Martijn Carol",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 49.23,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "playerId": "taF4FcGA4u",
-            "playerName": "Aron Prinsen",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 4.22,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "aCgNrvM5ko",
-            "playerName": "Thomas Verkooijen",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "469.57",
-        "numEvents": 8,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 98.86,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 69.81,
-            "eventName": "[OE:S] Spring 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.72,
-            "eventName": "[OE:S] Summer 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 64.09,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 63.26,
-            "eventName": "BKG Brawl",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 54.6,
-            "eventName": "KvG - Eierbal Cup",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 49.23,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 3
+        "rank": 4
       },
       {
         "name": "LMG",
@@ -778,159 +979,6 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 4
-      },
-      {
-        "name": "The Order",
-        "players": {
-          "j8WphFYeF8": {
-            "playerId": "j8WphFYeF8",
-            "playerName": "Jort Kassies",
-            "scores": [
-              107.1
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 107.1,
-                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              107.1
-            ]
-          },
-          "GLD52F7LC5": {
-            "playerId": "GLD52F7LC5",
-            "playerName": "Aat Niehot",
-            "scores": [
-              69.92,
-              65.64,
-              55.77
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.92,
-                "eventName": "North Sea Slam RTT 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 65.64,
-                "eventName": "DTC40K ENTER THE TRAININCAGES",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 55.77,
-                "eventName": "[OE:S] Summer 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.92,
-              65.64,
-              55.77
-            ]
-          },
-          "doASAKgaUX": {
-            "playerId": "doASAKgaUX",
-            "playerName": "Cees Jan Stam",
-            "scores": [
-              138.4
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 138.4,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              138.4
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 138.4,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "doASAKgaUX",
-            "playerName": "Cees Jan Stam",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 107.1,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "playerId": "j8WphFYeF8",
-            "playerName": "Jort Kassies",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 69.92,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "GLD52F7LC5",
-            "playerName": "Aat Niehot",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 65.64,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "eventId": "DUBqj9Ipvs5u",
-            "playerId": "GLD52F7LC5",
-            "playerName": "Aat Niehot",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 55.77,
-            "eventName": "[OE:S] Summer 2025",
-            "eventId": "SDWqg0cNH9Co",
-            "playerId": "GLD52F7LC5",
-            "playerName": "Aat Niehot",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "436.83",
-        "numEvents": 5,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 138.4,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 107.1,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 69.92,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 65.64,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 55.77,
-            "eventName": "[OE:S] Summer 2025",
-            "numberOfRounds": 3
-          }
-        ],
         "rank": 5
       },
       {
@@ -1009,6 +1057,25 @@
             ],
             "topScores": [
               47.81
+            ]
+          },
+          "T9MWUD5W51": {
+            "playerId": "T9MWUD5W51",
+            "playerName": "Pieter 't Hoen",
+            "scores": [
+              14.25
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 14.25,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": false,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              14.25
             ]
           },
           "F8AHw2ib7x": {
@@ -1096,11 +1163,19 @@
             "playerId": "9YDM6RMUGT",
             "playerName": "Nic van ‘t Schip",
             "numberOfRounds": 3
+          },
+          {
+            "score": 14.25,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "T9MWUD5W51",
+            "playerName": "Pieter 't Hoen",
+            "numberOfRounds": 5
           }
         ],
         "teamEventPlayers": {},
         "totalScore": "418.19",
-        "numEvents": 7,
+        "numEvents": 8,
         "topTeamScoresWithEvents": [
           {
             "score": 102,
@@ -1141,6 +1216,137 @@
         "rank": 6
       },
       {
+        "name": "Mannen van het wapen",
+        "players": {
+          "MqROm67JZ9": {
+            "playerId": "MqROm67JZ9",
+            "playerName": "Fokke Dijkstra",
+            "scores": [
+              86.7
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 86.7,
+                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              86.7
+            ]
+          },
+          "jTKYUfh35b": {
+            "playerId": "jTKYUfh35b",
+            "playerName": "Martijn Van der Most",
+            "scores": [
+              114
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 114,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              114
+            ]
+          },
+          "fBbz9SqAAE": {
+            "playerId": "fBbz9SqAAE",
+            "playerName": "Daan Van Herk",
+            "scores": [
+              136.75,
+              71.86
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 136.75,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 71.86,
+                "eventName": "North Sea Slam RTT 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              136.75,
+              71.86
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 136.75,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "fBbz9SqAAE",
+            "playerName": "Daan Van Herk",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 114,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "jTKYUfh35b",
+            "playerName": "Martijn Van der Most",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 86.7,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "playerId": "MqROm67JZ9",
+            "playerName": "Fokke Dijkstra",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 71.86,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "fBbz9SqAAE",
+            "playerName": "Daan Van Herk",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "409.31",
+        "numEvents": 4,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 136.75,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 114,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 86.7,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 71.86,
+            "eventName": "North Sea Slam RTT 2025",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 7
+      },
+      {
         "name": "hired guns",
         "players": {
           "XQJT0K78EQ": {
@@ -1167,6 +1373,7 @@
             "playerName": "Arjan Fintelman",
             "scores": [
               115.33,
+              96.9,
               73.7,
               71.4
             ],
@@ -1179,15 +1386,15 @@
                 "isGTEvent": true
               },
               {
-                "score": 73.7,
-                "eventName": "[OE:S] Summer 2025",
-                "numberOfRounds": 3,
+                "score": 96.9,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
                 "inTop7": true,
-                "isGTEvent": false
+                "isGTEvent": true
               },
               {
-                "score": 71.4,
-                "eventName": "KvG - Eierbal Cup",
+                "score": 73.7,
+                "eventName": "[OE:S] Summer 2025",
                 "numberOfRounds": 3,
                 "inTop7": true,
                 "isGTEvent": false
@@ -1195,8 +1402,8 @@
             ],
             "topScores": [
               115.33,
-              73.7,
-              71.4
+              96.9,
+              73.7
             ]
           },
           "WHTMXCTK8N": {
@@ -1227,6 +1434,14 @@
             "playerId": "m1Cf1dFdAY",
             "playerName": "Arjan Fintelman",
             "numberOfRounds": 6
+          },
+          {
+            "score": 96.9,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "m1Cf1dFdAY",
+            "playerName": "Arjan Fintelman",
+            "numberOfRounds": 5
           },
           {
             "score": 73.7,
@@ -1262,8 +1477,8 @@
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "380.91",
-        "numEvents": 5,
+        "totalScore": "406.41",
+        "numEvents": 6,
         "topTeamScoresWithEvents": [
           {
             "score": 115.33,
@@ -1271,13 +1486,13 @@
             "numberOfRounds": 6
           },
           {
-            "score": 73.7,
-            "eventName": "[OE:S] Summer 2025",
-            "numberOfRounds": 3
+            "score": 96.9,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
           },
           {
-            "score": 71.4,
-            "eventName": "KvG - Eierbal Cup",
+            "score": 73.7,
+            "eventName": "[OE:S] Summer 2025",
             "numberOfRounds": 3
           },
           {
@@ -1291,7 +1506,277 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 7
+        "rank": 8
+      },
+      {
+        "name": "Koningen van Groningen",
+        "players": {
+          "NYLcU6mpnw": {
+            "playerId": "NYLcU6mpnw",
+            "playerName": "Simon \"Eierbal'' Borgers",
+            "scores": [
+              73.2,
+              67.2
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 73.2,
+                "eventName": "Legends of the North V10",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 67.2,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              73.2,
+              67.2
+            ]
+          },
+          "DP5X65B26U": {
+            "playerId": "DP5X65B26U",
+            "playerName": "Rob Heidenrijk",
+            "scores": [
+              85.5
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 85.5,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              85.5
+            ]
+          },
+          "fOQUt2qkaz": {
+            "playerId": "fOQUt2qkaz",
+            "playerName": "Florian den Uijl",
+            "scores": [
+              131.81
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 131.81,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              131.81
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 131.81,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "fOQUt2qkaz",
+            "playerName": "Florian den Uijl",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 85.5,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "DP5X65B26U",
+            "playerName": "Rob Heidenrijk",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 73.2,
+            "eventName": "Legends of the North V10",
+            "eventId": "E3chcfMTSRt3",
+            "playerId": "NYLcU6mpnw",
+            "playerName": "Simon \"Eierbal'' Borgers",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 67.2,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "NYLcU6mpnw",
+            "playerName": "Simon \"Eierbal'' Borgers",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "357.71",
+        "numEvents": 4,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 131.81,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 85.5,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 73.2,
+            "eventName": "Legends of the North V10",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 67.2,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "name": "Lost legion wargaming",
+        "players": {
+          "1G90AYL6C0": {
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "scores": [
+              92.27,
+              91.2,
+              76.5,
+              62.35,
+              55.79
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 92.27,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 91.2,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 76.5,
+                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              92.27,
+              91.2,
+              76.5
+            ]
+          },
+          "DKVE6UYJPR": {
+            "playerId": "DKVE6UYJPR",
+            "playerName": "Xandor Tollenaar",
+            "scores": [
+              42.18
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 42.18,
+                "eventName": "The Wardice Wargames Alpha",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              42.18
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 92.27,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 91.2,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 76.5,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "eventId": "1SvECjIJFzLb",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 62.35,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 55.79,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "playerId": "1G90AYL6C0",
+            "playerName": "Sjoerd Reiche",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 42.18,
+            "eventName": "The Wardice Wargames Alpha",
+            "eventId": "A4KFMVW5DB",
+            "playerId": "DKVE6UYJPR",
+            "playerName": "Xandor Tollenaar",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "302.15",
+        "numEvents": 6,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 92.27,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 91.2,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 76.5,
+            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 42.18,
+            "eventName": "The Wardice Wargames Alpha",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 10
       },
       {
         "name": "Het Brabantsche Krijgsspellengilde",
@@ -1434,257 +1919,158 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 8
+        "rank": 11
       },
       {
-        "name": "Mannen van het wapen",
+        "name": "Hive Novio",
         "players": {
-          "MqROm67JZ9": {
-            "playerId": "MqROm67JZ9",
-            "playerName": "Fokke Dijkstra",
+          "3QP4UY0C0M": {
+            "playerId": "3QP4UY0C0M",
+            "playerName": "Nick Van dijk",
             "scores": [
-              86.7
+              105.45,
+              67.48,
+              57,
+              15.94
             ],
             "topScoresWithEvents": [
               {
-                "score": 86.7,
-                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              86.7
-            ]
-          },
-          "fBbz9SqAAE": {
-            "playerId": "fBbz9SqAAE",
-            "playerName": "Daan Van Herk",
-            "scores": [
-              136.75,
-              71.86
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 136.75,
+                "score": 105.45,
                 "eventName": "The Gauntlet: Phoenix 40K GT",
                 "numberOfRounds": 6,
                 "inTop7": true,
                 "isGTEvent": true
               },
               {
-                "score": 71.86,
-                "eventName": "North Sea Slam RTT 2025",
+                "score": 67.48,
+                "eventName": "BKG Brawl",
                 "numberOfRounds": 3,
                 "inTop7": true,
                 "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              136.75,
-              71.86
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 136.75,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "fBbz9SqAAE",
-            "playerName": "Daan Van Herk",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 86.7,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "playerId": "MqROm67JZ9",
-            "playerName": "Fokke Dijkstra",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 71.86,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "fBbz9SqAAE",
-            "playerName": "Daan Van Herk",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "295.31",
-        "numEvents": 3,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 136.75,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 86.7,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 71.86,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 9
-      },
-      {
-        "name": "Lost legion wargaming",
-        "players": {
-          "1G90AYL6C0": {
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
-            "scores": [
-              92.27,
-              76.5,
-              62.35,
-              55.79
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 92.27,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
               },
               {
-                "score": 76.5,
-                "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+                "score": 57,
+                "eventName": "Dutch Masters Mid Season GT",
                 "numberOfRounds": 5,
                 "inTop7": true,
                 "isGTEvent": true
-              },
-              {
-                "score": 62.35,
-                "eventName": "DTC40K EASTER TRAININGCAGES",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
               }
             ],
             "topScores": [
-              92.27,
-              76.5,
-              62.35
+              105.45,
+              67.48,
+              57
             ]
           },
-          "DKVE6UYJPR": {
-            "playerId": "DKVE6UYJPR",
-            "playerName": "Xandor Tollenaar",
+          "NoszkIL0oj": {
+            "playerId": "NoszkIL0oj",
+            "playerName": "Rick Stallen",
             "scores": [
-              42.18
+              53.05
             ],
             "topScoresWithEvents": [
               {
-                "score": 42.18,
-                "eventName": "The Wardice Wargames Alpha",
+                "score": 53.05,
+                "eventName": "[OE:S] Spring 2025",
                 "numberOfRounds": 3,
                 "inTop7": true,
                 "isGTEvent": false
               }
             ],
             "topScores": [
-              42.18
+              53.05
             ]
           }
         },
         "eventScores": [
           {
-            "score": 92.27,
+            "score": 105.45,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
+            "playerId": "3QP4UY0C0M",
+            "playerName": "Nick Van dijk",
             "numberOfRounds": 6
           },
           {
-            "score": 76.5,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
-            "eventId": "1SvECjIJFzLb",
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
+            "score": 67.48,
+            "eventName": "BKG Brawl",
+            "eventId": "6TALoasNINMm",
+            "playerId": "3QP4UY0C0M",
+            "playerName": "Nick Van dijk",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 57,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "3QP4UY0C0M",
+            "playerName": "Nick Van dijk",
             "numberOfRounds": 5
           },
           {
-            "score": 62.35,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
+            "score": 53.05,
+            "eventName": "[OE:S] Spring 2025",
+            "eventId": "rd3c96pCs2OB",
+            "playerId": "NoszkIL0oj",
+            "playerName": "Rick Stallen",
             "numberOfRounds": 3
           },
           {
-            "score": 55.79,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "eventId": "DUBqj9Ipvs5u",
-            "playerId": "1G90AYL6C0",
-            "playerName": "Sjoerd Reiche",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 42.18,
-            "eventName": "The Wardice Wargames Alpha",
-            "eventId": "A4KFMVW5DB",
-            "playerId": "DKVE6UYJPR",
-            "playerName": "Xandor Tollenaar",
+            "score": 15.94,
+            "eventName": "[OE:S] Summer 2025",
+            "eventId": "SDWqg0cNH9Co",
+            "playerId": "3QP4UY0C0M",
+            "playerName": "Nick Van dijk",
             "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "273.30",
+        "totalScore": "282.98",
         "numEvents": 5,
         "topTeamScoresWithEvents": [
           {
-            "score": 92.27,
+            "score": 105.45,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "numberOfRounds": 6
           },
           {
-            "score": 76.5,
-            "eventName": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
+            "score": 67.48,
+            "eventName": "BKG Brawl",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 57,
+            "eventName": "Dutch Masters Mid Season GT",
             "numberOfRounds": 5
           },
           {
-            "score": 62.35,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 42.18,
-            "eventName": "The Wardice Wargames Alpha",
+            "score": 53.05,
+            "eventName": "[OE:S] Spring 2025",
             "numberOfRounds": 3
           }
         ],
-        "rank": 10
+        "rank": 12
       },
       {
-        "name": "Koningen van Groningen",
+        "name": "Warzone Presikhaaf",
         "players": {
-          "NYLcU6mpnw": {
-            "playerId": "NYLcU6mpnw",
-            "playerName": "Simon \"Eierbal'' Borgers",
+          "cgcimvdJ2E": {
+            "playerId": "cgcimvdJ2E",
+            "playerName": "JC van der Lee",
             "scores": [
-              73.2,
-              67.2
+              133.46,
+              63
             ],
             "topScoresWithEvents": [
               {
-                "score": 73.2,
-                "eventName": "Legends of the North V10",
-                "numberOfRounds": 3,
+                "score": 133.46,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
                 "inTop7": true,
-                "isGTEvent": false
+                "isGTEvent": true
               },
               {
-                "score": 67.2,
+                "score": 63,
                 "eventName": "KvG - Eierbal Cup",
                 "numberOfRounds": 3,
                 "inTop7": true,
@@ -1692,77 +2078,99 @@
               }
             ],
             "topScores": [
-              73.2,
-              67.2
+              133.46,
+              63
             ]
           },
-          "fOQUt2qkaz": {
-            "playerId": "fOQUt2qkaz",
-            "playerName": "Florian den Uijl",
+          "DA50H2AKJD": {
+            "playerId": "DA50H2AKJD",
+            "playerName": "Frits Zuidema",
             "scores": [
-              131.81
+              71.25,
+              1.94
             ],
             "topScoresWithEvents": [
               {
-                "score": 131.81,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
+                "score": 71.25,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
                 "inTop7": true,
                 "isGTEvent": true
+              },
+              {
+                "score": 1.94,
+                "eventName": "North Sea Slam RTT 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
               }
             ],
             "topScores": [
-              131.81
+              71.25,
+              1.94
             ]
           }
         },
         "eventScores": [
           {
-            "score": 131.81,
+            "score": 133.46,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
-            "playerId": "fOQUt2qkaz",
-            "playerName": "Florian den Uijl",
+            "playerId": "cgcimvdJ2E",
+            "playerName": "JC van der Lee",
             "numberOfRounds": 6
           },
           {
-            "score": 73.2,
-            "eventName": "Legends of the North V10",
-            "eventId": "E3chcfMTSRt3",
-            "playerId": "NYLcU6mpnw",
-            "playerName": "Simon \"Eierbal'' Borgers",
+            "score": 71.25,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "DA50H2AKJD",
+            "playerName": "Frits Zuidema",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 63,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "cgcimvdJ2E",
+            "playerName": "JC van der Lee",
             "numberOfRounds": 3
           },
           {
-            "score": 67.2,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "NYLcU6mpnw",
-            "playerName": "Simon \"Eierbal'' Borgers",
+            "score": 1.94,
+            "eventName": "North Sea Slam RTT 2025",
+            "eventId": "ydNZzdeWjzNV",
+            "playerId": "DA50H2AKJD",
+            "playerName": "Frits Zuidema",
             "numberOfRounds": 3
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "272.21",
-        "numEvents": 3,
+        "totalScore": "269.65",
+        "numEvents": 4,
         "topTeamScoresWithEvents": [
           {
-            "score": 131.81,
+            "score": 133.46,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "numberOfRounds": 6
           },
           {
-            "score": 73.2,
-            "eventName": "Legends of the North V10",
+            "score": 71.25,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 63,
+            "eventName": "KvG - Eierbal Cup",
             "numberOfRounds": 3
           },
           {
-            "score": 67.2,
-            "eventName": "KvG - Eierbal Cup",
+            "score": 1.94,
+            "eventName": "North Sea Slam RTT 2025",
             "numberOfRounds": 3
           }
         ],
-        "rank": 11
+        "rank": 13
       },
       {
         "name": "Tafelridder",
@@ -1893,128 +2301,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 12
-      },
-      {
-        "name": "Hive Novio",
-        "players": {
-          "3QP4UY0C0M": {
-            "playerId": "3QP4UY0C0M",
-            "playerName": "Nick Van dijk",
-            "scores": [
-              105.45,
-              67.48,
-              15.94
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 105.45,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 67.48,
-                "eventName": "BKG Brawl",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 15.94,
-                "eventName": "[OE:S] Summer 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              105.45,
-              67.48,
-              15.94
-            ]
-          },
-          "NoszkIL0oj": {
-            "playerId": "NoszkIL0oj",
-            "playerName": "Rick Stallen",
-            "scores": [
-              53.05
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 53.05,
-                "eventName": "[OE:S] Spring 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              53.05
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 105.45,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "3QP4UY0C0M",
-            "playerName": "Nick Van dijk",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 67.48,
-            "eventName": "BKG Brawl",
-            "eventId": "6TALoasNINMm",
-            "playerId": "3QP4UY0C0M",
-            "playerName": "Nick Van dijk",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 53.05,
-            "eventName": "[OE:S] Spring 2025",
-            "eventId": "rd3c96pCs2OB",
-            "playerId": "NoszkIL0oj",
-            "playerName": "Rick Stallen",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 15.94,
-            "eventName": "[OE:S] Summer 2025",
-            "eventId": "SDWqg0cNH9Co",
-            "playerId": "3QP4UY0C0M",
-            "playerName": "Nick Van dijk",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "241.92",
-        "numEvents": 4,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 105.45,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 67.48,
-            "eventName": "BKG Brawl",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 53.05,
-            "eventName": "[OE:S] Spring 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 15.94,
-            "eventName": "[OE:S] Summer 2025",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 13
+        "rank": 14
       },
       {
         "name": "Try Hard Wargaming",
@@ -2113,106 +2400,116 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 14
+        "rank": 15
       },
       {
-        "name": "Warzone Presikhaaf",
+        "name": "De Tafelridder",
         "players": {
-          "cgcimvdJ2E": {
-            "playerId": "cgcimvdJ2E",
-            "playerName": "JC van der Lee",
+          "5U542FLB8K": {
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
             "scores": [
-              133.46,
-              63
+              49.19
             ],
             "topScoresWithEvents": [
               {
-                "score": 133.46,
+                "score": 49.19,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              49.19
+            ]
+          },
+          "WB5G3VLK60": {
+            "playerId": "WB5G3VLK60",
+            "playerName": "Willem Nijgh",
+            "scores": [
+              17.1
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 17.1,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              17.1
+            ]
+          },
+          "X3XDkB0qni": {
+            "playerId": "X3XDkB0qni",
+            "playerName": "Stefan Hal",
+            "scores": [
+              102.15
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 102.15,
                 "eventName": "The Gauntlet: Phoenix 40K GT",
                 "numberOfRounds": 6,
                 "inTop7": true,
                 "isGTEvent": true
-              },
-              {
-                "score": 63,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
               }
             ],
             "topScores": [
-              133.46,
-              63
-            ]
-          },
-          "DA50H2AKJD": {
-            "playerId": "DA50H2AKJD",
-            "playerName": "Frits Zuidema",
-            "scores": [
-              1.94
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 1.94,
-                "eventName": "North Sea Slam RTT 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              1.94
+              102.15
             ]
           }
         },
         "eventScores": [
           {
-            "score": 133.46,
+            "score": 102.15,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "eventId": "jSUxBRHBHWaN",
-            "playerId": "cgcimvdJ2E",
-            "playerName": "JC van der Lee",
+            "playerId": "X3XDkB0qni",
+            "playerName": "Stefan Hal",
             "numberOfRounds": 6
           },
           {
-            "score": 63,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "cgcimvdJ2E",
-            "playerName": "JC van der Lee",
+            "score": 49.19,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "5U542FLB8K",
+            "playerName": "justin budding",
             "numberOfRounds": 3
           },
           {
-            "score": 1.94,
-            "eventName": "North Sea Slam RTT 2025",
-            "eventId": "ydNZzdeWjzNV",
-            "playerId": "DA50H2AKJD",
-            "playerName": "Frits Zuidema",
-            "numberOfRounds": 3
+            "score": 17.1,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "WB5G3VLK60",
+            "playerName": "Willem Nijgh",
+            "numberOfRounds": 5
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "198.40",
+        "totalScore": "168.44",
         "numEvents": 3,
         "topTeamScoresWithEvents": [
           {
-            "score": 133.46,
+            "score": 102.15,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "numberOfRounds": 6
           },
           {
-            "score": 63,
-            "eventName": "KvG - Eierbal Cup",
+            "score": 49.19,
+            "eventName": "The Wardice Wargames Beta",
             "numberOfRounds": 3
           },
           {
-            "score": 1.94,
-            "eventName": "North Sea Slam RTT 2025",
-            "numberOfRounds": 3
+            "score": 17.1,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
           }
         ],
-        "rank": 15
+        "rank": 16
       },
       {
         "name": "🦄💨👨‍👨‍👦‍👦",
@@ -2287,83 +2584,6 @@
             "score": 77.44,
             "eventName": "The Gauntlet: Phoenix 40K GT",
             "numberOfRounds": 6
-          }
-        ],
-        "rank": 16
-      },
-      {
-        "name": "De Tafelridder",
-        "players": {
-          "5U542FLB8K": {
-            "playerId": "5U542FLB8K",
-            "playerName": "justin budding",
-            "scores": [
-              49.19
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 49.19,
-                "eventName": "The Wardice Wargames Beta",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              49.19
-            ]
-          },
-          "X3XDkB0qni": {
-            "playerId": "X3XDkB0qni",
-            "playerName": "Stefan Hal",
-            "scores": [
-              102.15
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 102.15,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              102.15
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 102.15,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "X3XDkB0qni",
-            "playerName": "Stefan Hal",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 49.19,
-            "eventName": "The Wardice Wargames Beta",
-            "eventId": "UHF83PX9FE",
-            "playerId": "5U542FLB8K",
-            "playerName": "justin budding",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "151.34",
-        "numEvents": 2,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 102.15,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 49.19,
-            "eventName": "The Wardice Wargames Beta",
-            "numberOfRounds": 3
           }
         ],
         "rank": 17
@@ -2724,6 +2944,73 @@
         "rank": 22
       },
       {
+        "name": "Hellstorm Wargaming",
+        "players": {
+          "61t2okJcUl": {
+            "playerId": "61t2okJcUl",
+            "playerName": "Martijn Versteeg",
+            "scores": [
+              68.4,
+              26.25
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 68.4,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 26.25,
+                "eventName": "DTC40K ENTER THE TRAININCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              68.4,
+              26.25
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 68.4,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "61t2okJcUl",
+            "playerName": "Martijn Versteeg",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 26.25,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "playerId": "61t2okJcUl",
+            "playerName": "Martijn Versteeg",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "94.65",
+        "numEvents": 2,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 68.4,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 26.25,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 23
+      },
+      {
         "name": "Warriors Del Barrio",
         "players": {
           "L9z1rjeeaY": {
@@ -2810,7 +3097,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 23
+        "rank": 24
       },
       {
         "name": "Hiredguns",
@@ -2855,7 +3142,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 24
+        "rank": 25
       },
       {
         "name": "Friday Knights",
@@ -2954,7 +3241,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 25
+        "rank": 26
       },
       {
         "name": "Valhalla games club",
@@ -3021,7 +3308,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 26
+        "rank": 27
       },
       {
         "name": "Amsterdam Battle Brothers",
@@ -3066,7 +3353,52 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 27
+        "rank": 28
+      },
+      {
+        "name": "Turbo wargaming club",
+        "players": {
+          "13EN95VQPU": {
+            "playerId": "13EN95VQPU",
+            "playerName": "Peter Zuidgeest",
+            "scores": [
+              62.7
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 62.7,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              62.7
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 62.7,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "13EN95VQPU",
+            "playerName": "Peter Zuidgeest",
+            "numberOfRounds": 5
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "62.70",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 62.7,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          }
+        ],
+        "rank": 29
       },
       {
         "name": "Thomas Angels",
@@ -3111,7 +3443,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 28
+        "rank": 30
       },
       {
         "name": "Hammertime Oss",
@@ -3178,7 +3510,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 29
+        "rank": 31
       },
       {
         "name": "Southern Comfort",
@@ -3223,7 +3555,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 30
+        "rank": 32
       },
       {
         "name": "BOBER",
@@ -3268,7 +3600,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 31
+        "rank": 33
       },
       {
         "name": "Whorehammer Heresy",
@@ -3313,7 +3645,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 32
+        "rank": 34
       },
       {
         "name": "Sjaak's Army",
@@ -3358,7 +3690,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 33
+        "rank": 35
       },
       {
         "name": "Order of the Dice/Ex Orientis",
@@ -3403,7 +3735,7 @@
             "numberOfRounds": 6
           }
         ],
-        "rank": 34
+        "rank": 36
       },
       {
         "name": "Sector 070",
@@ -3448,52 +3780,52 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 35
+        "rank": 37
       },
       {
-        "name": "Hellstorm Wargaming",
+        "name": "Deventorium Prime",
         "players": {
-          "61t2okJcUl": {
-            "playerId": "61t2okJcUl",
-            "playerName": "Martijn Versteeg",
+          "ON6pIpOkhBHp": {
+            "playerId": "ON6pIpOkhBHp",
+            "playerName": "Jake van't Klaphek",
             "scores": [
-              26.25
+              28.5
             ],
             "topScoresWithEvents": [
               {
-                "score": 26.25,
-                "eventName": "DTC40K ENTER THE TRAININCAGES",
-                "numberOfRounds": 3,
+                "score": 28.5,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
                 "inTop7": true,
-                "isGTEvent": false
+                "isGTEvent": true
               }
             ],
             "topScores": [
-              26.25
+              28.5
             ]
           }
         },
         "eventScores": [
           {
-            "score": 26.25,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "eventId": "DUBqj9Ipvs5u",
-            "playerId": "61t2okJcUl",
-            "playerName": "Martijn Versteeg",
-            "numberOfRounds": 3
+            "score": 28.5,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "ON6pIpOkhBHp",
+            "playerName": "Jake van't Klaphek",
+            "numberOfRounds": 5
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "26.25",
+        "totalScore": "28.50",
         "numEvents": 1,
         "topTeamScoresWithEvents": [
           {
-            "score": 26.25,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "numberOfRounds": 3
+            "score": 28.5,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
           }
         ],
-        "rank": 36
+        "rank": 38
       },
       {
         "name": "Hammertime",
@@ -3538,7 +3870,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 37
+        "rank": 39
       },
       {
         "name": "Submariners!",
@@ -3615,7 +3947,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 38
+        "rank": 40
       },
       {
         "name": "RSWL",
@@ -3660,7 +3992,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 39
+        "rank": 41
       },
       {
         "name": "Calimero",
@@ -3705,7 +4037,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 40
+        "rank": 42
       }
     ]
   },
