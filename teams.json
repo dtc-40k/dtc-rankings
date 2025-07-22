@@ -61,13 +61,32 @@
                 "score": 56.32,
                 "eventName": "North Sea Slam RTT 2025",
                 "numberOfRounds": 3,
-                "inTop7": true,
+                "inTop7": false,
                 "isGTEvent": false
               }
             ],
             "topScores": [
               77.95,
               56.32
+            ]
+          },
+          "zIsZB85fkZ": {
+            "playerId": "zIsZB85fkZ",
+            "playerName": "Brian Lijs",
+            "scores": [
+              68.38
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 68.38,
+                "eventName": "Legends of the North V11",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              68.38
             ]
           },
           "oAlaJi0kEF": {
@@ -166,6 +185,14 @@
             "numberOfRounds": 3
           },
           {
+            "score": 68.38,
+            "eventName": "Legends of the North V11",
+            "eventId": "A90JSwXpjDrZ",
+            "playerId": "zIsZB85fkZ",
+            "playerName": "Brian Lijs",
+            "numberOfRounds": 3
+          },
+          {
             "score": 56.32,
             "eventName": "North Sea Slam RTT 2025",
             "eventId": "ydNZzdeWjzNV",
@@ -175,8 +202,8 @@
           }
         ],
         "teamEventPlayers": {},
-        "totalScore": "619.24",
-        "numEvents": 8,
+        "totalScore": "631.30",
+        "numEvents": 9,
         "topTeamScoresWithEvents": [
           {
             "score": 135.1,
@@ -209,8 +236,8 @@
             "numberOfRounds": 3
           },
           {
-            "score": 56.32,
-            "eventName": "North Sea Slam RTT 2025",
+            "score": 68.38,
+            "eventName": "Legends of the North V11",
             "numberOfRounds": 3
           }
         ],
@@ -273,6 +300,7 @@
               105.45,
               98.86,
               95.28,
+              51.88,
               4.22
             ],
             "topScoresWithEvents": [
@@ -418,6 +446,14 @@
             "numberOfRounds": 3
           },
           {
+            "score": 51.88,
+            "eventName": "Legends of the North V11",
+            "eventId": "A90JSwXpjDrZ",
+            "playerId": "aCgNrvM5ko",
+            "playerName": "Thomas Verkooijen",
+            "numberOfRounds": 3
+          },
+          {
             "score": 49.23,
             "eventName": "DTC40K EASTER TRAININGCAGES",
             "eventId": "GsgybeLXuJ8T",
@@ -436,7 +472,7 @@
         ],
         "teamEventPlayers": {},
         "totalScore": "566.47",
-        "numEvents": 10,
+        "numEvents": 11,
         "topTeamScoresWithEvents": [
           {
             "score": 105.45,
@@ -475,6 +511,240 @@
           }
         ],
         "rank": 2
+      },
+      {
+        "name": "LMG",
+        "players": {
+          "N5EBDV4EXR": {
+            "playerId": "N5EBDV4EXR",
+            "playerName": "Matthijs Kuiper",
+            "scores": [
+              69.3
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 69.3,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              69.3
+            ]
+          },
+          "11UVudMFZ4": {
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "scores": [
+              121.92,
+              112.6,
+              72.2,
+              71.7,
+              70.91,
+              65.64
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 121.92,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 112.6,
+                "eventName": "North Sea Slam GT RottenHammer",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 72.2,
+                "eventName": "DTC40K ENTER THE TRAININCAGES",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              121.92,
+              112.6,
+              72.2
+            ]
+          },
+          "8H4TWK6ABJ": {
+            "playerId": "8H4TWK6ABJ",
+            "playerName": "Mart Seijst, van",
+            "scores": [
+              73.1
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 73.1,
+                "eventName": "Legends of the North V11",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              73.1
+            ]
+          },
+          "FaF3dECqaz": {
+            "playerId": "FaF3dECqaz",
+            "playerName": "Lennaert Tjallingii",
+            "scores": [
+              71.71,
+              41.63
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 71.71,
+                "eventName": "[OE:S] Summer 2025",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 41.63,
+                "eventName": "The Wardice Wargames Beta",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              71.71,
+              41.63
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 121.92,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 112.6,
+            "eventName": "North Sea Slam GT RottenHammer",
+            "eventId": "9aSmRUbYDzy4",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 73.1,
+            "eventName": "Legends of the North V11",
+            "eventId": "A90JSwXpjDrZ",
+            "playerId": "8H4TWK6ABJ",
+            "playerName": "Mart Seijst, van",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 72.2,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "eventId": "DUBqj9Ipvs5u",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 71.71,
+            "eventName": "[OE:S] Summer 2025",
+            "eventId": "SDWqg0cNH9Co",
+            "playerId": "FaF3dECqaz",
+            "playerName": "Lennaert Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 71.7,
+            "eventName": "The Wardice Wargames Bravo Bravo",
+            "eventId": "B0KgYNPjnP7m",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 70.91,
+            "eventName": "Legends of the North V10",
+            "eventId": "E3chcfMTSRt3",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.3,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "N5EBDV4EXR",
+            "playerName": "Matthijs Kuiper",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 65.64,
+            "eventName": "DTC40K EASTER TRAININGCAGES",
+            "eventId": "GsgybeLXuJ8T",
+            "playerId": "11UVudMFZ4",
+            "playerName": "Laurens Tjallingii",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 41.63,
+            "eventName": "The Wardice Wargames Beta",
+            "eventId": "UHF83PX9FE",
+            "playerId": "FaF3dECqaz",
+            "playerName": "Lennaert Tjallingii",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "562.46",
+        "numEvents": 10,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 121.92,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 112.6,
+            "eventName": "North Sea Slam GT RottenHammer",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 73.1,
+            "eventName": "Legends of the North V11",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 72.2,
+            "eventName": "DTC40K ENTER THE TRAININCAGES",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 71.71,
+            "eventName": "[OE:S] Summer 2025",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 69.3,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 41.63,
+            "eventName": "The Wardice Wargames Beta",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 3
       },
       {
         "name": "wardice",
@@ -681,7 +951,192 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 3
+        "rank": 4
+      },
+      {
+        "name": "Koningen van Groningen",
+        "players": {
+          "NYLcU6mpnw": {
+            "playerId": "NYLcU6mpnw",
+            "playerName": "Simon \"Eierbal'' Borgers",
+            "scores": [
+              73.2,
+              67.2
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 73.2,
+                "eventName": "Legends of the North V10",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              },
+              {
+                "score": 67.2,
+                "eventName": "KvG - Eierbal Cup",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              73.2,
+              67.2
+            ]
+          },
+          "fOQUt2qkaz": {
+            "playerId": "fOQUt2qkaz",
+            "playerName": "Florian den Uijl",
+            "scores": [
+              131.81,
+              90.95
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 131.81,
+                "eventName": "The Gauntlet: Phoenix 40K GT",
+                "numberOfRounds": 6,
+                "inTop7": true,
+                "isGTEvent": true
+              },
+              {
+                "score": 90.95,
+                "eventName": "North Sea Slam GT RottenHammer",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              131.81,
+              90.95
+            ]
+          },
+          "CM4VFT5ACG": {
+            "playerId": "CM4VFT5ACG",
+            "playerName": "Alpheaus Feltham",
+            "scores": [
+              70.74
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 70.74,
+                "eventName": "Legends of the North V11",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              70.74
+            ]
+          },
+          "DP5X65B26U": {
+            "playerId": "DP5X65B26U",
+            "playerName": "Rob Heidenrijk",
+            "scores": [
+              85.5
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 85.5,
+                "eventName": "Dutch Masters Mid Season GT",
+                "numberOfRounds": 5,
+                "inTop7": true,
+                "isGTEvent": true
+              }
+            ],
+            "topScores": [
+              85.5
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 131.81,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "eventId": "jSUxBRHBHWaN",
+            "playerId": "fOQUt2qkaz",
+            "playerName": "Florian den Uijl",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 90.95,
+            "eventName": "North Sea Slam GT RottenHammer",
+            "eventId": "9aSmRUbYDzy4",
+            "playerId": "fOQUt2qkaz",
+            "playerName": "Florian den Uijl",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 85.5,
+            "eventName": "Dutch Masters Mid Season GT",
+            "eventId": "drOnU2HqzGmM",
+            "playerId": "DP5X65B26U",
+            "playerName": "Rob Heidenrijk",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 73.2,
+            "eventName": "Legends of the North V10",
+            "eventId": "E3chcfMTSRt3",
+            "playerId": "NYLcU6mpnw",
+            "playerName": "Simon \"Eierbal'' Borgers",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 70.74,
+            "eventName": "Legends of the North V11",
+            "eventId": "A90JSwXpjDrZ",
+            "playerId": "CM4VFT5ACG",
+            "playerName": "Alpheaus Feltham",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 67.2,
+            "eventName": "KvG - Eierbal Cup",
+            "eventId": "7so8mbbih2EW",
+            "playerId": "NYLcU6mpnw",
+            "playerName": "Simon \"Eierbal'' Borgers",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "519.40",
+        "numEvents": 6,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 131.81,
+            "eventName": "The Gauntlet: Phoenix 40K GT",
+            "numberOfRounds": 6
+          },
+          {
+            "score": 90.95,
+            "eventName": "North Sea Slam GT RottenHammer",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 85.5,
+            "eventName": "Dutch Masters Mid Season GT",
+            "numberOfRounds": 5
+          },
+          {
+            "score": 73.2,
+            "eventName": "Legends of the North V10",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 70.74,
+            "eventName": "Legends of the North V11",
+            "numberOfRounds": 3
+          },
+          {
+            "score": 67.2,
+            "eventName": "KvG - Eierbal Cup",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 5
       },
       {
         "name": "The Order",
@@ -860,209 +1315,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 4
-      },
-      {
-        "name": "LMG",
-        "players": {
-          "N5EBDV4EXR": {
-            "playerId": "N5EBDV4EXR",
-            "playerName": "Matthijs Kuiper",
-            "scores": [
-              69.3
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 69.3,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              69.3
-            ]
-          },
-          "11UVudMFZ4": {
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "scores": [
-              121.92,
-              112.6,
-              72.2,
-              71.7,
-              70.91,
-              65.64
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 121.92,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 112.6,
-                "eventName": "North Sea Slam GT RottenHammer",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 72.2,
-                "eventName": "DTC40K ENTER THE TRAININCAGES",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              121.92,
-              112.6,
-              72.2
-            ]
-          },
-          "FaF3dECqaz": {
-            "playerId": "FaF3dECqaz",
-            "playerName": "Lennaert Tjallingii",
-            "scores": [
-              71.71,
-              41.63
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 71.71,
-                "eventName": "[OE:S] Summer 2025",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 41.63,
-                "eventName": "The Wardice Wargames Beta",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              71.71,
-              41.63
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 121.92,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 112.6,
-            "eventName": "North Sea Slam GT RottenHammer",
-            "eventId": "9aSmRUbYDzy4",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 72.2,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "eventId": "DUBqj9Ipvs5u",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 71.71,
-            "eventName": "[OE:S] Summer 2025",
-            "eventId": "SDWqg0cNH9Co",
-            "playerId": "FaF3dECqaz",
-            "playerName": "Lennaert Tjallingii",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 71.7,
-            "eventName": "The Wardice Wargames Bravo Bravo",
-            "eventId": "B0KgYNPjnP7m",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 70.91,
-            "eventName": "Legends of the North V10",
-            "eventId": "E3chcfMTSRt3",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.3,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "N5EBDV4EXR",
-            "playerName": "Matthijs Kuiper",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 65.64,
-            "eventName": "DTC40K EASTER TRAININGCAGES",
-            "eventId": "GsgybeLXuJ8T",
-            "playerId": "11UVudMFZ4",
-            "playerName": "Laurens Tjallingii",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 41.63,
-            "eventName": "The Wardice Wargames Beta",
-            "eventId": "UHF83PX9FE",
-            "playerId": "FaF3dECqaz",
-            "playerName": "Lennaert Tjallingii",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "489.36",
-        "numEvents": 9,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 121.92,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 112.6,
-            "eventName": "North Sea Slam GT RottenHammer",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 72.2,
-            "eventName": "DTC40K ENTER THE TRAININCAGES",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 71.71,
-            "eventName": "[OE:S] Summer 2025",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 69.3,
-            "eventName": "KvG - Eierbal Cup",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 41.63,
-            "eventName": "The Wardice Wargames Beta",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 5
+        "rank": 6
       },
       {
         "name": "Mannen van het wapen",
@@ -1229,159 +1482,6 @@
           {
             "score": 50.61,
             "eventName": "The Wardice Wargames Bravo Bravo",
-            "numberOfRounds": 3
-          }
-        ],
-        "rank": 6
-      },
-      {
-        "name": "Koningen van Groningen",
-        "players": {
-          "NYLcU6mpnw": {
-            "playerId": "NYLcU6mpnw",
-            "playerName": "Simon \"Eierbal'' Borgers",
-            "scores": [
-              73.2,
-              67.2
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 73.2,
-                "eventName": "Legends of the North V10",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              },
-              {
-                "score": 67.2,
-                "eventName": "KvG - Eierbal Cup",
-                "numberOfRounds": 3,
-                "inTop7": true,
-                "isGTEvent": false
-              }
-            ],
-            "topScores": [
-              73.2,
-              67.2
-            ]
-          },
-          "fOQUt2qkaz": {
-            "playerId": "fOQUt2qkaz",
-            "playerName": "Florian den Uijl",
-            "scores": [
-              131.81,
-              90.95
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 131.81,
-                "eventName": "The Gauntlet: Phoenix 40K GT",
-                "numberOfRounds": 6,
-                "inTop7": true,
-                "isGTEvent": true
-              },
-              {
-                "score": 90.95,
-                "eventName": "North Sea Slam GT RottenHammer",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              131.81,
-              90.95
-            ]
-          },
-          "DP5X65B26U": {
-            "playerId": "DP5X65B26U",
-            "playerName": "Rob Heidenrijk",
-            "scores": [
-              85.5
-            ],
-            "topScoresWithEvents": [
-              {
-                "score": 85.5,
-                "eventName": "Dutch Masters Mid Season GT",
-                "numberOfRounds": 5,
-                "inTop7": true,
-                "isGTEvent": true
-              }
-            ],
-            "topScores": [
-              85.5
-            ]
-          }
-        },
-        "eventScores": [
-          {
-            "score": 131.81,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "eventId": "jSUxBRHBHWaN",
-            "playerId": "fOQUt2qkaz",
-            "playerName": "Florian den Uijl",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 90.95,
-            "eventName": "North Sea Slam GT RottenHammer",
-            "eventId": "9aSmRUbYDzy4",
-            "playerId": "fOQUt2qkaz",
-            "playerName": "Florian den Uijl",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 85.5,
-            "eventName": "Dutch Masters Mid Season GT",
-            "eventId": "drOnU2HqzGmM",
-            "playerId": "DP5X65B26U",
-            "playerName": "Rob Heidenrijk",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 73.2,
-            "eventName": "Legends of the North V10",
-            "eventId": "E3chcfMTSRt3",
-            "playerId": "NYLcU6mpnw",
-            "playerName": "Simon \"Eierbal'' Borgers",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 67.2,
-            "eventName": "KvG - Eierbal Cup",
-            "eventId": "7so8mbbih2EW",
-            "playerId": "NYLcU6mpnw",
-            "playerName": "Simon \"Eierbal'' Borgers",
-            "numberOfRounds": 3
-          }
-        ],
-        "teamEventPlayers": {},
-        "totalScore": "448.66",
-        "numEvents": 5,
-        "topTeamScoresWithEvents": [
-          {
-            "score": 131.81,
-            "eventName": "The Gauntlet: Phoenix 40K GT",
-            "numberOfRounds": 6
-          },
-          {
-            "score": 90.95,
-            "eventName": "North Sea Slam GT RottenHammer",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 85.5,
-            "eventName": "Dutch Masters Mid Season GT",
-            "numberOfRounds": 5
-          },
-          {
-            "score": 73.2,
-            "eventName": "Legends of the North V10",
-            "numberOfRounds": 3
-          },
-          {
-            "score": 67.2,
-            "eventName": "KvG - Eierbal Cup",
             "numberOfRounds": 3
           }
         ],
@@ -4452,6 +4552,51 @@
         "rank": 44
       },
       {
+        "name": "Clubloos :(",
+        "players": {
+          "44VG9198MP": {
+            "playerId": "44VG9198MP",
+            "playerName": "Fernando Elderson",
+            "scores": [
+              11.79
+            ],
+            "topScoresWithEvents": [
+              {
+                "score": 11.79,
+                "eventName": "Legends of the North V11",
+                "numberOfRounds": 3,
+                "inTop7": true,
+                "isGTEvent": false
+              }
+            ],
+            "topScores": [
+              11.79
+            ]
+          }
+        },
+        "eventScores": [
+          {
+            "score": 11.79,
+            "eventName": "Legends of the North V11",
+            "eventId": "A90JSwXpjDrZ",
+            "playerId": "44VG9198MP",
+            "playerName": "Fernando Elderson",
+            "numberOfRounds": 3
+          }
+        ],
+        "teamEventPlayers": {},
+        "totalScore": "11.79",
+        "numEvents": 1,
+        "topTeamScoresWithEvents": [
+          {
+            "score": 11.79,
+            "eventName": "Legends of the North V11",
+            "numberOfRounds": 3
+          }
+        ],
+        "rank": 45
+      },
+      {
         "name": "Dreadnought Daddies",
         "players": {
           "3CsaBwdRVz": {
@@ -4494,7 +4639,7 @@
             "numberOfRounds": 5
           }
         ],
-        "rank": 45
+        "rank": 46
       },
       {
         "name": "Calimero",
@@ -4539,7 +4684,7 @@
             "numberOfRounds": 3
           }
         ],
-        "rank": 46
+        "rank": 47
       }
     ]
   },
