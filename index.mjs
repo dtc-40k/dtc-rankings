@@ -474,130 +474,189 @@ const generateHobbyScores = (rankings) => {
 };
 
 const calculateTeamRanking = (events) => {
-  // Hergebruik calculateTeamRanking functie van TeamRankings.jsx
   let teamRankings = {};
 
+  // Phase 1: Collect ALL player scores for each team (not just the highest per event)
   events.forEach((event) => {
-    const eventTeamScores = {};
     event.eventPlayers.forEach((player) => {
       if (player.team && player.team.name) {
         const teamName = player.team.name.trim();
-        if (!eventTeamScores[teamName] || Number(player.dtcScore) > Number(eventTeamScores[teamName].score)) {
-          eventTeamScores[teamName] = {
-            score: player.dtcScore,
-            playerId: player.userId,
-            playerName: `${player.firstName} ${player.lastName}`,
-            eventId: event.id,
-            eventName: event.name,
-            playerObject: player,
-            numberOfRounds: player.event.numberOfRounds, // Voeg numberOfRounds toe
+        
+        if (!teamRankings[teamName]) {
+          teamRankings[teamName] = {
+            name: teamName,
+            players: {},
+            allPlayerEventScores: [], // Store ALL player-event combinations
+            totalScore: 0,
+            numEvents: 0,
           };
         }
+        
+        const team = teamRankings[teamName];
+        const playerId = player.userId;
+        const playerName = `${player.firstName} ${player.lastName}`;
+        
+        // Store this player-event combination
+        team.allPlayerEventScores.push({
+          score: Number(player.dtcScore),
+          eventName: event.name,
+          eventId: event.id,
+          playerId: playerId,
+          playerName: playerName,
+          numberOfRounds: player.event.numberOfRounds,
+          player: player,
+        });
+        
+        // Initialize player if needed
+        if (!team.players[playerId]) {
+          team.players[playerId] = {
+            playerId: playerId,
+            playerName: playerName,
+            player: player,
+            eventScores: [],
+            topScoresWithEvents: [],
+          };
+        }
+        
+        // Add this event score to the player's list
+        team.players[playerId].eventScores.push({
+          score: Number(player.dtcScore),
+          eventName: event.name,
+          eventId: event.id,
+          numberOfRounds: player.event.numberOfRounds,
+        });
       }
     });
-
-    for (const teamName in eventTeamScores) {
-      const eventScore = eventTeamScores[teamName];
-      if (!teamRankings[teamName]) {
-        teamRankings[teamName] = {
-          name: teamName,
-          players: {},
-          eventScores: [],
-          teamEventPlayers: {},
-          totalScore: 0,
-          numEvents: 0,
-        };
-      }
-      const team = teamRankings[teamName];
-      team.numEvents += 1;
-      team.eventScores.push({
-        score: Number(eventScore.score),
-        eventName: eventScore.eventName,
-        eventId: eventScore.eventId,
-        playerId: eventScore.playerId,
-        playerName: eventScore.playerName,
-        // player: eventScore.playerObject,
-        numberOfRounds: eventScore.numberOfRounds, // Voeg numberOfRounds toe
-      });
-      if (!teamRankings[teamName].players[eventScore.playerId]) {
-        // Gebruik teamRankings.team.players
-        teamRankings[teamName].players[eventScore.playerId] = {
-          playerId: eventScore.playerId,
-          playerName: eventScore.playerName,
-          scores: [],
-          topScoresWithEvents: [],
-          // player: eventScore.playerObject,
-        };
-      }
-      teamRankings[teamName].players[eventScore.playerId].scores.push(Number(eventScore.score)); // Gebruik teamRankings.team.players
-    }
   });
 
-  // Calculate team total score based on rules and identify contributing scores
+  // Phase 2: Calculate optimal team scores
   for (const teamName in teamRankings) {
     const team = teamRankings[teamName];
-    let allPlayerTopScoresWithEvents = [];
-
-    for (const playerId in team.players) {
-      const player = team.players[playerId];
-      player.scores.sort((a, b) => b - a);
-      const topPlayerScores = player.scores.slice(0, 3);
-
-      const topScoresWithEvents = topPlayerScores.map((score) => {
-        const eventForScore = team.eventScores.find((es) => es.playerId === playerId && Number(es.score) === score);
-        return {
-          score,
-          eventName: eventForScore ? eventForScore.eventName : 'Unknown Event',
-          numberOfRounds: eventForScore?.numberOfRounds,
-        }; // Voeg numberOfRounds toe
-      });
-      team.players[playerId].topScoresWithEvents = topScoresWithEvents;
-      allPlayerTopScoresWithEvents = [...allPlayerTopScoresWithEvents, ...topScoresWithEvents];
-      player.topScores = topPlayerScores;
+    
+    // Create a list of all possible player-event combinations with scores
+    let allCombinations = team.allPlayerEventScores.map(score => ({
+      ...score,
+      eventKey: `${score.eventId}`,
+    }));
+    
+    // Sort by score descending to prioritize highest scores
+    allCombinations.sort((a, b) => b.score - a.score);
+    
+    // Track assignments
+    const assignedEvents = new Set();
+    const playerEventCount = {};
+    let allAssignedScores = [];
+    
+    // Greedy algorithm: Take the highest available score that satisfies constraints
+    for (const combination of allCombinations) {
+      if (allAssignedScores.length >= 7) break;
+      
+      const playerId = combination.playerId;
+      const eventKey = combination.eventKey;
+      
+      // Initialize player count if needed
+      if (!playerEventCount[playerId]) {
+        playerEventCount[playerId] = 0;
+      }
+      
+      // Check constraints
+      if (!assignedEvents.has(eventKey) && playerEventCount[playerId] < 3) {
+        // This is a valid assignment
+        allAssignedScores.push({
+          score: combination.score,
+          eventName: combination.eventName,
+          eventId: combination.eventId,
+          numberOfRounds: combination.numberOfRounds,
+          playerId: playerId,
+          playerName: combination.playerName,
+        });
+        
+        assignedEvents.add(eventKey);
+        playerEventCount[playerId]++;
+      }
     }
-
-    // GT Event Limiet Toepassen
-    let gtEvents = allPlayerTopScoresWithEvents.filter((scoreEvent) => scoreEvent.numberOfRounds >= 5);
-    let rttEvents = allPlayerTopScoresWithEvents.filter((scoreEvent) => scoreEvent.numberOfRounds < 5);
-
-    gtEvents.sort((a, b) => b.score - a.score);
-    gtEvents = gtEvents.slice(0, 3); // Maximaal 3 GT events
-
-    let allAllowedEvents = [...gtEvents, ...rttEvents];
-    allAllowedEvents.sort((a, b) => b.score - a.score);
-    const topTeamScoresWithEvents = allAllowedEvents.slice(0, 7).sort((a, b) => {
-      // Sorteer scores array
-      if (a.inTop7 !== b.inTop7) {
-        return b.inTop7 ? 1 : -1; // Gebruikte scores eerst
+    
+    // Step 4: Apply GT event limit (max 3) while trying to maintain 7 events total
+    let gtEvents = allAssignedScores.filter(event => event.numberOfRounds >= 5);
+    let rttEvents = allAssignedScores.filter(event => event.numberOfRounds < 5);
+    
+    if (gtEvents.length > 3) {
+      // Sort GT events by score and keep top 3
+      gtEvents.sort((a, b) => b.score - a.score);
+      gtEvents = gtEvents.slice(0, 3);
+      
+      // Try to fill back to 7 events with unused player-event combinations
+      const currentEventIds = new Set([...gtEvents, ...rttEvents].map(e => e.eventId));
+      const currentPlayerCounts = {};
+      
+      // Count current assignments
+      [...gtEvents, ...rttEvents].forEach(event => {
+        currentPlayerCounts[event.playerId] = (currentPlayerCounts[event.playerId] || 0) + 1;
+      });
+      
+      // Find replacement events from the remaining pool
+      const potentialReplacements = team.allPlayerEventScores.filter(score => {
+        return !currentEventIds.has(score.eventId) && 
+               score.numberOfRounds < 5 && // Only RTT events as replacements
+               (currentPlayerCounts[score.playerId] || 0) < 3;
+      });
+      
+      // Sort by score and add best replacements
+      potentialReplacements.sort((a, b) => b.score - a.score);
+      
+      for (const replacement of potentialReplacements) {
+        if (gtEvents.length + rttEvents.length >= 7) break;
+        
+        rttEvents.push({
+          score: replacement.score,
+          eventName: replacement.eventName,
+          eventId: replacement.eventId,
+          numberOfRounds: replacement.numberOfRounds,
+          playerId: replacement.playerId,
+          playerName: replacement.playerName,
+        });
+        
+        currentEventIds.add(replacement.eventId);
+        currentPlayerCounts[replacement.playerId] = (currentPlayerCounts[replacement.playerId] || 0) + 1;
       }
-      if (a.isGTEvent !== b.isGTEvent) {
-        return b.isGTEvent ? 1 : -1; // GT events binnen gebruikte scores eerst
-      }
-      return b.score - a.score; // Binnen groepen sorteer op score
-    });
-
-    team.totalScore = topTeamScoresWithEvents.reduce((sum, scoreEvent) => sum + scoreEvent.score, 0).toFixed(2);
-    team.topTeamScoresWithEvents = topTeamScoresWithEvents;
-
+    }
+    
+    // Combine and ensure max 7 events
+    allAssignedScores = [...gtEvents, ...rttEvents];
+    allAssignedScores.sort((a, b) => b.score - a.score);
+    allAssignedScores = allAssignedScores.slice(0, 7);
+    
+    // Calculate total score
+    team.totalScore = allAssignedScores.reduce((sum, event) => sum + event.score, 0).toFixed(2);
+    team.topTeamScoresWithEvents = allAssignedScores;
+    team.numEvents = new Set(allAssignedScores.map(s => s.eventId)).size;
+    
+    // Update player records with which scores are used
     for (const playerId in team.players) {
       const player = team.players[playerId];
-      player.topScoresWithEvents = player.topScoresWithEvents.map((scoreEvent) => {
-        const inTop7 = topTeamScoresWithEvents.some(
-          (topTeamScoreEvent) =>
-            topTeamScoreEvent.score === scoreEvent.score && topTeamScoreEvent.eventName === scoreEvent.eventName
+      player.topScoresWithEvents = player.eventScores.map(scoreEvent => {
+        const inTop7 = allAssignedScores.some(
+          topScore => topScore.eventId === scoreEvent.eventId && topScore.playerId === playerId
         );
-        const isGTEvent = scoreEvent.numberOfRounds >= 5; // Bepaal of event GT is
-        return { ...scoreEvent, inTop7, isGTEvent }; // Voeg isGTEvent toe
+        const isGTEvent = scoreEvent.numberOfRounds >= 5;
+        return { ...scoreEvent, inTop7, isGTEvent };
+      });
+      
+      // Sort for display
+      player.topScoresWithEvents.sort((a, b) => {
+        if (a.inTop7 !== b.inTop7) return b.inTop7 ? 1 : -1;
+        if (a.isGTEvent !== b.isGTEvent) return b.isGTEvent ? 1 : -1;
+        return b.score - a.score;
       });
     }
   }
 
+  // Final ranking
   let rankingArray = Object.values(teamRankings);
   rankingArray.sort((a, b) => b.totalScore - a.totalScore);
 
   rankingArray.forEach((team, index) => {
     team.rank = index + 1;
-    team.eventScores.sort((a, b) => b.score - a.score);
   });
 
   return rankingArray;
