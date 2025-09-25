@@ -241,8 +241,8 @@
         "armies": [
           {
             "name": "Chaos Space Marines",
-            "count": 6,
-            "score": 363.75,
+            "count": 4,
+            "score": 192.57,
             "events": [
               {
                 "name": "KvG - Eierbal Cup",
@@ -255,18 +255,6 @@
                 "eventId": "A4KFMVW5DB",
                 "numberOfRounds": 3,
                 "eventDtcScore": "4.22"
-              },
-              {
-                "name": "[OE:S] Summer 2025",
-                "eventId": "SDWqg0cNH9Co",
-                "numberOfRounds": 3,
-                "eventDtcScore": "65.73"
-              },
-              {
-                "name": "Dutch Masters Mid Season GT",
-                "eventId": "drOnU2HqzGmM",
-                "numberOfRounds": 5,
-                "eventDtcScore": "105.45"
               },
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -304,6 +292,25 @@
                 "eventId": "VDO5ahpEL21k",
                 "numberOfRounds": 3,
                 "eventDtcScore": "34.31"
+              }
+            ]
+          },
+          {
+            "name": "Emperor's Children",
+            "count": 2,
+            "score": 171.18,
+            "events": [
+              {
+                "name": "[OE:S] Summer 2025",
+                "eventId": "SDWqg0cNH9Co",
+                "numberOfRounds": 3,
+                "eventDtcScore": "65.73"
+              },
+              {
+                "name": "Dutch Masters Mid Season GT",
+                "eventId": "drOnU2HqzGmM",
+                "numberOfRounds": 5,
+                "eventDtcScore": "105.45"
               }
             ]
           }
@@ -465,7 +472,7 @@
             ]
           },
           {
-            "name": "Chaos Space Marines",
+            "name": "Emperor's Children",
             "count": 1,
             "score": 108.3,
             "events": [
@@ -3719,7 +3726,7 @@
             ]
           },
           {
-            "name": "Chaos Space Marines",
+            "name": "Emperor's Children",
             "count": 1,
             "score": 51.79,
             "events": [
@@ -4599,7 +4606,7 @@
         "numEvents": 2,
         "armies": [
           {
-            "name": "Chaos Space Marines",
+            "name": "Emperor's Children",
             "count": 1,
             "score": 64.33,
             "events": [
@@ -4657,7 +4664,7 @@
             "eventHobbyScore": "0.00",
             "userId": "6pD99rXvA3",
             "rank": 3,
-            "army": "Chaos Space Marines",
+            "army": "Emperor's Children",
             "team": "Amsterdam Battle Brothers",
             "usedForRankings": true,
             "usedForHobbyRankings": true
@@ -5690,7 +5697,7 @@
             ]
           },
           {
-            "name": "Chaos Space Marines",
+            "name": "Emperor's Children",
             "count": 1,
             "score": 29.52,
             "events": [
@@ -5770,7 +5777,7 @@
             "eventHobbyScore": "0.00",
             "userId": "eOFVEEMOEb",
             "rank": 11,
-            "army": "Chaos Space Marines",
+            "army": "Emperor's Children",
             "team": "Mannen van het wapen",
             "usedForRankings": true,
             "usedForHobbyRankings": true
@@ -12169,7 +12176,7 @@
             ]
           },
           {
-            "name": "Chaos Space Marines",
+            "name": "Emperor's Children",
             "count": 1,
             "score": 37.73,
             "events": [
@@ -15933,7 +15940,7 @@
         "numEvents": 1,
         "armies": [
           {
-            "name": "Chaos Space Marines",
+            "name": "Emperor's Children",
             "count": 1,
             "score": 13.13,
             "events": [
@@ -15961,7 +15968,7 @@
             "eventHobbyScore": "1.00",
             "userId": "uD8iv7atHq3H",
             "rank": 19,
-            "army": "Chaos Space Marines",
+            "army": "Emperor's Children",
             "team": "Sector 070",
             "usedForRankings": true,
             "usedForHobbyRankings": true
@@ -20228,8 +20235,8 @@
         "armies": [
           {
             "name": "Chaos Space Marines",
-            "count": 17,
-            "score": 906.75,
+            "count": 16,
+            "score": 898.95,
             "events": [
               {
                 "name": "KvG - Eierbal Cup",
@@ -20286,12 +20293,6 @@
                 "eventDtcScore": "43.20"
               },
               {
-                "name": "The Wardice Wargames 8",
-                "eventId": "NG0CU7GRJU",
-                "numberOfRounds": 3,
-                "eventDtcScore": "7.80"
-              },
-              {
                 "name": "The Wardice Wargames 6",
                 "eventId": "NV3AMX3DB0",
                 "numberOfRounds": 3,
@@ -20332,6 +20333,19 @@
                 "eventId": "cBFG69Kfi0",
                 "numberOfRounds": 5,
                 "eventDtcScore": "57.30"
+              }
+            ]
+          },
+          {
+            "name": "Emperor's Children",
+            "count": 1,
+            "score": 7.8,
+            "events": [
+              {
+                "name": "The Wardice Wargames 8",
+                "eventId": "NG0CU7GRJU",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.80"
               }
             ]
           }
@@ -26349,15 +26363,9 @@
         "armies": [
           {
             "name": "Chaos Space Marines",
-            "count": 4,
-            "score": 229.62,
+            "count": 3,
+            "score": 153.05,
             "events": [
-              {
-                "name": "Alliance Open WH40K Grand Tournament 2024",
-                "eventId": "5AAK4H5BA7",
-                "numberOfRounds": 6,
-                "eventDtcScore": "76.57"
-              },
               {
                 "name": "Legends of the North V8",
                 "eventId": "A6WBCC3NRJ",
@@ -26388,6 +26396,19 @@
                 "eventId": "1YUU80XHVR",
                 "numberOfRounds": 3,
                 "eventDtcScore": "63.38"
+              }
+            ]
+          },
+          {
+            "name": "Emperor's Children",
+            "count": 1,
+            "score": 76.57,
+            "events": [
+              {
+                "name": "Alliance Open WH40K Grand Tournament 2024",
+                "eventId": "5AAK4H5BA7",
+                "numberOfRounds": 6,
+                "eventDtcScore": "76.57"
               }
             ]
           },
@@ -34776,16 +34797,23 @@
         "numEvents": 2,
         "armies": [
           {
-            "name": "Chaos Space Marines",
-            "count": 2,
-            "score": 81.02,
+            "name": "Emperor's Children",
+            "count": 1,
+            "score": 61.33,
             "events": [
               {
                 "name": "North Sea Slam 02 RottenHammer",
                 "eventId": "3D5M0PG8KR",
                 "numberOfRounds": 3,
                 "eventDtcScore": "61.33"
-              },
+              }
+            ]
+          },
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 19.69,
+            "events": [
               {
                 "name": "DTC4OK TRAININGCAGES RTT OKTOBER",
                 "eventId": "NLRY0WAN2G",
@@ -34810,7 +34838,7 @@
             "eventHobbyScore": "3.00",
             "userId": "oLWC7ArCTG",
             "rank": 7,
-            "army": "Chaos Space Marines",
+            "army": "Emperor's Children",
             "team": "Grimdark Society",
             "usedForRankings": true,
             "usedForHobbyRankings": true
