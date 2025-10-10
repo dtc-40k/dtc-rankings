@@ -584,8 +584,8 @@
           {
             "userId": "11UVudMFZ4",
             "name": "Laurens Tjallingii",
-            "numEvents": 1,
-            "dtcScore": 65.64,
+            "numEvents": 2,
+            "dtcScore": 126.47,
             "hobbyScore": "0.00",
             "rank": 1,
             "scores": [
@@ -594,6 +594,14 @@
                 "eventId": "7BYTEBWM6F",
                 "numberOfRounds": 3,
                 "eventDtcScore": "65.64",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "60.83",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -618,12 +626,30 @@
             ]
           },
           {
+            "userId": "90zUdD1Mui",
+            "name": "Steven Holman",
+            "numEvents": 1,
+            "dtcScore": 12.17,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "12.17",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "NkjhsVr6Jl",
             "name": "Maarten Geuskens",
             "numEvents": 2,
             "dtcScore": 11.45,
             "hobbyScore": "0.00",
-            "rank": 3,
+            "rank": 4,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -1052,46 +1078,12 @@
         "name": "Black Templars",
         "players": [
           {
-            "userId": "eOFVEEMOEb",
-            "name": "Mitchell klein",
-            "numEvents": 3,
-            "dtcScore": 170.71,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT – End of Summer Showdown",
-                "eventId": "3wuixiTSLFOJ",
-                "numberOfRounds": 5,
-                "eventDtcScore": "75.52",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Dutch Masters Mid Season GT",
-                "eventId": "drOnU2HqzGmM",
-                "numberOfRounds": 5,
-                "eventDtcScore": "42.75",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "North Sea Slam RTT 2025",
-                "eventId": "ydNZzdeWjzNV",
-                "numberOfRounds": 3,
-                "eventDtcScore": "52.44",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
             "userId": "aQ6yS4eAiy",
             "name": "Willem Sterk",
-            "numEvents": 6,
-            "dtcScore": 158.65,
+            "numEvents": 7,
+            "dtcScore": 195.15,
             "hobbyScore": "0.00",
-            "rank": 2,
+            "rank": 1,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -1126,6 +1118,14 @@
                 "isGTEvent": false
               },
               {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.50",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
                 "name": "Legends of the North V11",
                 "eventId": "A90JSwXpjDrZ",
                 "numberOfRounds": 3,
@@ -1138,6 +1138,40 @@
                 "eventId": "SDWqg0cNH9Co",
                 "numberOfRounds": 3,
                 "eventDtcScore": "3.98",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "eOFVEEMOEb",
+            "name": "Mitchell klein",
+            "numEvents": 3,
+            "dtcScore": 170.71,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Phoenix GT – End of Summer Showdown",
+                "eventId": "3wuixiTSLFOJ",
+                "numberOfRounds": 5,
+                "eventDtcScore": "75.52",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Dutch Masters Mid Season GT",
+                "eventId": "drOnU2HqzGmM",
+                "numberOfRounds": 5,
+                "eventDtcScore": "42.75",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "North Sea Slam RTT 2025",
+                "eventId": "ydNZzdeWjzNV",
+                "numberOfRounds": 3,
+                "eventDtcScore": "52.44",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -1492,46 +1526,12 @@
             ]
           },
           {
-            "userId": "cLWiXebqAH",
-            "name": "Felix Brenninkmeijer",
-            "numEvents": 3,
-            "dtcScore": 171.01,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "The Phoenix GT – End of Summer Showdown",
-                "eventId": "3wuixiTSLFOJ",
-                "numberOfRounds": 5,
-                "eventDtcScore": "69.09",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "46.13",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "The Wardice Wargames Charlie",
-                "eventId": "7BYTEBWM6F",
-                "numberOfRounds": 3,
-                "eventDtcScore": "55.79",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
             "userId": "T9MWUD5W51",
             "name": "Pieter 't Hoen",
-            "numEvents": 5,
-            "dtcScore": 152.89,
+            "numEvents": 6,
+            "dtcScore": 172.36,
             "hobbyScore": "0.00",
-            "rank": 4,
+            "rank": 3,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -1566,10 +1566,52 @@
                 "isGTEvent": false
               },
               {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "19.47",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
                 "name": "The Wardice Wargames Alpha",
                 "eventId": "A4KFMVW5DB",
                 "numberOfRounds": 3,
                 "eventDtcScore": "16.87",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "cLWiXebqAH",
+            "name": "Felix Brenninkmeijer",
+            "numEvents": 3,
+            "dtcScore": 171.01,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "The Phoenix GT – End of Summer Showdown",
+                "eventId": "3wuixiTSLFOJ",
+                "numberOfRounds": 5,
+                "eventDtcScore": "69.09",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "46.13",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "The Wardice Wargames Charlie",
+                "eventId": "7BYTEBWM6F",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.79",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -1708,12 +1750,30 @@
             ]
           },
           {
+            "userId": "w6kAJ5LBzCPq",
+            "name": "Juho Lemmetyinen",
+            "numEvents": 1,
+            "dtcScore": 68.13,
+            "hobbyScore": "0.00",
+            "rank": 11,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.13",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "NYLcU6mpnw",
             "name": "Simon \"Eierbal'' Borgers",
             "numEvents": 1,
             "dtcScore": 58.95,
             "hobbyScore": "0.00",
-            "rank": 11,
+            "rank": 12,
             "scores": [
               {
                 "name": "Legends of the North V11",
@@ -1731,7 +1791,7 @@
             "numEvents": 1,
             "dtcScore": 56.1,
             "hobbyScore": "1.00",
-            "rank": 12,
+            "rank": 13,
             "scores": [
               {
                 "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
@@ -1749,7 +1809,7 @@
             "numEvents": 1,
             "dtcScore": 52.72,
             "hobbyScore": "0.00",
-            "rank": 13,
+            "rank": 14,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -1762,12 +1822,30 @@
             ]
           },
           {
+            "userId": "KT3Q7PTQ5U",
+            "name": "Arkadiusz Ostrycharz",
+            "numEvents": 1,
+            "dtcScore": 48.67,
+            "hobbyScore": "0.00",
+            "rank": 15,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.67",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "Y7TRY4YWF3",
             "name": "moek freij",
             "numEvents": 1,
             "dtcScore": 42.73,
             "hobbyScore": "0.00",
-            "rank": 14,
+            "rank": 16,
             "scores": [
               {
                 "name": "[OE:S] Fall 2025",
@@ -1785,7 +1863,7 @@
             "numEvents": 1,
             "dtcScore": 33.74,
             "hobbyScore": "0.00",
-            "rank": 15,
+            "rank": 17,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -1803,7 +1881,7 @@
             "numEvents": 1,
             "dtcScore": 30.6,
             "hobbyScore": "0.00",
-            "rank": 16,
+            "rank": 18,
             "scores": [
               {
                 "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
@@ -1821,7 +1899,7 @@
             "numEvents": 1,
             "dtcScore": 19.77,
             "hobbyScore": "0.00",
-            "rank": 17,
+            "rank": 19,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -1839,7 +1917,7 @@
             "numEvents": 1,
             "dtcScore": 19.69,
             "hobbyScore": "0.00",
-            "rank": 18,
+            "rank": 20,
             "scores": [
               {
                 "name": "DTC40K ENTER THE TRAININCAGES",
@@ -1857,7 +1935,7 @@
             "numEvents": 1,
             "dtcScore": 13.96,
             "hobbyScore": "0.00",
-            "rank": 19,
+            "rank": 21,
             "scores": [
               {
                 "name": "[OE:S] Spring 2025",
@@ -1875,7 +1953,7 @@
             "numEvents": 1,
             "dtcScore": 5.83,
             "hobbyScore": "0.00",
-            "rank": 20,
+            "rank": 22,
             "scores": [
               {
                 "name": "North Sea Slam RTT 2025",
@@ -2194,12 +2272,30 @@
             ]
           },
           {
+            "userId": "K5MAVVEHKN",
+            "name": "Bas Van der Stelt",
+            "numEvents": 1,
+            "dtcScore": 34.07,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "34.07",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "KJE6Dm85fVho",
             "name": "Jan De Niet",
             "numEvents": 1,
             "dtcScore": 32.82,
             "hobbyScore": "0.00",
-            "rank": 6,
+            "rank": 7,
             "scores": [
               {
                 "name": "The Wardice Wargames Charlie",
@@ -2217,7 +2313,7 @@
             "numEvents": 1,
             "dtcScore": 31.5,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "KvG - Eierbal Cup",
@@ -2235,7 +2331,7 @@
             "numEvents": 1,
             "dtcScore": 29.66,
             "hobbyScore": "0.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -2253,7 +2349,7 @@
             "numEvents": 1,
             "dtcScore": 24.1,
             "hobbyScore": "0.00",
-            "rank": 9,
+            "rank": 10,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -2274,7 +2370,7 @@
             "userId": "FaF3dECqaz",
             "name": "Lennaert Tjallingii",
             "numEvents": 7,
-            "dtcScore": 482.15,
+            "dtcScore": 502.65,
             "hobbyScore": "0.00",
             "rank": 1,
             "scores": [
@@ -2301,6 +2397,14 @@
                 "eventDtcScore": "62.61",
                 "isUsedForRanking": true,
                 "isGTEvent": true
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "73.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
               },
               {
                 "name": "The Wardice Wargames Charlie",
@@ -2331,7 +2435,7 @@
                 "eventId": "7so8mbbih2EW",
                 "numberOfRounds": 3,
                 "eventDtcScore": "52.50",
-                "isUsedForRanking": true,
+                "isUsedForRanking": false,
                 "isGTEvent": false
               },
               {
@@ -2371,8 +2475,8 @@
           {
             "userId": "CM4VFT5ACG",
             "name": "Alpheaus Feltham",
-            "numEvents": 4,
-            "dtcScore": 221.34,
+            "numEvents": 5,
+            "dtcScore": 287.04,
             "hobbyScore": "3.00",
             "rank": 2,
             "scores": [
@@ -2389,6 +2493,14 @@
                 "eventId": "A90JSwXpjDrZ",
                 "numberOfRounds": 3,
                 "eventDtcScore": "70.74",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "65.70",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               },
@@ -2547,12 +2659,30 @@
             ]
           },
           {
+            "userId": "CX8B3X2DA3",
+            "name": "Roy Hopman",
+            "numEvents": 1,
+            "dtcScore": 51.1,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "z3fjX7GSOXu7",
             "name": "Julian Van der kleij",
             "numEvents": 2,
             "dtcScore": 39.53,
             "hobbyScore": "3.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -2578,7 +2708,7 @@
             "numEvents": 1,
             "dtcScore": 32.82,
             "hobbyScore": "0.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "DTC40K EASTER TRAININGCAGES",
@@ -2596,7 +2726,7 @@
             "numEvents": 1,
             "dtcScore": 27.92,
             "hobbyScore": "0.00",
-            "rank": 9,
+            "rank": 10,
             "scores": [
               {
                 "name": "[OE:S] Spring 2025",
@@ -2614,7 +2744,7 @@
             "numEvents": 1,
             "dtcScore": 22.97,
             "hobbyScore": "0.00",
-            "rank": 10,
+            "rank": 11,
             "scores": [
               {
                 "name": "DTC40K ENTER THE TRAININCAGES",
@@ -2627,12 +2757,30 @@
             ]
           },
           {
+            "userId": "B2D81N3JNH",
+            "name": "Furkan Gunes",
+            "numEvents": 1,
+            "dtcScore": 17.03,
+            "hobbyScore": "0.00",
+            "rank": 12,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "17.03",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "K5MAVVEHKN",
             "name": "Bas Van der Stelt",
             "numEvents": 2,
             "dtcScore": 16.22,
             "hobbyScore": "0.00",
-            "rank": 11,
+            "rank": 13,
             "scores": [
               {
                 "name": "Legends of the North V10",
@@ -2658,7 +2806,7 @@
             "numEvents": 1,
             "dtcScore": 11.53,
             "hobbyScore": "0.00",
-            "rank": 12,
+            "rank": 14,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -2676,7 +2824,7 @@
             "numEvents": 1,
             "dtcScore": 11.44,
             "hobbyScore": "0.00",
-            "rank": 13,
+            "rank": 15,
             "scores": [
               {
                 "name": "Brabohammer 4th Edition",
@@ -2694,7 +2842,7 @@
             "numEvents": 1,
             "dtcScore": 9.89,
             "hobbyScore": "0.00",
-            "rank": 14,
+            "rank": 16,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -3327,12 +3475,38 @@
             ]
           },
           {
+            "userId": "JKHTXU22UQ",
+            "name": "Remco Pullen",
+            "numEvents": 2,
+            "dtcScore": 96.31,
+            "hobbyScore": "1.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "The Wardice Wargames Charlie",
+                "eventId": "7BYTEBWM6F",
+                "numberOfRounds": 3,
+                "eventDtcScore": "52.51",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "43.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "PLQQ5ML884",
             "name": "Luke Taylor",
             "numEvents": 2,
             "dtcScore": 95.49,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
@@ -3358,7 +3532,7 @@
             "numEvents": 2,
             "dtcScore": 94.61,
             "hobbyScore": "0.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "Legends of the North V10",
@@ -3384,7 +3558,7 @@
             "numEvents": 2,
             "dtcScore": 92.85,
             "hobbyScore": "0.00",
-            "rank": 9,
+            "rank": 10,
             "scores": [
               {
                 "name": "Dutch Masters Mid Season GT",
@@ -3410,7 +3584,7 @@
             "numEvents": 2,
             "dtcScore": 87.75,
             "hobbyScore": "0.00",
-            "rank": 10,
+            "rank": 11,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -3436,7 +3610,7 @@
             "numEvents": 1,
             "dtcScore": 86.7,
             "hobbyScore": "0.00",
-            "rank": 11,
+            "rank": 12,
             "scores": [
               {
                 "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
@@ -3454,7 +3628,7 @@
             "numEvents": 1,
             "dtcScore": 72.6,
             "hobbyScore": "0.00",
-            "rank": 12,
+            "rank": 13,
             "scores": [
               {
                 "name": "[OE:S] Spring 2025",
@@ -3472,7 +3646,7 @@
             "numEvents": 1,
             "dtcScore": 72.31,
             "hobbyScore": "0.00",
-            "rank": 13,
+            "rank": 14,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -3490,7 +3664,7 @@
             "numEvents": 1,
             "dtcScore": 69.81,
             "hobbyScore": "0.00",
-            "rank": 14,
+            "rank": 15,
             "scores": [
               {
                 "name": "[OE:S] Spring 2025",
@@ -3508,31 +3682,13 @@
             "numEvents": 1,
             "dtcScore": 59.05,
             "hobbyScore": "0.00",
-            "rank": 15,
+            "rank": 16,
             "scores": [
               {
                 "name": "The Wardice Wargames Alpha",
                 "eventId": "A4KFMVW5DB",
                 "numberOfRounds": 3,
                 "eventDtcScore": "59.05",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "JKHTXU22UQ",
-            "name": "Remco Pullen",
-            "numEvents": 1,
-            "dtcScore": 52.51,
-            "hobbyScore": "1.00",
-            "rank": 16,
-            "scores": [
-              {
-                "name": "The Wardice Wargames Charlie",
-                "eventId": "7BYTEBWM6F",
-                "numberOfRounds": 3,
-                "eventDtcScore": "52.51",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -3736,12 +3892,54 @@
             ]
           },
           {
+            "userId": "CZz3lUpxKh",
+            "name": "Remco Beukema",
+            "numEvents": 4,
+            "dtcScore": 142.12,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "7so8mbbih2EW",
+                "numberOfRounds": 3,
+                "eventDtcScore": "58.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "41.37",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North V11",
+                "eventId": "A90JSwXpjDrZ",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.94",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North V10",
+                "eventId": "E3chcfMTSRt3",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.01",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "fBbz9SqAAE",
             "name": "Daan Van Herk",
             "numEvents": 1,
             "dtcScore": 136.75,
             "hobbyScore": "0.00",
-            "rank": 2,
+            "rank": 3,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -3754,12 +3952,38 @@
             ]
           },
           {
+            "userId": "C8SUIfF8Ar",
+            "name": "dave hultermans",
+            "numEvents": 2,
+            "dtcScore": 113.41,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "The Gauntlet: Phoenix 40K GT",
+                "eventId": "jSUxBRHBHWaN",
+                "numberOfRounds": 6,
+                "eventDtcScore": "42.84",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "70.57",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "j1q8untWVm",
             "name": "Geert P",
             "numEvents": 3,
             "dtcScore": 104.34,
             "hobbyScore": "1.00",
-            "rank": 3,
+            "rank": 5,
             "scores": [
               {
                 "name": "Dutch Masters Mid Season GT",
@@ -3788,54 +4012,28 @@
             ]
           },
           {
-            "userId": "CZz3lUpxKh",
-            "name": "Remco Beukema",
-            "numEvents": 3,
-            "dtcScore": 100.75,
+            "userId": "K9JP4WTDME",
+            "name": "Jeroen De Jonge",
+            "numEvents": 2,
+            "dtcScore": 43.23,
             "hobbyScore": "0.00",
-            "rank": 4,
+            "rank": 6,
             "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.33",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
               {
                 "name": "KvG - Eierbal Cup",
                 "eventId": "7so8mbbih2EW",
                 "numberOfRounds": 3,
-                "eventDtcScore": "58.80",
+                "eventDtcScore": "18.90",
                 "isUsedForRanking": true,
                 "isGTEvent": false
-              },
-              {
-                "name": "Legends of the North V11",
-                "eventId": "A90JSwXpjDrZ",
-                "numberOfRounds": 3,
-                "eventDtcScore": "25.94",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Legends of the North V10",
-                "eventId": "E3chcfMTSRt3",
-                "numberOfRounds": 3,
-                "eventDtcScore": "16.01",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "C8SUIfF8Ar",
-            "name": "dave hultermans",
-            "numEvents": 1,
-            "dtcScore": 42.84,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "The Gauntlet: Phoenix 40K GT",
-                "eventId": "jSUxBRHBHWaN",
-                "numberOfRounds": 6,
-                "eventDtcScore": "42.84",
-                "isUsedForRanking": true,
-                "isGTEvent": true
               }
             ]
           },
@@ -3845,7 +4043,7 @@
             "numEvents": 1,
             "dtcScore": 25.98,
             "hobbyScore": "0.00",
-            "rank": 6,
+            "rank": 7,
             "scores": [
               {
                 "name": "North Sea Slam GT RottenHammer",
@@ -3854,24 +4052,6 @@
                 "eventDtcScore": "25.98",
                 "isUsedForRanking": true,
                 "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "K9JP4WTDME",
-            "name": "Jeroen De Jonge",
-            "numEvents": 1,
-            "dtcScore": 18.9,
-            "hobbyScore": "0.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "KvG - Eierbal Cup",
-                "eventId": "7so8mbbih2EW",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.90",
-                "isUsedForRanking": true,
-                "isGTEvent": false
               }
             ]
           },
@@ -4524,12 +4704,30 @@
             ]
           },
           {
+            "userId": "1L7KJ9FFP1",
+            "name": "Eithel Conquet",
+            "numEvents": 1,
+            "dtcScore": 29.2,
+            "hobbyScore": "0.00",
+            "rank": 14,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "co6Nr4ndNhgP",
             "name": "Maarten van Brussel",
             "numEvents": 1,
             "dtcScore": 17.48,
             "hobbyScore": "0.00",
-            "rank": 14,
+            "rank": 15,
             "scores": [
               {
                 "name": "North Sea Slam RTT 2025",
@@ -4547,7 +4745,7 @@
             "numEvents": 1,
             "dtcScore": 6.59,
             "hobbyScore": "0.00",
-            "rank": 15,
+            "rank": 16,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -5851,12 +6049,30 @@
             ]
           },
           {
+            "userId": "BVDMBBNWKK",
+            "name": "Bas Top",
+            "numEvents": 1,
+            "dtcScore": 4.87,
+            "hobbyScore": "0.00",
+            "rank": 17,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.87",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "AMMLW31QTV",
             "name": "Oane Dijkstra",
             "numEvents": 1,
             "dtcScore": 2.29,
             "hobbyScore": "0.00",
-            "rank": 17,
+            "rank": 18,
             "scores": [
               {
                 "name": "Legends of the North V10",
@@ -5874,7 +6090,7 @@
             "numEvents": 1,
             "dtcScore": 1.65,
             "hobbyScore": "0.00",
-            "rank": 18,
+            "rank": 19,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -6425,12 +6641,38 @@
             ]
           },
           {
+            "userId": "22WHE2VNLG",
+            "name": "Bart Mulderij",
+            "numEvents": 2,
+            "dtcScore": 95.29,
+            "hobbyScore": "3.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "63.27",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North V10",
+                "eventId": "E3chcfMTSRt3",
+                "numberOfRounds": 3,
+                "eventDtcScore": "32.02",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "61t2okJcUl",
             "name": "Martijn Versteeg",
             "numEvents": 2,
             "dtcScore": 94.65,
             "hobbyScore": "0.00",
-            "rank": 5,
+            "rank": 6,
             "scores": [
               {
                 "name": "Dutch Masters Mid Season GT",
@@ -6456,7 +6698,7 @@
             "numEvents": 1,
             "dtcScore": 80.73,
             "hobbyScore": "0.00",
-            "rank": 6,
+            "rank": 7,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -6474,7 +6716,7 @@
             "numEvents": 3,
             "dtcScore": 59.1,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "[OE:S] Summer 2025",
@@ -6508,7 +6750,7 @@
             "numEvents": 3,
             "dtcScore": 52.03,
             "hobbyScore": "2.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "[OE:S] Fall 2025",
@@ -6542,31 +6784,13 @@
             "numEvents": 1,
             "dtcScore": 43.46,
             "hobbyScore": "0.00",
-            "rank": 9,
-            "scores": [
-              {
-                "name": "Legends of the North V10",
-                "eventId": "E3chcfMTSRt3",
-                "numberOfRounds": 3,
-                "eventDtcScore": "43.46",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "22WHE2VNLG",
-            "name": "Bart Mulderij",
-            "numEvents": 1,
-            "dtcScore": 32.02,
-            "hobbyScore": "3.00",
             "rank": 10,
             "scores": [
               {
                 "name": "Legends of the North V10",
                 "eventId": "E3chcfMTSRt3",
                 "numberOfRounds": 3,
-                "eventDtcScore": "32.02",
+                "eventDtcScore": "43.46",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -6591,12 +6815,30 @@
             ]
           },
           {
+            "userId": "KKPQ5Z9y8nCz",
+            "name": "Jan Rigter",
+            "numEvents": 1,
+            "dtcScore": 21.9,
+            "hobbyScore": "0.00",
+            "rank": 12,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "21.90",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "4UYF9M5N4J",
             "name": "Iddo Van den Boomgaard",
             "numEvents": 1,
             "dtcScore": 12.6,
             "hobbyScore": "0.00",
-            "rank": 12,
+            "rank": 13,
             "scores": [
               {
                 "name": "KvG - Eierbal Cup",
@@ -6614,7 +6856,7 @@
             "numEvents": 1,
             "dtcScore": 11.95,
             "hobbyScore": "0.00",
-            "rank": 13,
+            "rank": 14,
             "scores": [
               {
                 "name": "[OE:S] Summer 2025",
@@ -6632,7 +6874,7 @@
             "numEvents": 1,
             "dtcScore": 4.58,
             "hobbyScore": "0.00",
-            "rank": 14,
+            "rank": 15,
             "scores": [
               {
                 "name": "Brabohammer 4th Edition",
@@ -6694,12 +6936,38 @@
             ]
           },
           {
+            "userId": "ZIMEvPWquB",
+            "name": "Erik van Nijnatten",
+            "numEvents": 2,
+            "dtcScore": 99.99,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "The Phoenix GT – End of Summer Showdown",
+                "eventId": "3wuixiTSLFOJ",
+                "numberOfRounds": 5,
+                "eventDtcScore": "61.06",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "38.93",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "LP8QYC9584",
             "name": "Frank Verbeek",
             "numEvents": 1,
             "dtcScore": 97.21,
             "hobbyScore": "0.00",
-            "rank": 3,
+            "rank": 4,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -6712,12 +6980,46 @@
             ]
           },
           {
+            "userId": "4UYF9M5N4J",
+            "name": "Iddo Van den Boomgaard",
+            "numEvents": 3,
+            "dtcScore": 82.1,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "Legends of the North V10",
+                "eventId": "E3chcfMTSRt3",
+                "numberOfRounds": 3,
+                "eventDtcScore": "45.75",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "31.63",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North V11",
+                "eventId": "A90JSwXpjDrZ",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.72",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "9YDM6RMUGT",
             "name": "Nic van ‘t Schip",
             "numEvents": 2,
             "dtcScore": 80.01,
             "hobbyScore": "3.00",
-            "rank": 4,
+            "rank": 6,
             "scores": [
               {
                 "name": "North Sea Slam RTT 2025",
@@ -6738,20 +7040,28 @@
             ]
           },
           {
-            "userId": "ZIMEvPWquB",
-            "name": "Erik van Nijnatten",
-            "numEvents": 1,
-            "dtcScore": 61.06,
+            "userId": "uJ4B4cQMIthi",
+            "name": "Thomas Zwart",
+            "numEvents": 2,
+            "dtcScore": 78.73,
             "hobbyScore": "0.00",
-            "rank": 5,
+            "rank": 7,
             "scores": [
               {
-                "name": "The Phoenix GT – End of Summer Showdown",
-                "eventId": "3wuixiTSLFOJ",
-                "numberOfRounds": 5,
-                "eventDtcScore": "61.06",
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "53.53",
                 "isUsedForRanking": true,
-                "isGTEvent": true
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "7so8mbbih2EW",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
               }
             ]
           },
@@ -6761,7 +7071,7 @@
             "numEvents": 2,
             "dtcScore": 61.03,
             "hobbyScore": "0.00",
-            "rank": 6,
+            "rank": 8,
             "scores": [
               {
                 "name": "North Sea Slam GT RottenHammer",
@@ -6787,7 +7097,7 @@
             "numEvents": 1,
             "dtcScore": 54.83,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 9,
             "scores": [
               {
                 "name": "The Wardice Wargames Alpha",
@@ -6805,7 +7115,7 @@
             "numEvents": 1,
             "dtcScore": 50.61,
             "hobbyScore": "1.00",
-            "rank": 8,
+            "rank": 10,
             "scores": [
               {
                 "name": "The Wardice Wargames Alpha",
@@ -6818,38 +7128,12 @@
             ]
           },
           {
-            "userId": "4UYF9M5N4J",
-            "name": "Iddo Van den Boomgaard",
-            "numEvents": 2,
-            "dtcScore": 50.47,
-            "hobbyScore": "0.00",
-            "rank": 9,
-            "scores": [
-              {
-                "name": "Legends of the North V10",
-                "eventId": "E3chcfMTSRt3",
-                "numberOfRounds": 3,
-                "eventDtcScore": "45.75",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Legends of the North V11",
-                "eventId": "A90JSwXpjDrZ",
-                "numberOfRounds": 3,
-                "eventDtcScore": "4.72",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
             "userId": "dAPlibmodi",
             "name": "Ori Bisdom",
             "numEvents": 1,
             "dtcScore": 44.99,
             "hobbyScore": "0.00",
-            "rank": 10,
+            "rank": 11,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -6867,7 +7151,7 @@
             "numEvents": 1,
             "dtcScore": 36.6,
             "hobbyScore": "0.00",
-            "rank": 11,
+            "rank": 12,
             "scores": [
               {
                 "name": "Legends of the North V10",
@@ -6885,31 +7169,13 @@
             "numEvents": 1,
             "dtcScore": 29.74,
             "hobbyScore": "0.00",
-            "rank": 12,
+            "rank": 13,
             "scores": [
               {
                 "name": "Brabohammer 4th Edition",
                 "eventId": "VDO5ahpEL21k",
                 "numberOfRounds": 3,
                 "eventDtcScore": "29.74",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "uJ4B4cQMIthi",
-            "name": "Thomas Zwart",
-            "numEvents": 1,
-            "dtcScore": 25.2,
-            "hobbyScore": "0.00",
-            "rank": 13,
-            "scores": [
-              {
-                "name": "KvG - Eierbal Cup",
-                "eventId": "7so8mbbih2EW",
-                "numberOfRounds": 3,
-                "eventDtcScore": "25.20",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -7109,12 +7375,38 @@
             ]
           },
           {
+            "userId": "3JBQ02TU0U",
+            "name": "Maria Heeres",
+            "numEvents": 2,
+            "dtcScore": 102.5,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "58.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "7so8mbbih2EW",
+                "numberOfRounds": 3,
+                "eventDtcScore": "44.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "VVJNFXMG0A",
             "name": "Amelia Pollard",
             "numEvents": 1,
             "dtcScore": 93.2,
             "hobbyScore": "0.00",
-            "rank": 5,
+            "rank": 6,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -7132,7 +7424,7 @@
             "numEvents": 2,
             "dtcScore": 90.94,
             "hobbyScore": "0.00",
-            "rank": 6,
+            "rank": 7,
             "scores": [
               {
                 "name": "The Wardice Wargames Beta",
@@ -7158,7 +7450,7 @@
             "numEvents": 2,
             "dtcScore": 73.47,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "The Phoenix GT – End of Summer Showdown",
@@ -7184,7 +7476,7 @@
             "numEvents": 2,
             "dtcScore": 68.13,
             "hobbyScore": "0.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "[OE:S] Spring 2025",
@@ -7210,7 +7502,7 @@
             "numEvents": 1,
             "dtcScore": 59.85,
             "hobbyScore": "0.00",
-            "rank": 9,
+            "rank": 10,
             "scores": [
               {
                 "name": "Dutch Masters Mid Season GT",
@@ -7228,7 +7520,7 @@
             "numEvents": 1,
             "dtcScore": 57.82,
             "hobbyScore": "0.00",
-            "rank": 10,
+            "rank": 11,
             "scores": [
               {
                 "name": "[OE:S] Fall 2025",
@@ -7246,7 +7538,7 @@
             "numEvents": 1,
             "dtcScore": 49.43,
             "hobbyScore": "0.00",
-            "rank": 11,
+            "rank": 12,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -7264,7 +7556,7 @@
             "numEvents": 2,
             "dtcScore": 47.91,
             "hobbyScore": "0.00",
-            "rank": 12,
+            "rank": 13,
             "scores": [
               {
                 "name": "DTC40K IRONMAN! 17 HOURS OF 4OK!",
@@ -7279,24 +7571,6 @@
                 "eventId": "mDnjwQAXJRLt",
                 "numberOfRounds": 3,
                 "eventDtcScore": "37.71",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "3JBQ02TU0U",
-            "name": "Maria Heeres",
-            "numEvents": 1,
-            "dtcScore": 44.1,
-            "hobbyScore": "0.00",
-            "rank": 13,
-            "scores": [
-              {
-                "name": "KvG - Eierbal Cup",
-                "eventId": "7so8mbbih2EW",
-                "numberOfRounds": 3,
-                "eventDtcScore": "44.10",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -7409,12 +7683,30 @@
             ]
           },
           {
+            "userId": "H6XAG1yI9JWv",
+            "name": "Thijs Quartel",
+            "numEvents": 1,
+            "dtcScore": 14.6,
+            "hobbyScore": "0.00",
+            "rank": 19,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "BLB28PKJ5U",
             "name": "Cornelis Hut",
             "numEvents": 1,
             "dtcScore": 6.3,
             "hobbyScore": "0.00",
-            "rank": 19,
+            "rank": 20,
             "scores": [
               {
                 "name": "KvG - Eierbal Cup",
@@ -7568,8 +7860,8 @@
           {
             "userId": "qMHEyRqDHV",
             "name": "Youri Ommering",
-            "numEvents": 2,
-            "dtcScore": 89.48,
+            "numEvents": 3,
+            "dtcScore": 135.71,
             "hobbyScore": "0.00",
             "rank": 4,
             "scores": [
@@ -7586,6 +7878,14 @@
                 "eventId": "6TALoasNINMm",
                 "numberOfRounds": 3,
                 "eventDtcScore": "54.83",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.23",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -7949,38 +8249,12 @@
             ]
           },
           {
-            "userId": "AW84laYLqt",
-            "name": "Sem Stam",
-            "numEvents": 2,
-            "dtcScore": 79.29,
-            "hobbyScore": "0.00",
-            "rank": 8,
-            "scores": [
-              {
-                "name": "North Sea Slam RTT 2025",
-                "eventId": "ydNZzdeWjzNV",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.61",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "[OE:S] Fall 2025",
-                "eventId": "mDnjwQAXJRLt",
-                "numberOfRounds": 3,
-                "eventDtcScore": "32.68",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
             "userId": "Y75Q1CTNCW",
             "name": "Raul De la horra",
-            "numEvents": 3,
-            "dtcScore": 75.17,
+            "numEvents": 4,
+            "dtcScore": 82.47,
             "hobbyScore": "0.00",
-            "rank": 9,
+            "rank": 8,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -8003,6 +8277,40 @@
                 "eventId": "7so8mbbih2EW",
                 "numberOfRounds": 3,
                 "eventDtcScore": "23.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.30",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "AW84laYLqt",
+            "name": "Sem Stam",
+            "numEvents": 2,
+            "dtcScore": 79.29,
+            "hobbyScore": "0.00",
+            "rank": 9,
+            "scores": [
+              {
+                "name": "North Sea Slam RTT 2025",
+                "eventId": "ydNZzdeWjzNV",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.61",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "[OE:S] Fall 2025",
+                "eventId": "mDnjwQAXJRLt",
+                "numberOfRounds": 3,
+                "eventDtcScore": "32.68",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -8071,12 +8379,30 @@
             ]
           },
           {
+            "userId": "fWOVZvTHO1Hc",
+            "name": "Eelco Teune",
+            "numEvents": 1,
+            "dtcScore": 55.97,
+            "hobbyScore": "0.00",
+            "rank": 13,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.97",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "T8rWD8lUHC",
             "name": "Jasper van Meurs",
             "numEvents": 1,
             "dtcScore": 54.37,
             "hobbyScore": "0.00",
-            "rank": 13,
+            "rank": 14,
             "scores": [
               {
                 "name": "The Gauntlet: Phoenix 40K GT",
@@ -8094,7 +8420,7 @@
             "numEvents": 1,
             "dtcScore": 49.52,
             "hobbyScore": "0.00",
-            "rank": 14,
+            "rank": 15,
             "scores": [
               {
                 "name": "Legends of the North V11",
@@ -8112,7 +8438,7 @@
             "numEvents": 1,
             "dtcScore": 49.19,
             "hobbyScore": "1.00",
-            "rank": 15,
+            "rank": 16,
             "scores": [
               {
                 "name": "The Wardice Wargames Beta",
@@ -8130,7 +8456,7 @@
             "numEvents": 3,
             "dtcScore": 39.19,
             "hobbyScore": "0.00",
-            "rank": 16,
+            "rank": 17,
             "scores": [
               {
                 "name": "Dutch Masters Mid Season GT",
@@ -8164,7 +8490,7 @@
             "numEvents": 1,
             "dtcScore": 38.84,
             "hobbyScore": "0.00",
-            "rank": 17,
+            "rank": 18,
             "scores": [
               {
                 "name": "North Sea Slam RTT 2025",
@@ -8182,7 +8508,7 @@
             "numEvents": 1,
             "dtcScore": 37.84,
             "hobbyScore": "0.00",
-            "rank": 18,
+            "rank": 19,
             "scores": [
               {
                 "name": "The Wardice Wargames Beta",
@@ -8195,12 +8521,38 @@
             ]
           },
           {
+            "userId": "WR8A54KX63",
+            "name": "Olaf Buring",
+            "numEvents": 2,
+            "dtcScore": 37.27,
+            "hobbyScore": "0.00",
+            "rank": 20,
+            "scores": [
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "26.77",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "7so8mbbih2EW",
+                "numberOfRounds": 3,
+                "eventDtcScore": "10.50",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "U18LN2U8KL",
             "name": "Rhamon Zoelman",
             "numEvents": 1,
             "dtcScore": 35.37,
             "hobbyScore": "0.00",
-            "rank": 19,
+            "rank": 21,
             "scores": [
               {
                 "name": "Legends of the North V11",
@@ -8218,7 +8570,7 @@
             "numEvents": 1,
             "dtcScore": 31.07,
             "hobbyScore": "0.00",
-            "rank": 20,
+            "rank": 22,
             "scores": [
               {
                 "name": "North Sea Slam RTT 2025",
@@ -8236,7 +8588,7 @@
             "numEvents": 1,
             "dtcScore": 30.32,
             "hobbyScore": "0.00",
-            "rank": 21,
+            "rank": 23,
             "scores": [
               {
                 "name": "North Sea Slam GT RottenHammer",
@@ -8254,7 +8606,7 @@
             "numEvents": 1,
             "dtcScore": 29.52,
             "hobbyScore": "0.00",
-            "rank": 22,
+            "rank": 24,
             "scores": [
               {
                 "name": "BKG Brawl",
@@ -8272,7 +8624,7 @@
             "numEvents": 1,
             "dtcScore": 28.5,
             "hobbyScore": "0.00",
-            "rank": 23,
+            "rank": 25,
             "scores": [
               {
                 "name": "Dutch Masters Mid Season GT",
@@ -8290,7 +8642,7 @@
             "numEvents": 1,
             "dtcScore": 25.89,
             "hobbyScore": "3.00",
-            "rank": 24,
+            "rank": 26,
             "scores": [
               {
                 "name": "[OE:S] Summer 2025",
@@ -8308,7 +8660,7 @@
             "numEvents": 1,
             "dtcScore": 21.09,
             "hobbyScore": "0.00",
-            "rank": 25,
+            "rank": 27,
             "scores": [
               {
                 "name": "The Wardice Wargames Alpha",
@@ -8323,10 +8675,10 @@
           {
             "userId": "T9FTA70QD7",
             "name": "Niels van den Berg",
-            "numEvents": 1,
-            "dtcScore": 13.73,
+            "numEvents": 2,
+            "dtcScore": 16.16,
             "hobbyScore": "0.00",
-            "rank": 26,
+            "rank": 28,
             "scores": [
               {
                 "name": "Legends of the North V10",
@@ -8335,22 +8687,12 @@
                 "eventDtcScore": "13.73",
                 "isUsedForRanking": true,
                 "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "WR8A54KX63",
-            "name": "Olaf Buring",
-            "numEvents": 1,
-            "dtcScore": 10.5,
-            "hobbyScore": "0.00",
-            "rank": 27,
-            "scores": [
+              },
               {
                 "name": "KvG - Eierbal Cup",
-                "eventId": "7so8mbbih2EW",
+                "eventId": "mHF4JJpIdWWR",
                 "numberOfRounds": 3,
-                "eventDtcScore": "10.50",
+                "eventDtcScore": "2.43",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -8362,7 +8704,7 @@
             "numEvents": 1,
             "dtcScore": 10.06,
             "hobbyScore": "0.00",
-            "rank": 28,
+            "rank": 29,
             "scores": [
               {
                 "name": "[OE:S] Fall 2025",
@@ -8380,7 +8722,7 @@
             "numEvents": 1,
             "dtcScore": 9.85,
             "hobbyScore": "2.00",
-            "rank": 29,
+            "rank": 30,
             "scores": [
               {
                 "name": "DTC40K EASTER TRAININGCAGES",
@@ -8398,7 +8740,7 @@
             "numEvents": 1,
             "dtcScore": 4.58,
             "hobbyScore": "0.00",
-            "rank": 30,
+            "rank": 31,
             "scores": [
               {
                 "name": "Legends of the North V10",
@@ -8416,7 +8758,7 @@
             "numEvents": 1,
             "dtcScore": 3.28,
             "hobbyScore": "0.00",
-            "rank": 31,
+            "rank": 32,
             "scores": [
               {
                 "name": "DTC40K ENTER THE TRAININCAGES",
@@ -8504,36 +8846,44 @@
             ]
           },
           {
-            "userId": "rzabCbO3PG",
-            "name": "Tim Simonis",
-            "numEvents": 1,
-            "dtcScore": 16.41,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "DTC40K EASTER TRAININGCAGES",
-                "eventId": "GsgybeLXuJ8T",
-                "numberOfRounds": 3,
-                "eventDtcScore": "16.41",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
             "userId": "BLB28PKJ5U",
             "name": "Cornelis Hut",
-            "numEvents": 1,
-            "dtcScore": 14.15,
+            "numEvents": 2,
+            "dtcScore": 23.88,
             "hobbyScore": "0.00",
-            "rank": 5,
+            "rank": 4,
             "scores": [
               {
                 "name": "Legends of the North V11",
                 "eventId": "A90JSwXpjDrZ",
                 "numberOfRounds": 3,
                 "eventDtcScore": "14.15",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "KvG - Eierbal Cup",
+                "eventId": "mHF4JJpIdWWR",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.73",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "rzabCbO3PG",
+            "name": "Tim Simonis",
+            "numEvents": 1,
+            "dtcScore": 16.41,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "DTC40K EASTER TRAININGCAGES",
+                "eventId": "GsgybeLXuJ8T",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.41",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
