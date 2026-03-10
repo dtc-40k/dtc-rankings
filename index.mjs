@@ -205,7 +205,7 @@ const updateEvents = (player, events, event) => {
 };
 
 const generatePlayerRanking = (events) => {
-  const seasons = ['2025', '2024', '2023', '2022'];
+  const seasons = ['2026', '2025', '2024', '2023', '2022'];
   const seasonalRankings = [];
   const seasonalTeamRankings = []; // Nieuwe array voor team rankings
 
