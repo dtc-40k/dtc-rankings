@@ -1,7 +1,1275 @@
 [
   {
     "season": "2026",
-    "factionRanking": []
+    "factionRanking": [
+      {
+        "name": "Blood Angels",
+        "players": [
+          {
+            "userId": "xHn0EUD2koXb",
+            "name": "Rutger van Scheers",
+            "numEvents": 2,
+            "dtcScore": 79.72,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.27",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "31.45",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "YRn9TWSVMyyr",
+            "name": "Tom Verhoeven",
+            "numEvents": 1,
+            "dtcScore": 49.95,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "49.95",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "PTgIIEf2U7",
+            "name": "Constantin Van houdenhoven",
+            "numEvents": 1,
+            "dtcScore": 6.03,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "6.03",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Drukhari",
+        "players": [
+          {
+            "userId": "doASAKgaUX",
+            "name": "Cees Jan Stam",
+            "numEvents": 1,
+            "dtcScore": 74,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "74.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "qMHEyRqDHV",
+            "name": "Youri Ommering",
+            "numEvents": 1,
+            "dtcScore": 53.65,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "53.65",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "GjKOIqx1nz",
+            "name": "Wesley Nix",
+            "numEvents": 1,
+            "dtcScore": 22.2,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "22.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Deathwatch",
+        "players": [
+          {
+            "userId": "cgcimvdJ2E",
+            "name": "JC van der Lee",
+            "numEvents": 1,
+            "dtcScore": 72.4,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "GLD52F7LC5",
+            "name": "Aat Niehot",
+            "numEvents": 1,
+            "dtcScore": 66.6,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "66.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Astartes",
+        "players": [
+          {
+            "userId": "XQJT0K78EQ",
+            "name": "Tim Kurvers",
+            "numEvents": 1,
+            "dtcScore": 72.15,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.15",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "AW84laYLqt",
+            "name": "Sem Stam",
+            "numEvents": 1,
+            "dtcScore": 64.75,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.75",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "xZAjITtY6bSb",
+            "name": "Tom Veenvliet",
+            "numEvents": 1,
+            "dtcScore": 57.35,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "6BCE6qOwBCzK",
+            "name": "Serif Uysal",
+            "numEvents": 1,
+            "dtcScore": 37,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "37.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "qhGBzx4W2Wk9",
+            "name": "Nick Vinke",
+            "numEvents": 1,
+            "dtcScore": 7.4,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "BaPjUBIrJxrI",
+            "name": "Mees De Graaf",
+            "numEvents": 1,
+            "dtcScore": 5.55,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "5.55",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Custodes",
+        "players": [
+          {
+            "userId": "ToXqzUXFkO",
+            "name": "Matija Mandurov",
+            "numEvents": 1,
+            "dtcScore": 70.3,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "70.30",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Death Guard",
+        "players": [
+          {
+            "userId": "uJ4B4cQMIthi",
+            "name": "Thomas Zwart",
+            "numEvents": 1,
+            "dtcScore": 69.38,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "69.38",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "QBE4W30CMG",
+            "name": "Keyvan Arian",
+            "numEvents": 1,
+            "dtcScore": 42.55,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.55",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "NYLcU6mpnw",
+            "name": "Simon \"Eierbal'' Borgers",
+            "numEvents": 1,
+            "dtcScore": 39.22,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "39.22",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "World Eaters",
+        "players": [
+          {
+            "userId": "7W945WFPKN",
+            "name": "Quinten Janssen",
+            "numEvents": 1,
+            "dtcScore": 68.45,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.45",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "8P1UT3FAYG",
+            "name": "Sidney Verheijden",
+            "numEvents": 1,
+            "dtcScore": 59.2,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "59.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "vCUvmVLvsl",
+            "name": "Roel van Broekhoven",
+            "numEvents": 1,
+            "dtcScore": 27.75,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "27.75",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Emperor's Children",
+        "players": [
+          {
+            "userId": "RWTFCJ16JR",
+            "name": "Sjors Meijer",
+            "numEvents": 1,
+            "dtcScore": 66.37,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "66.37",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "NTTWVH5KNC",
+            "name": "Eldert Swemmer",
+            "numEvents": 1,
+            "dtcScore": 20.35,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "20.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "iy5qHPMVmA",
+            "name": "Matthijs Van der Werf",
+            "numEvents": 1,
+            "dtcScore": 18.5,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.50",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thousand Sons",
+        "players": [
+          {
+            "userId": "jTKYUfh35b",
+            "name": "Martijn Van der Most",
+            "numEvents": 1,
+            "dtcScore": 63.35,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "63.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "EFGlcAOVfc",
+            "name": "Clyde Davis",
+            "numEvents": 1,
+            "dtcScore": 27.15,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "27.15",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "0FA0QL1VPW",
+            "name": "Axel Favreul",
+            "numEvents": 1,
+            "dtcScore": 25.9,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.90",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "3QP4UY0C0M",
+            "name": "Nick Van dijk",
+            "numEvents": 1,
+            "dtcScore": 12.07,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "12.07",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Angels",
+        "players": [
+          {
+            "userId": "N1smktFBZpl4",
+            "name": "Wilco Heijden",
+            "numEvents": 1,
+            "dtcScore": 62.9,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "62.90",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "1G90AYL6C0",
+            "name": "Sjoerd Reiche",
+            "numEvents": 1,
+            "dtcScore": 60.33,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "60.33",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "aXodFjn9lU",
+            "name": "Christian Domburg",
+            "numEvents": 1,
+            "dtcScore": 30.17,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "30.17",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "VSLQaQfKMEj7",
+            "name": "Felix Tuijn",
+            "numEvents": 1,
+            "dtcScore": 11.1,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "11.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chaos Space Marines",
+        "players": [
+          {
+            "userId": "R7DVQD3P2T",
+            "name": "Kevin Bruinsma",
+            "numEvents": 1,
+            "dtcScore": 61.05,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "61.05",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "fBbz9SqAAE",
+            "name": "Daan Van Herk",
+            "numEvents": 1,
+            "dtcScore": 33.18,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "33.18",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "w6kAJ5LBzCPq",
+            "name": "Juho Lemmetyinen",
+            "numEvents": 1,
+            "dtcScore": 15.08,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "15.08",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Necrons",
+        "players": [
+          {
+            "userId": "m1Cf1dFdAY",
+            "name": "Arjan Fintelman",
+            "numEvents": 1,
+            "dtcScore": 57.32,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.32",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "TlATr9MSrX",
+            "name": "Pieter Meijer",
+            "numEvents": 1,
+            "dtcScore": 51.28,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.28",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "3QP4UY0C0M",
+            "name": "Nick Van dijk",
+            "numEvents": 1,
+            "dtcScore": 48.1,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "UHjx4VQpVT0W",
+            "name": "Engel Funes",
+            "numEvents": 1,
+            "dtcScore": 35.15,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "35.15",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "DP5X65B26U",
+            "name": "Rob Heidenrijk",
+            "numEvents": 1,
+            "dtcScore": 24.13,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.13",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "T'au Empire",
+        "players": [
+          {
+            "userId": "LMks8noh2u",
+            "name": "Freek Manz",
+            "numEvents": 1,
+            "dtcScore": 55.5,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.50",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "2DEfddlsEo",
+            "name": "Stefan Drexler",
+            "numEvents": 1,
+            "dtcScore": 46.25,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.25",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "DwgBLgWQEe",
+            "name": "Tom Rijks",
+            "numEvents": 1,
+            "dtcScore": 29.6,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "0017MMPQC1",
+            "name": "Jens Hanemaaijer",
+            "numEvents": 1,
+            "dtcScore": 21.12,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "21.12",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tyranids",
+        "players": [
+          {
+            "userId": "95WJH9Q3KL",
+            "name": "Ron Eliyahoo",
+            "numEvents": 1,
+            "dtcScore": 54.3,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "54.30",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "6eVpJ13hfVwH",
+            "name": "Johan den Bakker",
+            "numEvents": 1,
+            "dtcScore": 44.4,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "44.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "MbjgGMUqFilK",
+            "name": "Thomas van Benthem",
+            "numEvents": 1,
+            "dtcScore": 14.8,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Astra Militarum",
+        "players": [
+          {
+            "userId": "ePEddcE1nWbt",
+            "name": "Jeroen van Vliet",
+            "numEvents": 1,
+            "dtcScore": 51.8,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "oPYw7BAg15",
+            "name": "Guus van den Berg",
+            "numEvents": 1,
+            "dtcScore": 40.7,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "40.70",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "HUEBZN6I1M",
+            "name": "Peter Dreese",
+            "numEvents": 1,
+            "dtcScore": 38.85,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "38.85",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Black Templars",
+        "players": [
+          {
+            "userId": "eOFVEEMOEb",
+            "name": "Mitchell klein",
+            "numEvents": 1,
+            "dtcScore": 45.25,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "45.25",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Mechanicus",
+        "players": [
+          {
+            "userId": "fOQUt2qkaz",
+            "name": "Florian den Uijl",
+            "numEvents": 1,
+            "dtcScore": 42.23,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.23",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Space Wolves",
+        "players": [
+          {
+            "userId": "rzabCbO3PG",
+            "name": "Tim Simonis",
+            "numEvents": 1,
+            "dtcScore": 36.2,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "ycayO2BvU5",
+            "name": "Ynze H",
+            "numEvents": 1,
+            "dtcScore": 3.02,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.02",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adepta Sororitas",
+        "players": [
+          {
+            "userId": "xXMrG4Pwio3V",
+            "name": "Matthias Bakker",
+            "numEvents": 1,
+            "dtcScore": 33.3,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "33.30",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "9YDM6RMUGT",
+            "name": "Nic van ‘t Schip",
+            "numEvents": 1,
+            "dtcScore": 1.85,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "1.85",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orks",
+        "players": [
+          {
+            "userId": "C8SUIfF8Ar",
+            "name": "dave hultermans",
+            "numEvents": 1,
+            "dtcScore": 24.05,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.05",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Imperium",
+        "players": [
+          {
+            "userId": "BqvcqiEDCWue",
+            "name": "Ringer Ringer",
+            "numEvents": 1,
+            "dtcScore": 18.1,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Leagues of Votann",
+        "players": [
+          {
+            "userId": "UEE17HPY8C",
+            "name": "Emiel Groothuysen",
+            "numEvents": 1,
+            "dtcScore": 16.65,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.65",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aeldari",
+        "players": [
+          {
+            "userId": "iKEL7fZbuQQt",
+            "name": "Joost Eijkenboom",
+            "numEvents": 1,
+            "dtcScore": 12.95,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "12.95",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Imperial Knights",
+        "players": [
+          {
+            "userId": "o2epwoAOyvVj",
+            "name": "Rick de Leeuw",
+            "numEvents": 1,
+            "dtcScore": 9.25,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.25",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "1YBzQ7IxGR",
+            "name": "Chiel de Groen",
+            "numEvents": 1,
+            "dtcScore": 3.7,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.70",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chaos Knights",
+        "players": [
+          {
+            "userId": "6ElFaPuI4TJ4",
+            "name": "roland nelson",
+            "numEvents": 1,
+            "dtcScore": 9.05,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.05",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "season": "2025",
