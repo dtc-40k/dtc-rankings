@@ -3,878 +3,24 @@
     "season": "2026",
     "factionRanking": [
       {
-        "name": "Adeptus Astartes",
-        "players": [
-          {
-            "userId": "cN77fl1hWy",
-            "name": "Lenny Craft-it",
-            "numEvents": 3,
-            "dtcScore": 167.63,
-            "hobbyScore": "2.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "81.23",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "64.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "21.60",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "RWTFCJ16JR",
-            "name": "Sjors Meijer",
-            "numEvents": 2,
-            "dtcScore": 159.41,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "112.61",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "xZAjITtY6bSb",
-            "name": "Tom Veenvliet",
-            "numEvents": 2,
-            "dtcScore": 157.04,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "99.69",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.35",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "AW84laYLqt",
-            "name": "Sem Stam",
-            "numEvents": 2,
-            "dtcScore": 116.03,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "64.75",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "51.28",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "XQJT0K78EQ",
-            "name": "Tim Kurvers",
-            "numEvents": 2,
-            "dtcScore": 96.48,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "72.15",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "24.33",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "aXodFjn9lU",
-            "name": "Christian Domburg",
-            "numEvents": 1,
-            "dtcScore": 69.38,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "69.38",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "0UVKqPRi1x",
-            "name": "Justin Jansen",
-            "numEvents": 1,
-            "dtcScore": 68.92,
-            "hobbyScore": "0.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "68.92",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "GD6Y8KEL1W",
-            "name": "Tim Neelen",
-            "numEvents": 1,
-            "dtcScore": 68.3,
-            "hobbyScore": "0.00",
-            "rank": 8,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "68.30",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "Db1AWQwcg6",
-            "name": "michiel zandbergen",
-            "numEvents": 1,
-            "dtcScore": 55.79,
-            "hobbyScore": "0.00",
-            "rank": 9,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "55.79",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "NvkOKjD8kO",
-            "name": "Bas Riemens",
-            "numEvents": 1,
-            "dtcScore": 55.38,
-            "hobbyScore": "0.00",
-            "rank": 10,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "55.38",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "QLopEGzWuA",
-            "name": "Tijs Vd vegt",
-            "numEvents": 1,
-            "dtcScore": 49.23,
-            "hobbyScore": "0.00",
-            "rank": 11,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "49.23",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "YYMJA4J4KG",
-            "name": "Johri van Eerd",
-            "numEvents": 1,
-            "dtcScore": 41.37,
-            "hobbyScore": "0.00",
-            "rank": 12,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "41.37",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "6BCE6qOwBCzK",
-            "name": "Serif Uysal",
-            "numEvents": 1,
-            "dtcScore": 37,
-            "hobbyScore": "0.00",
-            "rank": 13,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "37.00",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "13EN95VQPU",
-            "name": "Peter Zuidgeest",
-            "numEvents": 1,
-            "dtcScore": 33.23,
-            "hobbyScore": "3.00",
-            "rank": 14,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "33.23",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "GLD52F7LC5",
-            "name": "Aat Niehot",
-            "numEvents": 1,
-            "dtcScore": 28.8,
-            "hobbyScore": "0.00",
-            "rank": 15,
-            "scores": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "28.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "qhGBzx4W2Wk9",
-            "name": "Nick Vinke",
-            "numEvents": 2,
-            "dtcScore": 12.27,
-            "hobbyScore": "0.00",
-            "rank": 16,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "7.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "4.87",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "BaPjUBIrJxrI",
-            "name": "Mees De Graaf",
-            "numEvents": 1,
-            "dtcScore": 5.55,
-            "hobbyScore": "0.00",
-            "rank": 17,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "5.55",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Chaos Daemons",
-        "players": [
-          {
-            "userId": "sdjXWgUjur",
-            "name": "Frank van der Vooren",
-            "numEvents": 2,
-            "dtcScore": 108.18,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "79.38",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "28.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "NYLcU6mpnw",
-            "name": "Simon \"Eierbal'' Borgers",
-            "numEvents": 1,
-            "dtcScore": 72.2,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "72.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "RWTFCJ16JR",
-            "name": "Sjors Meijer",
-            "numEvents": 1,
-            "dtcScore": 61.2,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "61.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "vCUvmVLvsl",
-            "name": "Roel van Broekhoven",
-            "numEvents": 1,
-            "dtcScore": 53.53,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "53.53",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "RGgTnCpgNT",
-            "name": "Ruben Claes",
-            "numEvents": 1,
-            "dtcScore": 51.69,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "51.69",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "9WDN03KDPR",
-            "name": "Evert-Jan Flier",
-            "numEvents": 1,
-            "dtcScore": 26.25,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "26.25",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "World Eaters",
-        "players": [
-          {
-            "userId": "7W945WFPKN",
-            "name": "Quinten Janssen",
-            "numEvents": 1,
-            "dtcScore": 68.45,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "68.45",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "8P1UT3FAYG",
-            "name": "Sidney Verheijden",
-            "numEvents": 1,
-            "dtcScore": 59.2,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "59.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "GEO8V7cAbw",
-            "name": "Yaro Shelomov",
-            "numEvents": 1,
-            "dtcScore": 53.53,
-            "hobbyScore": "1.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "53.53",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "dAPlibmodi",
-            "name": "Ori Bisdom",
-            "numEvents": 1,
-            "dtcScore": 48.67,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "48.67",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "JDG8B8A1RU",
-            "name": "Bryan van Bommel",
-            "numEvents": 1,
-            "dtcScore": 46.8,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "RWTFCJ16JR",
-            "name": "Sjors Meijer",
-            "numEvents": 1,
-            "dtcScore": 36.2,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "36.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "vCUvmVLvsl",
-            "name": "Roel van Broekhoven",
-            "numEvents": 1,
-            "dtcScore": 27.75,
-            "hobbyScore": "0.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "27.75",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "cShLO2GHnIMk",
-            "name": "Robin Hornhuis",
-            "numEvents": 1,
-            "dtcScore": 3.28,
-            "hobbyScore": "0.00",
-            "rank": 8,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "3.28",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Emperor's Children",
-        "players": [
-          {
-            "userId": "aCgNrvM5ko",
-            "name": "Thomas Verkooijen",
-            "numEvents": 5,
-            "dtcScore": 191.15,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "48.00",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "60.83",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "21.12",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "14.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "R3QG70jgwM",
-            "name": "Anthony Eisses",
-            "numEvents": 2,
-            "dtcScore": 86.5,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "50.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "36.10",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "RWTFCJ16JR",
-            "name": "Sjors Meijer",
-            "numEvents": 1,
-            "dtcScore": 66.37,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "66.37",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "ZRyVn8v3qG",
-            "name": "Kjell Lutz",
-            "numEvents": 1,
-            "dtcScore": 36,
-            "hobbyScore": "7.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "36.00",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "xETp9m3OZ7ya",
-            "name": "Luciano van der Oost",
-            "numEvents": 1,
-            "dtcScore": 24,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "24.00",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "NTTWVH5KNC",
-            "name": "Eldert Swemmer",
-            "numEvents": 1,
-            "dtcScore": 20.35,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "20.35",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "iy5qHPMVmA",
-            "name": "Matthijs Van der Werf",
-            "numEvents": 1,
-            "dtcScore": 18.5,
-            "hobbyScore": "0.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.50",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "TQ04G1ANKC",
-            "name": "Daniël Groenenboom",
-            "numEvents": 1,
-            "dtcScore": 16.61,
-            "hobbyScore": "0.00",
-            "rank": 8,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "16.61",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "abU1tEmMwCeI",
-            "name": "Arnaud van der Bie",
-            "numEvents": 1,
-            "dtcScore": 9.73,
-            "hobbyScore": "0.00",
-            "rank": 9,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "9.73",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "0YJ8QK2CDK",
-            "name": "Shinon Vrakking",
-            "numEvents": 1,
-            "dtcScore": 9.23,
-            "hobbyScore": "0.00",
-            "rank": 10,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "9.23",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          }
-        ]
-      },
-      {
         "name": "Thousand Sons",
         "players": [
           {
             "userId": "jTKYUfh35b",
             "name": "Martijn Van der Most",
-            "numEvents": 4,
-            "dtcScore": 310.82,
+            "numEvents": 5,
+            "dtcScore": 437.01,
             "hobbyScore": "0.00",
             "rank": 1,
             "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "126.19",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
                 "eventId": "v8uZ5pThBjTK",
@@ -1086,6 +232,920 @@
         ]
       },
       {
+        "name": "World Eaters",
+        "players": [
+          {
+            "userId": "RWTFCJ16JR",
+            "name": "Sjors Meijer",
+            "numEvents": 2,
+            "dtcScore": 132.35,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "96.15",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "7W945WFPKN",
+            "name": "Quinten Janssen",
+            "numEvents": 1,
+            "dtcScore": 68.45,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.45",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "8P1UT3FAYG",
+            "name": "Sidney Verheijden",
+            "numEvents": 1,
+            "dtcScore": 59.2,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "59.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "GEO8V7cAbw",
+            "name": "Yaro Shelomov",
+            "numEvents": 1,
+            "dtcScore": 53.53,
+            "hobbyScore": "1.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "53.53",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "dAPlibmodi",
+            "name": "Ori Bisdom",
+            "numEvents": 1,
+            "dtcScore": 48.67,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.67",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "JDG8B8A1RU",
+            "name": "Bryan van Bommel",
+            "numEvents": 1,
+            "dtcScore": 46.8,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "vCUvmVLvsl",
+            "name": "Roel van Broekhoven",
+            "numEvents": 1,
+            "dtcScore": 27.75,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "27.75",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "cShLO2GHnIMk",
+            "name": "Robin Hornhuis",
+            "numEvents": 1,
+            "dtcScore": 3.28,
+            "hobbyScore": "0.00",
+            "rank": 8,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.28",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Astartes",
+        "players": [
+          {
+            "userId": "cN77fl1hWy",
+            "name": "Lenny Craft-it",
+            "numEvents": 3,
+            "dtcScore": 167.63,
+            "hobbyScore": "2.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "81.23",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "21.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "RWTFCJ16JR",
+            "name": "Sjors Meijer",
+            "numEvents": 2,
+            "dtcScore": 159.41,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "112.61",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "xZAjITtY6bSb",
+            "name": "Tom Veenvliet",
+            "numEvents": 2,
+            "dtcScore": 157.04,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "99.69",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "cgcimvdJ2E",
+            "name": "JC van der Lee",
+            "numEvents": 1,
+            "dtcScore": 132.2,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "132.20",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "AW84laYLqt",
+            "name": "Sem Stam",
+            "numEvents": 2,
+            "dtcScore": 116.03,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.75",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.28",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "XQJT0K78EQ",
+            "name": "Tim Kurvers",
+            "numEvents": 2,
+            "dtcScore": 96.48,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.15",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.33",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "aXodFjn9lU",
+            "name": "Christian Domburg",
+            "numEvents": 1,
+            "dtcScore": 69.38,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "69.38",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "0UVKqPRi1x",
+            "name": "Justin Jansen",
+            "numEvents": 1,
+            "dtcScore": 68.92,
+            "hobbyScore": "0.00",
+            "rank": 8,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.92",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "GD6Y8KEL1W",
+            "name": "Tim Neelen",
+            "numEvents": 1,
+            "dtcScore": 68.3,
+            "hobbyScore": "0.00",
+            "rank": 9,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "68.30",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "WR8A54KX63",
+            "name": "Olaf Buring",
+            "numEvents": 1,
+            "dtcScore": 60.09,
+            "hobbyScore": "0.00",
+            "rank": 10,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "60.09",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "Db1AWQwcg6",
+            "name": "michiel zandbergen",
+            "numEvents": 1,
+            "dtcScore": 55.79,
+            "hobbyScore": "0.00",
+            "rank": 11,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.79",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "NvkOKjD8kO",
+            "name": "Bas Riemens",
+            "numEvents": 1,
+            "dtcScore": 55.38,
+            "hobbyScore": "0.00",
+            "rank": 12,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "55.38",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "QLopEGzWuA",
+            "name": "Tijs Vd vegt",
+            "numEvents": 1,
+            "dtcScore": 49.23,
+            "hobbyScore": "0.00",
+            "rank": 13,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "49.23",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "YYMJA4J4KG",
+            "name": "Johri van Eerd",
+            "numEvents": 1,
+            "dtcScore": 41.37,
+            "hobbyScore": "0.00",
+            "rank": 14,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "41.37",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "6BCE6qOwBCzK",
+            "name": "Serif Uysal",
+            "numEvents": 1,
+            "dtcScore": 37,
+            "hobbyScore": "0.00",
+            "rank": 15,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "37.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "13EN95VQPU",
+            "name": "Peter Zuidgeest",
+            "numEvents": 1,
+            "dtcScore": 33.23,
+            "hobbyScore": "3.00",
+            "rank": 16,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "33.23",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "GLD52F7LC5",
+            "name": "Aat Niehot",
+            "numEvents": 1,
+            "dtcScore": 28.8,
+            "hobbyScore": "0.00",
+            "rank": 17,
+            "scores": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "28.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "qhGBzx4W2Wk9",
+            "name": "Nick Vinke",
+            "numEvents": 2,
+            "dtcScore": 12.27,
+            "hobbyScore": "0.00",
+            "rank": 18,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.87",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "BaPjUBIrJxrI",
+            "name": "Mees De Graaf",
+            "numEvents": 1,
+            "dtcScore": 5.55,
+            "hobbyScore": "0.00",
+            "rank": 19,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "5.55",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chaos Daemons",
+        "players": [
+          {
+            "userId": "sdjXWgUjur",
+            "name": "Frank van der Vooren",
+            "numEvents": 2,
+            "dtcScore": 108.18,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "79.38",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "28.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "NYLcU6mpnw",
+            "name": "Simon \"Eierbal'' Borgers",
+            "numEvents": 1,
+            "dtcScore": 72.2,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "RWTFCJ16JR",
+            "name": "Sjors Meijer",
+            "numEvents": 1,
+            "dtcScore": 61.2,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "61.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "vCUvmVLvsl",
+            "name": "Roel van Broekhoven",
+            "numEvents": 1,
+            "dtcScore": 53.53,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "53.53",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "RGgTnCpgNT",
+            "name": "Ruben Claes",
+            "numEvents": 1,
+            "dtcScore": 51.69,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "51.69",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "9WDN03KDPR",
+            "name": "Evert-Jan Flier",
+            "numEvents": 1,
+            "dtcScore": 26.25,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "26.25",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Emperor's Children",
+        "players": [
+          {
+            "userId": "aCgNrvM5ko",
+            "name": "Thomas Verkooijen",
+            "numEvents": 5,
+            "dtcScore": 191.15,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "48.00",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "60.83",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "21.12",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "R3QG70jgwM",
+            "name": "Anthony Eisses",
+            "numEvents": 2,
+            "dtcScore": 86.5,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "50.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "xETp9m3OZ7ya",
+            "name": "Luciano van der Oost",
+            "numEvents": 2,
+            "dtcScore": 72.07,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "48.07",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "24.00",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "RWTFCJ16JR",
+            "name": "Sjors Meijer",
+            "numEvents": 1,
+            "dtcScore": 66.37,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "66.37",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "ZRyVn8v3qG",
+            "name": "Kjell Lutz",
+            "numEvents": 1,
+            "dtcScore": 36,
+            "hobbyScore": "7.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "NTTWVH5KNC",
+            "name": "Eldert Swemmer",
+            "numEvents": 1,
+            "dtcScore": 20.35,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "20.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "iy5qHPMVmA",
+            "name": "Matthijs Van der Werf",
+            "numEvents": 1,
+            "dtcScore": 18.5,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.50",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "TQ04G1ANKC",
+            "name": "Daniël Groenenboom",
+            "numEvents": 1,
+            "dtcScore": 16.61,
+            "hobbyScore": "0.00",
+            "rank": 8,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "16.61",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "abU1tEmMwCeI",
+            "name": "Arnaud van der Bie",
+            "numEvents": 1,
+            "dtcScore": 9.73,
+            "hobbyScore": "0.00",
+            "rank": 9,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.73",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "0YJ8QK2CDK",
+            "name": "Shinon Vrakking",
+            "numEvents": 1,
+            "dtcScore": 9.23,
+            "hobbyScore": "0.00",
+            "rank": 10,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "9.23",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          }
+        ]
+      },
+      {
         "name": "Deathwatch",
         "players": [
           {
@@ -1153,6 +1213,501 @@
                 "eventId": "YlDkIVx8cvjG",
                 "numberOfRounds": 3,
                 "eventDtcScore": "21.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chaos Space Marines",
+        "players": [
+          {
+            "userId": "w6kAJ5LBzCPq",
+            "name": "Juho Lemmetyinen",
+            "numEvents": 3,
+            "dtcScore": 229.41,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "120.18",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "94.15",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "15.08",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "fBbz9SqAAE",
+            "name": "Daan Van Herk",
+            "numEvents": 3,
+            "dtcScore": 168.53,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "63.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "33.18",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "Ci8drOUGlg",
+            "name": "Ruud Steenbakkers",
+            "numEvents": 1,
+            "dtcScore": 73,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "73.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "VA13NBVK3X",
+            "name": "Robin Maatjens",
+            "numEvents": 1,
+            "dtcScore": 66.46,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "66.46",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "R7DVQD3P2T",
+            "name": "Kevin Bruinsma",
+            "numEvents": 1,
+            "dtcScore": 61.05,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "61.05",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "cLWiXebqAH",
+            "name": "Felix Brenninkmeijer",
+            "numEvents": 1,
+            "dtcScore": 60.92,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "60.92",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "1MqrA0sGvi",
+            "name": "Thomas Beckers",
+            "numEvents": 1,
+            "dtcScore": 54.08,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "54.08",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "5U542FLB8K",
+            "name": "justin budding",
+            "numEvents": 1,
+            "dtcScore": 20.31,
+            "hobbyScore": "1.00",
+            "rank": 8,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "20.31",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "48DY8N0F4H",
+            "name": "Mike Van Kuijk",
+            "numEvents": 1,
+            "dtcScore": 11.08,
+            "hobbyScore": "0.00",
+            "rank": 9,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "11.08",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "EtUqtfzfnjna",
+            "name": "Wouter Luiten",
+            "numEvents": 1,
+            "dtcScore": 7.38,
+            "hobbyScore": "0.00",
+            "rank": 10,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "7.38",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Death Guard",
+        "players": [
+          {
+            "userId": "uJ4B4cQMIthi",
+            "name": "Thomas Zwart",
+            "numEvents": 2,
+            "dtcScore": 131.73,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "69.38",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "62.35",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "DgZcYyMrJDnd",
+            "name": "Jesse Brink",
+            "numEvents": 1,
+            "dtcScore": 90.14,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "90.14",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "fBbz9SqAAE",
+            "name": "Daan Van Herk",
+            "numEvents": 1,
+            "dtcScore": 68.4,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "3UYu9j00Jz",
+            "name": "Wouter Kamps",
+            "numEvents": 1,
+            "dtcScore": 45.25,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "45.25",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "QBE4W30CMG",
+            "name": "Keyvan Arian",
+            "numEvents": 1,
+            "dtcScore": 42.55,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.55",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "CHs5slNJ1F",
+            "name": "Thomas Fluit",
+            "numEvents": 1,
+            "dtcScore": 39.6,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "39.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "NYLcU6mpnw",
+            "name": "Simon \"Eierbal'' Borgers",
+            "numEvents": 1,
+            "dtcScore": 39.22,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "39.22",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orks",
+        "players": [
+          {
+            "userId": "fBbz9SqAAE",
+            "name": "Daan Van Herk",
+            "numEvents": 1,
+            "dtcScore": 114.17,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "114.17",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "C8SUIfF8Ar",
+            "name": "dave hultermans",
+            "numEvents": 2,
+            "dtcScore": 96.05,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "72.00",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.05",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "j1q8untWVm",
+            "name": "Geert P",
+            "numEvents": 1,
+            "dtcScore": 72.11,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "72.11",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "ycayO2BvU5",
+            "name": "Ynze H",
+            "numEvents": 1,
+            "dtcScore": 35.07,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "35.07",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "lp8ZzEFgYDqV",
+            "name": "Roald Bloemendal",
+            "numEvents": 1,
+            "dtcScore": 19.69,
+            "hobbyScore": "5.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "19.69",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "CZz3lUpxKh",
+            "name": "Remco Beukema",
+            "numEvents": 1,
+            "dtcScore": 18,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "fmGDFJgokShe",
+            "name": "Bas Jelsma",
+            "numEvents": 1,
+            "dtcScore": 14.6,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.60",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -1441,12 +1996,38 @@
         "name": "Imperial Knights",
         "players": [
           {
+            "userId": "aXodFjn9lU",
+            "name": "Christian Domburg",
+            "numEvents": 2,
+            "dtcScore": 91.3,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "66.10",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "K5MAVVEHKN",
             "name": "Bas Van der Stelt",
             "numEvents": 2,
             "dtcScore": 61.62,
             "hobbyScore": "0.00",
-            "rank": 1,
+            "rank": 2,
             "scores": [
               {
                 "name": "Legends of the North v14",
@@ -1472,7 +2053,7 @@
             "numEvents": 1,
             "dtcScore": 60.33,
             "hobbyScore": "1.00",
-            "rank": 2,
+            "rank": 3,
             "scores": [
               {
                 "name": "Lost Legion Wargaming 40k RTT",
@@ -1490,7 +2071,7 @@
             "numEvents": 3,
             "dtcScore": 56.23,
             "hobbyScore": "0.00",
-            "rank": 3,
+            "rank": 4,
             "scores": [
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
@@ -1524,7 +2105,7 @@
             "numEvents": 1,
             "dtcScore": 50.4,
             "hobbyScore": "0.00",
-            "rank": 4,
+            "rank": 5,
             "scores": [
               {
                 "name": "Wardice RTT Charlie",
@@ -1537,20 +2118,20 @@
             ]
           },
           {
-            "userId": "aXodFjn9lU",
-            "name": "Christian Domburg",
+            "userId": "KJE6Dm85fVho",
+            "name": "Jan De Niet",
             "numEvents": 1,
-            "dtcScore": 25.2,
-            "hobbyScore": "0.00",
-            "rank": 5,
+            "dtcScore": 18.03,
+            "hobbyScore": "1.00",
+            "rank": 6,
             "scores": [
               {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "25.20",
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "18.03",
                 "isUsedForRanking": true,
-                "isGTEvent": false
+                "isGTEvent": true
               }
             ]
           },
@@ -1560,7 +2141,7 @@
             "numEvents": 1,
             "dtcScore": 14.4,
             "hobbyScore": "1.00",
-            "rank": 6,
+            "rank": 7,
             "scores": [
               {
                 "name": "Wardice RTT Charlie",
@@ -1578,7 +2159,7 @@
             "numEvents": 1,
             "dtcScore": 9.25,
             "hobbyScore": "0.00",
-            "rank": 7,
+            "rank": 8,
             "scores": [
               {
                 "name": "[OE:S] Spring 2026",
@@ -1796,316 +2377,97 @@
                 "isGTEvent": false
               }
             ]
+          },
+          {
+            "userId": "4q8LJfdpiGy2",
+            "name": "Sven Leppers",
+            "numEvents": 1,
+            "dtcScore": 6.01,
+            "hobbyScore": "0.00",
+            "rank": 10,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "6.01",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
           }
         ]
       },
       {
-        "name": "Chaos Space Marines",
+        "name": "Space Wolves",
         "players": [
           {
-            "userId": "fBbz9SqAAE",
-            "name": "Daan Van Herk",
-            "numEvents": 3,
-            "dtcScore": 168.53,
+            "userId": "rzabCbO3PG",
+            "name": "Tim Simonis",
+            "numEvents": 2,
+            "dtcScore": 82.43,
             "hobbyScore": "0.00",
             "rank": 1,
-            "scores": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "72.00",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "63.35",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "33.18",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "w6kAJ5LBzCPq",
-            "name": "Juho Lemmetyinen",
-            "numEvents": 2,
-            "dtcScore": 109.23,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "94.15",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "15.08",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "Ci8drOUGlg",
-            "name": "Ruud Steenbakkers",
-            "numEvents": 1,
-            "dtcScore": 73,
-            "hobbyScore": "0.00",
-            "rank": 3,
             "scores": [
               {
                 "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
                 "eventId": "88OpQWEdwuFA",
                 "numberOfRounds": 3,
-                "eventDtcScore": "73.00",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "VA13NBVK3X",
-            "name": "Robin Maatjens",
-            "numEvents": 1,
-            "dtcScore": 66.46,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "66.46",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "R7DVQD3P2T",
-            "name": "Kevin Bruinsma",
-            "numEvents": 1,
-            "dtcScore": 61.05,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "61.05",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "cLWiXebqAH",
-            "name": "Felix Brenninkmeijer",
-            "numEvents": 1,
-            "dtcScore": 60.92,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "60.92",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "5U542FLB8K",
-            "name": "justin budding",
-            "numEvents": 1,
-            "dtcScore": 20.31,
-            "hobbyScore": "1.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "20.31",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "48DY8N0F4H",
-            "name": "Mike Van Kuijk",
-            "numEvents": 1,
-            "dtcScore": 11.08,
-            "hobbyScore": "0.00",
-            "rank": 8,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "11.08",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "EtUqtfzfnjna",
-            "name": "Wouter Luiten",
-            "numEvents": 1,
-            "dtcScore": 7.38,
-            "hobbyScore": "0.00",
-            "rank": 9,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "7.38",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Death Guard",
-        "players": [
-          {
-            "userId": "uJ4B4cQMIthi",
-            "name": "Thomas Zwart",
-            "numEvents": 2,
-            "dtcScore": 131.73,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "69.38",
+                "eventDtcScore": "46.23",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               },
               {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
                 "numberOfRounds": 3,
-                "eventDtcScore": "62.35",
+                "eventDtcScore": "36.20",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
             ]
           },
           {
-            "userId": "fBbz9SqAAE",
-            "name": "Daan Van Herk",
-            "numEvents": 1,
-            "dtcScore": 68.4,
+            "userId": "ycayO2BvU5",
+            "name": "Ynze H",
+            "numEvents": 2,
+            "dtcScore": 60.34,
             "hobbyScore": "0.00",
             "rank": 2,
-            "scores": [
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "68.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "3UYu9j00Jz",
-            "name": "Wouter Kamps",
-            "numEvents": 1,
-            "dtcScore": 45.25,
-            "hobbyScore": "0.00",
-            "rank": 3,
             "scores": [
               {
                 "name": "Lost Legion Wargaming 40k RTT",
                 "eventId": "scYs5PagdB5K",
                 "numberOfRounds": 3,
-                "eventDtcScore": "45.25",
+                "eventDtcScore": "57.32",
                 "isUsedForRanking": true,
                 "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "QBE4W30CMG",
-            "name": "Keyvan Arian",
-            "numEvents": 1,
-            "dtcScore": 42.55,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "42.55",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "CHs5slNJ1F",
-            "name": "Thomas Fluit",
-            "numEvents": 1,
-            "dtcScore": 39.6,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "39.60",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "NYLcU6mpnw",
-            "name": "Simon \"Eierbal'' Borgers",
-            "numEvents": 1,
-            "dtcScore": 39.22,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
+              },
               {
                 "name": "Feast of Blades February 2026",
                 "eventId": "vIZ2MxcYRQC7",
                 "numberOfRounds": 3,
-                "eventDtcScore": "39.22",
+                "eventDtcScore": "3.02",
                 "isUsedForRanking": true,
                 "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "m1Cf1dFdAY",
+            "name": "Arjan Fintelman",
+            "numEvents": 1,
+            "dtcScore": 42.06,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "42.06",
+                "isUsedForRanking": true,
+                "isGTEvent": true
               }
             ]
           }
@@ -2117,11 +2479,19 @@
           {
             "userId": "eOFVEEMOEb",
             "name": "Mitchell klein",
-            "numEvents": 2,
-            "dtcScore": 128.32,
+            "numEvents": 3,
+            "dtcScore": 230.47,
             "hobbyScore": "0.00",
             "rank": 1,
             "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "102.15",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
                 "eventId": "v8uZ5pThBjTK",
@@ -2376,12 +2746,30 @@
             ]
           },
           {
+            "userId": "z3fjX7GSOXu7",
+            "name": "Julian Van der kleij",
+            "numEvents": 1,
+            "dtcScore": 24.04,
+            "hobbyScore": "0.00",
+            "rank": 8,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "24.04",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
             "userId": "VSLQaQfKMEj7",
             "name": "Felix Tuijn",
             "numEvents": 1,
             "dtcScore": 11.1,
             "hobbyScore": "0.00",
-            "rank": 8,
+            "rank": 9,
             "scores": [
               {
                 "name": "[OE:S] Spring 2026",
@@ -2396,75 +2784,135 @@
         ]
       },
       {
-        "name": "Grey Knights",
+        "name": "Tyranids",
         "players": [
           {
-            "userId": "LP8QYC9584",
-            "name": "Frank Verbeek",
-            "numEvents": 1,
-            "dtcScore": 86.76,
+            "userId": "95WJH9Q3KL",
+            "name": "Ron Eliyahoo",
+            "numEvents": 3,
+            "dtcScore": 267.68,
             "hobbyScore": "0.00",
             "rank": 1,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "108.16",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "105.22",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "54.30",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "HiGJBbpMGm",
+            "name": "Stelios Marinakis",
+            "numEvents": 1,
+            "dtcScore": 64.61,
+            "hobbyScore": "0.00",
+            "rank": 2,
             "scores": [
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
                 "eventId": "v8uZ5pThBjTK",
                 "numberOfRounds": 5,
-                "eventDtcScore": "86.76",
+                "eventDtcScore": "64.61",
                 "isUsedForRanking": true,
                 "isGTEvent": true
               }
             ]
           },
           {
-            "userId": "j8WphFYeF8",
-            "name": "Jort Kassies",
+            "userId": "5HBN1JHN57",
+            "name": "lennert janssens",
             "numEvents": 1,
-            "dtcScore": 57.6,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.60",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "4UYF9M5N4J",
-            "name": "Iddo Van den Boomgaard",
-            "numEvents": 1,
-            "dtcScore": 42.66,
+            "dtcScore": 46.15,
             "hobbyScore": "0.00",
             "rank": 3,
             "scores": [
               {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "46.15",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "6eVpJ13hfVwH",
+            "name": "Johan den Bakker",
+            "numEvents": 1,
+            "dtcScore": 44.4,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
                 "numberOfRounds": 3,
-                "eventDtcScore": "42.66",
+                "eventDtcScore": "44.40",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
             ]
           },
           {
-            "userId": "AMMLW31QTV",
-            "name": "Oane Dijkstra",
+            "userId": "W97DTG5KMM",
+            "name": "Raven van Dijk",
             "numEvents": 1,
-            "dtcScore": 9.85,
+            "dtcScore": 36.92,
             "hobbyScore": "0.00",
-            "rank": 4,
+            "rank": 5,
             "scores": [
               {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "36.92",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "MbjgGMUqFilK",
+            "name": "Thomas van Benthem",
+            "numEvents": 2,
+            "dtcScore": 20.83,
+            "hobbyScore": "1.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
                 "numberOfRounds": 3,
-                "eventDtcScore": "9.85",
+                "eventDtcScore": "14.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "6.03",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -2476,39 +2924,21 @@
         "name": "T'au Empire",
         "players": [
           {
-            "userId": "FaF3dECqaz",
-            "name": "Lennaert Tjallingii",
-            "numEvents": 2,
-            "dtcScore": 123.87,
-            "hobbyScore": "0.00",
+            "userId": "xHn0EUD2koXb",
+            "name": "Rutger van Scheers",
+            "numEvents": 4,
+            "dtcScore": 155.83,
+            "hobbyScore": "2.00",
             "rank": 1,
             "scores": [
               {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "64.80",
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "78.12",
                 "isUsedForRanking": true,
-                "isGTEvent": false
+                "isGTEvent": true
               },
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "59.07",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "xHn0EUD2koXb",
-            "name": "Rutger van Scheers",
-            "numEvents": 3,
-            "dtcScore": 77.71,
-            "hobbyScore": "2.00",
-            "rank": 2,
-            "scores": [
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
                 "eventId": "v8uZ5pThBjTK",
@@ -2530,6 +2960,32 @@
                 "eventId": "tRPqURXNCppX",
                 "numberOfRounds": 3,
                 "eventDtcScore": "10.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "FaF3dECqaz",
+            "name": "Lennaert Tjallingii",
+            "numEvents": 2,
+            "dtcScore": 123.87,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "59.07",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -2726,465 +3182,6 @@
                 "eventId": "LDZ0bWjG5mvl",
                 "numberOfRounds": 3,
                 "eventDtcScore": "6.56",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Adeptus Custodes",
-        "players": [
-          {
-            "userId": "HvCXqti2yiAt",
-            "name": "Bas Beunder",
-            "numEvents": 2,
-            "dtcScore": 110.17,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "59.07",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "51.10",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "j8WphFYeF8",
-            "name": "Jort Kassies",
-            "numEvents": 1,
-            "dtcScore": 101.53,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "101.53",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "ToXqzUXFkO",
-            "name": "Matija Mandurov",
-            "numEvents": 1,
-            "dtcScore": 70.3,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "70.30",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "6kjWY1FwIs04",
-            "name": "Gianluca Hop",
-            "numEvents": 1,
-            "dtcScore": 66.37,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "66.37",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "zRVqSNtEh2Ux",
-            "name": "Maarten Sitters",
-            "numEvents": 1,
-            "dtcScore": 62.77,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "62.77",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "ZIMEvPWquB",
-            "name": "Erik van Nijnatten",
-            "numEvents": 1,
-            "dtcScore": 36.5,
-            "hobbyScore": "0.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "36.50",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "KJE6Dm85fVho",
-            "name": "Jan De Niet",
-            "numEvents": 1,
-            "dtcScore": 22.15,
-            "hobbyScore": "1.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "22.15",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Tyranids",
-        "players": [
-          {
-            "userId": "95WJH9Q3KL",
-            "name": "Ron Eliyahoo",
-            "numEvents": 2,
-            "dtcScore": 159.52,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "105.22",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "54.30",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "HiGJBbpMGm",
-            "name": "Stelios Marinakis",
-            "numEvents": 1,
-            "dtcScore": 64.61,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "64.61",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "5HBN1JHN57",
-            "name": "lennert janssens",
-            "numEvents": 1,
-            "dtcScore": 46.15,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "46.15",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "6eVpJ13hfVwH",
-            "name": "Johan den Bakker",
-            "numEvents": 1,
-            "dtcScore": 44.4,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "44.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "W97DTG5KMM",
-            "name": "Raven van Dijk",
-            "numEvents": 1,
-            "dtcScore": 36.92,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "36.92",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "MbjgGMUqFilK",
-            "name": "Thomas van Benthem",
-            "numEvents": 2,
-            "dtcScore": 20.83,
-            "hobbyScore": "1.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "14.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "6.03",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Leagues of Votann",
-        "players": [
-          {
-            "userId": "2TNG4LQGY1",
-            "name": "Stephan van der Vuurst",
-            "numEvents": 1,
-            "dtcScore": 65.7,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "65.70",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "49mGOxqycs",
-            "name": "James Brayford",
-            "numEvents": 1,
-            "dtcScore": 57.23,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "57.23",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "BLB28PKJ5U",
-            "name": "Cornelis Hut",
-            "numEvents": 2,
-            "dtcScore": 33.77,
-            "hobbyScore": "0.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "22.97",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "10.80",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "f6vUmsHLNv",
-            "name": "Jeroen Van der leij",
-            "numEvents": 1,
-            "dtcScore": 32.4,
-            "hobbyScore": "1.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "32.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "Qarz0SmAlAEW",
-            "name": "Alessio Carlos Velardi",
-            "numEvents": 1,
-            "dtcScore": 29.54,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "29.54",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "72NCAEEUG3",
-            "name": "Ap de Ree",
-            "numEvents": 3,
-            "dtcScore": 24.62,
-            "hobbyScore": "2.00",
-            "rank": 6,
-            "scores": [
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "14.40",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "7.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "3.02",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "UEE17HPY8C",
-            "name": "Emiel Groothuysen",
-            "numEvents": 1,
-            "dtcScore": 16.65,
-            "hobbyScore": "0.00",
-            "rank": 7,
-            "scores": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "16.65",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "7R35THCV43",
-            "name": "Klaas Harm Wiggerman",
-            "numEvents": 1,
-            "dtcScore": 7.2,
-            "hobbyScore": "0.00",
-            "rank": 8,
-            "scores": [
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "7.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "gIWAfvx1PgRX",
-            "name": "Daniel Custodio",
-            "numEvents": 1,
-            "dtcScore": 2.43,
-            "hobbyScore": "0.00",
-            "rank": 9,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "2.43",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -3438,6 +3435,429 @@
         ]
       },
       {
+        "name": "Grey Knights",
+        "players": [
+          {
+            "userId": "LP8QYC9584",
+            "name": "Frank Verbeek",
+            "numEvents": 1,
+            "dtcScore": 86.76,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "86.76",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "j8WphFYeF8",
+            "name": "Jort Kassies",
+            "numEvents": 1,
+            "dtcScore": 57.6,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.60",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "4UYF9M5N4J",
+            "name": "Iddo Van den Boomgaard",
+            "numEvents": 1,
+            "dtcScore": 42.66,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.66",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "AMMLW31QTV",
+            "name": "Oane Dijkstra",
+            "numEvents": 1,
+            "dtcScore": 9.85,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.85",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adeptus Custodes",
+        "players": [
+          {
+            "userId": "HvCXqti2yiAt",
+            "name": "Bas Beunder",
+            "numEvents": 2,
+            "dtcScore": 110.17,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "59.07",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.10",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "j8WphFYeF8",
+            "name": "Jort Kassies",
+            "numEvents": 1,
+            "dtcScore": 101.53,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "101.53",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "ToXqzUXFkO",
+            "name": "Matija Mandurov",
+            "numEvents": 1,
+            "dtcScore": 70.3,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "70.30",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "6kjWY1FwIs04",
+            "name": "Gianluca Hop",
+            "numEvents": 1,
+            "dtcScore": 66.37,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "66.37",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "zRVqSNtEh2Ux",
+            "name": "Maarten Sitters",
+            "numEvents": 1,
+            "dtcScore": 62.77,
+            "hobbyScore": "0.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "62.77",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "ZIMEvPWquB",
+            "name": "Erik van Nijnatten",
+            "numEvents": 1,
+            "dtcScore": 36.5,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.50",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "KJE6Dm85fVho",
+            "name": "Jan De Niet",
+            "numEvents": 1,
+            "dtcScore": 22.15,
+            "hobbyScore": "1.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "22.15",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Leagues of Votann",
+        "players": [
+          {
+            "userId": "Qarz0SmAlAEW",
+            "name": "Alessio Carlos Velardi",
+            "numEvents": 2,
+            "dtcScore": 113.67,
+            "hobbyScore": "0.00",
+            "rank": 1,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "84.13",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.54",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "49mGOxqycs",
+            "name": "James Brayford",
+            "numEvents": 2,
+            "dtcScore": 87.28,
+            "hobbyScore": "0.00",
+            "rank": 2,
+            "scores": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "57.23",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "30.05",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
+            "userId": "2TNG4LQGY1",
+            "name": "Stephan van der Vuurst",
+            "numEvents": 1,
+            "dtcScore": 65.7,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "65.70",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "BLB28PKJ5U",
+            "name": "Cornelis Hut",
+            "numEvents": 2,
+            "dtcScore": 33.77,
+            "hobbyScore": "0.00",
+            "rank": 4,
+            "scores": [
+              {
+                "name": "Legends of the North v14",
+                "eventId": "LDZ0bWjG5mvl",
+                "numberOfRounds": 3,
+                "eventDtcScore": "22.97",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "10.80",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "f6vUmsHLNv",
+            "name": "Jeroen Van der leij",
+            "numEvents": 1,
+            "dtcScore": 32.4,
+            "hobbyScore": "1.00",
+            "rank": 5,
+            "scores": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "32.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "72NCAEEUG3",
+            "name": "Ap de Ree",
+            "numEvents": 3,
+            "dtcScore": 24.62,
+            "hobbyScore": "2.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.40",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.02",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "UEE17HPY8C",
+            "name": "Emiel Groothuysen",
+            "numEvents": 1,
+            "dtcScore": 16.65,
+            "hobbyScore": "0.00",
+            "rank": 7,
+            "scores": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.65",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "7R35THCV43",
+            "name": "Klaas Harm Wiggerman",
+            "numEvents": 1,
+            "dtcScore": 7.2,
+            "hobbyScore": "0.00",
+            "rank": 8,
+            "scores": [
+              {
+                "name": "Legends of the North v13",
+                "eventId": "YlDkIVx8cvjG",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.20",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
+            "userId": "gIWAfvx1PgRX",
+            "name": "Daniel Custodio",
+            "numEvents": 1,
+            "dtcScore": 2.43,
+            "hobbyScore": "0.00",
+            "rank": 9,
+            "scores": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "2.43",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          }
+        ]
+      },
+      {
         "name": "Adepta Sororitas",
         "players": [
           {
@@ -3515,109 +3935,6 @@
                 "eventId": "PpOl7zG0Z8Hc",
                 "numberOfRounds": 3,
                 "eventDtcScore": "1.85",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Orks",
-        "players": [
-          {
-            "userId": "C8SUIfF8Ar",
-            "name": "dave hultermans",
-            "numEvents": 2,
-            "dtcScore": 96.05,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "72.00",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              },
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "24.05",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "ycayO2BvU5",
-            "name": "Ynze H",
-            "numEvents": 1,
-            "dtcScore": 35.07,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "35.07",
-                "isUsedForRanking": true,
-                "isGTEvent": true
-              }
-            ]
-          },
-          {
-            "userId": "lp8ZzEFgYDqV",
-            "name": "Roald Bloemendal",
-            "numEvents": 1,
-            "dtcScore": 19.69,
-            "hobbyScore": "5.00",
-            "rank": 3,
-            "scores": [
-              {
-                "name": "Legends of the North v14",
-                "eventId": "LDZ0bWjG5mvl",
-                "numberOfRounds": 3,
-                "eventDtcScore": "19.69",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "CZz3lUpxKh",
-            "name": "Remco Beukema",
-            "numEvents": 1,
-            "dtcScore": 18,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Legends of the North v13",
-                "eventId": "YlDkIVx8cvjG",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.00",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "fmGDFJgokShe",
-            "name": "Bas Jelsma",
-            "numEvents": 1,
-            "dtcScore": 14.6,
-            "hobbyScore": "0.00",
-            "rank": 5,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "14.60",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -3727,75 +4044,36 @@
             ]
           },
           {
+            "userId": "yNvCWMm1gz",
+            "name": "Dick van der Harst",
+            "numEvents": 1,
+            "dtcScore": 12.02,
+            "hobbyScore": "0.00",
+            "rank": 6,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "12.02",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              }
+            ]
+          },
+          {
             "userId": "6ElFaPuI4TJ4",
             "name": "roland nelson",
             "numEvents": 1,
             "dtcScore": 9.05,
             "hobbyScore": "0.00",
-            "rank": 6,
+            "rank": 7,
             "scores": [
               {
                 "name": "Feast of Blades February 2026",
                 "eventId": "vIZ2MxcYRQC7",
                 "numberOfRounds": 3,
                 "eventDtcScore": "9.05",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Space Wolves",
-        "players": [
-          {
-            "userId": "rzabCbO3PG",
-            "name": "Tim Simonis",
-            "numEvents": 2,
-            "dtcScore": 82.43,
-            "hobbyScore": "0.00",
-            "rank": 1,
-            "scores": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.23",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "36.20",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "ycayO2BvU5",
-            "name": "Ynze H",
-            "numEvents": 2,
-            "dtcScore": 60.34,
-            "hobbyScore": "0.00",
-            "rank": 2,
-            "scores": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.32",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "3.02",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
@@ -4059,12 +4337,38 @@
             ]
           },
           {
+            "userId": "X6LEWT1FD9",
+            "name": "Jens Toennaer",
+            "numEvents": 2,
+            "dtcScore": 54.05,
+            "hobbyScore": "0.00",
+            "rank": 3,
+            "scores": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "36.05",
+                "isUsedForRanking": true,
+                "isGTEvent": true
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.00",
+                "isUsedForRanking": true,
+                "isGTEvent": false
+              }
+            ]
+          },
+          {
             "userId": "iKEL7fZbuQQt",
             "name": "J Eijkenboom",
             "numEvents": 2,
             "dtcScore": 32.42,
             "hobbyScore": "0.00",
-            "rank": 3,
+            "rank": 4,
             "scores": [
               {
                 "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
@@ -4079,24 +4383,6 @@
                 "eventId": "PpOl7zG0Z8Hc",
                 "numberOfRounds": 3,
                 "eventDtcScore": "12.95",
-                "isUsedForRanking": true,
-                "isGTEvent": false
-              }
-            ]
-          },
-          {
-            "userId": "X6LEWT1FD9",
-            "name": "Jens Toennaer",
-            "numEvents": 1,
-            "dtcScore": 18,
-            "hobbyScore": "0.00",
-            "rank": 4,
-            "scores": [
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.00",
                 "isUsedForRanking": true,
                 "isGTEvent": false
               }
