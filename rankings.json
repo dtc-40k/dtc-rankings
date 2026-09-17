@@ -810,6 +810,174 @@
         "rank": 6
       },
       {
+        "userId": "xHn0EUD2koXb",
+        "name": "Rutger van Scheers",
+        "numEvents": 7,
+        "armies": [
+          {
+            "name": "T'au Empire",
+            "count": 5,
+            "score": 218.48,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "62.65"
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "39.22"
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "10.80"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "27.69"
+              },
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "78.12"
+              }
+            ]
+          },
+          {
+            "name": "Blood Angels",
+            "count": 2,
+            "score": 79.72,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "31.45"
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.27"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 7
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Summer Slam",
+            "eventId": "zG6ksA3r0ILW",
+            "numberOfRounds": 6,
+            "eventDtcScore": "78.12",
+            "eventHobbyScore": "0.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 10,
+            "army": "T'au Empire",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.65",
+            "eventHobbyScore": "0.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 3,
+            "army": "T'au Empire",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "48.27",
+            "eventHobbyScore": "0.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 9,
+            "army": "Blood Angels",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "39.22",
+            "eventHobbyScore": "1.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 12,
+            "army": "T'au Empire",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "31.45",
+            "eventHobbyScore": "0.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 24,
+            "army": "Blood Angels",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "27.69",
+            "eventHobbyScore": "0.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 49,
+            "army": "T'au Empire",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Alpha",
+            "eventId": "tRPqURXNCppX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "10.80",
+            "eventHobbyScore": "1.00",
+            "userId": "xHn0EUD2koXb",
+            "rank": 18,
+            "army": "T'au Empire",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 11.5,
+        "totalRank": 125,
+        "averageRank": "17.9",
+        "dtcScore": "298.20",
+        "hobbyScore": "2.00",
+        "rank": 7
+      },
+      {
         "userId": "aXodFjn9lU",
         "name": "Christian Domburg",
         "numEvents": 5,
@@ -950,7 +1118,111 @@
         "averageRank": "10.2",
         "dtcScore": "294.23",
         "hobbyScore": "0.00",
-        "rank": 7
+        "rank": 8
+      },
+      {
+        "userId": "w6kAJ5LBzCPq",
+        "name": "Juho Lemmetyinen",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Chaos Space Marines",
+            "count": 4,
+            "score": 287.58,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "58.17"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "94.15"
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "15.08"
+              },
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "120.18"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Rekt Aura",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "Dutch Masters Summer Slam",
+            "eventId": "zG6ksA3r0ILW",
+            "numberOfRounds": 6,
+            "eventDtcScore": "120.18",
+            "eventHobbyScore": "0.00",
+            "userId": "w6kAJ5LBzCPq",
+            "rank": 3,
+            "army": "Chaos Space Marines",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "94.15",
+            "eventHobbyScore": "0.00",
+            "userId": "w6kAJ5LBzCPq",
+            "rank": 13,
+            "army": "Chaos Space Marines",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "58.17",
+            "eventHobbyScore": "0.00",
+            "userId": "w6kAJ5LBzCPq",
+            "rank": 4,
+            "army": "Chaos Space Marines",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "15.08",
+            "eventHobbyScore": "0.00",
+            "userId": "w6kAJ5LBzCPq",
+            "rank": 20,
+            "army": "Chaos Space Marines",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9.5,
+        "totalRank": 40,
+        "averageRank": "10.0",
+        "dtcScore": "287.58",
+        "hobbyScore": "0.00",
+        "rank": 9
       },
       {
         "userId": "95WJH9Q3KL",
@@ -1035,7 +1307,7 @@
         "averageRank": "6.3",
         "dtcScore": "267.68",
         "hobbyScore": "0.00",
-        "rank": 8
+        "rank": 10
       },
       {
         "userId": "ZRyVn8v3qG",
@@ -1146,7 +1418,7 @@
         "averageRank": "6.8",
         "dtcScore": "255.75",
         "hobbyScore": "7.00",
-        "rank": 9
+        "rank": 11
       },
       {
         "userId": "aCgNrvM5ko",
@@ -1288,156 +1560,7 @@
         "averageRank": "15.8",
         "dtcScore": "247.12",
         "hobbyScore": "0.00",
-        "rank": 10
-      },
-      {
-        "userId": "xHn0EUD2koXb",
-        "name": "Rutger van Scheers",
-        "numEvents": 6,
-        "armies": [
-          {
-            "name": "T'au Empire",
-            "count": 4,
-            "score": 155.83,
-            "events": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "39.22"
-              },
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "10.80"
-              },
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "27.69"
-              },
-              {
-                "name": "Dutch Masters Summer Slam",
-                "eventId": "zG6ksA3r0ILW",
-                "numberOfRounds": 6,
-                "eventDtcScore": "78.12"
-              }
-            ]
-          },
-          {
-            "name": "Blood Angels",
-            "count": 2,
-            "score": 79.72,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "31.45"
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "48.27"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "wardice",
-            "count": 6
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Summer Slam",
-            "eventId": "zG6ksA3r0ILW",
-            "numberOfRounds": 6,
-            "eventDtcScore": "78.12",
-            "eventHobbyScore": "0.00",
-            "userId": "xHn0EUD2koXb",
-            "rank": 10,
-            "army": "T'au Empire",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "48.27",
-            "eventHobbyScore": "0.00",
-            "userId": "xHn0EUD2koXb",
-            "rank": 9,
-            "army": "Blood Angels",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "39.22",
-            "eventHobbyScore": "1.00",
-            "userId": "xHn0EUD2koXb",
-            "rank": 12,
-            "army": "T'au Empire",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "31.45",
-            "eventHobbyScore": "0.00",
-            "userId": "xHn0EUD2koXb",
-            "rank": 24,
-            "army": "Blood Angels",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "27.69",
-            "eventHobbyScore": "0.00",
-            "userId": "xHn0EUD2koXb",
-            "rank": 49,
-            "army": "T'au Empire",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Alpha",
-            "eventId": "tRPqURXNCppX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "10.80",
-            "eventHobbyScore": "1.00",
-            "userId": "xHn0EUD2koXb",
-            "rank": 18,
-            "army": "T'au Empire",
-            "team": "wardice",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 9.5,
-        "totalRank": 122,
-        "averageRank": "20.3",
-        "dtcScore": "235.55",
-        "hobbyScore": "2.00",
-        "rank": 11
+        "rank": 12
       },
       {
         "userId": "eOFVEEMOEb",
@@ -1521,91 +1644,6 @@
         "totalRank": 35,
         "averageRank": "11.7",
         "dtcScore": "230.47",
-        "hobbyScore": "0.00",
-        "rank": 12
-      },
-      {
-        "userId": "w6kAJ5LBzCPq",
-        "name": "Juho Lemmetyinen",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Chaos Space Marines",
-            "count": 3,
-            "score": 229.41,
-            "events": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "94.15"
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "15.08"
-              },
-              {
-                "name": "Dutch Masters Summer Slam",
-                "eventId": "zG6ksA3r0ILW",
-                "numberOfRounds": 6,
-                "eventDtcScore": "120.18"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Rekt Aura",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Summer Slam",
-            "eventId": "zG6ksA3r0ILW",
-            "numberOfRounds": 6,
-            "eventDtcScore": "120.18",
-            "eventHobbyScore": "0.00",
-            "userId": "w6kAJ5LBzCPq",
-            "rank": 3,
-            "army": "Chaos Space Marines",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "94.15",
-            "eventHobbyScore": "0.00",
-            "userId": "w6kAJ5LBzCPq",
-            "rank": 13,
-            "army": "Chaos Space Marines",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "15.08",
-            "eventHobbyScore": "0.00",
-            "userId": "w6kAJ5LBzCPq",
-            "rank": 20,
-            "army": "Chaos Space Marines",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 7.5,
-        "totalRank": 36,
-        "averageRank": "12.0",
-        "dtcScore": "229.41",
         "hobbyScore": "0.00",
         "rank": 13
       },
@@ -1759,6 +1797,131 @@
         "rank": 14
       },
       {
+        "userId": "cLWiXebqAH",
+        "name": "Felix Brenninkmeijer",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Chaos Daemons",
+            "count": 1,
+            "score": 71.6,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "71.60"
+              }
+            ]
+          },
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 18,
+            "events": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.00"
+              }
+            ]
+          },
+          {
+            "name": "T'au Empire",
+            "count": 1,
+            "score": 64.8,
+            "events": [
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.80"
+              }
+            ]
+          },
+          {
+            "name": "Chaos Space Marines",
+            "count": 1,
+            "score": 60.92,
+            "events": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "60.92"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "wardice",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "71.60",
+            "eventHobbyScore": "0.00",
+            "userId": "cLWiXebqAH",
+            "rank": 1,
+            "army": "Chaos Daemons",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Alpha",
+            "eventId": "tRPqURXNCppX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "64.80",
+            "eventHobbyScore": "0.00",
+            "userId": "cLWiXebqAH",
+            "rank": 3,
+            "army": "T'au Empire",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "60.92",
+            "eventHobbyScore": "0.00",
+            "userId": "cLWiXebqAH",
+            "rank": 31,
+            "army": "Chaos Space Marines",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Charlie",
+            "eventId": "fcwLzvSN2f6e",
+            "numberOfRounds": 3,
+            "eventDtcScore": "18.00",
+            "eventHobbyScore": "0.00",
+            "userId": "cLWiXebqAH",
+            "rank": 16,
+            "army": "Thousand Sons",
+            "team": "wardice",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9.5,
+        "totalRank": 51,
+        "averageRank": "12.8",
+        "dtcScore": "215.32",
+        "hobbyScore": "0.00",
+        "rank": 15
+      },
+      {
         "userId": "1G90AYL6C0",
         "name": "Sjoerd Reiche",
         "numEvents": 4,
@@ -1860,7 +2023,7 @@
         "averageRank": "12.0",
         "dtcScore": "214.43",
         "hobbyScore": "0.00",
-        "rank": 15
+        "rank": 16
       },
       {
         "userId": "j8WphFYeF8",
@@ -1959,7 +2122,7 @@
         "averageRank": "7.0",
         "dtcScore": "209.53",
         "hobbyScore": "0.00",
-        "rank": 16
+        "rank": 17
       },
       {
         "userId": "DKVE6UYJPR",
@@ -2044,7 +2207,7 @@
         "averageRank": "10.3",
         "dtcScore": "185.81",
         "hobbyScore": "0.00",
-        "rank": 17
+        "rank": 18
       },
       {
         "userId": "4FUCUA3GN5",
@@ -2110,7 +2273,7 @@
         "averageRank": "4.0",
         "dtcScore": "171.96",
         "hobbyScore": "0.00",
-        "rank": 18
+        "rank": 19
       },
       {
         "userId": "cN77fl1hWy",
@@ -2195,7 +2358,7 @@
         "averageRank": "12.7",
         "dtcScore": "167.63",
         "hobbyScore": "2.00",
-        "rank": 19
+        "rank": 20
       },
       {
         "userId": "2TNG4LQGY1",
@@ -2268,7 +2431,7 @@
         "averageRank": "9.0",
         "dtcScore": "158.00",
         "hobbyScore": "0.00",
-        "rank": 20
+        "rank": 21
       },
       {
         "userId": "xZAjITtY6bSb",
@@ -2327,70 +2490,63 @@
         "averageRank": "10.0",
         "dtcScore": "157.04",
         "hobbyScore": "0.00",
-        "rank": 21
+        "rank": 22
       },
       {
-        "userId": "cLWiXebqAH",
-        "name": "Felix Brenninkmeijer",
+        "userId": "49mGOxqycs",
+        "name": "James Brayford",
         "numEvents": 3,
         "armies": [
           {
-            "name": "Thousand Sons",
-            "count": 1,
-            "score": 18,
-            "events": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.00"
-              }
-            ]
-          },
-          {
-            "name": "T'au Empire",
-            "count": 1,
-            "score": 64.8,
-            "events": [
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "64.80"
-              }
-            ]
-          },
-          {
-            "name": "Chaos Space Marines",
-            "count": 1,
-            "score": 60.92,
+            "name": "Leagues of Votann",
+            "count": 2,
+            "score": 87.28,
             "events": [
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
                 "eventId": "v8uZ5pThBjTK",
                 "numberOfRounds": 5,
-                "eventDtcScore": "60.92"
+                "eventDtcScore": "57.23"
+              },
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "30.05"
+              }
+            ]
+          },
+          {
+            "name": "Adeptus Custodes",
+            "count": 1,
+            "score": 67.13,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "67.13"
               }
             ]
           }
         ],
         "teams": [
           {
-            "name": "wardice",
+            "name": "Rekt Aura",
             "count": 3
           }
         ],
         "events": [
           {
-            "name": "Wardice RTT Alpha",
-            "eventId": "tRPqURXNCppX",
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
             "numberOfRounds": 3,
-            "eventDtcScore": "64.80",
-            "eventHobbyScore": "0.00",
-            "userId": "cLWiXebqAH",
-            "rank": 3,
-            "army": "T'au Empire",
-            "team": "wardice",
+            "eventDtcScore": "67.13",
+            "eventHobbyScore": "3.00",
+            "userId": "49mGOxqycs",
+            "rank": 2,
+            "army": "Adeptus Custodes",
+            "team": "Rekt Aura",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
@@ -2398,35 +2554,35 @@
             "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
             "eventId": "v8uZ5pThBjTK",
             "numberOfRounds": 5,
-            "eventDtcScore": "60.92",
+            "eventDtcScore": "57.23",
             "eventHobbyScore": "0.00",
-            "userId": "cLWiXebqAH",
-            "rank": 31,
-            "army": "Chaos Space Marines",
-            "team": "wardice",
+            "userId": "49mGOxqycs",
+            "rank": 33,
+            "army": "Leagues of Votann",
+            "team": "Rekt Aura",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "Wardice RTT Charlie",
-            "eventId": "fcwLzvSN2f6e",
-            "numberOfRounds": 3,
-            "eventDtcScore": "18.00",
+            "name": "Dutch Masters Summer Slam",
+            "eventId": "zG6ksA3r0ILW",
+            "numberOfRounds": 6,
+            "eventDtcScore": "30.05",
             "eventHobbyScore": "0.00",
-            "userId": "cLWiXebqAH",
-            "rank": 16,
-            "army": "Thousand Sons",
-            "team": "wardice",
+            "userId": "49mGOxqycs",
+            "rank": 18,
+            "army": "Leagues of Votann",
+            "team": "Rekt Aura",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 6.5,
-        "totalRank": 50,
-        "averageRank": "16.7",
-        "dtcScore": "143.72",
-        "hobbyScore": "0.00",
-        "rank": 22
+        "totalRank": 53,
+        "averageRank": "17.7",
+        "dtcScore": "154.41",
+        "hobbyScore": "3.00",
+        "rank": 23
       },
       {
         "userId": "11UVudMFZ4",
@@ -2492,7 +2648,7 @@
         "averageRank": "2.0",
         "dtcScore": "137.64",
         "hobbyScore": "0.00",
-        "rank": 23
+        "rank": 24
       },
       {
         "userId": "oPYw7BAg15",
@@ -2594,7 +2750,7 @@
         "averageRank": "26.8",
         "dtcScore": "131.99",
         "hobbyScore": "0.00",
-        "rank": 24
+        "rank": 25
       },
       {
         "userId": "uJ4B4cQMIthi",
@@ -2660,7 +2816,7 @@
         "averageRank": "3.0",
         "dtcScore": "131.73",
         "hobbyScore": "0.00",
-        "rank": 25
+        "rank": 26
       },
       {
         "userId": "Ci8drOUGlg",
@@ -2733,7 +2889,7 @@
         "averageRank": "4.0",
         "dtcScore": "131.40",
         "hobbyScore": "0.00",
-        "rank": 26
+        "rank": 27
       },
       {
         "userId": "C8SUIfF8Ar",
@@ -2825,7 +2981,7 @@
         "averageRank": "23.3",
         "dtcScore": "130.12",
         "hobbyScore": "0.00",
-        "rank": 27
+        "rank": 28
       },
       {
         "userId": "FaF3dECqaz",
@@ -2891,7 +3047,7 @@
         "averageRank": "4.0",
         "dtcScore": "123.87",
         "hobbyScore": "0.00",
-        "rank": 28
+        "rank": 29
       },
       {
         "userId": "vCUvmVLvsl",
@@ -2983,7 +3139,7 @@
         "averageRank": "16.3",
         "dtcScore": "122.65",
         "hobbyScore": "0.00",
-        "rank": 29
+        "rank": 30
       },
       {
         "userId": "1MqrA0sGvi",
@@ -3056,7 +3212,99 @@
         "averageRank": "8.5",
         "dtcScore": "122.21",
         "hobbyScore": "0.00",
-        "rank": 30
+        "rank": 31
+      },
+      {
+        "userId": "TTHLvVdjoj",
+        "name": "Timon Tuin",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 2,
+            "score": 99.06,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "49.22"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "49.84"
+              }
+            ]
+          },
+          {
+            "name": "Genestealer Cult",
+            "count": 1,
+            "score": 18.1,
+            "events": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.10"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Wahammer Gooi+",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "49.84",
+            "eventHobbyScore": "0.00",
+            "userId": "TTHLvVdjoj",
+            "rank": 37,
+            "army": "Adeptus Mechanicus",
+            "team": "Wahammer Gooi+",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "49.22",
+            "eventHobbyScore": "0.00",
+            "userId": "TTHLvVdjoj",
+            "rank": 6,
+            "army": "Adeptus Mechanicus",
+            "team": "Wahammer Gooi+",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "18.10",
+            "eventHobbyScore": "0.00",
+            "userId": "TTHLvVdjoj",
+            "rank": 19,
+            "army": "Genestealer Cult",
+            "team": "Wahammer Gooi+",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 5,
+        "totalRank": 62,
+        "averageRank": "20.7",
+        "dtcScore": "117.16",
+        "hobbyScore": "0.00",
+        "rank": 32
       },
       {
         "userId": "AW84laYLqt",
@@ -3122,7 +3370,7 @@
         "averageRank": "7.0",
         "dtcScore": "116.03",
         "hobbyScore": "0.00",
-        "rank": 31
+        "rank": 33
       },
       {
         "userId": "HUEBZN6I1M",
@@ -3199,7 +3447,7 @@
         "averageRank": "17.0",
         "dtcScore": "114.28",
         "hobbyScore": "0.00",
-        "rank": 32
+        "rank": 34
       },
       {
         "userId": "Qarz0SmAlAEW",
@@ -3265,7 +3513,7 @@
         "averageRank": "11.5",
         "dtcScore": "113.67",
         "hobbyScore": "0.00",
-        "rank": 33
+        "rank": 35
       },
       {
         "userId": "Db1AWQwcg6",
@@ -3338,7 +3586,7 @@
         "averageRank": "5.5",
         "dtcScore": "113.39",
         "hobbyScore": "0.00",
-        "rank": 34
+        "rank": 36
       },
       {
         "userId": "NYLcU6mpnw",
@@ -3411,7 +3659,7 @@
         "averageRank": "6.5",
         "dtcScore": "111.42",
         "hobbyScore": "0.00",
-        "rank": 35
+        "rank": 37
       },
       {
         "userId": "ePEddcE1nWbt",
@@ -3476,7 +3724,7 @@
         "averageRank": "10.0",
         "dtcScore": "110.20",
         "hobbyScore": "0.00",
-        "rank": 36
+        "rank": 38
       },
       {
         "userId": "HvCXqti2yiAt",
@@ -3542,7 +3790,7 @@
         "averageRank": "21.0",
         "dtcScore": "110.17",
         "hobbyScore": "0.00",
-        "rank": 37
+        "rank": 39
       },
       {
         "userId": "0UVKqPRi1x",
@@ -3615,7 +3863,7 @@
         "averageRank": "6.0",
         "dtcScore": "108.52",
         "hobbyScore": "0.00",
-        "rank": 38
+        "rank": 40
       },
       {
         "userId": "sdjXWgUjur",
@@ -3685,7 +3933,7 @@
         "averageRank": "17.0",
         "dtcScore": "108.18",
         "hobbyScore": "0.00",
-        "rank": 39
+        "rank": 41
       },
       {
         "userId": "XQJT0K78EQ",
@@ -3770,7 +4018,7 @@
         "averageRank": "16.7",
         "dtcScore": "106.21",
         "hobbyScore": "0.00",
-        "rank": 40
+        "rank": 42
       },
       {
         "userId": "LMks8noh2u",
@@ -3847,7 +4095,7 @@
         "averageRank": "11.0",
         "dtcScore": "104.17",
         "hobbyScore": "0.00",
-        "rank": 41
+        "rank": 43
       },
       {
         "userId": "MTT5A81BT9",
@@ -3894,7 +4142,7 @@
         "averageRank": 11,
         "dtcScore": "97.84",
         "hobbyScore": "0.00",
-        "rank": 42
+        "rank": 44
       },
       {
         "userId": "THLUWFDF7D",
@@ -3941,7 +4189,7 @@
         "averageRank": 12,
         "dtcScore": "95.99",
         "hobbyScore": "0.00",
-        "rank": 43
+        "rank": 45
       },
       {
         "userId": "ycayO2BvU5",
@@ -4033,7 +4281,7 @@
         "averageRank": "25.0",
         "dtcScore": "95.41",
         "hobbyScore": "0.00",
-        "rank": 44
+        "rank": 46
       },
       {
         "userId": "GLD52F7LC5",
@@ -4106,7 +4354,7 @@
         "averageRank": "9.0",
         "dtcScore": "95.40",
         "hobbyScore": "0.00",
-        "rank": 45
+        "rank": 47
       },
       {
         "userId": "taF4FcGA4u",
@@ -4171,7 +4419,7 @@
         "averageRank": "11.5",
         "dtcScore": "94.90",
         "hobbyScore": "0.00",
-        "rank": 46
+        "rank": 48
       },
       {
         "userId": "Y75Q1CTNCW",
@@ -4237,7 +4485,99 @@
         "averageRank": "9.0",
         "dtcScore": "94.74",
         "hobbyScore": "1.00",
-        "rank": 47
+        "rank": 49
+      },
+      {
+        "userId": "X6LEWT1FD9",
+        "name": "Jens Toennaer",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Aeldari",
+            "count": 2,
+            "score": 54.05,
+            "events": [
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.00"
+              },
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "36.05"
+              }
+            ]
+          },
+          {
+            "name": "Chaos Daemons",
+            "count": 1,
+            "score": 40.27,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "40.27"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Rekt Aura",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "40.27",
+            "eventHobbyScore": "0.00",
+            "userId": "X6LEWT1FD9",
+            "rank": 8,
+            "army": "Chaos Daemons",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Summer Slam",
+            "eventId": "zG6ksA3r0ILW",
+            "numberOfRounds": 6,
+            "eventDtcScore": "36.05",
+            "eventHobbyScore": "0.00",
+            "userId": "X6LEWT1FD9",
+            "rank": 17,
+            "army": "Aeldari",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Alpha",
+            "eventId": "tRPqURXNCppX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "18.00",
+            "eventHobbyScore": "0.00",
+            "userId": "X6LEWT1FD9",
+            "rank": 16,
+            "army": "Aeldari",
+            "team": "Rekt Aura",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 41,
+        "averageRank": "13.7",
+        "dtcScore": "94.32",
+        "hobbyScore": "0.00",
+        "rank": 50
       },
       {
         "userId": "22WHE2VNLG",
@@ -4303,7 +4643,7 @@
         "averageRank": "25.5",
         "dtcScore": "92.58",
         "hobbyScore": "6.00",
-        "rank": 48
+        "rank": 51
       },
       {
         "userId": "DgZcYyMrJDnd",
@@ -4344,7 +4684,7 @@
         "averageRank": 8,
         "dtcScore": "90.14",
         "hobbyScore": "0.00",
-        "rank": 49
+        "rank": 52
       },
       {
         "userId": "4AGGGY8HE1",
@@ -4416,7 +4756,7 @@
         "averageRank": "12.5",
         "dtcScore": "90.03",
         "hobbyScore": "0.00",
-        "rank": 50
+        "rank": 53
       },
       {
         "userId": "ZIMEvPWquB",
@@ -4482,73 +4822,7 @@
         "averageRank": "12.5",
         "dtcScore": "90.03",
         "hobbyScore": "0.00",
-        "rank": 51
-      },
-      {
-        "userId": "49mGOxqycs",
-        "name": "James Brayford",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Leagues of Votann",
-            "count": 2,
-            "score": 87.28,
-            "events": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "57.23"
-              },
-              {
-                "name": "Dutch Masters Summer Slam",
-                "eventId": "zG6ksA3r0ILW",
-                "numberOfRounds": 6,
-                "eventDtcScore": "30.05"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Rekt Aura",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "57.23",
-            "eventHobbyScore": "0.00",
-            "userId": "49mGOxqycs",
-            "rank": 33,
-            "army": "Leagues of Votann",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Summer Slam",
-            "eventId": "zG6ksA3r0ILW",
-            "numberOfRounds": 6,
-            "eventDtcScore": "30.05",
-            "eventHobbyScore": "0.00",
-            "userId": "49mGOxqycs",
-            "rank": 18,
-            "army": "Leagues of Votann",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3.5,
-        "totalRank": 51,
-        "averageRank": "25.5",
-        "dtcScore": "87.28",
-        "hobbyScore": "0.00",
-        "rank": 52
+        "rank": 54
       },
       {
         "userId": "LP8QYC9584",
@@ -4595,7 +4869,7 @@
         "averageRank": 17,
         "dtcScore": "86.76",
         "hobbyScore": "0.00",
-        "rank": 53
+        "rank": 55
       },
       {
         "userId": "R3QG70jgwM",
@@ -4661,7 +4935,7 @@
         "averageRank": "9.5",
         "dtcScore": "86.50",
         "hobbyScore": "0.00",
-        "rank": 54
+        "rank": 56
       },
       {
         "userId": "rzabCbO3PG",
@@ -4727,7 +5001,7 @@
         "averageRank": "12.5",
         "dtcScore": "82.43",
         "hobbyScore": "0.00",
-        "rank": 55
+        "rank": 57
       },
       {
         "userId": "FIvWHCGzmv",
@@ -4812,7 +5086,7 @@
         "averageRank": "24.7",
         "dtcScore": "78.37",
         "hobbyScore": "0.00",
-        "rank": 56
+        "rank": 58
       },
       {
         "userId": "130175QC7A",
@@ -4859,7 +5133,7 @@
         "averageRank": 22,
         "dtcScore": "77.53",
         "hobbyScore": "0.00",
-        "rank": 57
+        "rank": 59
       },
       {
         "userId": "6GTA5CEUDQ",
@@ -4925,7 +5199,7 @@
         "averageRank": "29.0",
         "dtcScore": "75.93",
         "hobbyScore": "0.00",
-        "rank": 58
+        "rank": 60
       },
       {
         "userId": "T04282ELRF",
@@ -4972,7 +5246,7 @@
         "averageRank": 23,
         "dtcScore": "75.69",
         "hobbyScore": "0.00",
-        "rank": 59
+        "rank": 61
       },
       {
         "userId": "0FA0QL1VPW",
@@ -5031,7 +5305,7 @@
         "averageRank": "18.0",
         "dtcScore": "74.17",
         "hobbyScore": "0.00",
-        "rank": 60
+        "rank": 62
       },
       {
         "userId": "doASAKgaUX",
@@ -5078,7 +5352,7 @@
         "averageRank": 1,
         "dtcScore": "74.00",
         "hobbyScore": "0.00",
-        "rank": 61
+        "rank": 63
       },
       {
         "userId": "j1q8untWVm",
@@ -5119,7 +5393,7 @@
         "averageRank": 11,
         "dtcScore": "72.11",
         "hobbyScore": "0.00",
-        "rank": 62
+        "rank": 64
       },
       {
         "userId": "xETp9m3OZ7ya",
@@ -5185,7 +5459,7 @@
         "averageRank": "33.0",
         "dtcScore": "72.07",
         "hobbyScore": "0.00",
-        "rank": 63
+        "rank": 65
       },
       {
         "userId": "ToXqzUXFkO",
@@ -5226,7 +5500,7 @@
         "averageRank": 3,
         "dtcScore": "70.30",
         "hobbyScore": "0.00",
-        "rank": 64
+        "rank": 66
       },
       {
         "userId": "H8Y33Q194W",
@@ -5273,7 +5547,7 @@
         "averageRank": 26,
         "dtcScore": "70.15",
         "hobbyScore": "0.00",
-        "rank": 65
+        "rank": 67
       },
       {
         "userId": "7W945WFPKN",
@@ -5320,7 +5594,7 @@
         "averageRank": 4,
         "dtcScore": "68.45",
         "hobbyScore": "0.00",
-        "rank": 66
+        "rank": 68
       },
       {
         "userId": "8H4TWK6ABJ",
@@ -5367,7 +5641,7 @@
         "averageRank": 2,
         "dtcScore": "68.40",
         "hobbyScore": "0.00",
-        "rank": 67
+        "rank": 69
       },
       {
         "userId": "GD6Y8KEL1W",
@@ -5414,80 +5688,7 @@
         "averageRank": 27,
         "dtcScore": "68.30",
         "hobbyScore": "0.00",
-        "rank": 68
-      },
-      {
-        "userId": "TTHLvVdjoj",
-        "name": "Timon Tuin",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Genestealer Cult",
-            "count": 1,
-            "score": 18.1,
-            "events": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.10"
-              }
-            ]
-          },
-          {
-            "name": "Adeptus Mechanicus",
-            "count": 1,
-            "score": 49.84,
-            "events": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "49.84"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Wahammer Gooi+",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "49.84",
-            "eventHobbyScore": "0.00",
-            "userId": "TTHLvVdjoj",
-            "rank": 37,
-            "army": "Adeptus Mechanicus",
-            "team": "Wahammer Gooi+",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "18.10",
-            "eventHobbyScore": "0.00",
-            "userId": "TTHLvVdjoj",
-            "rank": 19,
-            "army": "Genestealer Cult",
-            "team": "Wahammer Gooi+",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3,
-        "totalRank": 56,
-        "averageRank": "28.0",
-        "dtcScore": "67.94",
-        "hobbyScore": "0.00",
-        "rank": 69
+        "rank": 70
       },
       {
         "userId": "VA13NBVK3X",
@@ -5534,7 +5735,7 @@
         "averageRank": 28,
         "dtcScore": "66.46",
         "hobbyScore": "0.00",
-        "rank": 70
+        "rank": 71
       },
       {
         "userId": "6kjWY1FwIs04",
@@ -5581,7 +5782,7 @@
         "averageRank": 3,
         "dtcScore": "66.37",
         "hobbyScore": "0.00",
-        "rank": 71
+        "rank": 72
       },
       {
         "userId": "DwgBLgWQEe",
@@ -5658,7 +5859,7 @@
         "averageRank": "20.5",
         "dtcScore": "66.10",
         "hobbyScore": "0.00",
-        "rank": 72
+        "rank": 73
       },
       {
         "userId": "HiGJBbpMGm",
@@ -5705,7 +5906,7 @@
         "averageRank": 29,
         "dtcScore": "64.61",
         "hobbyScore": "0.00",
-        "rank": 73
+        "rank": 74
       },
       {
         "userId": "CT9MTXB661",
@@ -5752,7 +5953,7 @@
         "averageRank": 5,
         "dtcScore": "63.27",
         "hobbyScore": "0.00",
-        "rank": 74
+        "rank": 75
       },
       {
         "userId": "YYMJA4J4KG",
@@ -5829,7 +6030,7 @@
         "averageRank": "18.0",
         "dtcScore": "63.27",
         "hobbyScore": "0.00",
-        "rank": 75
+        "rank": 76
       },
       {
         "userId": "18LACHH2VT",
@@ -5876,7 +6077,7 @@
         "averageRank": 5,
         "dtcScore": "63.27",
         "hobbyScore": "0.00",
-        "rank": 76
+        "rank": 77
       },
       {
         "userId": "N1smktFBZpl4",
@@ -5923,7 +6124,7 @@
         "averageRank": 7,
         "dtcScore": "62.90",
         "hobbyScore": "0.00",
-        "rank": 77
+        "rank": 78
       },
       {
         "userId": "zRVqSNtEh2Ux",
@@ -5970,7 +6171,7 @@
         "averageRank": 30,
         "dtcScore": "62.77",
         "hobbyScore": "0.00",
-        "rank": 78
+        "rank": 79
       },
       {
         "userId": "K5MAVVEHKN",
@@ -6036,7 +6237,7 @@
         "averageRank": "13.0",
         "dtcScore": "61.62",
         "hobbyScore": "0.00",
-        "rank": 79
+        "rank": 80
       },
       {
         "userId": "R7DVQD3P2T",
@@ -6083,7 +6284,7 @@
         "averageRank": 8,
         "dtcScore": "61.05",
         "hobbyScore": "0.00",
-        "rank": 80
+        "rank": 81
       },
       {
         "userId": "I9XKFabyXcmj",
@@ -6124,7 +6325,7 @@
         "averageRank": 6,
         "dtcScore": "60.83",
         "hobbyScore": "0.00",
-        "rank": 81
+        "rank": 82
       },
       {
         "userId": "iruZ2z6CwIUF",
@@ -6171,7 +6372,7 @@
         "averageRank": 5,
         "dtcScore": "60.33",
         "hobbyScore": "1.00",
-        "rank": 82
+        "rank": 83
       },
       {
         "userId": "WR8A54KX63",
@@ -6218,7 +6419,7 @@
         "averageRank": 13,
         "dtcScore": "60.09",
         "hobbyScore": "0.00",
-        "rank": 83
+        "rank": 84
       },
       {
         "userId": "T9MWUD5W51",
@@ -6284,7 +6485,7 @@
         "averageRank": "13.5",
         "dtcScore": "59.61",
         "hobbyScore": "0.00",
-        "rank": 84
+        "rank": 85
       },
       {
         "userId": "8P1UT3FAYG",
@@ -6331,7 +6532,7 @@
         "averageRank": 9,
         "dtcScore": "59.20",
         "hobbyScore": "0.00",
-        "rank": 85
+        "rank": 86
       },
       {
         "userId": "1YBzQ7IxGR",
@@ -6416,7 +6617,7 @@
         "averageRank": "36.7",
         "dtcScore": "56.23",
         "hobbyScore": "0.00",
-        "rank": 86
+        "rank": 87
       },
       {
         "userId": "NvkOKjD8kO",
@@ -6463,7 +6664,7 @@
         "averageRank": 34,
         "dtcScore": "55.38",
         "hobbyScore": "0.00",
-        "rank": 87
+        "rank": 88
       },
       {
         "userId": "rbcFK8QAyz",
@@ -6509,72 +6710,6 @@
         "totalRank": 7,
         "averageRank": 7,
         "dtcScore": "54.30",
-        "hobbyScore": "0.00",
-        "rank": 88
-      },
-      {
-        "userId": "X6LEWT1FD9",
-        "name": "Jens Toennaer",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Aeldari",
-            "count": 2,
-            "score": 54.05,
-            "events": [
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "18.00"
-              },
-              {
-                "name": "Dutch Masters Summer Slam",
-                "eventId": "zG6ksA3r0ILW",
-                "numberOfRounds": 6,
-                "eventDtcScore": "36.05"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Rekt Aura",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "Dutch Masters Summer Slam",
-            "eventId": "zG6ksA3r0ILW",
-            "numberOfRounds": 6,
-            "eventDtcScore": "36.05",
-            "eventHobbyScore": "0.00",
-            "userId": "X6LEWT1FD9",
-            "rank": 17,
-            "army": "Aeldari",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Alpha",
-            "eventId": "tRPqURXNCppX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "18.00",
-            "eventHobbyScore": "0.00",
-            "userId": "X6LEWT1FD9",
-            "rank": 16,
-            "army": "Aeldari",
-            "team": "Rekt Aura",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2.5,
-        "totalRank": 33,
-        "averageRank": "16.5",
-        "dtcScore": "54.05",
         "hobbyScore": "0.00",
         "rank": 89
       },
@@ -6673,6 +6808,53 @@
         "rank": 91
       },
       {
+        "userId": "oAlaJi0kEF",
+        "name": "Ruben Malschaert",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Leagues of Votann",
+            "count": 1,
+            "score": 53.7,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "53.70"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdamned Wargaming",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "53.70",
+            "eventHobbyScore": "0.00",
+            "userId": "oAlaJi0kEF",
+            "rank": 5,
+            "army": "Leagues of Votann",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 5,
+        "averageRank": 5,
+        "dtcScore": "53.70",
+        "hobbyScore": "0.00",
+        "rank": 92
+      },
+      {
         "userId": "qMHEyRqDHV",
         "name": "Youri Ommering",
         "numEvents": 1,
@@ -6717,7 +6899,7 @@
         "averageRank": 12,
         "dtcScore": "53.65",
         "hobbyScore": "0.00",
-        "rank": 92
+        "rank": 93
       },
       {
         "userId": "GEO8V7cAbw",
@@ -6764,7 +6946,7 @@
         "averageRank": 35,
         "dtcScore": "53.53",
         "hobbyScore": "1.00",
-        "rank": 93
+        "rank": 94
       },
       {
         "userId": "RGgTnCpgNT",
@@ -6811,7 +6993,7 @@
         "averageRank": 36,
         "dtcScore": "51.69",
         "hobbyScore": "0.00",
-        "rank": 94
+        "rank": 95
       },
       {
         "userId": "ZoQONOoHjqCR",
@@ -6896,7 +7078,7 @@
         "averageRank": "30.0",
         "dtcScore": "51.51",
         "hobbyScore": "0.00",
-        "rank": 95
+        "rank": 96
       },
       {
         "userId": "EFGlcAOVfc",
@@ -6962,7 +7144,7 @@
         "averageRank": "16.5",
         "dtcScore": "51.28",
         "hobbyScore": "0.00",
-        "rank": 96
+        "rank": 97
       },
       {
         "userId": "YRn9TWSVMyyr",
@@ -7009,7 +7191,7 @@
         "averageRank": 14,
         "dtcScore": "49.95",
         "hobbyScore": "0.00",
-        "rank": 97
+        "rank": 98
       },
       {
         "userId": "QLopEGzWuA",
@@ -7056,7 +7238,7 @@
         "averageRank": 8,
         "dtcScore": "49.23",
         "hobbyScore": "0.00",
-        "rank": 98
+        "rank": 99
       },
       {
         "userId": "dAPlibmodi",
@@ -7103,7 +7285,7 @@
         "averageRank": 11,
         "dtcScore": "48.67",
         "hobbyScore": "0.00",
-        "rank": 99
+        "rank": 100
       },
       {
         "userId": "tOEZmhghK7a6",
@@ -7169,7 +7351,7 @@
         "averageRank": "21.0",
         "dtcScore": "48.66",
         "hobbyScore": "0.00",
-        "rank": 100
+        "rank": 101
       },
       {
         "userId": "0017MMPQC1",
@@ -7234,7 +7416,73 @@
         "averageRank": "17.0",
         "dtcScore": "48.27",
         "hobbyScore": "0.00",
-        "rank": 101
+        "rank": 102
+      },
+      {
+        "userId": "5H0KJX3TLC",
+        "name": "Mathijs van Dijk",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Thousand Sons",
+            "count": 1,
+            "score": 17.9,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "17.90"
+              }
+            ]
+          },
+          {
+            "name": "Black Templars",
+            "count": 1,
+            "score": 30.17,
+            "events": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "30.17"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "30.17",
+            "eventHobbyScore": "0.00",
+            "userId": "5H0KJX3TLC",
+            "rank": 15,
+            "army": "Black Templars",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "17.90",
+            "eventHobbyScore": "0.00",
+            "userId": "5H0KJX3TLC",
+            "rank": 13,
+            "army": "Thousand Sons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 28,
+        "averageRank": "14.0",
+        "dtcScore": "48.07",
+        "hobbyScore": "0.00",
+        "rank": 103
       },
       {
         "userId": "JDG8B8A1RU",
@@ -7281,7 +7529,7 @@
         "averageRank": 8,
         "dtcScore": "46.80",
         "hobbyScore": "0.00",
-        "rank": 102
+        "rank": 104
       },
       {
         "userId": "2DEfddlsEo",
@@ -7328,7 +7576,7 @@
         "averageRank": 16,
         "dtcScore": "46.25",
         "hobbyScore": "0.00",
-        "rank": 103
+        "rank": 105
       },
       {
         "userId": "5HBN1JHN57",
@@ -7375,7 +7623,7 @@
         "averageRank": 39,
         "dtcScore": "46.15",
         "hobbyScore": "0.00",
-        "rank": 104
+        "rank": 106
       },
       {
         "userId": "vqfBEl1otT",
@@ -7422,7 +7670,7 @@
         "averageRank": 9,
         "dtcScore": "45.95",
         "hobbyScore": "5.00",
-        "rank": 105
+        "rank": 107
       },
       {
         "userId": "3UYu9j00Jz",
@@ -7469,7 +7717,54 @@
         "averageRank": 10,
         "dtcScore": "45.25",
         "hobbyScore": "0.00",
-        "rank": 106
+        "rank": 108
+      },
+      {
+        "userId": "4E49XU78GH",
+        "name": "Michael Briones",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 1,
+            "score": 44.75,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "44.75"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "NATO",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "44.75",
+            "eventHobbyScore": "0.00",
+            "userId": "4E49XU78GH",
+            "rank": 7,
+            "army": "Tyranids",
+            "team": "NATO",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 7,
+        "averageRank": 7,
+        "dtcScore": "44.75",
+        "hobbyScore": "0.00",
+        "rank": 109
       },
       {
         "userId": "6eVpJ13hfVwH",
@@ -7516,7 +7811,7 @@
         "averageRank": 17,
         "dtcScore": "44.40",
         "hobbyScore": "0.00",
-        "rank": 107
+        "rank": 110
       },
       {
         "userId": "VWpUwLvhY6ML",
@@ -7557,7 +7852,7 @@
         "averageRank": 13,
         "dtcScore": "43.80",
         "hobbyScore": "0.00",
-        "rank": 108
+        "rank": 111
       },
       {
         "userId": "mDFcqPld5A",
@@ -7604,7 +7899,7 @@
         "averageRank": 9,
         "dtcScore": "43.20",
         "hobbyScore": "0.00",
-        "rank": 109
+        "rank": 112
       },
       {
         "userId": "JKHTXU22UQ",
@@ -7670,7 +7965,7 @@
         "averageRank": "15.5",
         "dtcScore": "42.98",
         "hobbyScore": "0.00",
-        "rank": 110
+        "rank": 113
       },
       {
         "userId": "4UYF9M5N4J",
@@ -7717,7 +8012,7 @@
         "averageRank": 10,
         "dtcScore": "42.66",
         "hobbyScore": "0.00",
-        "rank": 111
+        "rank": 114
       },
       {
         "userId": "QBE4W30CMG",
@@ -7764,7 +8059,7 @@
         "averageRank": 18,
         "dtcScore": "42.55",
         "hobbyScore": "0.00",
-        "rank": 112
+        "rank": 115
       },
       {
         "userId": "nsWAsQLyy9",
@@ -7811,7 +8106,7 @@
         "averageRank": 41,
         "dtcScore": "42.46",
         "hobbyScore": "0.00",
-        "rank": 113
+        "rank": 116
       },
       {
         "userId": "fOQUt2qkaz",
@@ -7858,7 +8153,7 @@
         "averageRank": 11,
         "dtcScore": "42.23",
         "hobbyScore": "0.00",
-        "rank": 114
+        "rank": 117
       },
       {
         "userId": "KJE6Dm85fVho",
@@ -7931,7 +8226,7 @@
         "averageRank": "36.0",
         "dtcScore": "40.18",
         "hobbyScore": "1.00",
-        "rank": 115
+        "rank": 118
       },
       {
         "userId": "CHs5slNJ1F",
@@ -7972,7 +8267,7 @@
         "averageRank": 10,
         "dtcScore": "39.60",
         "hobbyScore": "0.00",
-        "rank": 116
+        "rank": 119
       },
       {
         "userId": "6BCE6qOwBCzK",
@@ -8013,7 +8308,7 @@
         "averageRank": 21,
         "dtcScore": "37.00",
         "hobbyScore": "0.00",
-        "rank": 117
+        "rank": 120
       },
       {
         "userId": "W97DTG5KMM",
@@ -8060,7 +8355,7 @@
         "averageRank": 44,
         "dtcScore": "36.92",
         "hobbyScore": "0.00",
-        "rank": 118
+        "rank": 121
       },
       {
         "userId": "4PAUSb3Quz",
@@ -8107,7 +8402,54 @@
         "averageRank": 11,
         "dtcScore": "36.00",
         "hobbyScore": "0.00",
-        "rank": 119
+        "rank": 122
+      },
+      {
+        "userId": "CaLnU6ybkA",
+        "name": "Joey Tittel",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Emperor's Children",
+            "count": 1,
+            "score": 35.8,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "35.80"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Amsterdamned Wargaming",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "35.80",
+            "eventHobbyScore": "0.00",
+            "userId": "CaLnU6ybkA",
+            "rank": 9,
+            "army": "Emperor's Children",
+            "team": "Amsterdamned Wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1.5,
+        "totalRank": 9,
+        "averageRank": 9,
+        "dtcScore": "35.80",
+        "hobbyScore": "0.00",
+        "rank": 123
       },
       {
         "userId": "UHjx4VQpVT0W",
@@ -8148,7 +8490,7 @@
         "averageRank": 22,
         "dtcScore": "35.15",
         "hobbyScore": "0.00",
-        "rank": 120
+        "rank": 124
       },
       {
         "userId": "5U542FLB8K",
@@ -8221,7 +8563,7 @@
         "averageRank": "35.0",
         "dtcScore": "34.71",
         "hobbyScore": "1.00",
-        "rank": 121
+        "rank": 125
       },
       {
         "userId": "BLB28PKJ5U",
@@ -8287,7 +8629,7 @@
         "averageRank": "17.0",
         "dtcScore": "33.77",
         "hobbyScore": "0.00",
-        "rank": 122
+        "rank": 126
       },
       {
         "userId": "xXMrG4Pwio3V",
@@ -8334,7 +8676,7 @@
         "averageRank": 23,
         "dtcScore": "33.30",
         "hobbyScore": "0.00",
-        "rank": 123
+        "rank": 127
       },
       {
         "userId": "13EN95VQPU",
@@ -8381,7 +8723,7 @@
         "averageRank": 46,
         "dtcScore": "33.23",
         "hobbyScore": "3.00",
-        "rank": 124
+        "rank": 128
       },
       {
         "userId": "iKEL7fZbuQQt",
@@ -8440,7 +8782,7 @@
         "averageRank": "28.5",
         "dtcScore": "32.42",
         "hobbyScore": "0.00",
-        "rank": 125
+        "rank": 129
       },
       {
         "userId": "aQ6yS4eAiy",
@@ -8487,7 +8829,7 @@
         "averageRank": 12,
         "dtcScore": "32.40",
         "hobbyScore": "0.00",
-        "rank": 126
+        "rank": 130
       },
       {
         "userId": "f6vUmsHLNv",
@@ -8534,23 +8876,23 @@
         "averageRank": 12,
         "dtcScore": "32.40",
         "hobbyScore": "1.00",
-        "rank": 127
+        "rank": 131
       },
       {
-        "userId": "5H0KJX3TLC",
-        "name": "Mathijs van Dijk",
+        "userId": "lZfSqe4Y0IGS",
+        "name": "Benjamin Henninger",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Black Templars",
+            "name": "Death Guard",
             "count": 1,
-            "score": 30.17,
+            "score": 31.32,
             "events": [
               {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
                 "numberOfRounds": 3,
-                "eventDtcScore": "30.17"
+                "eventDtcScore": "31.32"
               }
             ]
           }
@@ -8558,24 +8900,24 @@
         "teams": [],
         "events": [
           {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
             "numberOfRounds": 3,
-            "eventDtcScore": "30.17",
+            "eventDtcScore": "31.32",
             "eventHobbyScore": "0.00",
-            "userId": "5H0KJX3TLC",
-            "rank": 15,
-            "army": "Black Templars",
+            "userId": "lZfSqe4Y0IGS",
+            "rank": 10,
+            "army": "Death Guard",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 1,
-        "totalRank": 15,
-        "averageRank": 15,
-        "dtcScore": "30.17",
+        "totalRank": 10,
+        "averageRank": 10,
+        "dtcScore": "31.32",
         "hobbyScore": "0.00",
-        "rank": 128
+        "rank": 132
       },
       {
         "userId": "V92QAWWUQ7",
@@ -8622,7 +8964,7 @@
         "averageRank": 48,
         "dtcScore": "29.54",
         "hobbyScore": "0.00",
-        "rank": 129
+        "rank": 133
       },
       {
         "userId": "CihR0If8Th8v",
@@ -8663,7 +9005,48 @@
         "averageRank": 19,
         "dtcScore": "29.20",
         "hobbyScore": "0.00",
-        "rank": 130
+        "rank": 134
+      },
+      {
+        "userId": "mk6dT44n7q3o",
+        "name": "Ivan Iborra",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Grey Knights",
+            "count": 1,
+            "score": 26.85,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "26.85"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "26.85",
+            "eventHobbyScore": "0.00",
+            "userId": "mk6dT44n7q3o",
+            "rank": 11,
+            "army": "Grey Knights",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 11,
+        "averageRank": 11,
+        "dtcScore": "26.85",
+        "hobbyScore": "0.00",
+        "rank": 135
       },
       {
         "userId": "8L41BG5K90",
@@ -8710,7 +9093,7 @@
         "averageRank": 20,
         "dtcScore": "26.77",
         "hobbyScore": "0.00",
-        "rank": 131
+        "rank": 136
       },
       {
         "userId": "nPfLbCAykPOD",
@@ -8751,7 +9134,7 @@
         "averageRank": 20,
         "dtcScore": "26.77",
         "hobbyScore": "0.00",
-        "rank": 132
+        "rank": 137
       },
       {
         "userId": "9WDN03KDPR",
@@ -8798,7 +9181,7 @@
         "averageRank": 15,
         "dtcScore": "26.25",
         "hobbyScore": "0.00",
-        "rank": 133
+        "rank": 138
       },
       {
         "userId": "NkjhsVr6Jl",
@@ -8845,7 +9228,7 @@
         "averageRank": 50,
         "dtcScore": "25.84",
         "hobbyScore": "0.00",
-        "rank": 134
+        "rank": 139
       },
       {
         "userId": "PhCB5Cs7YH3o",
@@ -8892,7 +9275,7 @@
         "averageRank": 14,
         "dtcScore": "25.20",
         "hobbyScore": "0.00",
-        "rank": 135
+        "rank": 140
       },
       {
         "userId": "CKoC6Khxompo",
@@ -8939,7 +9322,7 @@
         "averageRank": 14,
         "dtcScore": "25.20",
         "hobbyScore": "0.00",
-        "rank": 136
+        "rank": 141
       },
       {
         "userId": "72NCAEEUG3",
@@ -9024,7 +9407,7 @@
         "averageRank": "20.0",
         "dtcScore": "24.62",
         "hobbyScore": "2.00",
-        "rank": 137
+        "rank": 142
       },
       {
         "userId": "W3zjZVcovdG6",
@@ -9065,7 +9448,7 @@
         "averageRank": 21,
         "dtcScore": "24.33",
         "hobbyScore": "0.00",
-        "rank": 138
+        "rank": 143
       },
       {
         "userId": "DP5X65B26U",
@@ -9112,7 +9495,7 @@
         "averageRank": 17,
         "dtcScore": "24.13",
         "hobbyScore": "0.00",
-        "rank": 139
+        "rank": 144
       },
       {
         "userId": "z3fjX7GSOXu7",
@@ -9159,7 +9542,48 @@
         "averageRank": 19,
         "dtcScore": "24.04",
         "hobbyScore": "0.00",
-        "rank": 140
+        "rank": 145
+      },
+      {
+        "userId": "2eizFwsF3W",
+        "name": "Matan Cohen",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Deathwatch",
+            "count": 1,
+            "score": 22.38,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "22.38"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "22.38",
+            "eventHobbyScore": "0.00",
+            "userId": "2eizFwsF3W",
+            "rank": 12,
+            "army": "Deathwatch",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 12,
+        "averageRank": 12,
+        "dtcScore": "22.38",
+        "hobbyScore": "0.00",
+        "rank": 146
       },
       {
         "userId": "GjKOIqx1nz",
@@ -9206,7 +9630,7 @@
         "averageRank": 29,
         "dtcScore": "22.20",
         "hobbyScore": "0.00",
-        "rank": 141
+        "rank": 147
       },
       {
         "userId": "D6N1EGERER",
@@ -9253,7 +9677,7 @@
         "averageRank": 22,
         "dtcScore": "21.90",
         "hobbyScore": "0.00",
-        "rank": 142
+        "rank": 148
       },
       {
         "userId": "WGRF908PRQ",
@@ -9300,7 +9724,7 @@
         "averageRank": 15,
         "dtcScore": "21.60",
         "hobbyScore": "0.00",
-        "rank": 143
+        "rank": 149
       },
       {
         "userId": "MbjgGMUqFilK",
@@ -9366,7 +9790,7 @@
         "averageRank": "28.0",
         "dtcScore": "20.83",
         "hobbyScore": "1.00",
-        "rank": 144
+        "rank": 150
       },
       {
         "userId": "PTgIIEf2U7",
@@ -9431,7 +9855,7 @@
         "averageRank": "39.5",
         "dtcScore": "20.80",
         "hobbyScore": "0.00",
-        "rank": 145
+        "rank": 151
       },
       {
         "userId": "NTTWVH5KNC",
@@ -9478,7 +9902,7 @@
         "averageRank": 30,
         "dtcScore": "20.35",
         "hobbyScore": "0.00",
-        "rank": 146
+        "rank": 152
       },
       {
         "userId": "lp8ZzEFgYDqV",
@@ -9519,7 +9943,7 @@
         "averageRank": 17,
         "dtcScore": "19.69",
         "hobbyScore": "5.00",
-        "rank": 147
+        "rank": 153
       },
       {
         "userId": "iy5qHPMVmA",
@@ -9566,7 +9990,7 @@
         "averageRank": 31,
         "dtcScore": "18.50",
         "hobbyScore": "0.00",
-        "rank": 148
+        "rank": 154
       },
       {
         "userId": "BqvcqiEDCWue",
@@ -9607,7 +10031,7 @@
         "averageRank": 19,
         "dtcScore": "18.10",
         "hobbyScore": "0.00",
-        "rank": 149
+        "rank": 155
       },
       {
         "userId": "CZz3lUpxKh",
@@ -9654,7 +10078,7 @@
         "averageRank": 16,
         "dtcScore": "18.00",
         "hobbyScore": "0.00",
-        "rank": 150
+        "rank": 156
       },
       {
         "userId": "qhGBzx4W2Wk9",
@@ -9738,7 +10162,7 @@
         "averageRank": "31.7",
         "dtcScore": "17.14",
         "hobbyScore": "0.00",
-        "rank": 151
+        "rank": 157
       },
       {
         "userId": "UEE17HPY8C",
@@ -9785,7 +10209,7 @@
         "averageRank": 32,
         "dtcScore": "16.65",
         "hobbyScore": "0.00",
-        "rank": 152
+        "rank": 158
       },
       {
         "userId": "TQ04G1ANKC",
@@ -9832,7 +10256,7 @@
         "averageRank": 55,
         "dtcScore": "16.61",
         "hobbyScore": "0.00",
-        "rank": 153
+        "rank": 159
       },
       {
         "userId": "hKzEZuW2HO",
@@ -9879,7 +10303,7 @@
         "averageRank": 20,
         "dtcScore": "15.08",
         "hobbyScore": "3.00",
-        "rank": 154
+        "rank": 160
       },
       {
         "userId": "fmGDFJgokShe",
@@ -9920,7 +10344,7 @@
         "averageRank": 25,
         "dtcScore": "14.60",
         "hobbyScore": "0.00",
-        "rank": 155
+        "rank": 161
       },
       {
         "userId": "5AaBvsqswDJe",
@@ -9961,7 +10385,7 @@
         "averageRank": 25,
         "dtcScore": "14.60",
         "hobbyScore": "0.00",
-        "rank": 156
+        "rank": 162
       },
       {
         "userId": "AMMLW31QTV",
@@ -10034,7 +10458,48 @@
         "averageRank": "20.0",
         "dtcScore": "13.45",
         "hobbyScore": "0.00",
-        "rank": 157
+        "rank": 163
+      },
+      {
+        "userId": "0Qxqew5eIcql",
+        "name": "Max Mulder",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Aeldari",
+            "count": 1,
+            "score": 13.42,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "13.42"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "13.42",
+            "eventHobbyScore": "0.00",
+            "userId": "0Qxqew5eIcql",
+            "rank": 14,
+            "army": "Aeldari",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 14,
+        "averageRank": 14,
+        "dtcScore": "13.42",
+        "hobbyScore": "0.00",
+        "rank": 164
       },
       {
         "userId": "Nq7WqlykQWpQ",
@@ -10075,7 +10540,7 @@
         "averageRank": 19,
         "dtcScore": "13.13",
         "hobbyScore": "0.00",
-        "rank": 158
+        "rank": 165
       },
       {
         "userId": "L9ENNV6P84",
@@ -10122,7 +10587,7 @@
         "averageRank": 57,
         "dtcScore": "12.92",
         "hobbyScore": "0.00",
-        "rank": 159
+        "rank": 166
       },
       {
         "userId": "wOfUwtWljPlI",
@@ -10163,7 +10628,7 @@
         "averageRank": 26,
         "dtcScore": "12.17",
         "hobbyScore": "0.00",
-        "rank": 160
+        "rank": 167
       },
       {
         "userId": "KG4JN44VQ7",
@@ -10210,7 +10675,7 @@
         "averageRank": 26,
         "dtcScore": "12.17",
         "hobbyScore": "0.00",
-        "rank": 161
+        "rank": 168
       },
       {
         "userId": "IaodDBRsVbfP",
@@ -10257,7 +10722,7 @@
         "averageRank": 21,
         "dtcScore": "12.07",
         "hobbyScore": "0.00",
-        "rank": 162
+        "rank": 169
       },
       {
         "userId": "yNvCWMm1gz",
@@ -10304,7 +10769,7 @@
         "averageRank": 21,
         "dtcScore": "12.02",
         "hobbyScore": "0.00",
-        "rank": 163
+        "rank": 170
       },
       {
         "userId": "o2epwoAOyvVj",
@@ -10377,7 +10842,7 @@
         "averageRank": "33.0",
         "dtcScore": "11.68",
         "hobbyScore": "0.00",
-        "rank": 164
+        "rank": 171
       },
       {
         "userId": "VSLQaQfKMEj7",
@@ -10424,7 +10889,7 @@
         "averageRank": 35,
         "dtcScore": "11.10",
         "hobbyScore": "0.00",
-        "rank": 165
+        "rank": 172
       },
       {
         "userId": "48DY8N0F4H",
@@ -10471,7 +10936,7 @@
         "averageRank": 58,
         "dtcScore": "11.08",
         "hobbyScore": "0.00",
-        "rank": 166
+        "rank": 173
       },
       {
         "userId": "HE7UB31UV7",
@@ -10512,7 +10977,7 @@
         "averageRank": 18,
         "dtcScore": "10.80",
         "hobbyScore": "0.00",
-        "rank": 167
+        "rank": 174
       },
       {
         "userId": "abU1tEmMwCeI",
@@ -10559,7 +11024,7 @@
         "averageRank": 27,
         "dtcScore": "9.73",
         "hobbyScore": "0.00",
-        "rank": 168
+        "rank": 175
       },
       {
         "userId": "0YJ8QK2CDK",
@@ -10606,7 +11071,7 @@
         "averageRank": 59,
         "dtcScore": "9.23",
         "hobbyScore": "0.00",
-        "rank": 169
+        "rank": 176
       },
       {
         "userId": "rLJFY0arGU",
@@ -10653,7 +11118,7 @@
         "averageRank": 22,
         "dtcScore": "9.05",
         "hobbyScore": "0.00",
-        "rank": 170
+        "rank": 177
       },
       {
         "userId": "6ElFaPuI4TJ4",
@@ -10694,7 +11159,48 @@
         "averageRank": 22,
         "dtcScore": "9.05",
         "hobbyScore": "0.00",
-        "rank": 171
+        "rank": 178
+      },
+      {
+        "userId": "pXQyCB0xiqJG",
+        "name": "David Orozco",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Necrons",
+            "count": 1,
+            "score": 8.95,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "8.95"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "8.95",
+            "eventHobbyScore": "0.00",
+            "userId": "pXQyCB0xiqJG",
+            "rank": 15,
+            "army": "Necrons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 15,
+        "averageRank": 15,
+        "dtcScore": "8.95",
+        "hobbyScore": "0.00",
+        "rank": 179
       },
       {
         "userId": "EtUqtfzfnjna",
@@ -10735,7 +11241,7 @@
         "averageRank": 60,
         "dtcScore": "7.38",
         "hobbyScore": "0.00",
-        "rank": 172
+        "rank": 180
       },
       {
         "userId": "2AguD8ilkpej",
@@ -10776,7 +11282,7 @@
         "averageRank": 28,
         "dtcScore": "7.30",
         "hobbyScore": "0.00",
-        "rank": 173
+        "rank": 181
       },
       {
         "userId": "7R35THCV43",
@@ -10823,7 +11329,7 @@
         "averageRank": 19,
         "dtcScore": "7.20",
         "hobbyScore": "0.00",
-        "rank": 174
+        "rank": 182
       },
       {
         "userId": "jc7G1n9P3cNN",
@@ -10864,7 +11370,7 @@
         "averageRank": 21,
         "dtcScore": "6.56",
         "hobbyScore": "0.00",
-        "rank": 175
+        "rank": 183
       },
       {
         "userId": "4q8LJfdpiGy2",
@@ -10905,7 +11411,7 @@
         "averageRank": 22,
         "dtcScore": "6.01",
         "hobbyScore": "0.00",
-        "rank": 176
+        "rank": 184
       },
       {
         "userId": "BaPjUBIrJxrI",
@@ -10952,7 +11458,7 @@
         "averageRank": 38,
         "dtcScore": "5.55",
         "hobbyScore": "0.00",
-        "rank": 177
+        "rank": 185
       },
       {
         "userId": "8AJFV8V17W",
@@ -10993,7 +11499,54 @@
         "averageRank": 61,
         "dtcScore": "5.54",
         "hobbyScore": "0.00",
-        "rank": 178
+        "rank": 186
+      },
+      {
+        "userId": "NVY3JKG5MW",
+        "name": "Timon Voormanns",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 1,
+            "score": 4.47,
+            "events": [
+              {
+                "name": "Apex Damnation - Competitive 40K",
+                "eventId": "YJeSsX5veGBz",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.47"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Lone Operative",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "Apex Damnation - Competitive 40K",
+            "eventId": "YJeSsX5veGBz",
+            "numberOfRounds": 3,
+            "eventDtcScore": "4.47",
+            "eventHobbyScore": "0.00",
+            "userId": "NVY3JKG5MW",
+            "rank": 16,
+            "army": "Dark Angels",
+            "team": "Lone Operative",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 16,
+        "averageRank": 16,
+        "dtcScore": "4.47",
+        "hobbyScore": "0.00",
+        "rank": 187
       },
       {
         "userId": "cShLO2GHnIMk",
@@ -11034,7 +11587,7 @@
         "averageRank": 22,
         "dtcScore": "3.28",
         "hobbyScore": "0.00",
-        "rank": 179
+        "rank": 188
       },
       {
         "userId": "gIWAfvx1PgRX",
@@ -11081,7 +11634,7 @@
         "averageRank": 30,
         "dtcScore": "2.43",
         "hobbyScore": "0.00",
-        "rank": 180
+        "rank": 189
       },
       {
         "userId": "9YDM6RMUGT",
@@ -11128,7 +11681,7 @@
         "averageRank": 40,
         "dtcScore": "1.85",
         "hobbyScore": "0.00",
-        "rank": 181
+        "rank": 190
       },
       {
         "userId": "ytLe6rcOcDD7",
@@ -11175,7 +11728,7 @@
         "averageRank": 63,
         "dtcScore": "1.85",
         "hobbyScore": "0.00",
-        "rank": 182
+        "rank": 191
       }
     ]
   },
