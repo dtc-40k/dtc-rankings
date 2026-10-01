@@ -3,6 +3,377 @@
     "season": "2026",
     "rankings": [
       {
+        "userId": "RWTFCJ16JR",
+        "name": "Sjors Meijer",
+        "numEvents": 7,
+        "armies": [
+          {
+            "name": "World Eaters",
+            "count": 3,
+            "score": 202.65,
+            "events": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.20"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "70.30"
+              },
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "96.15"
+              }
+            ]
+          },
+          {
+            "name": "Adeptus Astartes",
+            "count": 2,
+            "score": 159.41,
+            "events": [
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.80"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "112.61"
+              }
+            ]
+          },
+          {
+            "name": "Chaos Daemons",
+            "count": 1,
+            "score": 61.2,
+            "events": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "61.20"
+              }
+            ]
+          },
+          {
+            "name": "Emperor's Children",
+            "count": 1,
+            "score": 66.37,
+            "events": [
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "66.37"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Mannen van het wapen",
+            "count": 7
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "112.61",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 3,
+            "army": "Space Marines (Astartes)",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Summer Slam",
+            "eventId": "zG6ksA3r0ILW",
+            "numberOfRounds": 6,
+            "eventDtcScore": "96.15",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 7,
+            "army": "World Eaters",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "70.30",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 3,
+            "army": "World Eaters",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.37",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 3,
+            "army": "Emperor's Children",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Charlie",
+            "eventId": "fcwLzvSN2f6e",
+            "numberOfRounds": 3,
+            "eventDtcScore": "61.20",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 4,
+            "army": "Chaos Daemons",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Alpha",
+            "eventId": "tRPqURXNCppX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "46.80",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 8,
+            "army": "Space Marines (Astartes)",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "36.20",
+            "eventHobbyScore": "0.00",
+            "userId": "RWTFCJ16JR",
+            "rank": 13,
+            "army": "World Eaters",
+            "team": "Mannen van het wapen",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 17.5,
+        "totalRank": 41,
+        "averageRank": "5.9",
+        "dtcScore": "489.63",
+        "hobbyScore": "0.00",
+        "rank": 1
+      },
+      {
+        "userId": "m1Cf1dFdAY",
+        "name": "Arjan Fintelman",
+        "numEvents": 7,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 2,
+            "score": 145.15,
+            "events": [
+              {
+                "name": "Sieze of Cerberax",
+                "eventId": "hG0m9IF1u0SD",
+                "numberOfRounds": 3,
+                "eventDtcScore": "73.00"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "72.15"
+              }
+            ]
+          },
+          {
+            "name": "Necrons",
+            "count": 2,
+            "score": 147.78,
+            "events": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "90.46"
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.32"
+              }
+            ]
+          },
+          {
+            "name": "Imperial Knights",
+            "count": 1,
+            "score": 50.4,
+            "events": [
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "50.40"
+              }
+            ]
+          },
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 57.6,
+            "events": [
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.60"
+              }
+            ]
+          },
+          {
+            "name": "Space Wolves",
+            "count": 1,
+            "score": 42.06,
+            "events": [
+              {
+                "name": "Dutch Masters Summer Slam",
+                "eventId": "zG6ksA3r0ILW",
+                "numberOfRounds": 6,
+                "eventDtcScore": "42.06"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "hired guns",
+            "count": 7
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "90.46",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 15,
+            "army": "Necrons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Sieze of Cerberax",
+            "eventId": "hG0m9IF1u0SD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "73.00",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 1,
+            "army": "Dark Angels",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "72.15",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 2,
+            "army": "Dark Angels",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Alpha",
+            "eventId": "tRPqURXNCppX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.60",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 5,
+            "army": "Astra Militarum",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.32",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 6,
+            "army": "Necrons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Charlie",
+            "eventId": "fcwLzvSN2f6e",
+            "numberOfRounds": 3,
+            "eventDtcScore": "50.40",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 7,
+            "army": "Imperial Knights",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Dutch Masters Summer Slam",
+            "eventId": "zG6ksA3r0ILW",
+            "numberOfRounds": 6,
+            "eventDtcScore": "42.06",
+            "eventHobbyScore": "0.00",
+            "userId": "m1Cf1dFdAY",
+            "rank": 16,
+            "army": "Space Wolves",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 17,
+        "totalRank": 52,
+        "averageRank": "7.4",
+        "dtcScore": "442.99",
+        "hobbyScore": "0.00",
+        "rank": 2
+      },
+      {
         "userId": "jTKYUfh35b",
         "name": "Martijn Van der Most",
         "numEvents": 5,
@@ -123,7 +494,7 @@
         "averageRank": "3.0",
         "dtcScore": "437.01",
         "hobbyScore": "0.00",
-        "rank": 1
+        "rank": 3
       },
       {
         "userId": "xHn0EUD2koXb",
@@ -329,170 +700,7 @@
         "averageRank": "15.0",
         "dtcScore": "429.67",
         "hobbyScore": "2.00",
-        "rank": 2
-      },
-      {
-        "userId": "RWTFCJ16JR",
-        "name": "Sjors Meijer",
-        "numEvents": 6,
-        "armies": [
-          {
-            "name": "World Eaters",
-            "count": 2,
-            "score": 132.35,
-            "events": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "36.20"
-              },
-              {
-                "name": "Dutch Masters Summer Slam",
-                "eventId": "zG6ksA3r0ILW",
-                "numberOfRounds": 6,
-                "eventDtcScore": "96.15"
-              }
-            ]
-          },
-          {
-            "name": "Adeptus Astartes",
-            "count": 2,
-            "score": 159.41,
-            "events": [
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.80"
-              },
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "112.61"
-              }
-            ]
-          },
-          {
-            "name": "Chaos Daemons",
-            "count": 1,
-            "score": 61.2,
-            "events": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "61.20"
-              }
-            ]
-          },
-          {
-            "name": "Emperor's Children",
-            "count": 1,
-            "score": 66.37,
-            "events": [
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "66.37"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Mannen van het wapen",
-            "count": 6
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "112.61",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 3,
-            "army": "Space Marines (Astartes)",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Summer Slam",
-            "eventId": "zG6ksA3r0ILW",
-            "numberOfRounds": 6,
-            "eventDtcScore": "96.15",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 7,
-            "army": "World Eaters",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "66.37",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 3,
-            "army": "Emperor's Children",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Charlie",
-            "eventId": "fcwLzvSN2f6e",
-            "numberOfRounds": 3,
-            "eventDtcScore": "61.20",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 4,
-            "army": "Chaos Daemons",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Alpha",
-            "eventId": "tRPqURXNCppX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "46.80",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 8,
-            "army": "Space Marines (Astartes)",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "36.20",
-            "eventHobbyScore": "0.00",
-            "userId": "RWTFCJ16JR",
-            "rank": 13,
-            "army": "World Eaters",
-            "team": "Mannen van het wapen",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 14.5,
-        "totalRank": 38,
-        "averageRank": "6.3",
-        "dtcScore": "419.33",
-        "hobbyScore": "0.00",
-        "rank": 3
+        "rank": 4
       },
       {
         "userId": "TlATr9MSrX",
@@ -615,7 +823,7 @@
         "averageRank": "3.8",
         "dtcScore": "417.15",
         "hobbyScore": "2.00",
-        "rank": 4
+        "rank": 5
       },
       {
         "userId": "cgcimvdJ2E",
@@ -725,7 +933,7 @@
         "averageRank": "1.0",
         "dtcScore": "393.30",
         "hobbyScore": "0.00",
-        "rank": 5
+        "rank": 6
       },
       {
         "userId": "w6kAJ5LBzCPq",
@@ -847,176 +1055,6 @@
         "totalRank": 54,
         "averageRank": "10.8",
         "dtcScore": "384.36",
-        "hobbyScore": "0.00",
-        "rank": 6
-      },
-      {
-        "userId": "m1Cf1dFdAY",
-        "name": "Arjan Fintelman",
-        "numEvents": 6,
-        "armies": [
-          {
-            "name": "Necrons",
-            "count": 2,
-            "score": 147.78,
-            "events": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "90.46"
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.32"
-              }
-            ]
-          },
-          {
-            "name": "Imperial Knights",
-            "count": 1,
-            "score": 50.4,
-            "events": [
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "50.40"
-              }
-            ]
-          },
-          {
-            "name": "Dark Angels",
-            "count": 1,
-            "score": 73,
-            "events": [
-              {
-                "name": "Sieze of Cerberax",
-                "eventId": "hG0m9IF1u0SD",
-                "numberOfRounds": 3,
-                "eventDtcScore": "73.00"
-              }
-            ]
-          },
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 57.6,
-            "events": [
-              {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.60"
-              }
-            ]
-          },
-          {
-            "name": "Space Wolves",
-            "count": 1,
-            "score": 42.06,
-            "events": [
-              {
-                "name": "Dutch Masters Summer Slam",
-                "eventId": "zG6ksA3r0ILW",
-                "numberOfRounds": 6,
-                "eventDtcScore": "42.06"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "hired guns",
-            "count": 6
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "90.46",
-            "eventHobbyScore": "0.00",
-            "userId": "m1Cf1dFdAY",
-            "rank": 15,
-            "army": "Necrons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Sieze of Cerberax",
-            "eventId": "hG0m9IF1u0SD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "73.00",
-            "eventHobbyScore": "0.00",
-            "userId": "m1Cf1dFdAY",
-            "rank": 1,
-            "army": "Dark Angels",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Alpha",
-            "eventId": "tRPqURXNCppX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "57.60",
-            "eventHobbyScore": "0.00",
-            "userId": "m1Cf1dFdAY",
-            "rank": 5,
-            "army": "Astra Militarum",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "57.32",
-            "eventHobbyScore": "0.00",
-            "userId": "m1Cf1dFdAY",
-            "rank": 6,
-            "army": "Necrons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Charlie",
-            "eventId": "fcwLzvSN2f6e",
-            "numberOfRounds": 3,
-            "eventDtcScore": "50.40",
-            "eventHobbyScore": "0.00",
-            "userId": "m1Cf1dFdAY",
-            "rank": 7,
-            "army": "Imperial Knights",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Dutch Masters Summer Slam",
-            "eventId": "zG6ksA3r0ILW",
-            "numberOfRounds": 6,
-            "eventDtcScore": "42.06",
-            "eventHobbyScore": "0.00",
-            "userId": "m1Cf1dFdAY",
-            "rank": 16,
-            "army": "Space Wolves",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 14,
-        "totalRank": 50,
-        "averageRank": "8.3",
-        "dtcScore": "370.84",
         "hobbyScore": "0.00",
         "rank": 7
       },
@@ -1457,6 +1495,193 @@
         "rank": 10
       },
       {
+        "userId": "3QP4UY0C0M",
+        "name": "Nick Van dijk",
+        "numEvents": 8,
+        "armies": [
+          {
+            "name": "Thousand Sons",
+            "count": 7,
+            "score": 312.42,
+            "events": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "43.80"
+              },
+              {
+                "name": "The Phoenix GT: End of Summer Showdown",
+                "eventId": "dxdECTvyLgQH",
+                "numberOfRounds": 5,
+                "eventDtcScore": "90.43"
+              },
+              {
+                "name": "Wardice RTT Charlie",
+                "eventId": "fcwLzvSN2f6e",
+                "numberOfRounds": 3,
+                "eventDtcScore": "21.60"
+              },
+              {
+                "name": "Sieze of Cerberax",
+                "eventId": "hG0m9IF1u0SD",
+                "numberOfRounds": 3,
+                "eventDtcScore": "17.03"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "73.84"
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "12.07"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "53.65"
+              }
+            ]
+          },
+          {
+            "name": "Necrons",
+            "count": 1,
+            "score": 48.1,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.10"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "hired guns",
+            "count": 8
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT: End of Summer Showdown",
+            "eventId": "dxdECTvyLgQH",
+            "numberOfRounds": 5,
+            "eventDtcScore": "90.43",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 18,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "73.84",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 24,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "53.65",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 12,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "48.10",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 15,
+            "army": "Necrons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "43.80",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 13,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Charlie",
+            "eventId": "fcwLzvSN2f6e",
+            "numberOfRounds": 3,
+            "eventDtcScore": "21.60",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 15,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Sieze of Cerberax",
+            "eventId": "hG0m9IF1u0SD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "17.03",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 24,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "12.07",
+            "eventHobbyScore": "0.00",
+            "userId": "3QP4UY0C0M",
+            "rank": 21,
+            "army": "Thousand Sons",
+            "team": "hired guns",
+            "usedForRankings": false,
+            "usedForHobbyRankings": false
+          }
+        ],
+        "numWins": 14,
+        "totalRank": 142,
+        "averageRank": "17.8",
+        "dtcScore": "348.45",
+        "hobbyScore": "0.00",
+        "rank": 11
+      },
+      {
         "userId": "eOFVEEMOEb",
         "name": "Mitchell klein",
         "numEvents": 4,
@@ -1565,7 +1790,7 @@
         "averageRank": "12.5",
         "dtcScore": "325.66",
         "hobbyScore": "0.00",
-        "rank": 11
+        "rank": 12
       },
       {
         "userId": "j8WphFYeF8",
@@ -1682,174 +1907,6 @@
         "totalRank": 26,
         "averageRank": "6.5",
         "dtcScore": "320.58",
-        "hobbyScore": "0.00",
-        "rank": 12
-      },
-      {
-        "userId": "3QP4UY0C0M",
-        "name": "Nick Van dijk",
-        "numEvents": 7,
-        "armies": [
-          {
-            "name": "Thousand Sons",
-            "count": 6,
-            "score": 258.77,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "43.80"
-              },
-              {
-                "name": "The Phoenix GT: End of Summer Showdown",
-                "eventId": "dxdECTvyLgQH",
-                "numberOfRounds": 5,
-                "eventDtcScore": "90.43"
-              },
-              {
-                "name": "Wardice RTT Charlie",
-                "eventId": "fcwLzvSN2f6e",
-                "numberOfRounds": 3,
-                "eventDtcScore": "21.60"
-              },
-              {
-                "name": "Sieze of Cerberax",
-                "eventId": "hG0m9IF1u0SD",
-                "numberOfRounds": 3,
-                "eventDtcScore": "17.03"
-              },
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "73.84"
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "12.07"
-              }
-            ]
-          },
-          {
-            "name": "Necrons",
-            "count": 1,
-            "score": 48.1,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "48.10"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "hired guns",
-            "count": 7
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT: End of Summer Showdown",
-            "eventId": "dxdECTvyLgQH",
-            "numberOfRounds": 5,
-            "eventDtcScore": "90.43",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 18,
-            "army": "Thousand Sons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "73.84",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 24,
-            "army": "Thousand Sons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "48.10",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 15,
-            "army": "Necrons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "43.80",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 13,
-            "army": "Thousand Sons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Charlie",
-            "eventId": "fcwLzvSN2f6e",
-            "numberOfRounds": 3,
-            "eventDtcScore": "21.60",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 15,
-            "army": "Thousand Sons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Sieze of Cerberax",
-            "eventId": "hG0m9IF1u0SD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "17.03",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 24,
-            "army": "Thousand Sons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "12.07",
-            "eventHobbyScore": "0.00",
-            "userId": "3QP4UY0C0M",
-            "rank": 21,
-            "army": "Thousand Sons",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 12,
-        "totalRank": 130,
-        "averageRank": "18.6",
-        "dtcScore": "306.87",
         "hobbyScore": "0.00",
         "rank": 13
       },
@@ -2015,6 +2072,237 @@
         "rank": 14
       },
       {
+        "userId": "1G90AYL6C0",
+        "name": "Sjoerd Reiche",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 5,
+            "score": 277.33,
+            "events": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "33.18"
+              },
+              {
+                "name": "Wardice RTT Alpha",
+                "eventId": "tRPqURXNCppX",
+                "numberOfRounds": 3,
+                "eventDtcScore": "36.00"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "84.92"
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "60.33"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "62.90"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Lost legion wargaming",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "84.92",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 18,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "62.90",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 7,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "60.33",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 5,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Wardice RTT Alpha",
+            "eventId": "tRPqURXNCppX",
+            "numberOfRounds": 3,
+            "eventDtcScore": "36.00",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 11,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "33.18",
+            "eventHobbyScore": "0.00",
+            "userId": "1G90AYL6C0",
+            "rank": 14,
+            "army": "Dark Angels",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9,
+        "totalRank": 55,
+        "averageRank": "11.0",
+        "dtcScore": "277.33",
+        "hobbyScore": "0.00",
+        "rank": 15
+      },
+      {
+        "userId": "xZAjITtY6bSb",
+        "name": "Tom Veenvliet",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 2,
+            "score": 157.04,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.35"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "99.69"
+              }
+            ]
+          },
+          {
+            "name": "Thousand Sons",
+            "count": 2,
+            "score": 119.23,
+            "events": [
+              {
+                "name": "The Phoenix GT: End of Summer Showdown",
+                "eventId": "dxdECTvyLgQH",
+                "numberOfRounds": 5,
+                "eventDtcScore": "72.98"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.25"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "GnS",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "99.69",
+            "eventHobbyScore": "0.00",
+            "userId": "xZAjITtY6bSb",
+            "rank": 10,
+            "army": "Space Marines (Astartes)",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT: End of Summer Showdown",
+            "eventId": "dxdECTvyLgQH",
+            "numberOfRounds": 5,
+            "eventDtcScore": "72.98",
+            "eventHobbyScore": "0.00",
+            "userId": "xZAjITtY6bSb",
+            "rank": 29,
+            "army": "Thousand Sons",
+            "team": "GnS",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.35",
+            "eventHobbyScore": "0.00",
+            "userId": "xZAjITtY6bSb",
+            "rank": 10,
+            "army": "Adeptus Astartes",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "46.25",
+            "eventHobbyScore": "0.00",
+            "userId": "xZAjITtY6bSb",
+            "rank": 16,
+            "army": "Thousand Sons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 11,
+        "totalRank": 65,
+        "averageRank": "16.3",
+        "dtcScore": "276.27",
+        "hobbyScore": "0.00",
+        "rank": 16
+      },
+      {
         "userId": "cLWiXebqAH",
         "name": "Felix Brenninkmeijer",
         "numEvents": 5,
@@ -2156,7 +2444,7 @@
         "averageRank": "11.6",
         "dtcScore": "269.62",
         "hobbyScore": "0.00",
-        "rank": 15
+        "rank": 17
       },
       {
         "userId": "95WJH9Q3KL",
@@ -2241,7 +2529,7 @@
         "averageRank": "6.3",
         "dtcScore": "267.68",
         "hobbyScore": "0.00",
-        "rank": 16
+        "rank": 18
       },
       {
         "userId": "11UVudMFZ4",
@@ -2333,7 +2621,7 @@
         "averageRank": "4.7",
         "dtcScore": "240.76",
         "hobbyScore": "0.00",
-        "rank": 17
+        "rank": 19
       },
       {
         "userId": "Ci8drOUGlg",
@@ -2432,97 +2720,7 @@
         "averageRank": "6.3",
         "dtcScore": "232.94",
         "hobbyScore": "0.00",
-        "rank": 18
-      },
-      {
-        "userId": "xZAjITtY6bSb",
-        "name": "Tom Veenvliet",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 2,
-            "score": 157.04,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.35"
-              },
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "99.69"
-              }
-            ]
-          },
-          {
-            "name": "Thousand Sons",
-            "count": 1,
-            "score": 72.98,
-            "events": [
-              {
-                "name": "The Phoenix GT: End of Summer Showdown",
-                "eventId": "dxdECTvyLgQH",
-                "numberOfRounds": 5,
-                "eventDtcScore": "72.98"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "GnS",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "99.69",
-            "eventHobbyScore": "0.00",
-            "userId": "xZAjITtY6bSb",
-            "rank": 10,
-            "army": "Space Marines (Astartes)",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT: End of Summer Showdown",
-            "eventId": "dxdECTvyLgQH",
-            "numberOfRounds": 5,
-            "eventDtcScore": "72.98",
-            "eventHobbyScore": "0.00",
-            "userId": "xZAjITtY6bSb",
-            "rank": 29,
-            "army": "Thousand Sons",
-            "team": "GnS",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "57.35",
-            "eventHobbyScore": "0.00",
-            "userId": "xZAjITtY6bSb",
-            "rank": 10,
-            "army": "Adeptus Astartes",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 9,
-        "totalRank": 49,
-        "averageRank": "16.3",
-        "dtcScore": "230.02",
-        "hobbyScore": "0.00",
-        "rank": 19
+        "rank": 20
       },
       {
         "userId": "C8SUIfF8Ar",
@@ -2633,7 +2831,7 @@
         "averageRank": "22.3",
         "dtcScore": "218.96",
         "hobbyScore": "1.00",
-        "rank": 20
+        "rank": 21
       },
       {
         "userId": "cN77fl1hWy",
@@ -2737,49 +2935,50 @@
         "averageRank": "11.5",
         "dtcScore": "218.91",
         "hobbyScore": "2.00",
-        "rank": 21
+        "rank": 22
       },
       {
-        "userId": "1G90AYL6C0",
-        "name": "Sjoerd Reiche",
-        "numEvents": 4,
+        "userId": "2TNG4LQGY1",
+        "name": "Stephan van der Vuurst",
+        "numEvents": 3,
         "armies": [
           {
-            "name": "Dark Angels",
-            "count": 4,
-            "score": 214.43,
+            "name": "Leagues of Votann",
+            "count": 2,
+            "score": 123.05,
             "events": [
               {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
                 "numberOfRounds": 3,
-                "eventDtcScore": "33.18"
+                "eventDtcScore": "65.70"
               },
               {
-                "name": "Wardice RTT Alpha",
-                "eventId": "tRPqURXNCppX",
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
                 "numberOfRounds": 3,
-                "eventDtcScore": "36.00"
-              },
+                "eventDtcScore": "57.35"
+              }
+            ]
+          },
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 92.3,
+            "events": [
               {
                 "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
                 "eventId": "v8uZ5pThBjTK",
                 "numberOfRounds": 5,
-                "eventDtcScore": "84.92"
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "60.33"
+                "eventDtcScore": "92.30"
               }
             ]
           }
         ],
         "teams": [
           {
-            "name": "Lost legion wargaming",
-            "count": 4
+            "name": "Thomas' Angels",
+            "count": 3
           }
         ],
         "events": [
@@ -2787,61 +2986,48 @@
             "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
             "eventId": "v8uZ5pThBjTK",
             "numberOfRounds": 5,
-            "eventDtcScore": "84.92",
+            "eventDtcScore": "92.30",
             "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
-            "rank": 18,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "60.33",
-            "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
-            "rank": 5,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Wardice RTT Alpha",
-            "eventId": "tRPqURXNCppX",
-            "numberOfRounds": 3,
-            "eventDtcScore": "36.00",
-            "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
-            "rank": 11,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "33.18",
-            "eventHobbyScore": "0.00",
-            "userId": "1G90AYL6C0",
+            "userId": "2TNG4LQGY1",
             "rank": 14,
-            "army": "Dark Angels",
-            "team": "Lost legion wargaming",
+            "army": "Astra Militarum",
+            "team": "Thomas' Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "65.70",
+            "eventHobbyScore": "0.00",
+            "userId": "2TNG4LQGY1",
+            "rank": 4,
+            "army": "Leagues of Votann",
+            "team": "Thomas' Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.35",
+            "eventHobbyScore": "0.00",
+            "userId": "2TNG4LQGY1",
+            "rank": 10,
+            "army": "Leagues of Votann",
+            "team": "Thomas' Angels",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 7,
-        "totalRank": 48,
-        "averageRank": "12.0",
-        "dtcScore": "214.43",
+        "totalRank": 28,
+        "averageRank": "9.3",
+        "dtcScore": "215.35",
         "hobbyScore": "0.00",
-        "rank": 22
+        "rank": 23
       },
       {
         "userId": "ePEddcE1nWbt",
@@ -2925,7 +3111,7 @@
         "averageRank": "12.0",
         "dtcScore": "203.80",
         "hobbyScore": "0.00",
-        "rank": 23
+        "rank": 24
       },
       {
         "userId": "FaF3dECqaz",
@@ -3010,7 +3196,7 @@
         "averageRank": "11.0",
         "dtcScore": "203.19",
         "hobbyScore": "0.00",
-        "rank": 24
+        "rank": 25
       },
       {
         "userId": "5U542FLB8K",
@@ -3121,7 +3307,152 @@
         "averageRank": "21.3",
         "dtcScore": "202.45",
         "hobbyScore": "1.00",
-        "rank": 25
+        "rank": 26
+      },
+      {
+        "userId": "oPYw7BAg15",
+        "name": "Guus van den Berg",
+        "numEvents": 6,
+        "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 2,
+            "score": 87.6,
+            "events": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.13"
+              },
+              {
+                "name": "Sieze of Cerberax",
+                "eventId": "hG0m9IF1u0SD",
+                "numberOfRounds": 3,
+                "eventDtcScore": "19.47"
+              }
+            ]
+          },
+          {
+            "name": "Astra Militarum",
+            "count": 2,
+            "score": 44.39,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "40.70"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "3.69"
+              }
+            ]
+          },
+          {
+            "name": "Adeptus Mechanicus",
+            "count": 2,
+            "score": 69.27,
+            "events": [
+              {
+                "name": "The Phoenix GT: End of Summer Showdown",
+                "eventId": "dxdECTvyLgQH",
+                "numberOfRounds": 5,
+                "eventDtcScore": "50.77"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "18.50"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.13",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 3,
+            "army": "Blood Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT: End of Summer Showdown",
+            "eventId": "dxdECTvyLgQH",
+            "numberOfRounds": 5,
+            "eventDtcScore": "50.77",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 43,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "40.70",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 19,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Sieze of Cerberax",
+            "eventId": "hG0m9IF1u0SD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "19.47",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 23,
+            "army": "Blood Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "18.50",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 31,
+            "army": "Adeptus Mechanicus",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "3.69",
+            "eventHobbyScore": "0.00",
+            "userId": "oPYw7BAg15",
+            "rank": 62,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 9,
+        "totalRank": 181,
+        "averageRank": "30.2",
+        "dtcScore": "201.26",
+        "hobbyScore": "0.00",
+        "rank": 27
       },
       {
         "userId": "xETp9m3OZ7ya",
@@ -3225,7 +3556,7 @@
         "averageRank": "24.8",
         "dtcScore": "196.96",
         "hobbyScore": "0.00",
-        "rank": 26
+        "rank": 28
       },
       {
         "userId": "Db1AWQwcg6",
@@ -3317,7 +3648,7 @@
         "averageRank": "11.7",
         "dtcScore": "194.30",
         "hobbyScore": "0.00",
-        "rank": 27
+        "rank": 29
       },
       {
         "userId": "R3QG70jgwM",
@@ -3402,7 +3733,7 @@
         "averageRank": "9.0",
         "dtcScore": "192.79",
         "hobbyScore": "0.00",
-        "rank": 28
+        "rank": 30
       },
       {
         "userId": "DKVE6UYJPR",
@@ -3487,7 +3818,7 @@
         "averageRank": "10.3",
         "dtcScore": "185.81",
         "hobbyScore": "0.00",
-        "rank": 29
+        "rank": 31
       },
       {
         "userId": "doASAKgaUX",
@@ -3553,100 +3884,82 @@
         "averageRank": "3.5",
         "dtcScore": "183.47",
         "hobbyScore": "0.00",
-        "rank": 30
+        "rank": 32
       },
       {
-        "userId": "oPYw7BAg15",
-        "name": "Guus van den Berg",
-        "numEvents": 5,
+        "userId": "vCUvmVLvsl",
+        "name": "Roel van Broekhoven",
+        "numEvents": 4,
         "armies": [
           {
-            "name": "Blood Angels",
+            "name": "Chaos Daemons",
             "count": 2,
-            "score": 87.6,
+            "score": 94.9,
             "events": [
               {
                 "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
                 "eventId": "88OpQWEdwuFA",
                 "numberOfRounds": 3,
-                "eventDtcScore": "68.13"
+                "eventDtcScore": "53.53"
               },
               {
                 "name": "Sieze of Cerberax",
                 "eventId": "hG0m9IF1u0SD",
                 "numberOfRounds": 3,
-                "eventDtcScore": "19.47"
+                "eventDtcScore": "41.37"
               }
             ]
           },
           {
-            "name": "Astra Militarum",
+            "name": "World Eaters",
             "count": 2,
-            "score": 44.39,
+            "score": 86.95,
             "events": [
               {
                 "name": "[OE:S] Spring 2026",
                 "eventId": "PpOl7zG0Z8Hc",
                 "numberOfRounds": 3,
-                "eventDtcScore": "40.70"
+                "eventDtcScore": "27.75"
               },
               {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "3.69"
-              }
-            ]
-          },
-          {
-            "name": "Adeptus Mechanicus",
-            "count": 1,
-            "score": 50.77,
-            "events": [
-              {
-                "name": "The Phoenix GT: End of Summer Showdown",
-                "eventId": "dxdECTvyLgQH",
-                "numberOfRounds": 5,
-                "eventDtcScore": "50.77"
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "59.20"
               }
             ]
           }
         ],
-        "teams": [],
+        "teams": [
+          {
+            "name": "Het Brabantsche Krijgsspellengilde",
+            "count": 4
+          }
+        ],
         "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "59.20",
+            "eventHobbyScore": "0.00",
+            "userId": "vCUvmVLvsl",
+            "rank": 9,
+            "army": "World Eaters",
+            "team": "Het Brabantsche Krijgsspellengilde",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
           {
             "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
             "eventId": "88OpQWEdwuFA",
             "numberOfRounds": 3,
-            "eventDtcScore": "68.13",
+            "eventDtcScore": "53.53",
             "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 3,
-            "army": "Blood Angels",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT: End of Summer Showdown",
-            "eventId": "dxdECTvyLgQH",
-            "numberOfRounds": 5,
-            "eventDtcScore": "50.77",
-            "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 43,
-            "army": "Adeptus Mechanicus",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "40.70",
-            "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 19,
-            "army": "Astra Militarum",
+            "userId": "vCUvmVLvsl",
+            "rank": 9,
+            "army": "Chaos Daemons",
+            "team": "Het Brabantsche Krijgsspellengilde",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
@@ -3654,33 +3967,35 @@
             "name": "Sieze of Cerberax",
             "eventId": "hG0m9IF1u0SD",
             "numberOfRounds": 3,
-            "eventDtcScore": "19.47",
+            "eventDtcScore": "41.37",
             "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 23,
-            "army": "Blood Angels",
+            "userId": "vCUvmVLvsl",
+            "rank": 14,
+            "army": "Chaos Daemons",
+            "team": "Het Brabantsche Krijgsspellengilde",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           },
           {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "3.69",
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "27.75",
             "eventHobbyScore": "0.00",
-            "userId": "oPYw7BAg15",
-            "rank": 62,
-            "army": "Astra Militarum",
+            "userId": "vCUvmVLvsl",
+            "rank": 26,
+            "army": "World Eaters",
+            "team": "Het Brabantsche Krijgsspellengilde",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
-        "numWins": 8,
-        "totalRank": 150,
-        "averageRank": "30.0",
-        "dtcScore": "182.76",
+        "numWins": 7,
+        "totalRank": 58,
+        "averageRank": "14.5",
+        "dtcScore": "181.85",
         "hobbyScore": "0.00",
-        "rank": 31
+        "rank": 33
       },
       {
         "userId": "0UVKqPRi1x",
@@ -3772,7 +4087,7 @@
         "averageRank": "4.3",
         "dtcScore": "180.92",
         "hobbyScore": "0.00",
-        "rank": 32
+        "rank": 34
       },
       {
         "userId": "THLUWFDF7D",
@@ -3838,7 +4153,7 @@
         "averageRank": "19.0",
         "dtcScore": "173.73",
         "hobbyScore": "1.00",
-        "rank": 33
+        "rank": 35
       },
       {
         "userId": "4FUCUA3GN5",
@@ -3904,7 +4219,7 @@
         "averageRank": "4.0",
         "dtcScore": "171.96",
         "hobbyScore": "0.00",
-        "rank": 34
+        "rank": 36
       },
       {
         "userId": "8H4TWK6ABJ",
@@ -3977,80 +4292,7 @@
         "averageRank": "7.0",
         "dtcScore": "168.35",
         "hobbyScore": "0.00",
-        "rank": 35
-      },
-      {
-        "userId": "2TNG4LQGY1",
-        "name": "Stephan van der Vuurst",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Leagues of Votann",
-            "count": 1,
-            "score": 65.7,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "65.70"
-              }
-            ]
-          },
-          {
-            "name": "Astra Militarum",
-            "count": 1,
-            "score": 92.3,
-            "events": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "92.30"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Thomas' Angels",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "92.30",
-            "eventHobbyScore": "0.00",
-            "userId": "2TNG4LQGY1",
-            "rank": 14,
-            "army": "Astra Militarum",
-            "team": "Thomas' Angels",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "65.70",
-            "eventHobbyScore": "0.00",
-            "userId": "2TNG4LQGY1",
-            "rank": 4,
-            "army": "Leagues of Votann",
-            "team": "Thomas' Angels",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 5,
-        "totalRank": 18,
-        "averageRank": "9.0",
-        "dtcScore": "158.00",
-        "hobbyScore": "0.00",
-        "rank": 36
+        "rank": 37
       },
       {
         "userId": "Qarz0SmAlAEW",
@@ -4135,7 +4377,7 @@
         "averageRank": "11.3",
         "dtcScore": "155.90",
         "hobbyScore": "0.00",
-        "rank": 37
+        "rank": 38
       },
       {
         "userId": "49mGOxqycs",
@@ -4227,7 +4469,311 @@
         "averageRank": "17.7",
         "dtcScore": "154.41",
         "hobbyScore": "3.00",
-        "rank": 38
+        "rank": 39
+      },
+      {
+        "userId": "1YBzQ7IxGR",
+        "name": "Chiel de Groen",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Imperial Knights",
+            "count": 5,
+            "score": 151.39,
+            "events": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "34.07"
+              },
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.70"
+              },
+              {
+                "name": "The Phoenix GT: End of Summer Showdown",
+                "eventId": "dxdECTvyLgQH",
+                "numberOfRounds": 5,
+                "eventDtcScore": "39.66"
+              },
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "18.46"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.50"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Rose Valley Reapers",
+            "count": 5
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "55.50",
+            "eventHobbyScore": "0.00",
+            "userId": "1YBzQ7IxGR",
+            "rank": 11,
+            "army": "Imperial Knights",
+            "team": "Rose Valley Reapers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT: End of Summer Showdown",
+            "eventId": "dxdECTvyLgQH",
+            "numberOfRounds": 5,
+            "eventDtcScore": "39.66",
+            "eventHobbyScore": "0.00",
+            "userId": "1YBzQ7IxGR",
+            "rank": 50,
+            "army": "Imperial Knights",
+            "team": "Rose Valley Reapers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "34.07",
+            "eventHobbyScore": "0.00",
+            "userId": "1YBzQ7IxGR",
+            "rank": 17,
+            "army": "Imperial Knights",
+            "team": "Rose Valley Reapers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "18.46",
+            "eventHobbyScore": "0.00",
+            "userId": "1YBzQ7IxGR",
+            "rank": 54,
+            "army": "Imperial Knights",
+            "team": "Rose Valley Reapers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "3.70",
+            "eventHobbyScore": "0.00",
+            "userId": "1YBzQ7IxGR",
+            "rank": 39,
+            "army": "Imperial Knights",
+            "team": "Rose Valley Reapers",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 6.5,
+        "totalRank": 171,
+        "averageRank": "34.2",
+        "dtcScore": "151.39",
+        "hobbyScore": "0.00",
+        "rank": 40
+      },
+      {
+        "userId": "LMks8noh2u",
+        "name": "Freek Manz",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Emperor's Children",
+            "count": 2,
+            "score": 93.07,
+            "events": [
+              {
+                "name": "Sieze of Cerberax",
+                "eventId": "hG0m9IF1u0SD",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.67"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "44.40"
+              }
+            ]
+          },
+          {
+            "name": "T'au Empire",
+            "count": 1,
+            "score": 55.5,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "55.50"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "hired guns",
+            "count": 2
+          },
+          {
+            "name": "Xenotech",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "55.50",
+            "eventHobbyScore": "0.00",
+            "userId": "LMks8noh2u",
+            "rank": 11,
+            "army": "T'au Empire",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Sieze of Cerberax",
+            "eventId": "hG0m9IF1u0SD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "48.67",
+            "eventHobbyScore": "0.00",
+            "userId": "LMks8noh2u",
+            "rank": 11,
+            "army": "Emperor's Children",
+            "team": "Xenotech",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "44.40",
+            "eventHobbyScore": "0.00",
+            "userId": "LMks8noh2u",
+            "rank": 17,
+            "army": "Emperor's Children",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 6,
+        "totalRank": 39,
+        "averageRank": "13.0",
+        "dtcScore": "148.57",
+        "hobbyScore": "0.00",
+        "rank": 41
+      },
+      {
+        "userId": "AW84laYLqt",
+        "name": "Sem Stam",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 3,
+            "score": 147.48,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.75"
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.28"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "31.45"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "64.75",
+            "eventHobbyScore": "0.00",
+            "userId": "AW84laYLqt",
+            "rank": 6,
+            "army": "Adeptus Astartes",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "51.28",
+            "eventHobbyScore": "0.00",
+            "userId": "AW84laYLqt",
+            "rank": 8,
+            "army": "Space Marines (Astartes)",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "31.45",
+            "eventHobbyScore": "0.00",
+            "userId": "AW84laYLqt",
+            "rank": 24,
+            "army": "Space Marines (Astartes)",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 5,
+        "totalRank": 38,
+        "averageRank": "12.7",
+        "dtcScore": "147.48",
+        "hobbyScore": "0.00",
+        "rank": 42
       },
       {
         "userId": "N5EBDV4EXR",
@@ -4293,7 +4839,208 @@
         "averageRank": "11.5",
         "dtcScore": "146.02",
         "hobbyScore": "5.00",
-        "rank": 39
+        "rank": 43
+      },
+      {
+        "userId": "ycayO2BvU5",
+        "name": "Ynze H",
+        "numEvents": 4,
+        "armies": [
+          {
+            "name": "Space Wolves",
+            "count": 2,
+            "score": 60.34,
+            "events": [
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "57.32"
+              },
+              {
+                "name": "Feast of Blades February 2026",
+                "eventId": "vIZ2MxcYRQC7",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.02"
+              }
+            ]
+          },
+          {
+            "name": "Orks",
+            "count": 2,
+            "score": 83.17,
+            "events": [
+              {
+                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+                "eventId": "v8uZ5pThBjTK",
+                "numberOfRounds": 5,
+                "eventDtcScore": "35.07"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "48.10"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Lost legion wargaming",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "57.32",
+            "eventHobbyScore": "0.00",
+            "userId": "ycayO2BvU5",
+            "rank": 6,
+            "army": "Space Wolves",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "48.10",
+            "eventHobbyScore": "0.00",
+            "userId": "ycayO2BvU5",
+            "rank": 15,
+            "army": "Orks",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
+            "eventId": "v8uZ5pThBjTK",
+            "numberOfRounds": 5,
+            "eventDtcScore": "35.07",
+            "eventHobbyScore": "0.00",
+            "userId": "ycayO2BvU5",
+            "rank": 45,
+            "army": "Orks",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Feast of Blades February 2026",
+            "eventId": "vIZ2MxcYRQC7",
+            "numberOfRounds": 3,
+            "eventDtcScore": "3.02",
+            "eventHobbyScore": "0.00",
+            "userId": "ycayO2BvU5",
+            "rank": 24,
+            "army": "Space Wolves",
+            "team": "Lost legion wargaming",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 6,
+        "totalRank": 90,
+        "averageRank": "22.5",
+        "dtcScore": "143.51",
+        "hobbyScore": "0.00",
+        "rank": 44
+      },
+      {
+        "userId": "4AGGGY8HE1",
+        "name": "Thomas Cheylus",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Genestealer Cult",
+            "count": 2,
+            "score": 101.05,
+            "events": [
+              {
+                "name": "Sieze of Cerberax",
+                "eventId": "hG0m9IF1u0SD",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.10"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "49.95"
+              }
+            ]
+          },
+          {
+            "name": "Dark Angels",
+            "count": 1,
+            "score": 38.93,
+            "events": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "38.93"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Turbo wargaming club",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "Sieze of Cerberax",
+            "eventId": "hG0m9IF1u0SD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "51.10",
+            "eventHobbyScore": "0.00",
+            "userId": "4AGGGY8HE1",
+            "rank": 10,
+            "army": "Genestealer Cult",
+            "team": "Turbo wargaming club",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "49.95",
+            "eventHobbyScore": "0.00",
+            "userId": "4AGGGY8HE1",
+            "rank": 14,
+            "army": "Genestealer Cult",
+            "team": "Turbo wargaming club",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "38.93",
+            "eventHobbyScore": "0.00",
+            "userId": "4AGGGY8HE1",
+            "rank": 15,
+            "army": "Dark Angels",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 5.5,
+        "totalRank": 39,
+        "averageRank": "13.0",
+        "dtcScore": "139.98",
+        "hobbyScore": "0.00",
+        "rank": 45
       },
       {
         "userId": "FIvWHCGzmv",
@@ -4397,7 +5144,7 @@
         "averageRank": "19.8",
         "dtcScore": "138.70",
         "hobbyScore": "0.00",
-        "rank": 40
+        "rank": 46
       },
       {
         "userId": "HvCXqti2yiAt",
@@ -4508,7 +5255,7 @@
         "averageRank": "32.3",
         "dtcScore": "137.94",
         "hobbyScore": "0.00",
-        "rank": 41
+        "rank": 47
       },
       {
         "userId": "HiGJBbpMGm",
@@ -4585,7 +5332,80 @@
         "averageRank": "29.5",
         "dtcScore": "136.00",
         "hobbyScore": "0.00",
-        "rank": 42
+        "rank": 48
+      },
+      {
+        "userId": "7W945WFPKN",
+        "name": "Quinten Janssen",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "World Eaters",
+            "count": 1,
+            "score": 68.45,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "68.45"
+              }
+            ]
+          },
+          {
+            "name": "Adeptus Custodes",
+            "count": 1,
+            "score": 66.6,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "66.60"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "68.45",
+            "eventHobbyScore": "0.00",
+            "userId": "7W945WFPKN",
+            "rank": 4,
+            "army": "World Eaters",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "66.60",
+            "eventHobbyScore": "0.00",
+            "userId": "7W945WFPKN",
+            "rank": 5,
+            "army": "Adeptus Custodes",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 6,
+        "totalRank": 9,
+        "averageRank": "4.5",
+        "dtcScore": "135.05",
+        "hobbyScore": "0.00",
+        "rank": 49
       },
       {
         "userId": "GD6Y8KEL1W",
@@ -4658,7 +5478,7 @@
         "averageRank": "30.5",
         "dtcScore": "133.35",
         "hobbyScore": "0.00",
-        "rank": 43
+        "rank": 50
       },
       {
         "userId": "QLopEGzWuA",
@@ -4724,7 +5544,7 @@
         "averageRank": "15.0",
         "dtcScore": "133.31",
         "hobbyScore": "0.00",
-        "rank": 44
+        "rank": 51
       },
       {
         "userId": "130175QC7A",
@@ -4794,7 +5614,7 @@
         "averageRank": "31.0",
         "dtcScore": "133.06",
         "hobbyScore": "0.00",
-        "rank": 45
+        "rank": 52
       },
       {
         "userId": "uJ4B4cQMIthi",
@@ -4860,7 +5680,7 @@
         "averageRank": "3.0",
         "dtcScore": "131.73",
         "hobbyScore": "0.00",
-        "rank": 46
+        "rank": 53
       },
       {
         "userId": "T9MWUD5W51",
@@ -4945,99 +5765,7 @@
         "averageRank": "20.7",
         "dtcScore": "123.07",
         "hobbyScore": "0.00",
-        "rank": 47
-      },
-      {
-        "userId": "vCUvmVLvsl",
-        "name": "Roel van Broekhoven",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Chaos Daemons",
-            "count": 2,
-            "score": 94.9,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "53.53"
-              },
-              {
-                "name": "Sieze of Cerberax",
-                "eventId": "hG0m9IF1u0SD",
-                "numberOfRounds": 3,
-                "eventDtcScore": "41.37"
-              }
-            ]
-          },
-          {
-            "name": "World Eaters",
-            "count": 1,
-            "score": 27.75,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "27.75"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Het Brabantsche Krijgsspellengilde",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "53.53",
-            "eventHobbyScore": "0.00",
-            "userId": "vCUvmVLvsl",
-            "rank": 9,
-            "army": "Chaos Daemons",
-            "team": "Het Brabantsche Krijgsspellengilde",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Sieze of Cerberax",
-            "eventId": "hG0m9IF1u0SD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "41.37",
-            "eventHobbyScore": "0.00",
-            "userId": "vCUvmVLvsl",
-            "rank": 14,
-            "army": "Chaos Daemons",
-            "team": "Het Brabantsche Krijgsspellengilde",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "27.75",
-            "eventHobbyScore": "0.00",
-            "userId": "vCUvmVLvsl",
-            "rank": 26,
-            "army": "World Eaters",
-            "team": "Het Brabantsche Krijgsspellengilde",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 5,
-        "totalRank": 49,
-        "averageRank": "16.3",
-        "dtcScore": "122.65",
-        "hobbyScore": "0.00",
-        "rank": 48
+        "rank": 54
       },
       {
         "userId": "1MqrA0sGvi",
@@ -5110,7 +5838,7 @@
         "averageRank": "8.5",
         "dtcScore": "122.21",
         "hobbyScore": "0.00",
-        "rank": 49
+        "rank": 55
       },
       {
         "userId": "JDG8B8A1RU",
@@ -5176,7 +5904,80 @@
         "averageRank": "18.0",
         "dtcScore": "121.36",
         "hobbyScore": "0.00",
-        "rank": 50
+        "rank": 56
+      },
+      {
+        "userId": "qMHEyRqDHV",
+        "name": "Youri Ommering",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Drukhari",
+            "count": 1,
+            "score": 53.65,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "53.65"
+              }
+            ]
+          },
+          {
+            "name": "Space Wolves",
+            "count": 1,
+            "score": 64.75,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "64.75"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "64.75",
+            "eventHobbyScore": "0.00",
+            "userId": "qMHEyRqDHV",
+            "rank": 6,
+            "army": "Space Wolves",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "53.65",
+            "eventHobbyScore": "0.00",
+            "userId": "qMHEyRqDHV",
+            "rank": 12,
+            "army": "Drukhari",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 4,
+        "totalRank": 18,
+        "averageRank": "9.0",
+        "dtcScore": "118.40",
+        "hobbyScore": "0.00",
+        "rank": 57
       },
       {
         "userId": "SBFtCy8keB",
@@ -5223,7 +6024,7 @@
         "averageRank": 1,
         "dtcScore": "117.40",
         "hobbyScore": "0.00",
-        "rank": 51
+        "rank": 58
       },
       {
         "userId": "TTHLvVdjoj",
@@ -5315,7 +6116,7 @@
         "averageRank": "20.7",
         "dtcScore": "117.16",
         "hobbyScore": "0.00",
-        "rank": 52
+        "rank": 59
       },
       {
         "userId": "GEO8V7cAbw",
@@ -5388,73 +6189,7 @@
         "averageRank": "19.5",
         "dtcScore": "116.88",
         "hobbyScore": "1.00",
-        "rank": 53
-      },
-      {
-        "userId": "AW84laYLqt",
-        "name": "Sem Stam",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 2,
-            "score": 116.03,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "64.75"
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "51.28"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Order of Ones",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "64.75",
-            "eventHobbyScore": "0.00",
-            "userId": "AW84laYLqt",
-            "rank": 6,
-            "army": "Adeptus Astartes",
-            "team": "Order of Ones",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "51.28",
-            "eventHobbyScore": "0.00",
-            "userId": "AW84laYLqt",
-            "rank": 8,
-            "army": "Space Marines (Astartes)",
-            "team": "Order of Ones",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4,
-        "totalRank": 14,
-        "averageRank": "7.0",
-        "dtcScore": "116.03",
-        "hobbyScore": "0.00",
-        "rank": 54
+        "rank": 60
       },
       {
         "userId": "HUEBZN6I1M",
@@ -5531,7 +6266,7 @@
         "averageRank": "17.0",
         "dtcScore": "114.28",
         "hobbyScore": "0.00",
-        "rank": 55
+        "rank": 61
       },
       {
         "userId": "ZLXXMQQ1ZAyf",
@@ -5578,7 +6313,7 @@
         "averageRank": 3,
         "dtcScore": "114.23",
         "hobbyScore": "0.00",
-        "rank": 56
+        "rank": 62
       },
       {
         "userId": "NYLcU6mpnw",
@@ -5651,7 +6386,7 @@
         "averageRank": "6.5",
         "dtcScore": "111.42",
         "hobbyScore": "0.00",
-        "rank": 57
+        "rank": 63
       },
       {
         "userId": "EFGlcAOVfc",
@@ -5743,7 +6478,7 @@
         "averageRank": "23.7",
         "dtcScore": "109.98",
         "hobbyScore": "0.00",
-        "rank": 58
+        "rank": 64
       },
       {
         "userId": "sdjXWgUjur",
@@ -5813,7 +6548,7 @@
         "averageRank": "17.0",
         "dtcScore": "108.18",
         "hobbyScore": "0.00",
-        "rank": 59
+        "rank": 65
       },
       {
         "userId": "H8Y33Q194W",
@@ -5879,7 +6614,7 @@
         "averageRank": "39.0",
         "dtcScore": "106.64",
         "hobbyScore": "0.00",
-        "rank": 60
+        "rank": 66
       },
       {
         "userId": "XQJT0K78EQ",
@@ -5964,7 +6699,7 @@
         "averageRank": "16.7",
         "dtcScore": "106.21",
         "hobbyScore": "0.00",
-        "rank": 61
+        "rank": 67
       },
       {
         "userId": "5H0KJX3TLC",
@@ -6054,7 +6789,7 @@
         "averageRank": "22.3",
         "dtcScore": "105.18",
         "hobbyScore": "0.00",
-        "rank": 62
+        "rank": 68
       },
       {
         "userId": "D82YxsnAC8",
@@ -6101,84 +6836,7 @@
         "averageRank": 9,
         "dtcScore": "104.71",
         "hobbyScore": "0.00",
-        "rank": 63
-      },
-      {
-        "userId": "LMks8noh2u",
-        "name": "Freek Manz",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "T'au Empire",
-            "count": 1,
-            "score": 55.5,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "55.50"
-              }
-            ]
-          },
-          {
-            "name": "Emperor's Children",
-            "count": 1,
-            "score": 48.67,
-            "events": [
-              {
-                "name": "Sieze of Cerberax",
-                "eventId": "hG0m9IF1u0SD",
-                "numberOfRounds": 3,
-                "eventDtcScore": "48.67"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "hired guns",
-            "count": 1
-          },
-          {
-            "name": "Xenotech",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "55.50",
-            "eventHobbyScore": "0.00",
-            "userId": "LMks8noh2u",
-            "rank": 11,
-            "army": "T'au Empire",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Sieze of Cerberax",
-            "eventId": "hG0m9IF1u0SD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "48.67",
-            "eventHobbyScore": "0.00",
-            "userId": "LMks8noh2u",
-            "rank": 11,
-            "army": "Emperor's Children",
-            "team": "Xenotech",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4,
-        "totalRank": 22,
-        "averageRank": "11.0",
-        "dtcScore": "104.17",
-        "hobbyScore": "0.00",
-        "rank": 64
+        "rank": 69
       },
       {
         "userId": "8P1UT3FAYG",
@@ -6244,7 +6902,7 @@
         "averageRank": "28.0",
         "dtcScore": "103.62",
         "hobbyScore": "0.00",
-        "rank": 65
+        "rank": 70
       },
       {
         "userId": "MTT5A81BT9",
@@ -6291,7 +6949,7 @@
         "averageRank": 11,
         "dtcScore": "97.84",
         "hobbyScore": "0.00",
-        "rank": 66
+        "rank": 71
       },
       {
         "userId": "4PAUSb3Quz",
@@ -6357,7 +7015,7 @@
         "averageRank": "24.0",
         "dtcScore": "96.29",
         "hobbyScore": "0.00",
-        "rank": 67
+        "rank": 72
       },
       {
         "userId": "ZoQONOoHjqCR",
@@ -6480,203 +7138,7 @@
         "averageRank": "34.0",
         "dtcScore": "96.11",
         "hobbyScore": "0.00",
-        "rank": 68
-      },
-      {
-        "userId": "1YBzQ7IxGR",
-        "name": "Chiel de Groen",
-        "numEvents": 4,
-        "armies": [
-          {
-            "name": "Imperial Knights",
-            "count": 4,
-            "score": 95.89,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "34.07"
-              },
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "3.70"
-              },
-              {
-                "name": "The Phoenix GT: End of Summer Showdown",
-                "eventId": "dxdECTvyLgQH",
-                "numberOfRounds": 5,
-                "eventDtcScore": "39.66"
-              },
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "18.46"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Rose Valley Reapers",
-            "count": 4
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT: End of Summer Showdown",
-            "eventId": "dxdECTvyLgQH",
-            "numberOfRounds": 5,
-            "eventDtcScore": "39.66",
-            "eventHobbyScore": "0.00",
-            "userId": "1YBzQ7IxGR",
-            "rank": 50,
-            "army": "Imperial Knights",
-            "team": "Rose Valley Reapers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "34.07",
-            "eventHobbyScore": "0.00",
-            "userId": "1YBzQ7IxGR",
-            "rank": 17,
-            "army": "Imperial Knights",
-            "team": "Rose Valley Reapers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "18.46",
-            "eventHobbyScore": "0.00",
-            "userId": "1YBzQ7IxGR",
-            "rank": 54,
-            "army": "Imperial Knights",
-            "team": "Rose Valley Reapers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "3.70",
-            "eventHobbyScore": "0.00",
-            "userId": "1YBzQ7IxGR",
-            "rank": 39,
-            "army": "Imperial Knights",
-            "team": "Rose Valley Reapers",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4.5,
-        "totalRank": 160,
-        "averageRank": "40.0",
-        "dtcScore": "95.89",
-        "hobbyScore": "0.00",
-        "rank": 69
-      },
-      {
-        "userId": "ycayO2BvU5",
-        "name": "Ynze H",
-        "numEvents": 3,
-        "armies": [
-          {
-            "name": "Space Wolves",
-            "count": 2,
-            "score": 60.34,
-            "events": [
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "57.32"
-              },
-              {
-                "name": "Feast of Blades February 2026",
-                "eventId": "vIZ2MxcYRQC7",
-                "numberOfRounds": 3,
-                "eventDtcScore": "3.02"
-              }
-            ]
-          },
-          {
-            "name": "Orks",
-            "count": 1,
-            "score": 35.07,
-            "events": [
-              {
-                "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-                "eventId": "v8uZ5pThBjTK",
-                "numberOfRounds": 5,
-                "eventDtcScore": "35.07"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Lost legion wargaming",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "57.32",
-            "eventHobbyScore": "0.00",
-            "userId": "ycayO2BvU5",
-            "rank": 6,
-            "army": "Space Wolves",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "The Phoenix GT 2026 – Warhammer 40K Grand Tournament",
-            "eventId": "v8uZ5pThBjTK",
-            "numberOfRounds": 5,
-            "eventDtcScore": "35.07",
-            "eventHobbyScore": "0.00",
-            "userId": "ycayO2BvU5",
-            "rank": 45,
-            "army": "Orks",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Feast of Blades February 2026",
-            "eventId": "vIZ2MxcYRQC7",
-            "numberOfRounds": 3,
-            "eventDtcScore": "3.02",
-            "eventHobbyScore": "0.00",
-            "userId": "ycayO2BvU5",
-            "rank": 24,
-            "army": "Space Wolves",
-            "team": "Lost legion wargaming",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 4,
-        "totalRank": 75,
-        "averageRank": "25.0",
-        "dtcScore": "95.41",
-        "hobbyScore": "0.00",
-        "rank": 70
+        "rank": 73
       },
       {
         "userId": "GLD52F7LC5",
@@ -6749,7 +7211,7 @@
         "averageRank": "9.0",
         "dtcScore": "95.40",
         "hobbyScore": "0.00",
-        "rank": 71
+        "rank": 74
       },
       {
         "userId": "taF4FcGA4u",
@@ -6814,7 +7276,7 @@
         "averageRank": "11.5",
         "dtcScore": "94.90",
         "hobbyScore": "0.00",
-        "rank": 72
+        "rank": 75
       },
       {
         "userId": "Y75Q1CTNCW",
@@ -6880,7 +7342,7 @@
         "averageRank": "9.0",
         "dtcScore": "94.74",
         "hobbyScore": "1.00",
-        "rank": 73
+        "rank": 76
       },
       {
         "userId": "X6LEWT1FD9",
@@ -6972,7 +7434,7 @@
         "averageRank": "13.7",
         "dtcScore": "94.32",
         "hobbyScore": "0.00",
-        "rank": 74
+        "rank": 77
       },
       {
         "userId": "22WHE2VNLG",
@@ -7038,7 +7500,129 @@
         "averageRank": "25.5",
         "dtcScore": "92.58",
         "hobbyScore": "6.00",
-        "rank": 75
+        "rank": 78
+      },
+      {
+        "userId": "qhGBzx4W2Wk9",
+        "name": "Nick Vinke",
+        "numEvents": 5,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 5,
+            "score": 90.63,
+            "events": [
+              {
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.87"
+              },
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.40"
+              },
+              {
+                "name": "The Phoenix GT: End of Summer Showdown",
+                "eventId": "dxdECTvyLgQH",
+                "numberOfRounds": 5,
+                "eventDtcScore": "47.59"
+              },
+              {
+                "name": "Sieze of Cerberax",
+                "eventId": "hG0m9IF1u0SD",
+                "numberOfRounds": 3,
+                "eventDtcScore": "4.87"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "25.90"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Space Bolters",
+            "count": 4
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT: End of Summer Showdown",
+            "eventId": "dxdECTvyLgQH",
+            "numberOfRounds": 5,
+            "eventDtcScore": "47.59",
+            "eventHobbyScore": "0.00",
+            "userId": "qhGBzx4W2Wk9",
+            "rank": 45,
+            "army": "Space Marines (Astartes)",
+            "team": "Space Bolters",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "25.90",
+            "eventHobbyScore": "0.00",
+            "userId": "qhGBzx4W2Wk9",
+            "rank": 27,
+            "army": "Space Marines (Astartes)",
+            "team": "Space Bolters",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "7.40",
+            "eventHobbyScore": "0.00",
+            "userId": "qhGBzx4W2Wk9",
+            "rank": 37,
+            "army": "Space Marines (Astartes)",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "4.87",
+            "eventHobbyScore": "0.00",
+            "userId": "qhGBzx4W2Wk9",
+            "rank": 29,
+            "army": "Adeptus Astartes",
+            "team": "Space Bolters",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Sieze of Cerberax",
+            "eventId": "hG0m9IF1u0SD",
+            "numberOfRounds": 3,
+            "eventDtcScore": "4.87",
+            "eventHobbyScore": "0.00",
+            "userId": "qhGBzx4W2Wk9",
+            "rank": 29,
+            "army": "Space Marines (Astartes)",
+            "team": "Space Bolters",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 167,
+        "averageRank": "33.4",
+        "dtcScore": "90.63",
+        "hobbyScore": "0.00",
+        "rank": 79
       },
       {
         "userId": "DgZcYyMrJDnd",
@@ -7079,79 +7663,7 @@
         "averageRank": 8,
         "dtcScore": "90.14",
         "hobbyScore": "0.00",
-        "rank": 76
-      },
-      {
-        "userId": "4AGGGY8HE1",
-        "name": "Thomas Cheylus",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Dark Angels",
-            "count": 1,
-            "score": 38.93,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "38.93"
-              }
-            ]
-          },
-          {
-            "name": "Genestealer Cult",
-            "count": 1,
-            "score": 51.1,
-            "events": [
-              {
-                "name": "Sieze of Cerberax",
-                "eventId": "hG0m9IF1u0SD",
-                "numberOfRounds": 3,
-                "eventDtcScore": "51.10"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Turbo wargaming club",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Sieze of Cerberax",
-            "eventId": "hG0m9IF1u0SD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "51.10",
-            "eventHobbyScore": "0.00",
-            "userId": "4AGGGY8HE1",
-            "rank": 10,
-            "army": "Genestealer Cult",
-            "team": "Turbo wargaming club",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "38.93",
-            "eventHobbyScore": "0.00",
-            "userId": "4AGGGY8HE1",
-            "rank": 15,
-            "army": "Dark Angels",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 3.5,
-        "totalRank": 25,
-        "averageRank": "12.5",
-        "dtcScore": "90.03",
-        "hobbyScore": "0.00",
-        "rank": 77
+        "rank": 80
       },
       {
         "userId": "ZIMEvPWquB",
@@ -7217,7 +7729,7 @@
         "averageRank": "12.5",
         "dtcScore": "90.03",
         "hobbyScore": "0.00",
-        "rank": 78
+        "rank": 81
       },
       {
         "userId": "6BCE6qOwBCzK",
@@ -7282,7 +7794,7 @@
         "averageRank": "31.5",
         "dtcScore": "89.35",
         "hobbyScore": "0.00",
-        "rank": 79
+        "rank": 82
       },
       {
         "userId": "Qf5qwD10ar",
@@ -7329,7 +7841,7 @@
         "averageRank": 20,
         "dtcScore": "87.26",
         "hobbyScore": "0.00",
-        "rank": 80
+        "rank": 83
       },
       {
         "userId": "LP8QYC9584",
@@ -7376,7 +7888,7 @@
         "averageRank": 17,
         "dtcScore": "86.76",
         "hobbyScore": "0.00",
-        "rank": 81
+        "rank": 84
       },
       {
         "userId": "K5MAVVEHKN",
@@ -7468,7 +7980,7 @@
         "averageRank": "29.0",
         "dtcScore": "83.83",
         "hobbyScore": "0.00",
-        "rank": 82
+        "rank": 85
       },
       {
         "userId": "NucPdUkWayzD",
@@ -7515,7 +8027,7 @@
         "averageRank": 23,
         "dtcScore": "82.50",
         "hobbyScore": "0.00",
-        "rank": 83
+        "rank": 86
       },
       {
         "userId": "rzabCbO3PG",
@@ -7581,7 +8093,99 @@
         "averageRank": "12.5",
         "dtcScore": "82.43",
         "hobbyScore": "0.00",
-        "rank": 84
+        "rank": 87
+      },
+      {
+        "userId": "MbjgGMUqFilK",
+        "name": "Thomas van Benthem",
+        "numEvents": 3,
+        "armies": [
+          {
+            "name": "Tyranids",
+            "count": 2,
+            "score": 20.83,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.80"
+              },
+              {
+                "name": "Lost Legion Wargaming 40k RTT",
+                "eventId": "scYs5PagdB5K",
+                "numberOfRounds": 3,
+                "eventDtcScore": "6.03"
+              }
+            ]
+          },
+          {
+            "name": "Unknown",
+            "count": 1,
+            "score": 61.05,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "61.05"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 3
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "61.05",
+            "eventHobbyScore": "0.00",
+            "userId": "MbjgGMUqFilK",
+            "rank": 8,
+            "army": "Unknown",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "14.80",
+            "eventHobbyScore": "0.00",
+            "userId": "MbjgGMUqFilK",
+            "rank": 33,
+            "army": "Tyranids",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Lost Legion Wargaming 40k RTT",
+            "eventId": "scYs5PagdB5K",
+            "numberOfRounds": 3,
+            "eventDtcScore": "6.03",
+            "eventHobbyScore": "1.00",
+            "userId": "MbjgGMUqFilK",
+            "rank": 23,
+            "army": "Tyranids",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 64,
+        "averageRank": "21.3",
+        "dtcScore": "81.88",
+        "hobbyScore": "1.00",
+        "rank": 88
       },
       {
         "userId": "iy5qHPMVmA",
@@ -7654,7 +8258,7 @@
         "averageRank": "33.5",
         "dtcScore": "80.37",
         "hobbyScore": "0.00",
-        "rank": 85
+        "rank": 89
       },
       {
         "userId": "48DY8N0F4H",
@@ -7727,7 +8331,7 @@
         "averageRank": "45.0",
         "dtcScore": "79.30",
         "hobbyScore": "0.00",
-        "rank": 86
+        "rank": 90
       },
       {
         "userId": "KJE6Dm85fVho",
@@ -7838,7 +8442,7 @@
         "averageRank": "37.8",
         "dtcScore": "79.22",
         "hobbyScore": "1.00",
-        "rank": 87
+        "rank": 91
       },
       {
         "userId": "b9ueYmGhOM",
@@ -7885,7 +8489,7 @@
         "averageRank": 27,
         "dtcScore": "76.15",
         "hobbyScore": "0.00",
-        "rank": 88
+        "rank": 92
       },
       {
         "userId": "6GTA5CEUDQ",
@@ -7951,7 +8555,72 @@
         "averageRank": "29.0",
         "dtcScore": "75.93",
         "hobbyScore": "0.00",
-        "rank": 89
+        "rank": 93
+      },
+      {
+        "userId": "UHjx4VQpVT0W",
+        "name": "Engel Funes",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Necrons",
+            "count": 2,
+            "score": 75.85,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "35.15"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "40.70"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Fractured Empire",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "40.70",
+            "eventHobbyScore": "0.00",
+            "userId": "UHjx4VQpVT0W",
+            "rank": 19,
+            "army": "Necrons",
+            "team": "Fractured Empire",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "35.15",
+            "eventHobbyScore": "0.00",
+            "userId": "UHjx4VQpVT0W",
+            "rank": 22,
+            "army": "Necrons",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 41,
+        "averageRank": "20.5",
+        "dtcScore": "75.85",
+        "hobbyScore": "0.00",
+        "rank": 94
       },
       {
         "userId": "T04282ELRF",
@@ -7998,7 +8667,7 @@
         "averageRank": 23,
         "dtcScore": "75.69",
         "hobbyScore": "0.00",
-        "rank": 90
+        "rank": 95
       },
       {
         "userId": "0FA0QL1VPW",
@@ -8057,7 +8726,48 @@
         "averageRank": "18.0",
         "dtcScore": "74.17",
         "hobbyScore": "0.00",
-        "rank": 91
+        "rank": 96
+      },
+      {
+        "userId": "ioGsFcvJzmSU",
+        "name": "Wessel de Gruiter",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Leagues of Votann",
+            "count": 1,
+            "score": 74,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "74.00"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "74.00",
+            "eventHobbyScore": "0.00",
+            "userId": "ioGsFcvJzmSU",
+            "rank": 1,
+            "army": "Leagues of Votann",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 1,
+        "averageRank": 1,
+        "dtcScore": "74.00",
+        "hobbyScore": "0.00",
+        "rank": 97
       },
       {
         "userId": "j1q8untWVm",
@@ -8098,7 +8808,7 @@
         "averageRank": 11,
         "dtcScore": "72.11",
         "hobbyScore": "0.00",
-        "rank": 92
+        "rank": 98
       },
       {
         "userId": "ToXqzUXFkO",
@@ -8139,7 +8849,7 @@
         "averageRank": 3,
         "dtcScore": "70.30",
         "hobbyScore": "0.00",
-        "rank": 93
+        "rank": 99
       },
       {
         "userId": "jYosVyxqo69s",
@@ -8186,44 +8896,38 @@
         "averageRank": 31,
         "dtcScore": "69.81",
         "hobbyScore": "0.00",
-        "rank": 94
+        "rank": 100
       },
       {
-        "userId": "7W945WFPKN",
-        "name": "Quinten Janssen",
+        "userId": "2UAWJD4BK2",
+        "name": "Niels Vermeulen (iDarkneZz)",
         "numEvents": 1,
         "armies": [
           {
-            "name": "World Eaters",
+            "name": "Aeldari",
             "count": 1,
             "score": 68.45,
             "events": [
               {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
                 "numberOfRounds": 3,
                 "eventDtcScore": "68.45"
               }
             ]
           }
         ],
-        "teams": [
-          {
-            "name": "Order of Ones",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
             "numberOfRounds": 3,
             "eventDtcScore": "68.45",
             "eventHobbyScore": "0.00",
-            "userId": "7W945WFPKN",
+            "userId": "2UAWJD4BK2",
             "rank": 4,
-            "army": "World Eaters",
-            "team": "Order of Ones",
+            "army": "Aeldari",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -8233,7 +8937,7 @@
         "averageRank": 4,
         "dtcScore": "68.45",
         "hobbyScore": "0.00",
-        "rank": 95
+        "rank": 101
       },
       {
         "userId": "ef9cVB8uIx",
@@ -8280,7 +8984,7 @@
         "averageRank": 33,
         "dtcScore": "66.63",
         "hobbyScore": "0.00",
-        "rank": 96
+        "rank": 102
       },
       {
         "userId": "VA13NBVK3X",
@@ -8327,7 +9031,7 @@
         "averageRank": 28,
         "dtcScore": "66.46",
         "hobbyScore": "0.00",
-        "rank": 97
+        "rank": 103
       },
       {
         "userId": "6kjWY1FwIs04",
@@ -8374,7 +9078,7 @@
         "averageRank": 3,
         "dtcScore": "66.37",
         "hobbyScore": "0.00",
-        "rank": 98
+        "rank": 104
       },
       {
         "userId": "DwgBLgWQEe",
@@ -8451,110 +9155,7 @@
         "averageRank": "20.5",
         "dtcScore": "66.10",
         "hobbyScore": "0.00",
-        "rank": 99
-      },
-      {
-        "userId": "qhGBzx4W2Wk9",
-        "name": "Nick Vinke",
-        "numEvents": 4,
-        "armies": [
-          {
-            "name": "Adeptus Astartes",
-            "count": 4,
-            "score": 64.73,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "4.87"
-              },
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "7.40"
-              },
-              {
-                "name": "The Phoenix GT: End of Summer Showdown",
-                "eventId": "dxdECTvyLgQH",
-                "numberOfRounds": 5,
-                "eventDtcScore": "47.59"
-              },
-              {
-                "name": "Sieze of Cerberax",
-                "eventId": "hG0m9IF1u0SD",
-                "numberOfRounds": 3,
-                "eventDtcScore": "4.87"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Space Bolters",
-            "count": 3
-          }
-        ],
-        "events": [
-          {
-            "name": "The Phoenix GT: End of Summer Showdown",
-            "eventId": "dxdECTvyLgQH",
-            "numberOfRounds": 5,
-            "eventDtcScore": "47.59",
-            "eventHobbyScore": "0.00",
-            "userId": "qhGBzx4W2Wk9",
-            "rank": 45,
-            "army": "Space Marines (Astartes)",
-            "team": "Space Bolters",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "7.40",
-            "eventHobbyScore": "0.00",
-            "userId": "qhGBzx4W2Wk9",
-            "rank": 37,
-            "army": "Space Marines (Astartes)",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "4.87",
-            "eventHobbyScore": "0.00",
-            "userId": "qhGBzx4W2Wk9",
-            "rank": 29,
-            "army": "Adeptus Astartes",
-            "team": "Space Bolters",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Sieze of Cerberax",
-            "eventId": "hG0m9IF1u0SD",
-            "numberOfRounds": 3,
-            "eventDtcScore": "4.87",
-            "eventHobbyScore": "0.00",
-            "userId": "qhGBzx4W2Wk9",
-            "rank": 29,
-            "army": "Space Marines (Astartes)",
-            "team": "Space Bolters",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 140,
-        "averageRank": "35.0",
-        "dtcScore": "64.73",
-        "hobbyScore": "0.00",
-        "rank": 100
+        "rank": 105
       },
       {
         "userId": "dAPlibmodi",
@@ -8627,7 +9228,73 @@
         "averageRank": "38.0",
         "dtcScore": "64.53",
         "hobbyScore": "0.00",
-        "rank": 101
+        "rank": 106
+      },
+      {
+        "userId": "D8AVB1NECK",
+        "name": "Thom Roijen",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 2,
+            "score": 63.45,
+            "events": [
+              {
+                "name": "The Phoenix GT: End of Summer Showdown",
+                "eventId": "dxdECTvyLgQH",
+                "numberOfRounds": 5,
+                "eventDtcScore": "41.25"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "22.20"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Wargaming aan de Maas",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "The Phoenix GT: End of Summer Showdown",
+            "eventId": "dxdECTvyLgQH",
+            "numberOfRounds": 5,
+            "eventDtcScore": "41.25",
+            "eventHobbyScore": "0.00",
+            "userId": "D8AVB1NECK",
+            "rank": 49,
+            "army": "Blood Angels",
+            "team": "Wargaming aan de Maas",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "22.20",
+            "eventHobbyScore": "0.00",
+            "userId": "D8AVB1NECK",
+            "rank": 29,
+            "army": "Blood Angels",
+            "team": "Wargaming aan de Maas",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 78,
+        "averageRank": "39.0",
+        "dtcScore": "63.45",
+        "hobbyScore": "0.00",
+        "rank": 107
       },
       {
         "userId": "CT9MTXB661",
@@ -8674,7 +9341,7 @@
         "averageRank": 5,
         "dtcScore": "63.27",
         "hobbyScore": "0.00",
-        "rank": 102
+        "rank": 108
       },
       {
         "userId": "YYMJA4J4KG",
@@ -8751,7 +9418,7 @@
         "averageRank": "18.0",
         "dtcScore": "63.27",
         "hobbyScore": "0.00",
-        "rank": 103
+        "rank": 109
       },
       {
         "userId": "18LACHH2VT",
@@ -8798,7 +9465,7 @@
         "averageRank": 5,
         "dtcScore": "63.27",
         "hobbyScore": "0.00",
-        "rank": 104
+        "rank": 110
       },
       {
         "userId": "N1smktFBZpl4",
@@ -8845,7 +9512,7 @@
         "averageRank": 7,
         "dtcScore": "62.90",
         "hobbyScore": "0.00",
-        "rank": 105
+        "rank": 111
       },
       {
         "userId": "zRVqSNtEh2Ux",
@@ -8892,7 +9559,7 @@
         "averageRank": 30,
         "dtcScore": "62.77",
         "hobbyScore": "0.00",
-        "rank": 106
+        "rank": 112
       },
       {
         "userId": "iruZ2z6CwIUF",
@@ -8965,7 +9632,7 @@
         "averageRank": "39.5",
         "dtcScore": "61.92",
         "hobbyScore": "1.00",
-        "rank": 107
+        "rank": 113
       },
       {
         "userId": "R7DVQD3P2T",
@@ -9012,7 +9679,73 @@
         "averageRank": 8,
         "dtcScore": "61.05",
         "hobbyScore": "0.00",
-        "rank": 108
+        "rank": 114
+      },
+      {
+        "userId": "2DEfddlsEo",
+        "name": "Stefan Drexler",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "T'au Empire",
+            "count": 2,
+            "score": 61.05,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "46.25"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "14.80"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "hired guns",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "46.25",
+            "eventHobbyScore": "0.00",
+            "userId": "2DEfddlsEo",
+            "rank": 16,
+            "army": "T'au Empire",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "14.80",
+            "eventHobbyScore": "0.00",
+            "userId": "2DEfddlsEo",
+            "rank": 33,
+            "army": "T'au Empire",
+            "team": "hired guns",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 49,
+        "averageRank": "24.5",
+        "dtcScore": "61.05",
+        "hobbyScore": "0.00",
+        "rank": 115
       },
       {
         "userId": "I9XKFabyXcmj",
@@ -9053,7 +9786,7 @@
         "averageRank": 6,
         "dtcScore": "60.83",
         "hobbyScore": "0.00",
-        "rank": 109
+        "rank": 116
       },
       {
         "userId": "WR8A54KX63",
@@ -9100,7 +9833,73 @@
         "averageRank": 13,
         "dtcScore": "60.09",
         "hobbyScore": "0.00",
-        "rank": 110
+        "rank": 117
+      },
+      {
+        "userId": "QBE4W30CMG",
+        "name": "Keyvan Arian",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Death Guard",
+            "count": 2,
+            "score": 59.2,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "42.55"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "16.65"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Tin Soldiers of Antwerp",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "42.55",
+            "eventHobbyScore": "0.00",
+            "userId": "QBE4W30CMG",
+            "rank": 18,
+            "army": "Death Guard",
+            "team": "Tin Soldiers of Antwerp",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "16.65",
+            "eventHobbyScore": "0.00",
+            "userId": "QBE4W30CMG",
+            "rank": 32,
+            "army": "Death Guard",
+            "team": "Tin Soldiers of Antwerp",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 3,
+        "totalRank": 50,
+        "averageRank": "25.0",
+        "dtcScore": "59.20",
+        "hobbyScore": "0.00",
+        "rank": 118
       },
       {
         "userId": "0017MMPQC1",
@@ -9184,7 +9983,7 @@
         "averageRank": "34.3",
         "dtcScore": "57.79",
         "hobbyScore": "0.00",
-        "rank": 111
+        "rank": 119
       },
       {
         "userId": "NvkOKjD8kO",
@@ -9231,7 +10030,7 @@
         "averageRank": 34,
         "dtcScore": "55.38",
         "hobbyScore": "0.00",
-        "rank": 112
+        "rank": 120
       },
       {
         "userId": "rbcFK8QAyz",
@@ -9278,7 +10077,7 @@
         "averageRank": 7,
         "dtcScore": "54.30",
         "hobbyScore": "0.00",
-        "rank": 113
+        "rank": 121
       },
       {
         "userId": "61t2okJcUl",
@@ -9325,7 +10124,7 @@
         "averageRank": 6,
         "dtcScore": "54.00",
         "hobbyScore": "0.00",
-        "rank": 114
+        "rank": 122
       },
       {
         "userId": "44VG9198MP",
@@ -9372,7 +10171,7 @@
         "averageRank": 41,
         "dtcScore": "53.94",
         "hobbyScore": "0.00",
-        "rank": 115
+        "rank": 123
       },
       {
         "userId": "oAlaJi0kEF",
@@ -9419,23 +10218,29 @@
         "averageRank": 5,
         "dtcScore": "53.70",
         "hobbyScore": "0.00",
-        "rank": 116
+        "rank": 124
       },
       {
-        "userId": "qMHEyRqDHV",
-        "name": "Youri Ommering",
-        "numEvents": 1,
+        "userId": "xXMrG4Pwio3V",
+        "name": "Matthias Bakker",
+        "numEvents": 2,
         "armies": [
           {
-            "name": "Drukhari",
-            "count": 1,
+            "name": "Adepta Sororitas",
+            "count": 2,
             "score": 53.65,
             "events": [
               {
                 "name": "[OE:S] Spring 2026",
                 "eventId": "PpOl7zG0Z8Hc",
                 "numberOfRounds": 3,
-                "eventDtcScore": "53.65"
+                "eventDtcScore": "33.30"
+              },
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "20.35"
               }
             ]
           }
@@ -9443,7 +10248,7 @@
         "teams": [
           {
             "name": "Order of Ones",
-            "count": 1
+            "count": 2
           }
         ],
         "events": [
@@ -9451,22 +10256,76 @@
             "name": "[OE:S] Spring 2026",
             "eventId": "PpOl7zG0Z8Hc",
             "numberOfRounds": 3,
-            "eventDtcScore": "53.65",
+            "eventDtcScore": "33.30",
             "eventHobbyScore": "0.00",
-            "userId": "qMHEyRqDHV",
-            "rank": 12,
-            "army": "Drukhari",
+            "userId": "xXMrG4Pwio3V",
+            "rank": 23,
+            "army": "Adepta Sororitas",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "20.35",
+            "eventHobbyScore": "0.00",
+            "userId": "xXMrG4Pwio3V",
+            "rank": 30,
+            "army": "Adepta Sororitas",
             "team": "Order of Ones",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 2,
-        "totalRank": 12,
-        "averageRank": 12,
+        "totalRank": 53,
+        "averageRank": "26.5",
         "dtcScore": "53.65",
         "hobbyScore": "0.00",
-        "rank": 117
+        "rank": 125
+      },
+      {
+        "userId": "cNqq1wtEvEcN",
+        "name": "Walter Helmons",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Space Wolves",
+            "count": 1,
+            "score": 51.8,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "51.80"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "51.80",
+            "eventHobbyScore": "0.00",
+            "userId": "cNqq1wtEvEcN",
+            "rank": 13,
+            "army": "Space Wolves",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 13,
+        "averageRank": 13,
+        "dtcScore": "51.80",
+        "hobbyScore": "0.00",
+        "rank": 126
       },
       {
         "userId": "RGgTnCpgNT",
@@ -9513,7 +10372,7 @@
         "averageRank": 36,
         "dtcScore": "51.69",
         "hobbyScore": "0.00",
-        "rank": 118
+        "rank": 127
       },
       {
         "userId": "YRn9TWSVMyyr",
@@ -9560,7 +10419,7 @@
         "averageRank": 14,
         "dtcScore": "49.95",
         "hobbyScore": "0.00",
-        "rank": 119
+        "rank": 128
       },
       {
         "userId": "Y7TRY4YWF3",
@@ -9607,7 +10466,7 @@
         "averageRank": 44,
         "dtcScore": "49.18",
         "hobbyScore": "0.00",
-        "rank": 120
+        "rank": 129
       },
       {
         "userId": "tOEZmhghK7a6",
@@ -9673,7 +10532,7 @@
         "averageRank": "21.0",
         "dtcScore": "48.66",
         "hobbyScore": "0.00",
-        "rank": 121
+        "rank": 130
       },
       {
         "userId": "U18LN2U8KL",
@@ -9720,7 +10579,7 @@
         "averageRank": 9,
         "dtcScore": "48.27",
         "hobbyScore": "0.00",
-        "rank": 122
+        "rank": 131
       },
       {
         "userId": "BLB28PKJ5U",
@@ -9805,7 +10664,7 @@
         "averageRank": "33.3",
         "dtcScore": "48.05",
         "hobbyScore": "0.00",
-        "rank": 123
+        "rank": 132
       },
       {
         "userId": "2eizFwsF3W",
@@ -9871,54 +10730,7 @@
         "averageRank": "35.5",
         "dtcScore": "47.76",
         "hobbyScore": "0.00",
-        "rank": 124
-      },
-      {
-        "userId": "2DEfddlsEo",
-        "name": "Stefan Drexler",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "T'au Empire",
-            "count": 1,
-            "score": 46.25,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "46.25"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "hired guns",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "46.25",
-            "eventHobbyScore": "0.00",
-            "userId": "2DEfddlsEo",
-            "rank": 16,
-            "army": "T'au Empire",
-            "team": "hired guns",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 2,
-        "totalRank": 16,
-        "averageRank": 16,
-        "dtcScore": "46.25",
-        "hobbyScore": "0.00",
-        "rank": 125
+        "rank": 133
       },
       {
         "userId": "5HBN1JHN57",
@@ -9965,7 +10777,7 @@
         "averageRank": 39,
         "dtcScore": "46.15",
         "hobbyScore": "0.00",
-        "rank": 126
+        "rank": 134
       },
       {
         "userId": "akC5XJ0wsH",
@@ -10006,7 +10818,7 @@
         "averageRank": 46,
         "dtcScore": "46.01",
         "hobbyScore": "0.00",
-        "rank": 127
+        "rank": 135
       },
       {
         "userId": "vqfBEl1otT",
@@ -10053,7 +10865,7 @@
         "averageRank": 9,
         "dtcScore": "45.95",
         "hobbyScore": "5.00",
-        "rank": 128
+        "rank": 136
       },
       {
         "userId": "3UYu9j00Jz",
@@ -10100,7 +10912,7 @@
         "averageRank": 10,
         "dtcScore": "45.25",
         "hobbyScore": "0.00",
-        "rank": 129
+        "rank": 137
       },
       {
         "userId": "4E49XU78GH",
@@ -10147,7 +10959,7 @@
         "averageRank": 7,
         "dtcScore": "44.75",
         "hobbyScore": "0.00",
-        "rank": 130
+        "rank": 138
       },
       {
         "userId": "6eVpJ13hfVwH",
@@ -10194,7 +11006,80 @@
         "averageRank": 17,
         "dtcScore": "44.40",
         "hobbyScore": "0.00",
-        "rank": 131
+        "rank": 139
+      },
+      {
+        "userId": "NTTWVH5KNC",
+        "name": "Eldert Swemmer",
+        "numEvents": 2,
+        "armies": [
+          {
+            "name": "Emperor's Children",
+            "count": 1,
+            "score": 20.35,
+            "events": [
+              {
+                "name": "[OE:S] Spring 2026",
+                "eventId": "PpOl7zG0Z8Hc",
+                "numberOfRounds": 3,
+                "eventDtcScore": "20.35"
+              }
+            ]
+          },
+          {
+            "name": "Adepta Sororitas",
+            "count": 1,
+            "score": 24.05,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "24.05"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 2
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "24.05",
+            "eventHobbyScore": "0.00",
+            "userId": "NTTWVH5KNC",
+            "rank": 28,
+            "army": "Adepta Sororitas",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "[OE:S] Spring 2026",
+            "eventId": "PpOl7zG0Z8Hc",
+            "numberOfRounds": 3,
+            "eventDtcScore": "20.35",
+            "eventHobbyScore": "0.00",
+            "userId": "NTTWVH5KNC",
+            "rank": 30,
+            "army": "Emperor's Children",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 2,
+        "totalRank": 58,
+        "averageRank": "29.0",
+        "dtcScore": "44.40",
+        "hobbyScore": "0.00",
+        "rank": 140
       },
       {
         "userId": "VWpUwLvhY6ML",
@@ -10235,7 +11120,7 @@
         "averageRank": 13,
         "dtcScore": "43.80",
         "hobbyScore": "0.00",
-        "rank": 132
+        "rank": 141
       },
       {
         "userId": "mDFcqPld5A",
@@ -10282,7 +11167,7 @@
         "averageRank": 9,
         "dtcScore": "43.20",
         "hobbyScore": "0.00",
-        "rank": 133
+        "rank": 142
       },
       {
         "userId": "JKHTXU22UQ",
@@ -10348,7 +11233,7 @@
         "averageRank": "15.5",
         "dtcScore": "42.98",
         "hobbyScore": "0.00",
-        "rank": 134
+        "rank": 143
       },
       {
         "userId": "O1DJGS7rVZM1",
@@ -10395,7 +11280,7 @@
         "averageRank": 48,
         "dtcScore": "42.84",
         "hobbyScore": "0.00",
-        "rank": 135
+        "rank": 144
       },
       {
         "userId": "4UYF9M5N4J",
@@ -10442,21 +11327,21 @@
         "averageRank": 10,
         "dtcScore": "42.66",
         "hobbyScore": "0.00",
-        "rank": 136
+        "rank": 145
       },
       {
-        "userId": "QBE4W30CMG",
-        "name": "Keyvan Arian",
+        "userId": "2wi4mercIL",
+        "name": "Bertjan Wanders",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Death Guard",
+            "name": "Adeptus Custodes",
             "count": 1,
             "score": 42.55,
             "events": [
               {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
                 "numberOfRounds": 3,
                 "eventDtcScore": "42.55"
               }
@@ -10465,21 +11350,21 @@
         ],
         "teams": [
           {
-            "name": "Tin Soldiers of Antwerp",
+            "name": "Hammertime Oss",
             "count": 1
           }
         ],
         "events": [
           {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
             "numberOfRounds": 3,
             "eventDtcScore": "42.55",
             "eventHobbyScore": "0.00",
-            "userId": "QBE4W30CMG",
+            "userId": "2wi4mercIL",
             "rank": 18,
-            "army": "Death Guard",
-            "team": "Tin Soldiers of Antwerp",
+            "army": "Adeptus Custodes",
+            "team": "Hammertime Oss",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -10489,7 +11374,7 @@
         "averageRank": 18,
         "dtcScore": "42.55",
         "hobbyScore": "0.00",
-        "rank": 137
+        "rank": 146
       },
       {
         "userId": "nsWAsQLyy9",
@@ -10536,7 +11421,7 @@
         "averageRank": 41,
         "dtcScore": "42.46",
         "hobbyScore": "0.00",
-        "rank": 138
+        "rank": 147
       },
       {
         "userId": "fOQUt2qkaz",
@@ -10583,7 +11468,7 @@
         "averageRank": 11,
         "dtcScore": "42.23",
         "hobbyScore": "0.00",
-        "rank": 139
+        "rank": 148
       },
       {
         "userId": "z3fjX7GSOXu7",
@@ -10656,54 +11541,80 @@
         "averageRank": "19.0",
         "dtcScore": "42.14",
         "hobbyScore": "0.00",
-        "rank": 140
+        "rank": 149
       },
       {
-        "userId": "D8AVB1NECK",
-        "name": "Thom Roijen",
-        "numEvents": 1,
+        "userId": "gIWAfvx1PgRX",
+        "name": "Daniel Custodio",
+        "numEvents": 2,
         "armies": [
           {
-            "name": "Blood Angels",
+            "name": "Leagues of Votann",
             "count": 1,
-            "score": 41.25,
+            "score": 2.43,
             "events": [
               {
-                "name": "The Phoenix GT: End of Summer Showdown",
-                "eventId": "dxdECTvyLgQH",
-                "numberOfRounds": 5,
-                "eventDtcScore": "41.25"
+                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+                "eventId": "88OpQWEdwuFA",
+                "numberOfRounds": 3,
+                "eventDtcScore": "2.43"
+              }
+            ]
+          },
+          {
+            "name": "World Eaters",
+            "count": 1,
+            "score": 38.85,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "38.85"
               }
             ]
           }
         ],
         "teams": [
           {
-            "name": "Wargaming aan de Maas",
-            "count": 1
+            "name": "Turbo wargaming club",
+            "count": 2
           }
         ],
         "events": [
           {
-            "name": "The Phoenix GT: End of Summer Showdown",
-            "eventId": "dxdECTvyLgQH",
-            "numberOfRounds": 5,
-            "eventDtcScore": "41.25",
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "38.85",
             "eventHobbyScore": "0.00",
-            "userId": "D8AVB1NECK",
-            "rank": 49,
-            "army": "Blood Angels",
-            "team": "Wargaming aan de Maas",
+            "userId": "gIWAfvx1PgRX",
+            "rank": 20,
+            "army": "World Eaters",
+            "team": "Turbo wargaming club",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          },
+          {
+            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
+            "eventId": "88OpQWEdwuFA",
+            "numberOfRounds": 3,
+            "eventDtcScore": "2.43",
+            "eventHobbyScore": "0.00",
+            "userId": "gIWAfvx1PgRX",
+            "rank": 30,
+            "army": "Leagues of Votann",
+            "team": "Turbo wargaming club",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
         ],
         "numWins": 2,
-        "totalRank": 49,
-        "averageRank": 49,
-        "dtcScore": "41.25",
+        "totalRank": 50,
+        "averageRank": "25.0",
+        "dtcScore": "41.28",
         "hobbyScore": "0.00",
-        "rank": 141
+        "rank": 150
       },
       {
         "userId": "WGRF908PRQ",
@@ -10776,7 +11687,7 @@
         "averageRank": "39.0",
         "dtcScore": "40.64",
         "hobbyScore": "0.00",
-        "rank": 142
+        "rank": 151
       },
       {
         "userId": "CHs5slNJ1F",
@@ -10817,7 +11728,7 @@
         "averageRank": 10,
         "dtcScore": "39.60",
         "hobbyScore": "0.00",
-        "rank": 143
+        "rank": 152
       },
       {
         "userId": "aQ6yS4eAiy",
@@ -10883,7 +11794,7 @@
         "averageRank": "41.5",
         "dtcScore": "38.75",
         "hobbyScore": "0.00",
-        "rank": 144
+        "rank": 153
       },
       {
         "userId": "KaUtA6jSKUj3",
@@ -10930,7 +11841,48 @@
         "averageRank": 51,
         "dtcScore": "38.08",
         "hobbyScore": "0.00",
-        "rank": 145
+        "rank": 154
+      },
+      {
+        "userId": "TsKv8DtE9kNn",
+        "name": "Hans van der Werf",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 37,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "37.00"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "37.00",
+            "eventHobbyScore": "0.00",
+            "userId": "TsKv8DtE9kNn",
+            "rank": 21,
+            "army": "Adeptus Astartes",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 21,
+        "averageRank": 21,
+        "dtcScore": "37.00",
+        "hobbyScore": "0.00",
+        "rank": 155
       },
       {
         "userId": "W97DTG5KMM",
@@ -10977,7 +11929,7 @@
         "averageRank": 44,
         "dtcScore": "36.92",
         "hobbyScore": "0.00",
-        "rank": 146
+        "rank": 156
       },
       {
         "userId": "9162VQDY64",
@@ -11024,7 +11976,7 @@
         "averageRank": 13,
         "dtcScore": "36.20",
         "hobbyScore": "0.00",
-        "rank": 147
+        "rank": 157
       },
       {
         "userId": "CaLnU6ybkA",
@@ -11071,21 +12023,21 @@
         "averageRank": 9,
         "dtcScore": "35.80",
         "hobbyScore": "0.00",
-        "rank": 148
+        "rank": 158
       },
       {
-        "userId": "UHjx4VQpVT0W",
-        "name": "Engel Funes",
+        "userId": "NoszkIL0oj",
+        "name": "Rick Stallen",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Necrons",
+            "name": "Tyranids",
             "count": 1,
             "score": 35.15,
             "events": [
               {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
                 "numberOfRounds": 3,
                 "eventDtcScore": "35.15"
               }
@@ -11095,14 +12047,14 @@
         "teams": [],
         "events": [
           {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
             "numberOfRounds": 3,
             "eventDtcScore": "35.15",
             "eventHobbyScore": "0.00",
-            "userId": "UHjx4VQpVT0W",
+            "userId": "NoszkIL0oj",
             "rank": 22,
-            "army": "Necrons",
+            "army": "Tyranids",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -11112,7 +12064,7 @@
         "averageRank": 22,
         "dtcScore": "35.15",
         "hobbyScore": "0.00",
-        "rank": 149
+        "rank": 159
       },
       {
         "userId": "2BPXVXRWUN",
@@ -11159,7 +12111,7 @@
         "averageRank": 53,
         "dtcScore": "34.90",
         "hobbyScore": "0.00",
-        "rank": 150
+        "rank": 160
       },
       {
         "userId": "F7leATbFXzpf",
@@ -11206,44 +12158,38 @@
         "averageRank": 54,
         "dtcScore": "33.32",
         "hobbyScore": "0.00",
-        "rank": 151
+        "rank": 161
       },
       {
-        "userId": "xXMrG4Pwio3V",
-        "name": "Matthias Bakker",
+        "userId": "0WD9BP3LK1",
+        "name": "Mike Sas",
         "numEvents": 1,
         "armies": [
           {
-            "name": "Adepta Sororitas",
+            "name": "Chaos Knights",
             "count": 1,
             "score": 33.3,
             "events": [
               {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
                 "numberOfRounds": 3,
                 "eventDtcScore": "33.30"
               }
             ]
           }
         ],
-        "teams": [
-          {
-            "name": "Order of Ones",
-            "count": 1
-          }
-        ],
+        "teams": [],
         "events": [
           {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
             "numberOfRounds": 3,
             "eventDtcScore": "33.30",
             "eventHobbyScore": "0.00",
-            "userId": "xXMrG4Pwio3V",
+            "userId": "0WD9BP3LK1",
             "rank": 23,
-            "army": "Adepta Sororitas",
-            "team": "Order of Ones",
+            "army": "Chaos Knights",
             "usedForRankings": true,
             "usedForHobbyRankings": true
           }
@@ -11253,7 +12199,7 @@
         "averageRank": 23,
         "dtcScore": "33.30",
         "hobbyScore": "0.00",
-        "rank": 152
+        "rank": 162
       },
       {
         "userId": "13EN95VQPU",
@@ -11300,7 +12246,7 @@
         "averageRank": 46,
         "dtcScore": "33.23",
         "hobbyScore": "3.00",
-        "rank": 153
+        "rank": 163
       },
       {
         "userId": "WB5G3VLK60",
@@ -11347,7 +12293,7 @@
         "averageRank": 14,
         "dtcScore": "33.18",
         "hobbyScore": "0.00",
-        "rank": 154
+        "rank": 164
       },
       {
         "userId": "iKEL7fZbuQQt",
@@ -11406,7 +12352,7 @@
         "averageRank": "28.5",
         "dtcScore": "32.42",
         "hobbyScore": "0.00",
-        "rank": 155
+        "rank": 165
       },
       {
         "userId": "f6vUmsHLNv",
@@ -11453,7 +12399,7 @@
         "averageRank": 12,
         "dtcScore": "32.40",
         "hobbyScore": "1.00",
-        "rank": 156
+        "rank": 166
       },
       {
         "userId": "9S216FQeKvs9",
@@ -11500,7 +12446,7 @@
         "averageRank": 55,
         "dtcScore": "31.73",
         "hobbyScore": "0.00",
-        "rank": 157
+        "rank": 167
       },
       {
         "userId": "VSLQaQfKMEj7",
@@ -11566,7 +12512,7 @@
         "averageRank": "48.5",
         "dtcScore": "31.72",
         "hobbyScore": "0.00",
-        "rank": 158
+        "rank": 168
       },
       {
         "userId": "lZfSqe4Y0IGS",
@@ -11607,7 +12553,7 @@
         "averageRank": 10,
         "dtcScore": "31.32",
         "hobbyScore": "0.00",
-        "rank": 159
+        "rank": 169
       },
       {
         "userId": "jc7G1n9P3cNN",
@@ -11672,7 +12618,7 @@
         "averageRank": "40.5",
         "dtcScore": "30.36",
         "hobbyScore": "0.00",
-        "rank": 160
+        "rank": 170
       },
       {
         "userId": "X3XDkB0qni",
@@ -11719,7 +12665,7 @@
         "averageRank": 15,
         "dtcScore": "30.17",
         "hobbyScore": "0.00",
-        "rank": 161
+        "rank": 171
       },
       {
         "userId": "XN2D2WBTH9",
@@ -11766,7 +12712,54 @@
         "averageRank": 56,
         "dtcScore": "30.14",
         "hobbyScore": "0.00",
-        "rank": 162
+        "rank": 172
+      },
+      {
+        "userId": "86zB0BVMWX4s",
+        "name": "Ruben Groenewegen van der Weijden",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Dark Angels",
+            "count": 1,
+            "score": 29.6,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "29.60"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Blades of the Emperor",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "29.60",
+            "eventHobbyScore": "0.00",
+            "userId": "86zB0BVMWX4s",
+            "rank": 25,
+            "army": "Dark Angels",
+            "team": "Blades of the Emperor",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 25,
+        "averageRank": 25,
+        "dtcScore": "29.60",
+        "hobbyScore": "0.00",
+        "rank": 173
       },
       {
         "userId": "V92QAWWUQ7",
@@ -11813,7 +12806,7 @@
         "averageRank": 48,
         "dtcScore": "29.54",
         "hobbyScore": "0.00",
-        "rank": 163
+        "rank": 174
       },
       {
         "userId": "CihR0If8Th8v",
@@ -11854,7 +12847,7 @@
         "averageRank": 19,
         "dtcScore": "29.20",
         "hobbyScore": "0.00",
-        "rank": 164
+        "rank": 175
       },
       {
         "userId": "eH9WnmBVOSGm",
@@ -11901,7 +12894,48 @@
         "averageRank": 57,
         "dtcScore": "28.56",
         "hobbyScore": "0.00",
-        "rank": 165
+        "rank": 176
+      },
+      {
+        "userId": "23UUFiRZDJtH",
+        "name": "jaap van der meer",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 27.75,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "27.75"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "27.75",
+            "eventHobbyScore": "0.00",
+            "userId": "23UUFiRZDJtH",
+            "rank": 26,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 26,
+        "averageRank": 26,
+        "dtcScore": "27.75",
+        "hobbyScore": "0.00",
+        "rank": 177
       },
       {
         "userId": "mk6dT44n7q3o",
@@ -11942,7 +12976,7 @@
         "averageRank": 11,
         "dtcScore": "26.85",
         "hobbyScore": "0.00",
-        "rank": 166
+        "rank": 178
       },
       {
         "userId": "8L41BG5K90",
@@ -11989,7 +13023,7 @@
         "averageRank": 20,
         "dtcScore": "26.77",
         "hobbyScore": "0.00",
-        "rank": 167
+        "rank": 179
       },
       {
         "userId": "nPfLbCAykPOD",
@@ -12030,7 +13064,7 @@
         "averageRank": 20,
         "dtcScore": "26.77",
         "hobbyScore": "0.00",
-        "rank": 168
+        "rank": 180
       },
       {
         "userId": "9WDN03KDPR",
@@ -12077,7 +13111,7 @@
         "averageRank": 15,
         "dtcScore": "26.25",
         "hobbyScore": "0.00",
-        "rank": 169
+        "rank": 181
       },
       {
         "userId": "NkjhsVr6Jl",
@@ -12124,7 +13158,7 @@
         "averageRank": 50,
         "dtcScore": "25.84",
         "hobbyScore": "0.00",
-        "rank": 170
+        "rank": 182
       },
       {
         "userId": "PhCB5Cs7YH3o",
@@ -12171,7 +13205,7 @@
         "averageRank": 14,
         "dtcScore": "25.20",
         "hobbyScore": "0.00",
-        "rank": 171
+        "rank": 183
       },
       {
         "userId": "CKoC6Khxompo",
@@ -12218,7 +13252,7 @@
         "averageRank": 14,
         "dtcScore": "25.20",
         "hobbyScore": "0.00",
-        "rank": 172
+        "rank": 184
       },
       {
         "userId": "72NCAEEUG3",
@@ -12303,7 +13337,7 @@
         "averageRank": "20.0",
         "dtcScore": "24.62",
         "hobbyScore": "2.00",
-        "rank": 173
+        "rank": 185
       },
       {
         "userId": "W3zjZVcovdG6",
@@ -12344,7 +13378,7 @@
         "averageRank": 21,
         "dtcScore": "24.33",
         "hobbyScore": "0.00",
-        "rank": 174
+        "rank": 186
       },
       {
         "userId": "Bsd79VdSYN",
@@ -12391,7 +13425,7 @@
         "averageRank": 17,
         "dtcScore": "24.13",
         "hobbyScore": "0.00",
-        "rank": 175
+        "rank": 187
       },
       {
         "userId": "DP5X65B26U",
@@ -12438,7 +13472,7 @@
         "averageRank": 17,
         "dtcScore": "24.13",
         "hobbyScore": "0.00",
-        "rank": 176
+        "rank": 188
       },
       {
         "userId": "GjKOIqx1nz",
@@ -12485,7 +13519,7 @@
         "averageRank": 29,
         "dtcScore": "22.20",
         "hobbyScore": "0.00",
-        "rank": 177
+        "rank": 189
       },
       {
         "userId": "D6N1EGERER",
@@ -12532,7 +13566,7 @@
         "averageRank": 22,
         "dtcScore": "21.90",
         "hobbyScore": "0.00",
-        "rank": 178
+        "rank": 190
       },
       {
         "userId": "BYXUUNPEL4",
@@ -12579,73 +13613,7 @@
         "averageRank": 18,
         "dtcScore": "21.12",
         "hobbyScore": "0.00",
-        "rank": 179
-      },
-      {
-        "userId": "MbjgGMUqFilK",
-        "name": "Thomas van Benthem",
-        "numEvents": 2,
-        "armies": [
-          {
-            "name": "Tyranids",
-            "count": 2,
-            "score": 20.83,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "14.80"
-              },
-              {
-                "name": "Lost Legion Wargaming 40k RTT",
-                "eventId": "scYs5PagdB5K",
-                "numberOfRounds": 3,
-                "eventDtcScore": "6.03"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Order of Ones",
-            "count": 2
-          }
-        ],
-        "events": [
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "14.80",
-            "eventHobbyScore": "0.00",
-            "userId": "MbjgGMUqFilK",
-            "rank": 33,
-            "army": "Tyranids",
-            "team": "Order of Ones",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          },
-          {
-            "name": "Lost Legion Wargaming 40k RTT",
-            "eventId": "scYs5PagdB5K",
-            "numberOfRounds": 3,
-            "eventDtcScore": "6.03",
-            "eventHobbyScore": "1.00",
-            "userId": "MbjgGMUqFilK",
-            "rank": 23,
-            "army": "Tyranids",
-            "team": "Order of Ones",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 56,
-        "averageRank": "28.0",
-        "dtcScore": "20.83",
-        "hobbyScore": "1.00",
-        "rank": 180
+        "rank": 191
       },
       {
         "userId": "PTgIIEf2U7",
@@ -12710,54 +13678,7 @@
         "averageRank": "39.5",
         "dtcScore": "20.80",
         "hobbyScore": "0.00",
-        "rank": 181
-      },
-      {
-        "userId": "NTTWVH5KNC",
-        "name": "Eldert Swemmer",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Emperor's Children",
-            "count": 1,
-            "score": 20.35,
-            "events": [
-              {
-                "name": "[OE:S] Spring 2026",
-                "eventId": "PpOl7zG0Z8Hc",
-                "numberOfRounds": 3,
-                "eventDtcScore": "20.35"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Order of Ones",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "[OE:S] Spring 2026",
-            "eventId": "PpOl7zG0Z8Hc",
-            "numberOfRounds": 3,
-            "eventDtcScore": "20.35",
-            "eventHobbyScore": "0.00",
-            "userId": "NTTWVH5KNC",
-            "rank": 30,
-            "army": "Emperor's Children",
-            "team": "Order of Ones",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 1,
-        "totalRank": 30,
-        "averageRank": 30,
-        "dtcScore": "20.35",
-        "hobbyScore": "0.00",
-        "rank": 182
+        "rank": 192
       },
       {
         "userId": "lp8ZzEFgYDqV",
@@ -12798,7 +13719,7 @@
         "averageRank": 17,
         "dtcScore": "19.69",
         "hobbyScore": "5.00",
-        "rank": 183
+        "rank": 193
       },
       {
         "userId": "BqvcqiEDCWue",
@@ -12839,7 +13760,7 @@
         "averageRank": 19,
         "dtcScore": "18.10",
         "hobbyScore": "0.00",
-        "rank": 184
+        "rank": 194
       },
       {
         "userId": "CZz3lUpxKh",
@@ -12886,7 +13807,7 @@
         "averageRank": 16,
         "dtcScore": "18.00",
         "hobbyScore": "0.00",
-        "rank": 185
+        "rank": 195
       },
       {
         "userId": "UEE17HPY8C",
@@ -12933,7 +13854,7 @@
         "averageRank": 32,
         "dtcScore": "16.65",
         "hobbyScore": "0.00",
-        "rank": 186
+        "rank": 196
       },
       {
         "userId": "TQ04G1ANKC",
@@ -12980,7 +13901,7 @@
         "averageRank": 55,
         "dtcScore": "16.61",
         "hobbyScore": "0.00",
-        "rank": 187
+        "rank": 197
       },
       {
         "userId": "hKzEZuW2HO",
@@ -13027,7 +13948,7 @@
         "averageRank": 20,
         "dtcScore": "15.08",
         "hobbyScore": "3.00",
-        "rank": 188
+        "rank": 198
       },
       {
         "userId": "fmGDFJgokShe",
@@ -13068,7 +13989,7 @@
         "averageRank": 25,
         "dtcScore": "14.60",
         "hobbyScore": "0.00",
-        "rank": 189
+        "rank": 199
       },
       {
         "userId": "5AaBvsqswDJe",
@@ -13109,7 +14030,7 @@
         "averageRank": 25,
         "dtcScore": "14.60",
         "hobbyScore": "0.00",
-        "rank": 190
+        "rank": 200
       },
       {
         "userId": "AMMLW31QTV",
@@ -13182,7 +14103,7 @@
         "averageRank": "20.0",
         "dtcScore": "13.45",
         "hobbyScore": "0.00",
-        "rank": 191
+        "rank": 201
       },
       {
         "userId": "0Qxqew5eIcql",
@@ -13223,7 +14144,7 @@
         "averageRank": 14,
         "dtcScore": "13.42",
         "hobbyScore": "0.00",
-        "rank": 192
+        "rank": 202
       },
       {
         "userId": "Nq7WqlykQWpQ",
@@ -13264,7 +14185,48 @@
         "averageRank": 19,
         "dtcScore": "13.13",
         "hobbyScore": "0.00",
-        "rank": 193
+        "rank": 203
+      },
+      {
+        "userId": "lBT69fezWmar",
+        "name": "James Kay",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Drukhari",
+            "count": 1,
+            "score": 12.95,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "12.95"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "12.95",
+            "eventHobbyScore": "0.00",
+            "userId": "lBT69fezWmar",
+            "rank": 34,
+            "army": "Drukhari",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 34,
+        "averageRank": 34,
+        "dtcScore": "12.95",
+        "hobbyScore": "0.00",
+        "rank": 204
       },
       {
         "userId": "L9ENNV6P84",
@@ -13311,7 +14273,7 @@
         "averageRank": 57,
         "dtcScore": "12.92",
         "hobbyScore": "0.00",
-        "rank": 194
+        "rank": 205
       },
       {
         "userId": "wOfUwtWljPlI",
@@ -13352,7 +14314,7 @@
         "averageRank": 26,
         "dtcScore": "12.17",
         "hobbyScore": "0.00",
-        "rank": 195
+        "rank": 206
       },
       {
         "userId": "KG4JN44VQ7",
@@ -13399,7 +14361,7 @@
         "averageRank": 26,
         "dtcScore": "12.17",
         "hobbyScore": "0.00",
-        "rank": 196
+        "rank": 207
       },
       {
         "userId": "EtUqtfzfnjna",
@@ -13458,7 +14420,7 @@
         "averageRank": "66.0",
         "dtcScore": "12.14",
         "hobbyScore": "0.00",
-        "rank": 197
+        "rank": 208
       },
       {
         "userId": "IaodDBRsVbfP",
@@ -13505,7 +14467,7 @@
         "averageRank": 21,
         "dtcScore": "12.07",
         "hobbyScore": "0.00",
-        "rank": 198
+        "rank": 209
       },
       {
         "userId": "yNvCWMm1gz",
@@ -13552,7 +14514,7 @@
         "averageRank": 21,
         "dtcScore": "12.02",
         "hobbyScore": "0.00",
-        "rank": 199
+        "rank": 210
       },
       {
         "userId": "o2epwoAOyvVj",
@@ -13625,7 +14587,7 @@
         "averageRank": "33.0",
         "dtcScore": "11.68",
         "hobbyScore": "0.00",
-        "rank": 200
+        "rank": 211
       },
       {
         "userId": "DrZy8MS6X46p",
@@ -13672,7 +14634,48 @@
         "averageRank": 68,
         "dtcScore": "11.11",
         "hobbyScore": "0.00",
-        "rank": 201
+        "rank": 212
+      },
+      {
+        "userId": "dvDlKjJu8Yem",
+        "name": "Ernst-Jan Boer",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 11.1,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "11.10"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "11.10",
+            "eventHobbyScore": "0.00",
+            "userId": "dvDlKjJu8Yem",
+            "rank": 35,
+            "army": "Adeptus Astartes",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 1,
+        "totalRank": 35,
+        "averageRank": 35,
+        "dtcScore": "11.10",
+        "hobbyScore": "0.00",
+        "rank": 213
       },
       {
         "userId": "HE7UB31UV7",
@@ -13713,7 +14716,7 @@
         "averageRank": 18,
         "dtcScore": "10.80",
         "hobbyScore": "0.00",
-        "rank": 202
+        "rank": 214
       },
       {
         "userId": "abU1tEmMwCeI",
@@ -13760,7 +14763,54 @@
         "averageRank": 27,
         "dtcScore": "9.73",
         "hobbyScore": "0.00",
-        "rank": 203
+        "rank": 215
+      },
+      {
+        "userId": "km5h6YdjnNMq",
+        "name": "Almar Baron van Uppel",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Adeptus Astartes",
+            "count": 1,
+            "score": 9.25,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "9.25"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "9.25",
+            "eventHobbyScore": "0.00",
+            "userId": "km5h6YdjnNMq",
+            "rank": 36,
+            "army": "Adeptus Astartes",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 36,
+        "averageRank": 36,
+        "dtcScore": "9.25",
+        "hobbyScore": "0.00",
+        "rank": 216
       },
       {
         "userId": "0YJ8QK2CDK",
@@ -13807,7 +14857,7 @@
         "averageRank": 59,
         "dtcScore": "9.23",
         "hobbyScore": "0.00",
-        "rank": 204
+        "rank": 217
       },
       {
         "userId": "FCA6686R95",
@@ -13854,7 +14904,7 @@
         "averageRank": 22,
         "dtcScore": "9.05",
         "hobbyScore": "0.00",
-        "rank": 205
+        "rank": 218
       },
       {
         "userId": "rLJFY0arGU",
@@ -13901,7 +14951,7 @@
         "averageRank": 22,
         "dtcScore": "9.05",
         "hobbyScore": "0.00",
-        "rank": 206
+        "rank": 219
       },
       {
         "userId": "6ElFaPuI4TJ4",
@@ -13942,7 +14992,7 @@
         "averageRank": 22,
         "dtcScore": "9.05",
         "hobbyScore": "0.00",
-        "rank": 207
+        "rank": 220
       },
       {
         "userId": "pXQyCB0xiqJG",
@@ -13983,7 +15033,7 @@
         "averageRank": 15,
         "dtcScore": "8.95",
         "hobbyScore": "0.00",
-        "rank": 208
+        "rank": 221
       },
       {
         "userId": "HrvKDM0jK6",
@@ -14024,7 +15074,54 @@
         "averageRank": 70,
         "dtcScore": "7.93",
         "hobbyScore": "0.00",
-        "rank": 209
+        "rank": 222
+      },
+      {
+        "userId": "AgXFlhWaE7Fx",
+        "name": "Cas Wittenberg",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Blood Angels",
+            "count": 1,
+            "score": 7.4,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "7.40"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Hammertime Oss",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "7.40",
+            "eventHobbyScore": "0.00",
+            "userId": "AgXFlhWaE7Fx",
+            "rank": 37,
+            "army": "Blood Angels",
+            "team": "Hammertime Oss",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 37,
+        "averageRank": 37,
+        "dtcScore": "7.40",
+        "hobbyScore": "0.00",
+        "rank": 223
       },
       {
         "userId": "2AguD8ilkpej",
@@ -14065,7 +15162,7 @@
         "averageRank": 28,
         "dtcScore": "7.30",
         "hobbyScore": "0.00",
-        "rank": 210
+        "rank": 224
       },
       {
         "userId": "7R35THCV43",
@@ -14112,7 +15209,7 @@
         "averageRank": 19,
         "dtcScore": "7.20",
         "hobbyScore": "0.00",
-        "rank": 211
+        "rank": 225
       },
       {
         "userId": "cShLO2GHnIMk",
@@ -14171,7 +15268,7 @@
         "averageRank": "23.0",
         "dtcScore": "6.30",
         "hobbyScore": "0.00",
-        "rank": 212
+        "rank": 226
       },
       {
         "userId": "Q9CKZAF7Bh",
@@ -14218,7 +15315,7 @@
         "averageRank": 23,
         "dtcScore": "6.03",
         "hobbyScore": "0.00",
-        "rank": 213
+        "rank": 227
       },
       {
         "userId": "4q8LJfdpiGy2",
@@ -14259,7 +15356,7 @@
         "averageRank": 22,
         "dtcScore": "6.01",
         "hobbyScore": "0.00",
-        "rank": 214
+        "rank": 228
       },
       {
         "userId": "BaPjUBIrJxrI",
@@ -14306,7 +15403,54 @@
         "averageRank": 38,
         "dtcScore": "5.55",
         "hobbyScore": "0.00",
-        "rank": 215
+        "rank": 229
+      },
+      {
+        "userId": "SRjWdxDInyu6",
+        "name": "Bas van Dijk",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Orks",
+            "count": 1,
+            "score": 5.55,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "5.55"
+              }
+            ]
+          }
+        ],
+        "teams": [
+          {
+            "name": "Order of Ones",
+            "count": 1
+          }
+        ],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "5.55",
+            "eventHobbyScore": "0.00",
+            "userId": "SRjWdxDInyu6",
+            "rank": 38,
+            "army": "Orks",
+            "team": "Order of Ones",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 38,
+        "averageRank": 38,
+        "dtcScore": "5.55",
+        "hobbyScore": "0.00",
+        "rank": 230
       },
       {
         "userId": "8AJFV8V17W",
@@ -14347,7 +15491,7 @@
         "averageRank": 61,
         "dtcScore": "5.54",
         "hobbyScore": "0.00",
-        "rank": 216
+        "rank": 231
       },
       {
         "userId": "NVY3JKG5MW",
@@ -14394,7 +15538,48 @@
         "averageRank": 16,
         "dtcScore": "4.47",
         "hobbyScore": "0.00",
-        "rank": 217
+        "rank": 232
+      },
+      {
+        "userId": "U959OEPneaAs",
+        "name": "Ayoub Lamdaghri",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "Astra Militarum",
+            "count": 1,
+            "score": 3.7,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "3.70"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "3.70",
+            "eventHobbyScore": "0.00",
+            "userId": "U959OEPneaAs",
+            "rank": 39,
+            "army": "Astra Militarum",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 39,
+        "averageRank": 39,
+        "dtcScore": "3.70",
+        "hobbyScore": "0.00",
+        "rank": 233
       },
       {
         "userId": "ow2zFlOyiz",
@@ -14435,54 +15620,7 @@
         "averageRank": 73,
         "dtcScore": "3.17",
         "hobbyScore": "1.00",
-        "rank": 218
-      },
-      {
-        "userId": "gIWAfvx1PgRX",
-        "name": "Daniel Custodio",
-        "numEvents": 1,
-        "armies": [
-          {
-            "name": "Leagues of Votann",
-            "count": 1,
-            "score": 2.43,
-            "events": [
-              {
-                "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-                "eventId": "88OpQWEdwuFA",
-                "numberOfRounds": 3,
-                "eventDtcScore": "2.43"
-              }
-            ]
-          }
-        ],
-        "teams": [
-          {
-            "name": "Turbo wargaming club",
-            "count": 1
-          }
-        ],
-        "events": [
-          {
-            "name": "Bloodstorm.nl - Eye of Terror - 04-04-2026",
-            "eventId": "88OpQWEdwuFA",
-            "numberOfRounds": 3,
-            "eventDtcScore": "2.43",
-            "eventHobbyScore": "0.00",
-            "userId": "gIWAfvx1PgRX",
-            "rank": 30,
-            "army": "Leagues of Votann",
-            "team": "Turbo wargaming club",
-            "usedForRankings": true,
-            "usedForHobbyRankings": true
-          }
-        ],
-        "numWins": 0,
-        "totalRank": 30,
-        "averageRank": 30,
-        "dtcScore": "2.43",
-        "hobbyScore": "0.00",
-        "rank": 219
+        "rank": 234
       },
       {
         "userId": "9YDM6RMUGT",
@@ -14529,7 +15667,7 @@
         "averageRank": 40,
         "dtcScore": "1.85",
         "hobbyScore": "0.00",
-        "rank": 220
+        "rank": 235
       },
       {
         "userId": "ytLe6rcOcDD7",
@@ -14576,7 +15714,48 @@
         "averageRank": 63,
         "dtcScore": "1.85",
         "hobbyScore": "0.00",
-        "rank": 221
+        "rank": 236
+      },
+      {
+        "userId": "GqttOV51Hap3",
+        "name": "Robbert  Boer",
+        "numEvents": 1,
+        "armies": [
+          {
+            "name": "World Eaters",
+            "count": 1,
+            "score": 1.85,
+            "events": [
+              {
+                "name": "[OE:S] Fall 2026",
+                "eventId": "wAZhCje3KOR1",
+                "numberOfRounds": 3,
+                "eventDtcScore": "1.85"
+              }
+            ]
+          }
+        ],
+        "teams": [],
+        "events": [
+          {
+            "name": "[OE:S] Fall 2026",
+            "eventId": "wAZhCje3KOR1",
+            "numberOfRounds": 3,
+            "eventDtcScore": "1.85",
+            "eventHobbyScore": "0.00",
+            "userId": "GqttOV51Hap3",
+            "rank": 40,
+            "army": "World Eaters",
+            "usedForRankings": true,
+            "usedForHobbyRankings": true
+          }
+        ],
+        "numWins": 0,
+        "totalRank": 40,
+        "averageRank": 40,
+        "dtcScore": "1.85",
+        "hobbyScore": "0.00",
+        "rank": 237
       }
     ]
   },
